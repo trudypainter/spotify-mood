@@ -14,11 +14,13 @@ from datetime import timedelta
 
 import pandas as pd
 
+import os
+
 
 # ## spotify auth flow
 
 # In[2]:
-
+print(datetime.now())
 
 cid ="1c7e8aed94914da78a7b264590d7fc21" 
 secret = "c2113b0c6e3543d282adb8c61e4abede"
@@ -27,6 +29,8 @@ redirect_uri="http://localhost:3000"
 
 client_credentials_manager = SpotifyClientCredentials(client_id=cid, client_secret=secret) 
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
+
+print("Auth happening...")
 
 scope = 'user-read-recently-played'
 token = util.prompt_for_user_token(username,scope,cid,secret,redirect_uri)
@@ -44,13 +48,14 @@ else:
 
 # In[11]:
 
-
+print("Getting songs")
 recent_songs = sp.current_user_recently_played()
 
 count = 0
 track_ids = []
 mood_avgs = []
 
+print("Creating dataframe...")
 #creating data frame to add to the csv
 song_dict = {'image':[],
     'song_name': [],
@@ -103,10 +108,18 @@ for song in recent_songs["items"]:
 df = pd.DataFrame.from_dict(song_dict,orient='index').transpose()
 #reorder rows to time
 df = df.iloc[::-1]
-filename = "daily-data/" + datetime.now().strftime('%Y-%m-%d/')[:10] + ".csv"
-df.to_csv(filename, mode = 'a', header = False, index = False)
 
+filename = "~/Desktop/personal-projects/spotify-mood/daily-data/" + datetime.now().strftime('%Y-%m-%d/')[:10] + ".csv"
 
+try:
+    df.to_csv(filename, mode = 'a', header = False, index = False)
+except:
+    command = 'touch ' + filename
+    os.system(command)  
+    df.to_csv(filename, mode = 'a', header = False, index = False)
+
+print("Rows: ", len(df.index))
+print("Saved!\n")
 # In[ ]:
 
 
