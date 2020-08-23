@@ -120,7 +120,10 @@ except:
 
 print("Rows: ", len(df.index))
 print("Saved!\n")
-# In[ ]:
+
+os.system("git add .")
+os.system("git commit -m 'updating daily data'")
+os.system("git push")
 
 
 
