@@ -121,9 +121,10 @@ except:
 print("Rows: ", len(df.index))
 print("Saved!\n")
 
-os.system("git add .")
-os.system("git commit -m 'updating daily data'")
-os.system("git push")
+#push to github
+os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood add .")
+os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood commit -m 'updating daily data'")
+os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood push")
 
 
 
