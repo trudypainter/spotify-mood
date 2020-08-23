@@ -1405,3 +1405,12 @@ Creating dataframe...
 Rows:  15
 Saved!
 
+[master 0140d66] updating daily data
+ 3 files changed, 29 insertions(+), 3 deletions(-)
+2020-08-23 12:00:02.357912
+Auth happening...
+Getting songs
+Creating dataframe...
+Rows:  3
+Saved!
+
