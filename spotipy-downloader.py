@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 import spotipy
 import spotipy.util as util
 sp = spotipy.Spotify() 
@@ -16,10 +13,15 @@ import pandas as pd
 
 import os
 
+def push_to_github():
+    #push to github
+    os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood add .")
+    os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood commit -m 'updating daily data'")
+    os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood push")
+    print("Pushed to github.\n")
 
 # ## spotify auth flow
 
-# In[2]:
 print(datetime.now())
 
 cid ="1c7e8aed94914da78a7b264590d7fc21" 
@@ -45,8 +47,6 @@ else:
 #     - name, id, time played
 # 2. filter for UNINDEXED songs from TODAY
 #     - script will run every hour and add new entries to a csv for the date
-
-# In[11]:
 
 print("Getting songs")
 recent_songs = sp.current_user_recently_played()
@@ -120,11 +120,8 @@ except:
 
 print("Rows: ", len(df.index))
 print("Saved!\n")
+push_to_github()
 
-#push to github
-os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood add .")
-os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood commit -m 'updating daily data'")
-os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood push")
 
 
 
