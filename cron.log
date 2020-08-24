@@ -56,3 +56,12 @@ README.md
 cron.log
 daily-data
 spotipy-downloader.py
+2020-08-24 18:57:59.408336
+Auth happening...
+Getting songs
+Creating dataframe...
+Rows:  14
+Saved!
+
+Pushed to github.
+
