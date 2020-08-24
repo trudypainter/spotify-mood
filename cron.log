@@ -401,3 +401,15 @@ Cmd('git') failed due to: exit code(128)
   stderr: 'fatal: could not read Username for 'https://github.com': Device not configured'
 Some error occured while pushing the code
 
+2020-08-24 10:45:01.125042
+Auth happening...
+Getting songs
+Creating dataframe...
+Rows:  16
+Saved!
+
+Cmd('git') failed due to: exit code(128)
+  cmdline: git push --porcelain origin
+  stderr: 'fatal: could not read Username for 'https://github.com': Device not configured'
+Some error occured while pushing the code
+
