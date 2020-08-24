@@ -43,6 +43,7 @@ def push_to_github():
 
         print("Pushed to github.\n")
     except Exception as e:
+        print(e)
         print('Some error occured while pushing the code\n')
 
 # ## spotify auth flow
