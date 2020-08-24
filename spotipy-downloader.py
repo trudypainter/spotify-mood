@@ -13,11 +13,20 @@ import pandas as pd
 
 import os
 
+
+from git import Repo,remote
+
+
 def push_to_github():
     #push to github
     os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood add .")
     os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood commit -m 'updating daily data'")
     os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood push")
+    # rw_dir = '/Users/tpainter/Desktop/personal-projects/spotify-mood'
+    # repo = Repo(rw_dir)
+    # origin = repo.remote(name='origin')
+    # origin.push()
+    
     print("Pushed to github.\n")
 
 # ## spotify auth flow
@@ -71,7 +80,10 @@ song_dict = {'image':[],
 for song in recent_songs["items"]:
     
     #break out of loop if the song was not played in the last hour
-    time_played = datetime.strptime(song["played_at"],"%Y-%m-%dT%H:%M:%S.%fZ")
+    try:
+        time_played = datetime.strptime(song["played_at"],"%Y-%m-%dT%H:%M:%S.%fZ")
+    except:
+        pass        
     time_elapsed = time_played - datetime.now() 
     if time_elapsed < timedelta(hours=3, minutes=1):
         break
