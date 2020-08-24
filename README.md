@@ -2,4 +2,4 @@
 
 python script cron job on my mac set to run every hour - and log to cron.log
 
-[music.trudy.computer]
+(check out the flask site)[music.trudy.computer]
