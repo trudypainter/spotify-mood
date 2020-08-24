@@ -35,6 +35,7 @@ def push_to_github():
     # git("commit -m 'adding daily data'")
     # git("push -u origin master")
     try:
+        cd(dir_name)
         repo = Repo(dir_name)
         repo.git.add(update=True)
         repo.index.commit('updating daiy data')
