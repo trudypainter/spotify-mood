@@ -52,3 +52,7 @@ Please make sure you have the correct access rights
 and the repository exists.'
 Some error occured while pushing the code
 
+README.md
+cron.log
+daily-data
+spotipy-downloader.py
