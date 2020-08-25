@@ -21,7 +21,7 @@ def push_to_github():
     #push to github
 
     os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood add .")
-    os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood commit -m 'updating daily data os'")
+    os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood commit -m 'updating daily data "+ str(datetime.now())+ "'")
     os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood push")
 
     # rw_dir = '/Users/tpainter/Desktop/personal-projects/spotify-mood'
@@ -34,7 +34,7 @@ def push_to_github():
     # git("add")
     # git("commit -m 'adding daily data'")
     # git("push -u origin master")
-    
+
     # try:
     #     cd(dir_name)
     #     repo = Repo(dir_name)

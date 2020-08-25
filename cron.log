@@ -218,3 +218,19 @@ Saved!
 
 Pushed to github.
 
+[master bf4030b] updating daily data os
+ 1 file changed, 3 insertions(+)
+2020-08-25 10:14:25.087022
+Auth happening...
+Getting songs
+Creating dataframe...
+Rows:  3
+Saved!
+
+2020-08-25 10:16:03.055164
+Auth happening...
+Getting songs
+Creating dataframe...
+Rows:  3
+Saved!
+
