@@ -20,9 +20,9 @@ from git import Repo,remote
 def push_to_github():
     #push to github
 
-    # os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood add .")
-    # os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood commit -m 'updating daily data'")
-    # os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood push")
+    os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood add .")
+    os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood commit -m 'updating daily data os'")
+    os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood push")
 
     # rw_dir = '/Users/tpainter/Desktop/personal-projects/spotify-mood'
     # repo = Repo(rw_dir)
@@ -34,18 +34,19 @@ def push_to_github():
     # git("add")
     # git("commit -m 'adding daily data'")
     # git("push -u origin master")
-    try:
-        cd(dir_name)
-        repo = Repo(dir_name)
-        repo.git.add(up=True)
-        repo.index.commit('updating daiy data')
-        origin = repo.remote(name='origin')
-        origin.push()
+    
+    # try:
+    #     cd(dir_name)
+    #     repo = Repo(dir_name)
+    #     repo.git.add(up=True)
+    #     repo.index.commit('updating daiy data')
+    #     origin = repo.remote(name='origin')
+    #     origin.push()
 
-        print("Pushed to github.\n")
-    except Exception as e:
-        print(e)
-        print('Some error occured while pushing the code\n')
+    #     print("Pushed to github.\n")
+    # except Exception as e:
+    #     print(e)
+    #     print('Some error occured while pushing the code\n')
 
 # ## spotify auth flow
 
