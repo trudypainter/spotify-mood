@@ -37,7 +37,7 @@ def push_to_github():
     try:
         cd(dir_name)
         repo = Repo(dir_name)
-        repo.git.add(update=True)
+        repo.git.add(up=True)
         repo.index.commit('updating daiy data')
         origin = repo.remote(name='origin')
         origin.push()
