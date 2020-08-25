@@ -252,3 +252,12 @@ Creating dataframe...
 Rows:  4
 Saved!
 
+[master fb94cc7] updating daily data 2020-08-25 11:00:03.037167
+ 2 files changed, 26 insertions(+)
+2020-08-25 11:00:01.695396
+Auth happening...
+Getting songs
+Creating dataframe...
+Rows:  17
+Saved!
+
