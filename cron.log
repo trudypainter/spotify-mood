@@ -351,3 +351,13 @@ Creating dataframe...
 Rows:  13
 Saved!
 
+[master 62dd5ff] updating daily data 2020-08-25 21:00:02.507686
+ 3 files changed, 13 insertions(+), 1 deletion(-)
+ rewrite .cache-trudypaintet (72%)
+2020-08-25 21:00:01.868471
+Auth happening...
+Getting songs
+Creating dataframe...
+Rows:  2
+Saved!
+
