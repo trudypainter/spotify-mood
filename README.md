@@ -1,6 +1,10 @@
-# repo for spotify data collection on myself
+# SPOTIFY MOOD COLLECTOR
 
-python script cron job on my mac set to run every hour - and log to cron.log
+I wanted to find a way to document myself with no extra daily effort. Spotify's API has ~mood~ indexes for songs, so I made a website to practice data collection/visualization and full stack web development.
 
-[check out the flask site](http://music.trudy.computer)
-🚧 ALL STILL UNDER HUGE CONSTRUCTION🚧 
+![Image of spotify project](spotifymoodoverview.png)
+
+[check out project site](http://music.trudy.computer)
+
+you can also see all the csvs in the daily data folder
+
