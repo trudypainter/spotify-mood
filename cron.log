@@ -874,3 +874,12 @@ Creating dataframe...
 Rows:  0
 Saved!
 
+[master 3b4fd60] updating daily data 2020-08-28 13:00:01.937318
+ 2 files changed, 12 insertions(+)
+2020-08-28 13:00:01.489083
+Auth happening...
+Getting songs
+Creating dataframe...
+Rows:  2
+Saved!
+
