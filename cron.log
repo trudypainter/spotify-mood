@@ -972,3 +972,13 @@ Creating dataframe...
 Rows:  0
 Saved!
 
+[master 359a864] updating daily data 2020-08-28 23:00:02.172315
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+ rewrite .cache-trudypaintet (72%)
+2020-08-28 23:00:01.779289
+Auth happening...
+Getting songs
+Creating dataframe...
+Rows:  0
+Saved!
+
