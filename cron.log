@@ -1294,3 +1294,15 @@ Dark & Handsome
 Rows:  0
 Saved!
 
+[master ba572c7] updating daily data 2020-08-31 00:00:06.081355
+ 3 files changed, 12 insertions(+), 1 deletion(-)
+ rewrite .cache-trudypaintet (72%)
+ create mode 100644 daily-data/2020-08-31.csv
+2020-08-31 00:00:05.000176
+Auth happening...
+Getting songs
+Creating dataframe...
+Dark & Handsome
+Rows:  0
+Saved!
+
