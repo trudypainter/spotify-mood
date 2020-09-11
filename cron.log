@@ -4551,3 +4551,14 @@ Softly
 Rows:  3
 Saved!
 
+[master 788d5bb] updating daily data 2020-09-11 09:00:02.865264
+ 2 files changed, 15 insertions(+), 1 deletion(-)
+ rewrite .cache-trudypaintet (72%)
+2020-09-11 09:00:02.387531
+Auth happening...
+Getting songs
+Creating dataframe...
+Impossible
+Rows:  0
+Saved!
+
