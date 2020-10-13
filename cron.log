@@ -12297,3 +12297,15 @@ A Lot's Gonna Change
 Rows:  3
 Saved!
 
+[master ac8dc3a] updating daily data 2020-10-13 00:00:01.500186
+ 3 files changed, 15 insertions(+), 1 deletion(-)
+ rewrite .cache-trudypaintet (72%)
+ create mode 100644 daily-data/2020-10-13.csv
+2020-10-13 00:00:00.826632
+Auth happening...
+Getting songs
+Creating dataframe...
+Without You
+Rows:  0
+Saved!
+
