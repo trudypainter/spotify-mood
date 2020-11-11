@@ -4,7 +4,7 @@ I wanted to find a way to document myself with no extra daily effort. Spotify's 
 
 ![Image of spotify project](spotifymoodoverview.png)
 
-[check out project site](http://music.trudy.computer)
+[check out project site](http://trudy.tube)
 
 you can also see all the csvs in the daily data folder
 
