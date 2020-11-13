@@ -22065,3 +22065,16 @@ Sister
 Rows:  0
 Saved!
 
+[master 4aefd48] updating daily data 2020-11-13 14:00:02.534234
+ 4 files changed, 64 insertions(+), 1 deletion(-)
+ rewrite .cache-trudypaintet (72%)
+ create mode 100644 .ipynb_checkpoints/Untitled-checkpoint.ipynb
+ create mode 100644 Untitled.ipynb
+2020-11-13 14:00:01.865684
+Auth happening...
+Getting songs
+Creating dataframe...
+Sister
+Rows:  0
+Saved!
+
