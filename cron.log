@@ -24552,3 +24552,15 @@ Overdue (with Travis Scott)
 Rows:  15
 Saved!
 
+[master ca153cc] updating daily data 2020-11-21 00:00:02.649930
+ 3 files changed, 27 insertions(+), 1 deletion(-)
+ rewrite .cache-trudypaintet (72%)
+ create mode 100644 daily-data/2020-11-21.csv
+2020-11-21 00:00:02.177990
+Auth happening...
+Getting songs
+Creating dataframe...
+Don't Come Out The House (with 21 Savage)
+Rows:  0
+Saved!
+
