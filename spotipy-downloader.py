@@ -116,24 +116,28 @@ for song in recent_songs["items"]:
     count+=1
     
     features = sp.audio_features(song["track"]["id"])
-    valence = float(features[0]["valence"])
-    dance = float(features[0]["danceability"])
-    energy = float(features[0]["energy"])
-    avg = (valence*0.4) + (dance*0.4) + (energy*0.2)
-    mood_avgs.append(avg)
+    try:
+        valence = float(features[0]["valence"])
+        dance = float(features[0]["danceability"])
+        energy = float(features[0]["energy"])
+        avg = (valence*0.4) + (dance*0.4) + (energy*0.2)
+        mood_avgs.append(avg)
     
     
-    #adding songs to dictionary to be put into dataframe
-    song_dict['image'].append(song['track']['album']['images'][0]['url'])
-    song_dict['song_name'].append(song["track"]["name"])
-    song_dict['album_name'].append(song["track"]["album"]["name"])
-    song_dict['artist_name'].append(song["track"]["artists"][0]["name"])
-    song_dict['track_id'].append(song["track"]["id"])
-    song_dict['played_at'].append(readable_time)
-    song_dict['valence'].append(valence)
-    song_dict['danceability'].append(dance)
-    song_dict['energy'].append(energy)
-    song_dict['mood_avg'].append(round(avg, 3))
+    
+        #adding songs to dictionary to be put into dataframe
+        song_dict['image'].append(song['track']['album']['images'][0]['url'])
+        song_dict['song_name'].append(song["track"]["name"])
+        song_dict['album_name'].append(song["track"]["album"]["name"])
+        song_dict['artist_name'].append(song["track"]["artists"][0]["name"])
+        song_dict['track_id'].append(song["track"]["id"])
+        song_dict['played_at'].append(readable_time)
+        song_dict['valence'].append(valence)
+        song_dict['danceability'].append(dance)
+        song_dict['energy'].append(energy)
+        song_dict['mood_avg'].append(round(avg, 3))
+    except:
+        pass
 
 
 #add spotify data to csv
