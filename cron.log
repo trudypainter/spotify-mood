@@ -24896,3 +24896,28 @@ Red River
 Rows:  23
 Saved!
 
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+	modified:   flask-spotipy [NOT HOSTED ON GITHUB] (modified content)
+
+no changes added to commit
+2020-12-01 17:03:12.250539
+Auth happening...
+Getting songs
+Creating dataframe...
+Top (feat. Pi'erre Bourne)
+@ MEH
+Location
+Pull Up
+Crumbs
+Other Shit
+wokeuplikethis*
+Long Time - Intro
+Choppa Won't Miss (feat. Young Thug)
+No Time (feat. Gunna)
+Bigger Than Me
+('Rows: ', 0)
+Saved!
+
