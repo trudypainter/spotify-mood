@@ -24991,3 +24991,14 @@ Top (feat. Pi'erre Bourne)
 ('Rows: ', 0)
 Saved!
 
+[master 34b92a4] updating daily data 2020-12-02 00:00:08.973114
+ 3 files changed, 11 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2020-12-02.csv
+2020-12-02 00:00:08.139689
+Auth happening...
+Getting songs
+Creating dataframe...
+Top (feat. Pi'erre Bourne)
+('Rows: ', 0)
+Saved!
+
