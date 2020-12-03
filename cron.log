@@ -25295,3 +25295,13 @@ Potato Salad
 ('Rows: ', 0)
 Saved!
 
+[master 2dcdb04] updating daily data 2020-12-03 08:00:03.938452
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+2020-12-03 08:00:03.369032
+Auth happening...
+Getting songs
+Creating dataframe...
+Potato Salad
+('Rows: ', 0)
+Saved!
+
