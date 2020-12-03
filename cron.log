@@ -25264,3 +25264,14 @@ Questions (feat. NiiON)
 ('Rows: ', 0)
 Saved!
 
+[master 1dae240] updating daily data 2020-12-03 05:00:39.693947
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2020-12-03.csv
+2020-12-03 05:00:37.763728
+Auth happening...
+Getting songs
+Creating dataframe...
+Potato Salad
+('Rows: ', 0)
+Saved!
+
