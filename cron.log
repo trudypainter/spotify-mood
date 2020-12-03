@@ -25345,3 +25345,13 @@ Ghost Ride
 ('Rows: ', 0)
 Saved!
 
+[master d325c1a] updating daily data 2020-12-03 13:00:04.480811
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+2020-12-03 13:00:03.745945
+Auth happening...
+Getting songs
+Creating dataframe...
+Ghost Ride
+('Rows: ', 0)
+Saved!
+
