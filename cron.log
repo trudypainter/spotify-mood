@@ -26514,3 +26514,31 @@ Don't Miss It
 ('Rows: ', 12)
 Saved!
 
+[master 892b3f0] updating daily data 2020-12-06 17:00:05.576337
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+2020-12-06 17:00:03.882518
+Auth happening...
+Getting songs
+Creating dataframe...
+Punisher
+Moon Song
+DVD Menu
+Kyoto
+Graceland Too
+Halloween
+I Know The End
+Chinese Satellite
+ICU
+Kyoto
+Power
+Sword
+Dumb Driver
+Power
+Sword
+Dumb Driver
+Power
+Hood Baby
+Don't Miss It
+('Rows: ', 18)
+Saved!
+
