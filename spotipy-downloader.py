@@ -86,10 +86,11 @@ mood_avgs = []
 print("Creating dataframe...")
 #creating data frame to add to the csv
 song_dict = {'image':[],
-    'song_name': [],
-             'album_name':[],
+        'song_name': [],
+        'album_name':[],
         'artist_name': [],
         'track_id':[],
+
         'played_at':[],
         'valence':[],
         'danceability':[],
@@ -144,6 +145,9 @@ for song in recent_songs["items"]:
 df = pd.DataFrame.from_dict(song_dict, orient='index').transpose()
 #reorder rows to time
 df = df.iloc[::-1]
+#reorder the columns to make csv compatible for flask
+cols = df.columns.to_list()
+cols = cols[5:] + cols[:5] 
 
 filename = "~/Desktop/personal-projects/spotify-mood/daily-data/" + datetime.now().strftime('%Y-%m-%d/')[:10] + ".csv"
 
