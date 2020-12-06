@@ -154,6 +154,8 @@ except:
     os.system(command)  
     df.to_csv(filename, mode = 'a', header = False, index = False)
 
+print(df)
+
 print("Rows: ", len(df.index))
 print("Saved!\n")
 push_to_github()
