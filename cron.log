@@ -26327,3 +26327,13 @@ King
 ('Rows: ', 0)
 Saved!
 
+[master 0668ee3] updating daily data 2020-12-06 09:00:07.755415
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+2020-12-06 09:00:07.210384
+Auth happening...
+Getting songs
+Creating dataframe...
+King
+('Rows: ', 0)
+Saved!
+
