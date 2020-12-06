@@ -106,6 +106,7 @@ for song in recent_songs["items"]:
         pass        
     time_elapsed = time_played - datetime.now() 
     if time_elapsed < timedelta(hours=3, minutes=1):
+        print('about to break bc of time')
         break
     
     #spotify has weird hours/time zone going on
@@ -141,7 +142,6 @@ for song in recent_songs["items"]:
 
 
 #add spotify data to csv
-print(song_dict)
 df = pd.DataFrame.from_dict(song_dict, orient='index').transpose()
 #reorder rows to time
 df = df.iloc[::-1]
