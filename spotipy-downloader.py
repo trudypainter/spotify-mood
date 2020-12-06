@@ -116,7 +116,7 @@ for song in recent_songs["items"]:
     count+=1
     
     features = sp.audio_features(song["track"]["id"])
-    print(features)
+    print(song["track"]["id"], features)
     try:
         valence = float(features[0]["valence"])
         dance = float(features[0]["danceability"])
@@ -125,7 +125,6 @@ for song in recent_songs["items"]:
         mood_avgs.append(avg)
     
         #adding songs to dictionary to be put into dataframe
-        print(song['track']['album']['images'][0]['url'])
         song_dict['image'].append(song['track']['album']['images'][0]['url'])
         song_dict['song_name'].append(song["track"]["name"])
         song_dict['album_name'].append(song["track"]["album"]["name"])
