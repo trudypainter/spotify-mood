@@ -115,7 +115,7 @@ for song in recent_songs["items"]:
     
     count+=1
     
-    features = sp.audio_features(song["track"]["id"])
+    features = sp.audio_features(str(song["track"]["id"]))
     print(str(song["track"]["id"]), features)
     try:
         valence = float(features[0]["valence"])
