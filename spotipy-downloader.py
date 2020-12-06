@@ -148,6 +148,7 @@ df = df.iloc[::-1]
 #reorder the columns to make csv compatible for flask
 cols = df.columns.to_list()
 cols = cols[5:] + cols[:5] 
+df = df[cols]
 
 filename = "~/Desktop/personal-projects/spotify-mood/daily-data/" + datetime.now().strftime('%Y-%m-%d/')[:10] + ".csv"
 
