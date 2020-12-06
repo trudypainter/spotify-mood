@@ -141,7 +141,7 @@ for song in recent_songs["items"]:
 
 
 #add spotify data to csv
-df = pd.DataFrame.from_dict(song_dict, orient='index').transpose()
+df = pd.DataFrame.from_dict(song_dict, orient='index')
 #reorder rows to time
 df = df.iloc[::-1]
 
