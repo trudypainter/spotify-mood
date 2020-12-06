@@ -106,7 +106,6 @@ for song in recent_songs["items"]:
         pass        
     time_elapsed = time_played - datetime.now() 
     if time_elapsed < timedelta(hours=3, minutes=1):
-        print('about to break bc of time')
         break
     
     #spotify has weird hours/time zone going on
@@ -124,8 +123,6 @@ for song in recent_songs["items"]:
         avg = (valence*0.4) + (dance*0.4) + (energy*0.2)
         mood_avgs.append(avg)
     
-    
-    
         #adding songs to dictionary to be put into dataframe
         song_dict['image'].append(song['track']['album']['images'][0]['url'])
         song_dict['song_name'].append(song["track"]["name"])
@@ -138,6 +135,7 @@ for song in recent_songs["items"]:
         song_dict['energy'].append(energy)
         song_dict['mood_avg'].append(round(avg, 3))
     except:
+        print('**ERROR adding ', song["track"]["name"])
         pass
 
 
