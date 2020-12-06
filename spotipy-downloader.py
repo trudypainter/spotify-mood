@@ -124,6 +124,7 @@ for song in recent_songs["items"]:
         mood_avgs.append(avg)
     
         #adding songs to dictionary to be put into dataframe
+        print(ong['track']['album']['images'][0]['url'])
         song_dict['image'].append(song['track']['album']['images'][0]['url'])
         song_dict['song_name'].append(song["track"]["name"])
         song_dict['album_name'].append(song["track"]["album"]["name"])
