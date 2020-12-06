@@ -116,6 +116,7 @@ for song in recent_songs["items"]:
     count+=1
     
     features = sp.audio_features(song["track"]["id"])
+    print(features)
     try:
         valence = float(features[0]["valence"])
         dance = float(features[0]["danceability"])
