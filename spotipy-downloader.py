@@ -134,8 +134,9 @@ for song in recent_songs["items"]:
         song_dict['danceability'].append(dance)
         song_dict['energy'].append(energy)
         song_dict['mood_avg'].append(round(avg, 3))
-    except:
+    except Exception as err:
         print('**ERROR adding ', song["track"]["name"])
+        print(err)
         pass
 
 
