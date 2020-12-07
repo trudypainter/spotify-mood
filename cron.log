@@ -26576,3 +26576,34 @@ ICU
 ('Rows: ', 24)
 Saved!
 
+[master 9ad8a97] updating daily data 2020-12-06 19:00:14.411173
+ 3 files changed, 56 insertions(+), 1 deletion(-)
+2020-12-06 19:00:12.385753
+Auth happening...
+Getting songs
+Creating dataframe...
+Moon Song
+ICU
+DVD Menu
+Kyoto
+Graceland Too
+Halloween
+I Know The End
+Chinese Satellite
+ICU
+Garden Song
+Savior Complex
+Punisher
+Moon Song
+DVD Menu
+Kyoto
+Graceland Too
+Halloween
+I Know The End
+Chinese Satellite
+ICU
+Garden Song
+Savior Complex
+('Rows: ', 21)
+Saved!
+
