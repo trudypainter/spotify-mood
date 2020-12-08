@@ -27139,3 +27139,23 @@ NO. 9
 ('Rows: ', 26)
 Saved!
 
+[master 7defb77] updating daily data 2020-12-08 00:00:05.764823
+ 3 files changed, 46 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2020-12-08.csv
+2020-12-08 00:00:04.614924
+Auth happening...
+Getting songs
+Creating dataframe...
+Jodye
+Fashion Killa
+Phoenix
+Goldie
+Hell (feat. Santigold)
+Wild for the Night (feat. Skrillex & Birdy Nam Nam)
+Suddenly
+Purple Swag REMIX (feat. Bun B, Paul Wall & Killa Kyleon)
+I Come Apart (feat. Florence Welch)
+F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)
+('Rows: ', 9)
+Saved!
+
