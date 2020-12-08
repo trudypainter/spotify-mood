@@ -27256,3 +27256,31 @@ Jodye
 ('Rows: ', 7)
 Saved!
 
+[master 03c402e] updating daily data 2020-12-08 10:00:05.961242
+ 3 files changed, 31 insertions(+), 1 deletion(-)
+2020-12-08 10:00:04.414025
+Auth happening...
+Getting songs
+Creating dataframe...
+Jason
+Runner
+Haze
+In A Good Way
+I Love Sloane
+Sore Spores
+Split Stones
+My First Ghost
+Asteroid Blues
+Nothing Could Be Better
+Knagg
+High For This
+Old Money
+Jodye
+('Rows: ', 13)
+Saved!
+
+2020-12-08 11:00:08.309100
+Auth happening...
+Getting songs
+Creating dataframe...
+I Know The End
