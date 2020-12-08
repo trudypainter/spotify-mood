@@ -27239,3 +27239,20 @@ Jodye
 ('Rows: ', 0)
 Saved!
 
+[master d6c7064] updating daily data 2020-12-08 09:00:05.358910
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2020-12-08 09:00:03.703947
+Auth happening...
+Getting songs
+Creating dataframe...
+Split Stones
+My First Ghost
+Asteroid Blues
+Nothing Could Be Better
+Knagg
+High For This
+Old Money
+Jodye
+('Rows: ', 7)
+Saved!
+
