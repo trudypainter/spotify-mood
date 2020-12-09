@@ -27481,3 +27481,14 @@ Cranes in the Sky
 ('Rows: ', 0)
 Saved!
 
+[master 7d7fd95] updating daily data 2020-12-09 00:00:04.611477
+ 3 files changed, 11 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2020-12-09.csv
+2020-12-09 00:00:04.063312
+Auth happening...
+Getting songs
+Creating dataframe...
+Cranes in the Sky
+('Rows: ', 0)
+Saved!
+
