@@ -27810,3 +27810,14 @@ Pony
 Feel It (feat. Theophilus London)
 Choppa Won't Miss (feat. Young Thug)
 Mixed Personalities (feat. Kanye West)
+[master b4f20b8] updating daily data 2020-12-10 01:00:06.401379
+ 3 files changed, 105 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2020-12-10.csv
+2020-12-10 01:00:05.835815
+Auth happening...
+Getting songs
+Creating dataframe...
+The London (feat. J. Cole & Travis Scott)
+('Rows: ', 0)
+Saved!
+
