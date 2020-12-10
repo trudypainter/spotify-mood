@@ -27986,3 +27986,17 @@ Like this
 ('Rows: ', 0)
 Saved!
 
+[master 3f3a969] updating daily data 2020-12-10 17:00:06.228118
+ 3 files changed, 15 insertions(+), 1 deletion(-)
+2020-12-10 17:00:05.333334
+Auth happening...
+Getting songs
+Creating dataframe...
+Space Cadet (feat. Gunna)
+Skateboard P (feat. Big Sean)
+Back To Back
+Big Rings
+Like this
+('Rows: ', 4)
+Saved!
+
