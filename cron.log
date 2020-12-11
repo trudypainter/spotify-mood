@@ -28063,3 +28063,14 @@ Space Cadet (feat. Gunna)
 ('Rows: ', 0)
 Saved!
 
+[master e431fd0] updating daily data 2020-12-11 00:00:04.266989
+ 3 files changed, 11 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2020-12-11.csv
+2020-12-11 00:00:03.762900
+Auth happening...
+Getting songs
+Creating dataframe...
+Space Cadet (feat. Gunna)
+('Rows: ', 0)
+Saved!
+
