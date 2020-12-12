@@ -28355,3 +28355,14 @@ Cream - Radio Edit
 ('Rows: ', 0)
 Saved!
 
+[master e38ee68] updating daily data 2020-12-12 00:00:03.733509
+ 3 files changed, 11 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2020-12-12.csv
+2020-12-12 00:00:03.220674
+Auth happening...
+Getting songs
+Creating dataframe...
+Cream - Radio Edit
+('Rows: ', 0)
+Saved!
+
