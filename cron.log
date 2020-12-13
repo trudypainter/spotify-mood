@@ -28673,3 +28673,13 @@ Fatalist
 ('Rows: ', 0)
 Saved!
 
+[master 79895e9] updating daily data 2020-12-12 23:00:03.847664
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+2020-12-12 23:00:03.318864
+Auth happening...
+Getting songs
+Creating dataframe...
+Fatalist
+('Rows: ', 0)
+Saved!
+
