@@ -28683,3 +28683,14 @@ Fatalist
 ('Rows: ', 0)
 Saved!
 
+[master 0abbec9] updating daily data 2020-12-13 00:00:03.020728
+ 3 files changed, 11 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2020-12-13.csv
+2020-12-13 00:00:02.461014
+Auth happening...
+Getting songs
+Creating dataframe...
+Fatalist
+('Rows: ', 0)
+Saved!
+
