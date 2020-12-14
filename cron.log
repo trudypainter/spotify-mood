@@ -29010,3 +29010,14 @@ Glittery - From The Kacey Musgraves Christmas Show
 ('Rows: ', 0)
 Saved!
 
+[master af629d2] updating daily data 2020-12-14 00:00:03.436817
+ 3 files changed, 11 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2020-12-14.csv
+2020-12-14 00:00:02.862944
+Auth happening...
+Getting songs
+Creating dataframe...
+Glittery - From The Kacey Musgraves Christmas Show
+('Rows: ', 0)
+Saved!
+
