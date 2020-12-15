@@ -29342,3 +29342,14 @@ Getting Down Pt II (He's Cooling Down)
 ('Rows: ', 0)
 Saved!
 
+[master 0328e40] updating daily data 2020-12-15 00:00:03.655738
+ 3 files changed, 11 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2020-12-15.csv
+2020-12-15 00:00:03.121072
+Auth happening...
+Getting songs
+Creating dataframe...
+Getting Down Pt II (He's Cooling Down)
+('Rows: ', 0)
+Saved!
+
