@@ -29619,3 +29619,18 @@ Whole Life
 ('Rows: ', 3)
 Saved!
 
+[master a271d8d] updating daily data 2020-12-16 08:00:04.033615
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2020-12-16 08:00:03.185879
+Auth happening...
+Getting songs
+Creating dataframe...
+Bermondsey Bosom (Left)
+So Heavy I Fell Through the Earth - Art Mix
+Snakeskin
+I Know
+Fresh Air
+Whole Life
+('Rows: ', 5)
+Saved!
+
