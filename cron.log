@@ -29738,3 +29738,31 @@ Am I High
 ('Rows: ', 0)
 Saved!
 
+[master b2f1169] updating daily data 2020-12-17 07:06:53.668578
+ 3 files changed, 28 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2020-12-17.csv
+2020-12-17 07:00:03.771852
+Auth happening...
+Getting songs
+Creating dataframe...
+In The Party
+Walk Em Down (feat. Roddy Ricch)
+goodnight n go
+Shake
+Stay Flo
+You Seemed so Happy
+Lights On (feat. Ryan Beatty & Santigold)
+Glitch
+Hindsights A Bitch
+Habitual Love
+Fake It
+Tu Me Manques
+I Die Slow
+Dance Like U
+IUD
+Calendar Girl
+Mad (feat. Lil Wayne)
+Divorce
+('Rows: ', 17)
+Saved!
+
