@@ -29863,3 +29863,13 @@ Stupid Hoe
 ('Rows: ', 0)
 Saved!
 
+[master 37b889d] updating daily data 2020-12-17 20:00:06.094514
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+2020-12-17 20:00:04.961013
+Auth happening...
+Getting songs
+Creating dataframe...
+Stupid Hoe
+('Rows: ', 0)
+Saved!
+
