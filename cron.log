@@ -29930,3 +29930,14 @@ My Woes
 ('Rows: ', 3)
 Saved!
 
+[master 197597a] updating daily data 2020-12-18 00:00:03.563042
+ 3 files changed, 14 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2020-12-18.csv
+2020-12-18 00:00:02.685822
+Auth happening...
+Getting songs
+Creating dataframe...
+Who Dat Boy (feat. A$AP Rocky)
+('Rows: ', 0)
+Saved!
+
