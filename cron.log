@@ -30171,3 +30171,23 @@ One Dance
 ('Rows: ', 8)
 Saved!
 
+[master d3a894a] updating daily data 2020-12-19 13:00:05.405634
+ 3 files changed, 29 insertions(+), 1 deletion(-)
+2020-12-19 13:00:04.182401
+Auth happening...
+Getting songs
+Creating dataframe...
+Wild Time
+Los Angeles
+Sorry
+Don't
+White Iverson
+Cold Water
+PILLOWTALK
+Starving
+This Town
+One Dance
+One Dance
+('Rows: ', 10)
+Saved!
+
