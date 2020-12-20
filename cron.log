@@ -30288,3 +30288,14 @@ Jason
 ('Rows: ', 0)
 Saved!
 
+[master 25ae9c9] updating daily data 2020-12-20 00:00:03.286212
+ 3 files changed, 11 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2020-12-20.csv
+2020-12-20 00:00:02.906335
+Auth happening...
+Getting songs
+Creating dataframe...
+Jason
+('Rows: ', 0)
+Saved!
+
