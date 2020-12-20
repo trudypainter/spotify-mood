@@ -30369,3 +30369,13 @@ Jason
 ('Rows: ', 0)
 Saved!
 
+[master 6dd219a] updating daily data 2020-12-20 11:00:03.556158
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+2020-12-20 11:00:03.126231
+Auth happening...
+Getting songs
+Creating dataframe...
+Comet Face
+('Rows: ', 0)
+Saved!
+
