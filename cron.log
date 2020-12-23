@@ -30754,3 +30754,13 @@ Don't Believe
 ('Rows: ', 0)
 Saved!
 
+[master 10afcd3] updating daily data 2020-12-23 06:00:02.823263
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+2020-12-23 06:00:02.468277
+Auth happening...
+Getting songs
+Creating dataframe...
+Don't Believe
+('Rows: ', 0)
+Saved!
+
