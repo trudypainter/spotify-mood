@@ -30930,3 +30930,13 @@ IUD
 ('Rows: ', 0)
 Saved!
 
+[master 87c99d0] updating daily data 2020-12-23 17:00:04.980171
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+2020-12-23 17:00:04.550710
+Auth happening...
+Getting songs
+Creating dataframe...
+IUD
+('Rows: ', 0)
+Saved!
+
