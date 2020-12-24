@@ -31007,3 +31007,14 @@ I Know There's Gonna Be (Good Times)
 ('Rows: ', 0)
 Saved!
 
+[master 90ca81f] updating daily data 2020-12-24 00:00:04.965748
+ 3 files changed, 11 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2020-12-24.csv
+2020-12-24 00:00:04.557878
+Auth happening...
+Getting songs
+Creating dataframe...
+I Know There's Gonna Be (Good Times)
+('Rows: ', 0)
+Saved!
+
