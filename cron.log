@@ -31963,3 +31963,14 @@ Getting songs
 Creating dataframe...
 Sun
 Atomic Vomit
+[master dd4ee94] updating daily data 2020-12-27 15:00:04.119899
+ 3 files changed, 22 insertions(+), 1 deletion(-)
+2020-12-27 15:00:03.641966
+Auth happening...
+Getting songs
+Creating dataframe...
+Sun
+Atomic Vomit
+('Rows: ', 1)
+Saved!
+
