@@ -32027,3 +32027,14 @@ No Tengo
 ('Rows: ', 12)
 Saved!
 
+[master b70ae20] updating daily data 2020-12-28 15:00:04.381940
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2020-12-28.csv
+2020-12-28 15:00:03.947008
+Auth happening...
+Getting songs
+Creating dataframe...
+Sun
+('Rows: ', 0)
+Saved!
+
