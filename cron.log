@@ -32170,3 +32170,13 @@ Jars of It
 ('Rows: ', 3)
 Saved!
 
+[master ae193d5] updating daily data 2020-12-28 22:00:02.871834
+ 2 files changed, 14 insertions(+), 1 deletion(-)
+2020-12-28 22:00:02.470258
+Auth happening...
+Getting songs
+Creating dataframe...
+Whoopty
+('Rows: ', 0)
+Saved!
+
