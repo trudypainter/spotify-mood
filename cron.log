@@ -32976,3 +32976,14 @@ The Hop
 ('Rows: ', 0)
 Saved!
 
+[master 2966498] updating daily data 2021-01-03 00:00:05.350905
+ 3 files changed, 11 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2021-01-03.csv
+2021-01-03 00:00:04.807075
+Auth happening...
+Getting songs
+Creating dataframe...
+The Hop
+('Rows: ', 0)
+Saved!
+
