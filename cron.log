@@ -33252,3 +33252,14 @@ La Meg
 ('Rows: ', 0)
 Saved!
 
+[master 4695014] updating daily data 2021-01-04 00:00:04.565235
+ 3 files changed, 11 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2021-01-04.csv
+2021-01-04 00:00:04.028798
+Auth happening...
+Getting songs
+Creating dataframe...
+La Meg
+('Rows: ', 0)
+Saved!
+
