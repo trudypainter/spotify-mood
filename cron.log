@@ -33493,3 +33493,20 @@ Divorce
 ('Rows: ', 0)
 Saved!
 
+[master 1bcc1b2] updating daily data 2021-01-04 20:00:05.503558
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-01-04 20:00:04.538114
+Auth happening...
+Getting songs
+Creating dataframe...
+Nauseous / Devilish
+Crystal Hole
+Born Confused
+Noise Above Our Heads
+Gwarek2
+A Greater Love
+Flesh without Blood
+Divorce
+('Rows: ', 7)
+Saved!
+
