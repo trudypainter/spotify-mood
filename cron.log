@@ -33764,3 +33764,14 @@ TEETH
 ('Rows: ', 3)
 Saved!
 
+[master d73dab1] updating daily data 2021-01-05 17:00:15.981987
+ 3 files changed, 15 insertions(+), 1 deletion(-)
+2021-01-05 17:00:14.906262
+Auth happening...
+Getting songs
+Creating dataframe...
+TOKYO
+SCENE
+('Rows: ', 1)
+Saved!
+
