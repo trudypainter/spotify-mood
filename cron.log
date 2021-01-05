@@ -33473,3 +33473,13 @@ Divorce
 ('Rows: ', 0)
 Saved!
 
+[master c8dcef7] updating daily data 2021-01-04 18:00:04.546329
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+2021-01-04 18:00:03.947961
+Auth happening...
+Getting songs
+Creating dataframe...
+Divorce
+('Rows: ', 0)
+Saved!
+
