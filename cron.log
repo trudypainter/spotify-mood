@@ -33719,3 +33719,13 @@ JELLO
 ('Rows: ', 0)
 Saved!
 
+[master ec1be51] updating daily data 2021-01-05 13:00:04.767500
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+2021-01-05 13:00:04.129906
+Auth happening...
+Getting songs
+Creating dataframe...
+JELLO
+('Rows: ', 0)
+Saved!
+
