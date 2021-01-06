@@ -34005,3 +34005,13 @@ Throw Sum Mo
 ('Rows: ', 5)
 Saved!
 
+[master 4bf3279] updating daily data 2021-01-06 11:00:04.691268
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-01-06 11:00:04.064787
+Auth happening...
+Getting songs
+Creating dataframe...
+Not Worth It
+('Rows: ', 0)
+Saved!
+
