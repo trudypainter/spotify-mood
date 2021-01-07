@@ -34221,3 +34221,14 @@ Too Deep
 Apple Pie
 Monday to Monday
 Maria I'm Drunk (feat. Justin Bieber & Young Thug)
+[master 577a6e5] updating daily data 2021-01-07 00:00:04.858967
+ 4 files changed, 163 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2021-01-07.csv
+2021-01-07 00:00:04.361920
+Auth happening...
+Getting songs
+Creating dataframe...
+Impossible
+('Rows: ', 0)
+Saved!
+
