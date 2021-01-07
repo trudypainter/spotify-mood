@@ -34440,3 +34440,19 @@ Biscuit Town
 ('Rows: ', 0)
 Saved!
 
+[master bd8cfe6] updating daily data 2021-01-07 17:00:05.399662
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-01-07 17:00:04.415940
+Auth happening...
+Getting songs
+Creating dataframe...
+A Lot's Gonna Change
+Cadet Limbo
+How It Is
+Give/Take
+This Is for You
+Some Dream
+Biscuit Town
+('Rows: ', 6)
+Saved!
+
