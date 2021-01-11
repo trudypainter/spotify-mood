@@ -35456,3 +35456,17 @@ Not PLaying
 ('Rows: ', 0)
 Saved!
 
+[master 560ce5b] updating daily data 2021-01-10 18:00:19.431827
+ 3 files changed, 15 insertions(+), 1 deletion(-)
+2021-01-10 18:00:18.471483
+Auth happening...
+Getting songs
+Creating dataframe...
+Hold Tight
+Parallel 7
+La Lune
+Blue Verb
+Not PLaying
+('Rows: ', 4)
+Saved!
+
