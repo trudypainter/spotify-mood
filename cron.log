@@ -35470,3 +35470,17 @@ Not PLaying
 ('Rows: ', 4)
 Saved!
 
+[master 2cdb2e4] updating daily data 2021-01-10 19:00:12.585889
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-01-10 19:00:10.482842
+Auth happening...
+Getting songs
+Creating dataframe...
+Hold Tight
+Parallel 7
+La Lune
+Blue Verb
+Not PLaying
+('Rows: ', 4)
+Saved!
+
