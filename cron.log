@@ -35718,3 +35718,15 @@ Sun
 ('Rows: ', 0)
 Saved!
 
+[master 5a7c659] updating daily data 2021-01-11 15:00:06.752811
+ 3 files changed, 13 insertions(+), 1 deletion(-)
+2021-01-11 15:00:06.015867
+Auth happening...
+Getting songs
+Creating dataframe...
+It's Nice to Be Alive
+PINK
+Sun
+('Rows: ', 2)
+Saved!
+
