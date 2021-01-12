@@ -35900,3 +35900,14 @@ Creating dataframe...
 ('Rows: ', 0)
 Saved!
 
+[master 355d09b] updating daily data 2021-01-12 00:00:04.903048
+ 3 files changed, 11 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2021-01-12.csv
+2021-01-12 00:00:04.352811
+Auth happening...
+Getting songs
+Creating dataframe...
+1491
+('Rows: ', 0)
+Saved!
+
