@@ -36262,3 +36262,14 @@ Solitary Ceremonies
 ('Rows: ', 0)
 Saved!
 
+[master c3cbf70] updating daily data 2021-01-13 00:00:05.144595
+ 3 files changed, 11 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2021-01-13.csv
+2021-01-13 00:00:04.552052
+Auth happening...
+Getting songs
+Creating dataframe...
+Solitary Ceremonies
+('Rows: ', 0)
+Saved!
+
