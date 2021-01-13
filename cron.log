@@ -36459,3 +36459,13 @@ Bug
 ('Rows: ', 6)
 Saved!
 
+[master 42a8e88] updating daily data 2021-01-13 14:00:04.359935
+ 2 files changed, 17 insertions(+), 1 deletion(-)
+2021-01-13 14:00:03.590627
+Auth happening...
+Getting songs
+Creating dataframe...
+Still Trappin' (with King Von)
+('Rows: ', 0)
+Saved!
+
