@@ -36646,3 +36646,13 @@ i finally understand
 ('Rows: ', 0)
 Saved!
 
+[master e2726a5] updating daily data 2021-01-14 06:00:05.059264
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+2021-01-14 06:00:04.343938
+Auth happening...
+Getting songs
+Creating dataframe...
+c2.0
+('Rows: ', 0)
+Saved!
+
