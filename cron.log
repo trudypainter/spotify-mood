@@ -36673,3 +36673,21 @@ c2.0
 ('Rows: ', 7)
 Saved!
 
+[master 0e44ec8] updating daily data 2021-01-14 08:00:05.100662
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-01-14 08:00:03.983038
+Auth happening...
+Getting songs
+Creating dataframe...
+MPR
+Crazy Story, Pt. 3
+Glock In My Lap
+Took Her To The O
+Martin & Gina
+Still Trappin' (with King Von)
+Rich Nigga Shit (feat. Young Thug)
+Kacey Talk
+c2.0
+('Rows: ', 8)
+Saved!
+
