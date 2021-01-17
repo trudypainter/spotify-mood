@@ -37685,3 +37685,13 @@ FREAK
 ('Rows: ', 0)
 Saved!
 
+[master e10c22d] updating daily data 2021-01-17 06:00:05.941818
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+2021-01-17 06:00:04.211548
+Auth happening...
+Getting songs
+Creating dataframe...
+FREAK
+('Rows: ', 0)
+Saved!
+
