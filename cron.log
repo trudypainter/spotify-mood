@@ -37624,3 +37624,14 @@ FREAK
 ('Rows: ', 0)
 Saved!
 
+[master 54d2840] updating daily data 2021-01-17 00:00:04.682377
+ 3 files changed, 11 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2021-01-17.csv
+2021-01-17 00:00:04.045919
+Auth happening...
+Getting songs
+Creating dataframe...
+FREAK
+('Rows: ', 0)
+Saved!
+
