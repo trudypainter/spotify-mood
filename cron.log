@@ -37906,3 +37906,15 @@ Poderoso
 ('Rows: ', 8)
 Saved!
 
+[master 6139181] updating daily data 2021-01-18 00:00:04.163546
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2021-01-18.csv
+2021-01-18 00:00:03.568990
+Auth happening...
+Getting songs
+Creating dataframe...
+Deep Water Blue
+Aunt Gerry's Fried Chicken
+('Rows: ', 1)
+Saved!
+
