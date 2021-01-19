@@ -38287,3 +38287,14 @@ Like
 ('Rows: ', 0)
 Saved!
 
+[master 584cf7d] updating daily data 2021-01-19 00:00:05.276427
+ 3 files changed, 11 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2021-01-19.csv
+2021-01-19 00:00:04.819980
+Auth happening...
+Getting songs
+Creating dataframe...
+Like
+('Rows: ', 0)
+Saved!
+
