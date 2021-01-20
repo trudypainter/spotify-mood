@@ -38596,3 +38596,14 @@ Next Level Charli
 ('Rows: ', 0)
 Saved!
 
+[master 870e812] updating daily data 2021-01-20 00:00:05.076723
+ 3 files changed, 11 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2021-01-20.csv
+2021-01-20 00:00:04.579629
+Auth happening...
+Getting songs
+Creating dataframe...
+Next Level Charli
+('Rows: ', 0)
+Saved!
+
