@@ -107,13 +107,15 @@ for song in recent_songs["items"]:
         pass        
     time_elapsed = time_played - datetime.now()
 
+    
     #to account for daylight savings time - need to change
-    if time_elapsed < timedelta(hours=4, minutes=1):
+    daylight_savings = 1
+    if time_elapsed < timedelta(hours=3 + daylight_savings, minutes=1):
         break
     
     #spotify has weird hours/time zone going on
     #and i need to make it pretty for the table
-    adjusted_played_at = time_played - timedelta(hours=5)
+    adjusted_played_at = time_played - timedelta(hours=4 + daylight_savings)
     readable_time = adjusted_played_at.strftime("%H") + ":" + adjusted_played_at.strftime("%M")
     
     count+=1
