@@ -153,9 +153,9 @@ df = pd.DataFrame.from_dict(song_dict, orient='index').transpose()
 df = df.iloc[::-1]
 #reorder the columns to make csv compatible for flask
 cols = df.columns.to_list()
-cols = cols[5:] + cols[:5] 
+# cols = cols[5:] + cols[:5] 
 print("LIST OF COLS", cols)
-df = df[cols]
+df = df[['image',  'song_name', 'album_name', 'artist_name', 'track_id', 'played_at', 'valence', 'mood_avg', 'danceability', 'energy']]
 print(df)
 
 filename = "~/Desktop/personal-projects/spotify-mood/daily-data/" + datetime.now().strftime('%Y-%m-%d/')[:10] + ".csv"
