@@ -108,7 +108,7 @@ for song in recent_songs["items"]:
     time_elapsed = time_played - datetime.now()
 
     #to account for daylight savings time - need to change
-    if time_elapsed < timedelta(hours=4, minutes=1):
+    if time_elapsed < timedelta(hours=3, minutes=1):
         break
     
     #spotify has weird hours/time zone going on
