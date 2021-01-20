@@ -113,7 +113,7 @@ for song in recent_songs["items"]:
     
     #spotify has weird hours/time zone going on
     #and i need to make it pretty for the table
-    adjusted_played_at = time_played - timedelta(hours=4)
+    adjusted_played_at = time_played - timedelta(hours=5)
     readable_time = adjusted_played_at.strftime("%H") + ":" + adjusted_played_at.strftime("%M")
     
     count+=1
@@ -142,6 +142,8 @@ for song in recent_songs["items"]:
         print(err)
         pass
 
+print("GOT THESE SONGS")
+print(song_dict)
 
 #add spotify data to csv
 df = pd.DataFrame.from_dict(song_dict, orient='index').transpose()
