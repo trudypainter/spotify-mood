@@ -154,7 +154,7 @@ df = df.iloc[::-1]
 #reorder the columns to make csv compatible for flask
 cols = df.columns.to_list()
 cols = cols[5:] + cols[:5] 
-print(df)
+print("LIST OF COLS", cols)
 df = df[cols]
 print(df)
 
