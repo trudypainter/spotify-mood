@@ -39032,3 +39032,72 @@ Saved!
 2021-01-21 08:00:05.113914
 Auth happening...
 Getting songs
+[master 433f9b5] updating daily data 2021-01-21 09:00:07.355230
+ 3 files changed, 42 insertions(+), 1 deletion(-)
+2021-01-21 09:00:04.785728
+Auth happening...
+Getting songs
+Creating dataframe...
+Alan
+Yikes!
+Can I Hold the Mic (interlude)
+Security!
+Chemtrails Over The Country Club
+Slap Pie
+Norton Commander (Album V)
+Poplar Tree
+Dorian
+Show Me How (Album V)
+Something in Water
+Alright
+Air
+All Night
+GOT THESE SONGS
+{'played_at': ['08:58', '08:55', '08:51', '08:50', '08:34', '08:20', '08:18', '08:15', '08:14', '08:11', '08:07', '08:04', '08:01'], 'valence': [0.202, 0.125, 0.534, 0.681, 0.429, 0.952, 0.436, 0.118, 0.583, 0.46, 0.213, 0.69, 0.531], 'mood_avg': [0.219, 0.402, 0.501, 0.641, 0.36, 0.799, 0.517, 0.169, 0.527, 0.552, 0.376, 0.669, 0.62], 'danceability': [0.199, 0.716, 0.633, 0.667, 0.334, 0.781, 0.632, 0.24, 0.607, 0.811, 0.627, 0.824, 0.86], 'energy': [0.291, 0.329, 0.169, 0.511, 0.276, 0.529, 0.451, 0.129, 0.257, 0.217, 0.198, 0.318, 0.316], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738fdf12fe7f25d791a78375da', u'https://i.scdn.co/image/ab67616d0000b27337e744667c098ff2669b4d4f', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273d10fd2514a37d436538a74be', u'https://i.scdn.co/image/ab67616d0000b27365cbb09fc2622ff89467472e', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d'], 'album_name': [u'No Shape', u'direct line to My Creator', u'When I Get Home', u'E', u'Chemtrails Over The Country Club', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz'], 'song_name': [u'Alan', u'Yikes!', u'Can I Hold the Mic (interlude)', u'Security!', u'Chemtrails Over The Country Club', u'Slap Pie', u'Norton Commander (Album V)', u'Poplar Tree', u'Dorian', u'Show Me How (Album V)', u'Something in Water', u'Alright', u'Air'], 'artist_name': [u'Perfume Genius', u'duendita', u'Solange', u'Ecco2k', u'Lana Del Rey', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust'], 'track_id': [u'0qDsmWe20HzPpFHEVMi7ym', u'3cKLo1SKFNKWZvESQVBUTe', u'6b6LmQZz9yeMnFQDFWQa5E', u'4XJlKNehaCUUeviadnz1Fg', u'1PZDyestTVydtHpaIcfUJg', u'1TFOhZp3KF4zSLwMNmx4wO', u'0DltZY7z8YvuDBSAbsIgPc', u'4m2QnkXm7ZpPGxsExVp8h4', u'50Qh4Ef1Wyi3qZghIibXmR', u'6A46jG17UumVQLqodsFxuV', u'7rC4fpqWw83rw6SFSxN1Qo', u'5cW8mZYs5mKGZP5n2azBW3', u'4TVw3QPxn7pD1YyrdbLa74']}
+                                                image  ... energy
+12  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.316
+11  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.318
+10  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.198
+9   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.217
+8   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.257
+7   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.129
+6   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.451
+5   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.529
+4   https://i.scdn.co/image/ab67616d0000b27365cbb0...  ...  0.276
+3   https://i.scdn.co/image/ab67616d0000b273d10fd2...  ...  0.511
+2   https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.169
+1   https://i.scdn.co/image/ab67616d0000b27337e744...  ...  0.329
+0   https://i.scdn.co/image/ab67616d0000b2738fdf12...  ...  0.291
+
+[13 rows x 10 columns]
+('Rows: ', 13)
+Saved!
+
+2021-01-21 10:00:04.257185
+Auth happening...
+Getting songs
+Creating dataframe...
+Bbydhyonchord
+Save
+SeeSaw
+Hypnosis
+Unison
+The Cat's Pyjamas
+Violence - Original Mix
+The Dream
+Punisher
+Alan
+GOT THESE SONGS
+{'played_at': ['09:44', '09:42', '09:39', '09:23', '09:14', '09:08', '09:07', '09:03', '09:01'], 'valence': [0.884, 0.124, 0.191, 0.188, 0.217, 0.747, 0.0795, 0.171, 0.212], 'mood_avg': [0.764, 0.345, 0.462, 0.235, 0.403, 0.53, 0.425, 0.226, 0.301], 'danceability': [0.803, 0.545, 0.624, 0.276, 0.536, 0.358, 0.533, 0.313, 0.428], 'energy': [0.447, 0.389, 0.679, 0.247, 0.511, 0.44, 0.9, 0.161, 0.226], 'image': [u'https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a', u'https://i.scdn.co/image/ab67616d0000b273a957341d8a1a75973d22bee0', u'https://i.scdn.co/image/ab67616d0000b273e8ac8f5ea7877d823e5df3ea', u'https://i.scdn.co/image/ab67616d0000b273825d2628545eaea03bf9672f', u'https://i.scdn.co/image/ab67616d0000b273bc31229deb79f896eb9fee84', u'https://i.scdn.co/image/ab67616d0000b2734a8007933fab9c774ae4cc83', u'https://i.scdn.co/image/ab67616d0000b2731a302aafa2ea587960e27951', u'https://i.scdn.co/image/ab67616d0000b27328916ffa16f5473ac57ffe84', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add'], 'album_name': [u'Drukqs', u'Sen Morimoto', u'In Colour', u'Lucid', u'Vespertine', u"I'm All Ears", u'Miss Anthropocene (Deluxe Edition)', u'Man Alive!', u'Punisher'], 'song_name': [u'Bbydhyonchord', u'Save', u'SeeSaw', u'Hypnosis', u'Unison', u"The Cat's Pyjamas", u'Violence - Original Mix', u'The Dream', u'Punisher'], 'artist_name': [u'Aphex Twin', u'Sen Morimoto', u'Jamie xx', u'Raveena', u'Bj\xf6rk', u"Let's Eat Grandma", u'Grimes', u'King Krule', u'Phoebe Bridgers'], 'track_id': [u'35GYDmixAiE0d36qSPqfuO', u'3wRefitVoMrGu06gEKH8k6', u'6N9NpkIKu7SLAjZd0IewoV', u'70LJDJUseObPU5czxfHYkB', u'1t9us2hggVqmnyWz7uG54y', u'27JCJwqvEZeUJLG7Tc0SCN', u'3KeOFns3LGJuh1lapMm9eA', u'6yV1FfhbkfaLaagGogMGfG', u'7yR6GEJsPI6kmNRvFkPuN3']}
+                                               image  ... energy
+8  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...  0.226
+7  https://i.scdn.co/image/ab67616d0000b27328916f...  ...  0.161
+6  https://i.scdn.co/image/ab67616d0000b2731a302a...  ...    0.9
+5  https://i.scdn.co/image/ab67616d0000b2734a8007...  ...   0.44
+4  https://i.scdn.co/image/ab67616d0000b273bc3122...  ...  0.511
+3  https://i.scdn.co/image/ab67616d0000b273825d26...  ...  0.247
+2  https://i.scdn.co/image/ab67616d0000b273e8ac8f...  ...  0.679
+1  https://i.scdn.co/image/ab67616d0000b273a95734...  ...  0.389
+0  https://i.scdn.co/image/ab67616d0000b273a5aef9...  ...  0.447
+
+[9 rows x 10 columns]
