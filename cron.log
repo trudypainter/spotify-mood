@@ -39004,3 +39004,31 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master e6e4562] updating daily data 2021-01-21 07:00:04.980871
+ 3 files changed, 27 insertions(+), 1 deletion(-)
+2021-01-21 07:00:03.852788
+Auth happening...
+Getting songs
+Creating dataframe...
+The Code (feat. Polo G)
+I Am What I Am (feat. Fivio Foreign)
+Link Up (feat. Pooh Shiesty)
+Movie
+All These Niggas (feat. Lil Durk)
+Purrfect
+GOT THESE SONGS
+{'played_at': ['06:17', '06:13', '06:10', '06:06', '06:03'], 'valence': [0.568, 0.421, 0.343, 0.474, 0.356], 'mood_avg': [0.684, 0.624, 0.587, 0.601, 0.552], 'danceability': [0.831, 0.8, 0.786, 0.643, 0.793], 'energy': [0.62, 0.676, 0.677, 0.773, 0.462], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738b72d834eb50dd04a83b349f', u'https://i.scdn.co/image/ab67616d0000b2739d83c9c62e2a584bbcbd05b6', u'https://i.scdn.co/image/ab67616d0000b273744d730c4a958440105c3029', u'https://i.scdn.co/image/ab67616d0000b27374ef6f372d478c803ff2defd', u'https://i.scdn.co/image/ab67616d0000b2738b72d834eb50dd04a83b349f'], 'album_name': [u"Welcome to O'Block", u'I Am What I Am (feat. Fivio Foreign)', u'CRIPTAPE', u'Movie', u"Welcome to O'Block"], 'song_name': [u'The Code (feat. Polo G)', u'I Am What I Am (feat. Fivio Foreign)', u'Link Up (feat. Pooh Shiesty)', u'Movie', u'All These Niggas (feat. Lil Durk)'], 'artist_name': [u'King Von', u'King Von', u'Lil Loaded', u'CoachDaGhost', u'King Von'], 'track_id': [u'5NOUjBikzECEJyZMTxtErD', u'7MxWrgJmuEBOtEvqpo5iki', u'2HScVhNGt7DltJYrph09Ee', u'4tzvbB3aj3NE6h6a8hsOZJ', u'4g27tVPyGHi38dczFoJZZy']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b2738b72d8...  ...  0.462
+3  https://i.scdn.co/image/ab67616d0000b27374ef6f...  ...  0.773
+2  https://i.scdn.co/image/ab67616d0000b273744d73...  ...  0.677
+1  https://i.scdn.co/image/ab67616d0000b2739d83c9...  ...  0.676
+0  https://i.scdn.co/image/ab67616d0000b2738b72d8...  ...   0.62
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
+2021-01-21 08:00:05.113914
+Auth happening...
+Getting songs
