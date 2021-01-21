@@ -38983,3 +38983,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master b497a42] updating daily data 2021-01-21 06:00:05.424295
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-01-21 06:00:04.420887
+Auth happening...
+Getting songs
+Creating dataframe...
+Be Nice 2 Me
+So Hot You're Hurting My Feelings
+Warm (feat. HAIM)
+So Hot You're Hurting My Feelings
+GOT THESE SONGS
+{'played_at': ['05:59', '05:56', '05:53'], 'valence': [0.332, 0.847, 0.396], 'mood_avg': [0.438, 0.772, 0.482], 'danceability': [0.449, 0.795, 0.518], 'energy': [0.63, 0.576, 0.58], 'image': [u'https://i.scdn.co/image/ab67616d0000b273407be60b024efcbabe7da815', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c'], 'album_name': [u'Icedancer', u'Pang', u'Charli'], 'song_name': [u'Be Nice 2 Me', u"So Hot You're Hurting My Feelings", u'Warm (feat. HAIM)'], 'artist_name': [u'Bladee', u'Caroline Polachek', u'Charli XCX'], 'track_id': [u'2TmqHjg7uhizGndzXQdFuf', u'5B6Kjha6RRIMWGN7zGsAaT', u'2xHEAdEalJ5YcP0ur8kF6L']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...   0.58
+1  https://i.scdn.co/image/ab67616d0000b2737d983e...  ...  0.576
+0  https://i.scdn.co/image/ab67616d0000b273407be6...  ...   0.63
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
