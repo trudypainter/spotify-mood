@@ -38798,3 +38798,20 @@ Gospel For A New Century
 ('Rows: ', 0)
 Saved!
 
+[master 13f257b] updating daily data 2021-01-20 18:00:04.061948
+ 3 files changed, 3 insertions(+), 3 deletions(-)
+2021-01-20 18:00:03.451774
+Auth happening...
+Getting songs
+Creating dataframe...
+Calcium
+Gospel For A New Century
+GOT THESE SONGS
+{'played_at': ['17:20'], 'valence': [0.35], 'mood_avg': [0.458], 'danceability': [0.568], 'energy': [0.455], 'image': [u'https://i.scdn.co/image/ab67616d0000b273d10fd2514a37d436538a74be'], 'album_name': [u'E'], 'song_name': [u'Calcium'], 'artist_name': [u'Ecco2k'], 'track_id': [u'0D6MyCMzbniMYWHYyCcv5N']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273d10fd2...  ...  0.455
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
