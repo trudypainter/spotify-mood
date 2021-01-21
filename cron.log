@@ -39116,3 +39116,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 1bc1f38] updating daily data 2021-01-21 12:00:05.091232
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-01-21 12:00:04.318928
+Auth happening...
+Getting songs
+Creating dataframe...
+We Out Here - Bonus Track
+Bbydhyonchord
+GOT THESE SONGS
+{'played_at': ['11:37'], 'valence': [0.711], 'mood_avg': [0.7], 'danceability': [0.577], 'energy': [0.926], 'image': [u'https://i.scdn.co/image/ab67616d0000b273db0a368a7ede184a67a51b95'], 'album_name': [u'SAWAYAMA (Deluxe Edition)'], 'song_name': [u'We Out Here - Bonus Track'], 'artist_name': [u'Rina Sawayama'], 'track_id': [u'5h1nLTGPTG3OjFEzeWlHHD']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273db0a36...  ...  0.926
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
