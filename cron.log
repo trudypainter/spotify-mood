@@ -38968,3 +38968,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master bd43a89] updating daily data 2021-01-21 05:00:05.249557
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-01-21 05:00:04.471228
+Auth happening...
+Getting songs
+Creating dataframe...
+So Hot You're Hurting My Feelings
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
