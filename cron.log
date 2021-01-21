@@ -39133,3 +39133,18 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master b95bf4f] updating daily data 2021-01-21 13:00:04.665412
+ 2 files changed, 18 insertions(+), 1 deletion(-)
+2021-01-21 13:00:04.115002
+Auth happening...
+Getting songs
+Creating dataframe...
+We Out Here - Bonus Track
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
