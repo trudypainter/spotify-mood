@@ -39237,3 +39237,30 @@ GOT THESE SONGS
 ('Rows: ', 15)
 Saved!
 
+[master dac70e6] updating daily data 2021-01-21 20:00:06.319815
+ 3 files changed, 18 insertions(+), 2 deletions(-)
+2021-01-21 20:00:05.210885
+Auth happening...
+Getting songs
+Creating dataframe...
+Cuff Your Jeans
+Gold
+Soft Spot
+Cuff Your Jeans
+I've Been Down
+Might as Well
+Stir Fry
+GOT THESE SONGS
+{'played_at': ['19:21', '19:18', '19:15', '19:12', '19:07', '19:03'], 'valence': [0.961, 0.95, 0.512, 0.961, 0.875, 0.802], 'mood_avg': [0.803, 0.858, 0.54, 0.803, 0.761, 0.795], 'danceability': [0.668, 0.904, 0.57, 0.668, 0.8, 0.914], 'energy': [0.759, 0.583, 0.538, 0.759, 0.457, 0.545], 'image': [u'https://i.scdn.co/image/ab67616d0000b27356b0a57f99895f1585dccb8c', u'https://i.scdn.co/image/ab67616d0000b27356b0a57f99895f1585dccb8c', u'https://i.scdn.co/image/ab67616d0000b27356b0a57f99895f1585dccb8c', u'https://i.scdn.co/image/ab67616d0000b27356b0a57f99895f1585dccb8c', u'https://i.scdn.co/image/ab67616d0000b273d2631fe4c90aae7dec8fb0df', u'https://i.scdn.co/image/ab67616d0000b273e0b64c8be3c4e804abcb2696'], 'album_name': [u'Cuff Your Jeans', u'Cuff Your Jeans', u'Cuff Your Jeans', u'Cuff Your Jeans', u'Women In Music Pt. III', u'FUTURE'], 'song_name': [u'Cuff Your Jeans', u'Gold', u'Soft Spot', u'Cuff Your Jeans', u"I've Been Down", u'Might as Well'], 'artist_name': [u'Claud', u'Claud', u'Claud', u'Claud', u'HAIM', u'Future'], 'track_id': [u'0q9v0aM8nBBF045S4lUMJE', u'0Z77hwpN14XciLyDGQBQTG', u'7HJU3Zro96fKBnZzbGtIDn', u'0q9v0aM8nBBF045S4lUMJE', u'1lW4H8TPAXJpSQDYo1vz7H', u'6bB5iGatJHiqnoxMZDsySr']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b273e0b64c...  ...  0.545
+4  https://i.scdn.co/image/ab67616d0000b273d2631f...  ...  0.457
+3  https://i.scdn.co/image/ab67616d0000b27356b0a5...  ...  0.759
+2  https://i.scdn.co/image/ab67616d0000b27356b0a5...  ...  0.538
+1  https://i.scdn.co/image/ab67616d0000b27356b0a5...  ...  0.583
+0  https://i.scdn.co/image/ab67616d0000b27356b0a5...  ...  0.759
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
