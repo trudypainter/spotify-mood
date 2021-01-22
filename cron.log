@@ -39412,3 +39412,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master d239ece] updating daily data 2021-01-22 06:00:04.339147
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-01-22 06:00:03.362077
+Auth happening...
+Getting songs
+Creating dataframe...
+FEFE
+Brake Lights
+Bends
+GOT THESE SONGS
+{'played_at': ['05:58', '05:55'], 'valence': [0.376, 0.485], 'mood_avg': [0.6, 0.606], 'danceability': [0.931, 0.779], 'energy': [0.387, 0.5], 'image': [u'https://i.scdn.co/image/ab67616d0000b2737b4d2b0d46fc5ed7f771329b', u'https://i.scdn.co/image/ab67616d0000b2734d86f5d4e0dcd77fc825f7b7'], 'album_name': [u'DUMMY BOY', u'Cut Out'], 'song_name': [u'FEFE', u'Brake Lights'], 'artist_name': [u'6ix9ine', u'Ralph Castelli'], 'track_id': [u'2l8nEO0vsTRCRnGqQty6qx', u'1H1VvRXTlQTUfh2aycxmKr']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b2734d86f5...  ...    0.5
+0  https://i.scdn.co/image/ab67616d0000b2737b4d2b...  ...  0.387
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
