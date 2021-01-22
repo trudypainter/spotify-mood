@@ -39567,3 +39567,26 @@ GOT THESE SONGS
 0   https://i.scdn.co/image/ab67616d0000b273bc3122...  ...  0.519
 
 [12 rows x 10 columns]
+[master fd41318] updating daily data 2021-01-22 13:00:05.487961
+ 3 files changed, 61 insertions(+), 1 deletion(-)
+2021-01-22 13:00:04.471514
+Auth happening...
+Getting songs
+Creating dataframe...
+Stockholm Syndrome
+Parallel 5
+GOT THESE SONGS
+{'played_at': ['12:11'], 'valence': [0.903], 'mood_avg': [0.732], 'danceability': [0.584], 'energy': [0.684], 'image': [u'https://i.scdn.co/image/ab67616d0000b2734599fdba5f431f3b419349a0'], 'album_name': [u'I Can Hear The Heart Beating As One'], 'song_name': [u'Stockholm Syndrome'], 'artist_name': [u'Yo La Tengo'], 'track_id': [u'2VcCu6ZIMVDYjINcygEuW2']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b2734599fd...  ...  0.684
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
+2021-01-22 14:00:09.796325
+Auth happening...
+Getting songs
+Creating dataframe...
+Happiness
+Watching Telly
