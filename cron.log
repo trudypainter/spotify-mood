@@ -39264,3 +39264,30 @@ GOT THESE SONGS
 ('Rows: ', 6)
 Saved!
 
+[master 15d2826] updating daily data 2021-01-21 21:00:05.248069
+ 3 files changed, 34 insertions(+), 1 deletion(-)
+2021-01-21 21:00:04.142914
+Auth happening...
+Getting songs
+Creating dataframe...
+Bends
+Running
+Losing
+Slow Down
+Stuck
+Hearts and Flowers
+Cuff Your Jeans
+GOT THESE SONGS
+{'played_at': ['20:32', '20:29', '20:27', '20:25', '20:22', '20:20'], 'valence': [0.572, 0.891, 0.461, 0.183, 0.105, 0.466], 'mood_avg': [0.561, 0.814, 0.495, 0.397, 0.257, 0.501], 'danceability': [0.598, 0.854, 0.552, 0.677, 0.42, 0.572], 'energy': [0.466, 0.578, 0.447, 0.265, 0.233, 0.431], 'image': [u'https://i.scdn.co/image/ab67616d0000b2734d86f5d4e0dcd77fc825f7b7', u'https://i.scdn.co/image/ab67616d0000b2734d86f5d4e0dcd77fc825f7b7', u'https://i.scdn.co/image/ab67616d0000b2734d86f5d4e0dcd77fc825f7b7', u'https://i.scdn.co/image/ab67616d0000b2734d86f5d4e0dcd77fc825f7b7', u'https://i.scdn.co/image/ab67616d0000b2734d86f5d4e0dcd77fc825f7b7', u'https://i.scdn.co/image/ab67616d0000b2734d86f5d4e0dcd77fc825f7b7'], 'album_name': [u'Cut Out', u'Cut Out', u'Cut Out', u'Cut Out', u'Cut Out', u'Cut Out'], 'song_name': [u'Bends', u'Running', u'Losing', u'Slow Down', u'Stuck', u'Hearts and Flowers'], 'artist_name': [u'Ralph Castelli', u'Ralph Castelli', u'Ralph Castelli', u'Ralph Castelli', u'Ralph Castelli', u'Ralph Castelli'], 'track_id': [u'7neXef29cogkuASB5rTafo', u'55PtLJBxLqSBZOKc65w3pp', u'2DNPxyHXiffhl0j538O69L', u'2ANTCnadgLga680OiEFxgk', u'7kPKJAPuzngcDetH7vm5G8', u'3hIIobA8PU4w6fP5uLY66C']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b2734d86f5...  ...  0.431
+4  https://i.scdn.co/image/ab67616d0000b2734d86f5...  ...  0.233
+3  https://i.scdn.co/image/ab67616d0000b2734d86f5...  ...  0.265
+2  https://i.scdn.co/image/ab67616d0000b2734d86f5...  ...  0.447
+1  https://i.scdn.co/image/ab67616d0000b2734d86f5...  ...  0.578
+0  https://i.scdn.co/image/ab67616d0000b2734d86f5...  ...  0.466
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
