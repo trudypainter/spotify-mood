@@ -39613,3 +39613,26 @@ GOT THESE SONGS
 ('Rows: ', 4)
 Saved!
 
+[master dcebb42] updating daily data 2021-01-22 16:00:11.562603
+ 3 files changed, 28 insertions(+), 1 deletion(-)
+2021-01-22 16:00:08.872624
+Auth happening...
+Getting songs
+Creating dataframe...
+I Wish You Would
+BALD!
+Overwhelming
+For Real
+Up From A Dream
+GOT THESE SONGS
+{'played_at': ['15:22', '15:19', '15:16', '15:04'], 'valence': [0.513, 0.632, 0.282, 0.615], 'mood_avg': [0.645, 0.67, 0.484, 0.741], 'danceability': [0.653, 0.582, 0.655, 0.902], 'energy': [0.893, 0.92, 0.545, 0.673], 'image': [u'https://i.scdn.co/image/ab67616d0000b273332d85510aba3eb28312cfb2', u'https://i.scdn.co/image/ab67616d0000b27366d8ddd534a933d37fac01d4', u'https://i.scdn.co/image/ab67616d0000b27359c56555923107322e7f248e', u'https://i.scdn.co/image/ab67616d0000b27341b41e6f7924e530a9b00f9c'], 'album_name': [u'1989 (Deluxe Edition)', u'BALD!', u'Overwhelming', u'Luv Is Rage 2'], 'song_name': [u'I Wish You Would', u'BALD!', u'Overwhelming', u'For Real'], 'artist_name': [u'Taylor Swift', u'JPEGMAFIA', u'Matt Ox', u'Lil Uzi Vert'], 'track_id': [u'1B5VzXPqMlvRw0U4HJY3dJ', u'5QAUGlyYPPnis3e8ln0qiz', u'1NJhYKiPXjTlNnFtboG2d9', u'3tcoEYOZUHKB3RKNByIN13']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b27341b41e...  ...  0.673
+2  https://i.scdn.co/image/ab67616d0000b27359c565...  ...  0.545
+1  https://i.scdn.co/image/ab67616d0000b27366d8dd...  ...   0.92
+0  https://i.scdn.co/image/ab67616d0000b273332d85...  ...  0.893
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
