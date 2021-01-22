@@ -39476,3 +39476,24 @@ GOT THESE SONGS
 0  https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.776
 
 [4 rows x 10 columns]
+[master a022497] updating daily data 2021-01-22 09:00:06.871793
+ 3 files changed, 53 insertions(+), 1 deletion(-)
+2021-01-22 09:00:05.691550
+Auth happening...
+Getting songs
+Creating dataframe...
+Raising Hell
+Gosh
+On the Line
+A Worrying Thing
+GOT THESE SONGS
+{'played_at': ['08:12', '08:12', '08:05'], 'valence': [0.288, 0.38, 0.434], 'mood_avg': [0.411, 0.545, 0.581], 'danceability': [0.577, 0.752, 0.775], 'energy': [0.323, 0.459, 0.487], 'image': [u'https://i.scdn.co/image/ab67616d0000b2735ccc62529c77101d6b2f00f3', u'https://i.scdn.co/image/ab67616d0000b273e8ac8f5ea7877d823e5df3ea', u'https://i.scdn.co/image/ab67616d0000b2739d6bd2afa2987a69b7b55f72'], 'album_name': [u'Salvador', u'In Colour', u'Cupid Deluxe'], 'song_name': [u'Raising Hell', u'Gosh', u'On the Line'], 'artist_name': [u'Sega Bodega', u'Jamie xx', u'Blood Orange'], 'track_id': [u'5q9F2CNzrrNQMM7l62S2c6', u'4mlZurguzNJior9siewA8C', u'0geNERhyAP47qUaTaRz2o0']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b2739d6bd2...  ...  0.487
+1  https://i.scdn.co/image/ab67616d0000b273e8ac8f...  ...  0.459
+0  https://i.scdn.co/image/ab67616d0000b2735ccc62...  ...  0.323
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
