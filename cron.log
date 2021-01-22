@@ -39590,3 +39590,26 @@ Getting songs
 Creating dataframe...
 Happiness
 Watching Telly
+[master 9bb3b61] updating daily data 2021-01-22 15:00:06.622622
+ 3 files changed, 28 insertions(+), 1 deletion(-)
+2021-01-22 15:00:05.726205
+Auth happening...
+Getting songs
+Creating dataframe...
+Up From A Dream
+One at a Time
+cellophane
+Biscuit Town
+Jynweythek
+GOT THESE SONGS
+{'played_at': ['14:29', '14:10', '14:07', '14:04'], 'valence': [0.568, 0.646, 0.229, 0.512], 'mood_avg': [0.627, 0.615, 0.321, 0.617], 'danceability': [0.63, 0.478, 0.431, 0.756], 'energy': [0.739, 0.826, 0.284, 0.549], 'image': [u'https://i.scdn.co/image/ab67616d0000b273d2631fe4c90aae7dec8fb0df', u'https://i.scdn.co/image/ab67616d0000b2736d7e970464fcaae1379ac0f8', u'https://i.scdn.co/image/ab67616d0000b2730ca446ea270edb01238cb969', u'https://i.scdn.co/image/ab67616d0000b273c02d78ecd28d80920aa11f1c'], 'album_name': [u'Women In Music Pt. III', u'II (Deluxe Edition)', u'MAGDALENE', u'The OOZ'], 'song_name': [u'Up From A Dream', u'One at a Time', u'cellophane', u'Biscuit Town'], 'artist_name': [u'HAIM', u'Unknown Mortal Orchestra', u'FKA twigs', u'King Krule'], 'track_id': [u'391xSsWIqxAMTNt7pekYZs', u'71GHT92PxUsjBQuPjJlg5u', u'7x8pIrhMu9FCmqqHNyuH0P', u'5650dsaBmvp9FuhCLLyijB']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273c02d78...  ...  0.549
+2  https://i.scdn.co/image/ab67616d0000b2730ca446...  ...  0.284
+1  https://i.scdn.co/image/ab67616d0000b2736d7e97...  ...  0.826
+0  https://i.scdn.co/image/ab67616d0000b273d2631f...  ...  0.739
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
