@@ -39148,3 +39148,82 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master a8f0156] updating daily data 2021-01-21 14:00:04.568399
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-01-21 14:00:04.060574
+Auth happening...
+Getting songs
+Creating dataframe...
+We Out Here - Bonus Track
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-01-21 15:00:04.637023
+Auth happening...
+Getting songs
+Creating dataframe...
+2021-01-21 16:00:06.375463
+Auth happening...
+Getting songs
+Creating dataframe...
+2021-01-21 17:00:04.604395
+Auth happening...
+Getting songs
+Creating dataframe...
+2021-01-21 18:00:04.889551
+Auth happening...
+Getting songs
+Creating dataframe...
+JumpOutTheHouse
+ILoveUIHateU
+Rockstar Made
+Stop Breathing
+Place
+M3tamorphosis (feat. Kid Cudi)
+New Tank
+100%
+Be Nice 2 Me
+Hopprock
+Mean
+Spread a Little Love - Soul Clap Extended Mix
+Self Harm
+2021-01-21 19:00:13.791124
+Auth happening...
+Getting songs
+Creating dataframe...
+Stir Fry
+Project Dreams
+For Free (feat. Drake)
+Wine For Me
+RGF Island
+wokeuplikethis*
+NEIGHBORHOOD SUPPLIER (feat. Stunna 4 Vegas)
+Ever Again
+Not PLaying
+Vamp Anthem
+New N3on
+Over
+No Sl33p
+Punk Monk
+King Vamp
+JumpOutTheHouse
+GOT THESE SONGS
+{'played_at': ['18:59', '18:56', '18:53', '18:50', '18:48', '18:45', '18:41', '18:21', '18:16', '18:13', '18:11', '18:09', '18:07', '18:05', '18:01'], 'valence': [0.508, 0.786, 0.498, 0.473, 0.518, 0.478, 0.691, 0.727, 0.317, 0.641, 0.948, 0.336, 0.432, 0.139, 0.396], 'mood_avg': [0.693, 0.792, 0.68, 0.56, 0.658, 0.629, 0.732, 0.775, 0.605, 0.651, 0.901, 0.572, 0.631, 0.417, 0.586], 'danceability': [0.817, 0.78, 0.916, 0.721, 0.746, 0.785, 0.866, 0.942, 0.815, 0.642, 0.888, 0.622, 0.719, 0.699, 0.691], 'energy': [0.816, 0.828, 0.571, 0.411, 0.764, 0.62, 0.548, 0.539, 0.762, 0.69, 0.833, 0.946, 0.852, 0.408, 0.756], 'image': [u'https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890', u'https://i.scdn.co/image/ab67616d0000b273f58a28a94c29e5ee892f64b5', u'https://i.scdn.co/image/ab67616d0000b273782336c6c9f8350202c64be3', u'https://i.scdn.co/image/ab67616d0000b2730f5397dc6aa91374897182e0', u'https://i.scdn.co/image/ab67616d0000b273de6bd09b07e2b4af4e409f6c', u'https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1', u'https://i.scdn.co/image/ab67616d0000b273b44b33730c18ccbe27cfd641', u'https://i.scdn.co/image/ab67616d0000b273fbf9a966181d8e527f34077f', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb'], 'album_name': [u'Culture II', u'Project Dreams', u'For Free (feat. Drake)', u'I AM YOU', u'Fetty Wap (Deluxe)', u'Playboi Carti', u'YOUNGEST IN KHARGE', u'Honey', u'Whole Lotta Red', u'Whole Lotta Red', u'Whole Lotta Red', u'Whole Lotta Red', u'Whole Lotta Red', u'Whole Lotta Red', u'Whole Lotta Red'], 'song_name': [u'Stir Fry', u'Project Dreams', u'For Free (feat. Drake)', u'Wine For Me', u'RGF Island', u'wokeuplikethis*', u'NEIGHBORHOOD SUPPLIER (feat. Stunna 4 Vegas)', u'Ever Again', u'Not PLaying', u'Vamp Anthem', u'New N3on', u'Over', u'No Sl33p', u'Punk Monk', u'King Vamp'], 'artist_name': [u'Migos', u'Marshmello', u'DJ Khaled', u'YNW Melly', u'Fetty Wap', u'Playboi Carti', u'Justin Rarri', u'Robyn', u'Playboi Carti', u'Playboi Carti', u'Playboi Carti', u'Playboi Carti', u'Playboi Carti', u'Playboi Carti', u'Playboi Carti'], 'track_id': [u'2UVbBKQOdFAekPTRsnkzcf', u'6GSkLS2y4ZnnZsuRAj975K', u'4JDZl9nKIAhAhDjw753u4X', u'0hjyDFEpTFsSODk0Nv4Sbx', u'1iuljeYz6ZG3GTJOZZkoer', u'59J5nzL1KniFHnU120dQzt', u'1vOZHRN8bKUbUesiAhnTkk', u'2E5e4J3nm1LMHkqTS21Dlq', u'03rcC8SVxCa9UdY5qgkITe', u'4CzhtKifG867Lu5DNQVBSA', u'7ejepEh5DJ79YI6owGRfkk', u'08dz3ygXyFur6bL7Au8u8J', u'6i6whmV36EJmxs5zFahMrb', u'5fSZXFOZfPVW9gvnnG4ZVW', u'2iqHcRoOfLl1fXCf1bGO0J']}
+                                                image  ... energy
+14  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.756
+13  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.408
+12  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.852
+11  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.946
+10  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.833
+9   https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...   0.69
+8   https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.762
+7   https://i.scdn.co/image/ab67616d0000b273fbf9a9...  ...  0.539
+6   https://i.scdn.co/image/ab67616d0000b273b44b33...  ...  0.548
+5   https://i.scdn.co/image/ab67616d0000b273e31a27...  ...   0.62
+4   https://i.scdn.co/image/ab67616d0000b273de6bd0...  ...  0.764
+3   https://i.scdn.co/image/ab67616d0000b2730f5397.
