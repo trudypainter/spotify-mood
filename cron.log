@@ -39497,3 +39497,20 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master 2dad667] updating daily data 2021-01-22 10:00:04.773589
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-01-22 10:00:04.037933
+Auth happening...
+Getting songs
+Creating dataframe...
+Puzzles
+Raising Hell
+GOT THESE SONGS
+{'played_at': ['09:03'], 'valence': [0.653], 'mood_avg': [0.582], 'danceability': [0.41], 'energy': [0.782], 'image': [u'https://i.scdn.co/image/ab67616d0000b273ee70875d2ac4c16bdeba0191'], 'album_name': [u'Multi-Love'], 'song_name': [u'Puzzles'], 'artist_name': [u'Unknown Mortal Orchestra'], 'track_id': [u'5cSL08pXdxxmRvm6bAk3RC']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273ee7087...  ...  0.782
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
