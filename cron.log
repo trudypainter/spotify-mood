@@ -39514,3 +39514,56 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master bba39b7] updating daily data 2021-01-22 11:00:04.931203
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+2021-01-22 11:00:04.134036
+Auth happening...
+Getting songs
+Creating dataframe...
+Graceland Too
+Star Song.IMG
+Puzzles
+GOT THESE SONGS
+{'played_at': ['10:58', '10:54'], 'valence': [0.361, 0.0], 'mood_avg': [0.388, 0.064], 'danceability': [0.44, 0.0], 'energy': [0.34, 0.319], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1'], 'album_name': [u'Punisher', u'We Will Always Love You'], 'song_name': [u'Graceland Too', u'Star Song.IMG'], 'artist_name': [u'Phoebe Bridgers', u'The Avalanches'], 'track_id': [u'44spdItKKM7rOtKswbBG0U', u'7gL9qC82hXoHwTzstNWYXi']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.319
+0  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.34
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
+2021-01-22 12:00:06.201384
+Auth happening...
+Getting songs
+Creating dataframe...
+An Echo a Stain
+Modern Soul
+The World Is Crowded
+Always Let U Down
+Frosti
+Out of Me Head
+Better Numb
+Go Ahead
+Isobel
+Cadet Limbo
+Don't Touch My Hair (feat. Sampha)
+Easily
+Strotha Tynhe
+GOT THESE SONGS
+{'played_at': ['11:47', '11:43', '11:37', '11:33', '11:28', '11:26', '11:24', '11:21', '11:18', '11:12', '11:07', '11:03'], 'valence': [0.0752, 0.174, 0.645, 0.334, 0.133, 0.978, 0.329, 0.385, 0.186, 0.0558, 0.397, 0.308], 'mood_avg': [0.351, 0.267, 0.621, 0.578, 0.304, 0.789, 0.321, 0.515, 0.422, 0.291, 0.57, 0.478], 'danceability': [0.542, 0.287, 0.645, 0.719, 0.451, 0.799, 0.299, 0.679, 0.586, 0.464, 0.823, 0.595], 'energy': [0.519, 0.415, 0.527, 0.783, 0.353, 0.39, 0.348, 0.448, 0.564, 0.415, 0.411, 0.585], 'image': [u'https://i.scdn.co/image/ab67616d0000b273bc31229deb79f896eb9fee84', u'https://i.scdn.co/image/ab67616d0000b273559bd53b0292ed01f789a0d8', u'https://i.scdn.co/image/ab67616d0000b273ee70875d2ac4c16bdeba0191', u'https://i.scdn.co/image/ab67616d0000b2739d6bd2afa2987a69b7b55f72', u'https://i.scdn.co/image/ab67616d0000b273bc31229deb79f896eb9fee84', u'https://i.scdn.co/image/ab67616d0000b273c3545bbe806b845c2b52bc20', u'https://i.scdn.co/image/ab67616d0000b273706a733634175d413dedfe54', u'https://i.scdn.co/image/ab67616d0000b2738fdf12fe7f25d791a78375da', u'https://i.scdn.co/image/ab67616d0000b2736aba91ac61162caeeef14460', u'https://i.scdn.co/image/ab67616d0000b273c02d78ecd28d80920aa11f1c', u'https://i.scdn.co/image/ab67616d0000b2731c4540d0ecafaa45305aa5a0', u'https://i.scdn.co/image/ab67616d0000b2734f1235383b41920e64b00a78'], 'album_name': [u'Vespertine', u'The Colour In Anything', u'Multi-Love', u'Cupid Deluxe', u'Vespertine', u'The Lo-Fis', u'Freetown Sound', u'No Shape', u'Post', u'The OOZ', u'A Seat at the Table', u'Art Angels'], 'song_name': [u'An Echo a Stain', u'Modern Soul', u'The World Is Crowded', u'Always Let U Down', u'Frosti', u'Out of Me Head', u'Better Numb', u'Go Ahead', u'Isobel', u'Cadet Limbo', u"Don't Touch My Hair (feat. Sampha)", u'Easily'], 'artist_name': [u'Bj\xf6rk', u'James Blake', u'Unknown Mortal Orchestra', u'Blood Orange', u'Bj\xf6rk', u'Steve Lacy', u'Blood Orange', u'Perfume Genius', u'Bj\xf6rk', u'King Krule', u'Solange', u'Grimes'], 'track_id': [u'1cmvBuBe0DQIkizOhcm5wk', u'0ADFdBeamLf1sUlXnd91SE', u'3GWVkWWgn7su8Z06oBjiiX', u'79GPR5DxNCHs5dpKpcYBDO', u'1XGsj1tkyGJtE3C2Cc9VYT', u'3G9tyuUoBVNTDXY0icrUVf', u'6o56rtbc0ciUPQcDKFGKEd', u'1qDO1C3Pla27evjAe2NNwj', u'2FXjdR7wEPcD5u4Ylqfd5i', u'5A4P0HXluOB7NeEhzMzCKG', u'2TyCAfhwu5tRqFW8VnGMIL', u'6NEyZ1rdMgO90cZ7U4UjO5']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b2734f1235...  ...  0.585
+10  https://i.scdn.co/image/ab67616d0000b2731c4540...  ...  0.411
+9   https://i.scdn.co/image/ab67616d0000b273c02d78...  ...  0.415
+8   https://i.scdn.co/image/ab67616d0000b2736aba91...  ...  0.564
+7   https://i.scdn.co/image/ab67616d0000b2738fdf12...  ...  0.448
+6   https://i.scdn.co/image/ab67616d0000b273706a73...  ...  0.348
+5   https://i.scdn.co/image/ab67616d0000b273c3545b...  ...   0.39
+4   https://i.scdn.co/image/ab67616d0000b273bc3122...  ...  0.353
+3   https://i.scdn.co/image/ab67616d0000b2739d6bd2...  ...  0.783
+2   https://i.scdn.co/image/ab67616d0000b273ee7087...  ...  0.527
+1   https://i.scdn.co/image/ab67616d0000b273559bd5...  ...  0.415
+0   https://i.scdn.co/image/ab67616d0000b273bc3122...  ...  0.519
+
+[12 rows x 10 columns]
