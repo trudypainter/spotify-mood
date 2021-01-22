@@ -39431,3 +39431,48 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master deeae8f] updating daily data 2021-01-22 07:00:05.127154
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-01-22 07:00:03.592057
+Auth happening...
+Getting songs
+Creating dataframe...
+KIKA
+Don't Come Out The House (with 21 Savage)
+I Love It (& Lil Pump)
+BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)
+Jettski Grizzley (feat. Lil Pump)
+PASS OUT (feat. 21 Savage)
+FEFE
+GOT THESE SONGS
+{'played_at': ['06:16', '06:14', '06:11', '06:09', '06:05', '06:02'], 'valence': [0.342, 0.175, 0.329, 0.112, 0.381, 0.441], 'mood_avg': [0.578, 0.488, 0.596, 0.412, 0.678, 0.7], 'danceability': [0.745, 0.87, 0.901, 0.745, 0.875, 0.917], 'energy': [0.715, 0.35, 0.522, 0.346, 0.878, 0.786], 'image': [u'https://i.scdn.co/image/ab67616d0000b2737b4d2b0d46fc5ed7f771329b', u'https://i.scdn.co/image/ab67616d0000b2732887f8c05b5a9f1cb105be29', u'https://i.scdn.co/image/ab67616d0000b273b6d544387b04e1d1a5f7926c', u'https://i.scdn.co/image/ab67616d0000b273f43405f32dfe1c07777c06af', u'https://i.scdn.co/image/ab67616d0000b273d5785624d8bd5b5b98076541', u'https://i.scdn.co/image/ab67616d0000b273a1fc738279f01eb8086fc44d'], 'album_name': [u'DUMMY BOY', u'NOT ALL HEROES WEAR CAPES (Deluxe)', u'I Love It', u'STAY DANGEROUS', u'Activated', u'QUAVO HUNCHO'], 'song_name': [u'KIKA', u"Don't Come Out The House (with 21 Savage)", u'I Love It (& Lil Pump)', u'BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)', u'Jettski Grizzley (feat. Lil Pump)', u'PASS OUT (feat. 21 Savage)'], 'artist_name': [u'6ix9ine', u'Metro Boomin', u'Kanye West', u'YG', u'Tee Grizzley', u'Quavo'], 'track_id': [u'6VRwEqn7BvsN0dChfDrMAf', u'2Grb4G6t9VIqo6moKUloom', u'4S8d14HvHb70ImctNgVzQQ', u'0ZNrc4kNeQYD9koZ3KvCsy', u'2VKf0WEOpq06JE5PTNr9wa', u'3edzl4zvKFi0D3iuF6cs2f']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b273a1fc73...  ...  0.786
+4  https://i.scdn.co/image/ab67616d0000b273d57856...  ...  0.878
+3  https://i.scdn.co/image/ab67616d0000b273f43405...  ...  0.346
+2  https://i.scdn.co/image/ab67616d0000b273b6d544...  ...  0.522
+1  https://i.scdn.co/image/ab67616d0000b2732887f8...  ...   0.35
+0  https://i.scdn.co/image/ab67616d0000b2737b4d2b...  ...  0.715
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
+2021-01-22 08:00:04.036936
+Auth happening...
+Getting songs
+Creating dataframe...
+Shameika
+Heirloom
+Parallel 3
+Weightless
+Never Recover (Lil Baby & Gunna, Drake)
+GOT THESE SONGS
+{'played_at': ['07:57', '07:53', '07:48', '07:47'], 'valence': [0.647, 0.49, 0.0657, 0.028], 'mood_avg': [0.564, 0.495, 0.203, 0.233], 'danceability': [0.375, 0.563, 0.379, 0.373], 'energy': [0.776, 0.368, 0.128, 0.363], 'image': [u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b273bc31229deb79f896eb9fee84', u'https://i.scdn.co/image/ab67616d0000b2738ca7b1e049ed737df8e29d5d', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1'], 'album_name': [u'Fetch The Bolt Cutters', u'Vespertine', u'Parallel', u'We Will Always Love You'], 'song_name': [u'Shameika', u'Heirloom', u'Parallel 3', u'Weightless'], 'artist_name': [u'Fiona Apple', u'Bj\xf6rk', u'Four Tet', u'The Avalanches'], 'track_id': [u'2pDKE8Q40TDGPl1O11DKKn', u'0adu8vRjVtB8k6VCuKFDIw', u'0P5SYXWSgFTsSIKzWelMyh', u'383d4fIERp2dnWr54kpiJu']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.363
+2  https://i.scdn.co/image/ab67616d0000b2738ca7b1...  ...  0.128
+1  https://i.scdn.co/image/ab67616d0000b273bc3122...  ...  0.368
+0  https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.776
+
+[4 rows x 10 columns]
