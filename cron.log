@@ -39990,3 +39990,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 3970e37] updating daily data 2021-01-23 11:00:05.374232
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-01-23 11:00:04.385139
+Auth happening...
+Getting songs
+Creating dataframe...
+Slay3r
+IZ-US
+Ultralight Beam
+MAZZA (feat. A$AP Rocky)
+Tommy
+Multi-Love
+GOT THESE SONGS
+{'played_at': ['10:25', '10:13', '10:11', '10:08', '10:05'], 'valence': [0.436, 0.315, 0.149, 0.354, 0.377], 'mood_avg': [0.661, 0.45, 0.248, 0.536, 0.608], 'danceability': [0.885, 0.581, 0.34, 0.672, 0.716], 'energy': [0.661, 0.459, 0.26, 0.63, 0.855], 'image': [u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b273c4d5de8930bbc762a68c0bc7', u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d', u'https://i.scdn.co/image/ab67616d0000b273f00a6c2276387684d6abdd4c', u'https://i.scdn.co/image/ab67616d0000b2736751f387ae230e690dee6f0f'], 'album_name': [u'Whole Lotta Red', u'Come To Daddy', u'Jesus Is Born', u'MAZZA (feat. A$AP Rocky)', u'Tommy Genesis'], 'song_name': [u'Slay3r', u'IZ-US', u'Ultralight Beam', u'MAZZA (feat. A$AP Rocky)', u'Tommy'], 'artist_name': [u'Playboi Carti', u'Aphex Twin', u'Sunday Service Choir', u'slowthai', u'Tommy Genesis'], 'track_id': [u'1eMNW1HQjF1dbb4GtnmpaX', u'0c0Z5agmnSibjIWjdZV6R1', u'5anPHKl01TNpTe618GzX1m', u'5f7MdwR02i1Lxy9TLi80SA', u'5DIDBpv8X1eDO9v5b5IJn1']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b2736751f3...  ...  0.855
+3  https://i.scdn.co/image/ab67616d0000b273f00a6c...  ...   0.63
+2  https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...   0.26
+1  https://i.scdn.co/image/ab67616d0000b273c4d5de...  ...  0.459
+0  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.661
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
