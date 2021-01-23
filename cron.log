@@ -39954,3 +39954,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 74aa028] updating daily data 2021-01-23 09:00:05.350072
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-01-23 09:00:04.373330
+Auth happening...
+Getting songs
+Creating dataframe...
+Multi-Love
+Psycho (feat. Ty Dolla $ign)
+Multi-Love
+3
+GOT THESE SONGS
+{'played_at': ['08:54', '08:50', '08:46'], 'valence': [0.545, 0.459, 0.545], 'mood_avg': [0.633, 0.596, 0.633], 'danceability': [0.784, 0.75, 0.784], 'energy': [0.506, 0.56, 0.506], 'image': [u'https://i.scdn.co/image/ab67616d0000b273ee70875d2ac4c16bdeba0191', u'https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268', u'https://i.scdn.co/image/ab67616d0000b273ee70875d2ac4c16bdeba0191'], 'album_name': [u'Multi-Love', u'beerbongs & bentleys', u'Multi-Love'], 'song_name': [u'Multi-Love', u'Psycho (feat. Ty Dolla $ign)', u'Multi-Love'], 'artist_name': [u'Unknown Mortal Orchestra', u'Post Malone', u'Unknown Mortal Orchestra'], 'track_id': [u'0PEXp5yk0sx9dJ8JzwvjJb', u'3swc6WTsr7rl9DqQKQA55C', u'0PEXp5yk0sx9dJ8JzwvjJb']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273ee7087...  ...  0.506
+1  https://i.scdn.co/image/ab67616d0000b273b1c4b7...  ...   0.56
+0  https://i.scdn.co/image/ab67616d0000b273ee7087...  ...  0.506
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
