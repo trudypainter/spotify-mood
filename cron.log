@@ -39651,3 +39651,47 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 2c8a841] updating daily data 2021-01-22 18:00:04.692454
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-01-22 18:00:04.113186
+Auth happening...
+Getting songs
+Creating dataframe...
+I Wish You Would
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-01-22 19:00:04.364310
+Auth happening...
+Getting songs
+Creating dataframe...
+Sunflower
+FourFiveSeconds
+Courtside
+All Your Love
+Erase Your Social
+Be Yourself
+Corduroy Dreams
+Can't Be // How U Feel
+4th Dimension
+R.I.P.
+Lift Yourself
+C U Girl
+Heaven's on Fire
+Good Life
+Ramen Waitress
+Super Rich Kids
+thank u, next
+Ghost Of Soulja Slim
+I Wish You Would
+GOT THESE SONGS
+{'played_at': ['18:57', '18:53', '18:49', '18:46', '18:43', '18:40', '18:39', '18:35', '18:33', '18:30', '18:27', '18:25', '18:23', '18:19', '18:16', '18:13', '18:08', '18:01'], 'valence': [0.567, 0.354, 0.621, 0.491, 0.718, 0.935, 0.222, 0.526, 0.734, 0.515, 0.589, 0.409, 0.861, 0.487, 0.668, 0.58, 0.412, 0.246], 'mood_avg': [0.533, 0.429, 0.62, 0.541, 0.691, 0.723, 0.393, 0.627, 0.708, 0.641, 0.673, 0.424, 0.746, 0.532, 0.647, 0.611, 0.582, 0.382], 'danceability': [0.384, 0.582, 0.668, 0.568, 0.705, 0.657, 0.608, 0.632, 0.765, 0.725, 0.877, 0.414, 0.568, 0.439, 0.544, 0.739, 0.717, 0.236], 'energy': [0.765, 0.272, 0.524, 0.587, 0.609, 0.431, 0.305, 0.821, 0.542, 0.725, 0.435, 0.473, 0.874, 0.808, 0.81, 0.419, 0.653, 0.947], 'image': [u'https://i.scdn.co/image/ab67616d0000b27315f4cfd072793fa7532e674a', u'https://i.scdn.co/image/ab67616d0000b27336a9ed72b45e54ff307641be', u'https://i.scdn.co/image/ab67616d0000b273d42a7bb4e092b8a61b7a4f20', u'https://i.scdn.co/image/ab67616d0000b273b67bf44cab4cba7dd776aa6f', u'https://i.scdn.co/image/ab67616d0000b2732143db1c88358d70dd898aa3', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b273dbf3c10406ac999c39bf4a97', u'https://i.scdn.co/image/ab67616d0000b2735215d10c00e2cd296a772bb7', u'https://i.scdn.co/image/ab67616d0000b273013c00ee367dd85396f79c82', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194', u'https://i.scdn.co/image/ab67616d0000b27341c5c57a8cbba3f5c10ed99e', u'https://i.scdn.co/image/ab67616d0000b273447d52024a6ac588ad418ae5', u'https://i.scdn.co/image/ab67616d0000b2737006a66c65d9ec1df308fcb9', u'https://i.scdn.co/image/ab67616d0000b2739bbd79106e510d13a9a5ec33', u'https://i.scdn.co/image/ab67616d0000b273d80350465304247e8b99ea74', u'https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5', u'https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8', u'https://i.scdn.co/image/ab67616d0000b273dc25254953d3e29508b27363'], 'album_name': [u'Sunflower', u'FourFiveSeconds', u'Courtside', u'All Your Love', u'The Perfect LUV Tape', u'Blonde', u'Bcos U Will Never B Free', u'Self', u'KIDS SEE GHOSTS', u'Die Lit', u'Lift Yourself', u'C U Girl', u'Clinging to a Scheme', u'Graduation', u'Hopeless Romantic', u'channel ORANGE', u'thank u, next', u'A Written Testimony'], 'song_name': [u'Sunflower', u'FourFiveSeconds', u'Courtside', u'All Your Love', u'Erase Your Social', u'Be Yourself', u'Corduroy Dreams', u"Can't Be // How U Feel", u'4th Dimension', u'R.I.P.', u'Lift Yourself', u'C U Girl', u"Heaven's on Fire", u'Good Life', u'Ramen Waitress', u'Super Rich Kids', u'thank u, next', u'Ghost Of Soulja Slim'], 'artist_name': [u'Rex Orange County', u'Rihanna', u'Triathalon', u'Jakob Ogawa', u'Lil Uzi Vert', u'Frank Ocean', u'Rex Orange County', u'Billy Lemos', u'KIDS SEE GHOSTS', u'Playboi Carti', u'Kanye West', u'Steve Lacy', u'The Radio Dept.', u'Kanye West', u'High Sunn', u'Frank Ocean', u'Ariana Grande', u'Jay Electronica'], 'track_id': [u'4EpZ4eYuZOwPSSwyqpdHnJ', u'78TTtXnFQPzwqlbtbwqN0y', u'4QBs03zMdjDtS6ZRAdojDv', u'7G7zCzvyqz39BFE7TqPM3O', u'4uhvMW7ly7tJil31YYscAN', u'1IdZvb2XK8NmsovQlV6CPn', u'02tvc9CFnTyHuSRlGeNv9w', u'1sqkc7AFo4UgmoaINBovNd', u'6JyEh4kl9DLwmSAoNDRn5b', u'3L0IKstjUgDFVQAbQIRZRv', u'3uYDO9dPLTVrgfwg7EYXSf', u'6FBzhcfgGacfXF3AmtfEaX', u'20FrfgPQgDRPX6pylOmv2l', u'14blxrgE0VWAgv5aF2wWmx', u'2f4AQJ0A6IRWxSxudtzS5k', u'0725YWm6Z0TpZ6wrNk64Eb', u'3e9HZxeyfWwjeyPAMmWSSQ', u'4T9PRL2ykQDKxgF3XWsPga']}
+                                                image  ... energy
+17  https://i.scdn.co/image/ab67616d0000b273dc2525...  ...  0.947
+16  https://i.scdn.co/image/ab67616d0000b27356ac7b...  ...  0.653
+15  https://i.scdn.co/image/ab
