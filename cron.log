@@ -39723,3 +39723,77 @@ Getting songs
 Creating dataframe...
 Empty
 Biking
+[master f30a614] updating daily data 2021-01-22 21:00:05.801070
+ 3 files changed, 43 insertions(+), 2 deletions(-)
+2021-01-22 21:00:04.310923
+Auth happening...
+Getting songs
+Creating dataframe...
+Deep Down Body Thurst
+911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)
+4 Seasons
+Weekend Friend
+Fifteen on a Skateboard
+Mixed Personalities (feat. Kanye West)
+Every Single Thing
+Seventeen
+SUMMER
+Sunshine Girl - Pt. 2
+Forrest Gump
+I Wonder
+Ryd
+High Horse
+GOT THESE SONGS
+{'played_at': ['20:58', '20:54', '20:50', '20:45', '20:41', '20:38', '20:34', '20:31', '20:29', '20:25', '20:24', '20:20', '20:02'], 'valence': [0.25, 0.297, 0.17, 0.212, 0.308, 0.352, 0.323, 0.197, 0.542, 0.444, 0.186, 0.124, 0.979], 'mood_avg': [0.469, 0.433, 0.362, 0.367, 0.377, 0.493, 0.507, 0.368, 0.526, 0.596, 0.438, 0.36, 0.893], 'danceability': [0.65, 0.48, 0.505, 0.409, 0.367, 0.661, 0.816, 0.457, 0.497, 0.861, 0.701, 0.542, 0.784], 'energy': [0.545, 0.61, 0.458, 0.594, 0.533, 0.44, 0.255, 0.534, 0.55, 0.369, 0.417, 0.466, 0.94], 'image': [u'https://i.scdn.co/image/ab67616d0000b273be23f47224937c9b57a004b2', u'https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3', u'https://i.scdn.co/image/ab67616d0000b27394c6cd33b8be451c2372c6fa', u'https://i.scdn.co/image/ab67616d0000b273a82585185aa1139839d0f9ec', u'https://i.scdn.co/image/ab67616d0000b273d5024313ede967e2e1b01602', u'https://i.scdn.co/image/ab67616d0000b27318fe5f786c4a429f47b1b253', u'https://i.scdn.co/image/ab67616d0000b273cd7c3cba379ae624e118ebcb', u'https://i.scdn.co/image/ab67616d0000b273030b3a60e1041ebec36d2a73', u'https://i.scdn.co/image/ab67616d0000b2737d15fb20303a589acc1ab98b', u'https://i.scdn.co/image/ab67616d0000b2730ec2a5cf3decbd8f787b5bca', u'https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5', u'https://i.scdn.co/image/ab67616d0000b2739bbd79106e510d13a9a5ec33', u'https://i.scdn.co/image/ab67616d0000b273a31dd5d96b9df819e331fdcb'], 'album_name': [u'NO ONE EVER REALLY DIES', u'Flower Boy', u'Apricot Princess', u'Weekend Friend', u'Three', u'We All Shine', u'Fresh Air', u'American Boyfriend: A Suburban Love Story', u'SATURATION II', u'Sunshine Girl', u'channel ORANGE', u'Graduation', u"Steve Lacy's Demo"], 'song_name': [u'Deep Down Body Thurst', u'911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)', u'4 Seasons', u'Weekend Friend', u'Fifteen on a Skateboard', u'Mixed Personalities (feat. Kanye West)', u'Every Single Thing', u'Seventeen', u'SUMMER', u'Sunshine Girl - Pt. 2', u'Forrest Gump', u'I Wonder', u'Ryd'], 'artist_name': [u'N.E.R.D', u'Tyler, The Creator', u'Rex Orange County', u'Goth Babe', u'Diners', u'YNW Melly', u'HOMESHAKE', u'Kevin Abstract', u'BROCKHAMPTON', u'Jakob Ogawa', u'Frank Ocean', u'Kanye West', u'Steve Lacy'], 'track_id': [u'5HBcMAMVgBVUWiLyiK7q4I', u'4bEcoz1OcfMgUbp2ft8ieQ', u'3AbV3JF0bJAZXeHEJZfpke', u'2d3QlXE6FXFDeodiS66yjM', u'1F3jwY8g6tNGpIctctYu4D', u'6vWEAOUSxohKxhp0K1BsxL', u'7yZTPEXSUqWw7sEYKKDv2N', u'03sQJmtsGDLrBtlKoAvUTt', u'66dQdXAbtuPdSasezCQVZE', u'1NSxZttWPsEW2Oj428p42s', u'4YZbVct8l9MnAVIROnLQdx', u'4jQqM4NI79HEcWHUJb8Hvf', u'3I8yVFjvJoOBM9tX4ZpxEL']}
+                                                image  ... energy
+12  https://i.scdn.co/image/ab67616d0000b273a31dd5...  ...   0.94
+11  https://i.scdn.co/image/ab67616d0000b2739bbd79...  ...  0.466
+10  https://i.scdn.co/image/ab67616d0000b2737aede4...  ...  0.417
+9   https://i.scdn.co/image/ab67616d0000b2730ec2a5...  ...  0.369
+8   https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...   0.55
+7   https://i.scdn.co/image/ab67616d0000b273030b3a...  ...  0.534
+6   https://i.scdn.co/image/ab67616d0000b273cd7c3c...  ...  0.255
+5   https://i.scdn.co/image/ab67616d0000b27318fe5f...  ...   0.44
+4   https://i.scdn.co/image/ab67616d0000b273d50243...  ...  0.533
+3   https://i.scdn.co/image/ab67616d0000b273a82585...  ...  0.594
+2   https://i.scdn.co/image/ab67616d0000b27394c6cd...  ...  0.458
+1   https://i.scdn.co/image/ab67616d0000b2738940ac...  ...   0.61
+0   https://i.scdn.co/image/ab67616d0000b273be23f4...  ...  0.545
+
+[13 rows x 10 columns]
+('Rows: ', 13)
+Saved!
+
+2021-01-22 22:00:04.278601
+Auth happening...
+Getting songs
+Creating dataframe...
+June
+Haircut
+Fill Me Up Anthem
+Runaway
+2SEATER (feat. Aaron Shaw, Samantha Nelson & Austin Feinstein)
+I Love You So
+Young Lion
+Violent Crimes
+Come Back to Earth
+Self Control
+Cleaner Air
+Powerslide
+Seven
+Sidelines
+American Spirits
+Nova Scotia 500
+Deep Down Body Thurst
+GOT THESE SONGS
+{'played_at': ['21:59', '21:55', '21:52', '21:47', '21:38', '21:31', '21:28', '21:27', '21:23', '21:20', '21:16', '21:14', '21:11', '21:07', '21:04', '21:01'], 'valence': [0.268, 0.546, 0.548, 0.111, 0.348, 0.503, 0.363, 0.0397, 0.119, 0.446, 0.849, 0.734, 0.832, 0.809, 0.877, 0.476], 'mood_avg': [0.478, 0.629, 0.561, 0.308, 0.419, 0.566, 0.302, 0.367, 0.204, 0.449, 0.786, 0.731, 0.694, 0.71, 0.717, 0.585], 'danceability': [0.691, 0.779, 0.56, 0.374, 0.352, 0.578, 0.272, 0.669, 0.272, 0.572, 0.717, 0.839, 0.692, 0.639, 0.503, 0.603], 'energy': [0.472, 0.495, 0.587, 0.568, 0.693, 0.669, 0.238, 0.419, 0.238, 0.209, 0.797, 0.511, 0.421, 0.655, 0.824, 0.768], 'image': [u'https://i.scdn.co/image/ab67616d0000b2734c4c1c83c93939c45bb5ed1d', u'https://i.scdn.co/image/ab67616d0000b273f5836791fd265b08343034cd', u'https://i.scdn.co/image/ab67616d0000b2736b1061b8c63e7a7b6727234b', u'https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f', u'https://i.scdn.co/image/ab67616d0000b2730f2e9f092b4e9c4424afb446', u'https://i.scdn.co/image/ab67616d0000b273acf9c94f73fede70cca51d5e', u'https://i.scdn.co/image/ab67616d0000b27363fcc0d5defd6b6da534b002', u'https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2', u'https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b273a628aafe33421f50c08ed3c2', u'https://i.scdn.co/image/ab67616d0000b273f5836791fd265b08343034cd', u'https://i.scdn.co/image/ab67616d0000b273591fa5bb8ab3ec41455d6279', u'https://i.scdn.co/image/ab67616d0000b27384feca0133d9a8e6539a8325', u'https://i.scdn.co/image/ab67616d0000b273bb19d97e05228f69f0cbac8a', u'https://i.scdn.co/image/ab67616d0000b273dfe1b27544c677d741c0c51e'], 'album_name': [u'Natalie Green is my Lover', u'Boy in Jeans', u'Fill Me Up Anthem', u'My Beautiful Dark Twisted Fantasy', u'Cherry Bomb', u'Songs for Dads', u'Modern Vampires of the City', u'ye', u'Swimming', u'Blonde', u'Cleaner Air', u'Boy in Jeans', u'Seven', u'Nothing Happens', u'III', u'Goose Bumps'], 'song_name': [u'June', u'Haircut', u'Fill Me Up Anthem', u'Runaway', u'2SEATER (feat. Aaron Shaw, Samantha Nelson & Austin Feinstein)', u'I Love You So', u'Young Lion', u'Violent Crimes', u'Come Back to Earth', u'Self Control', u'Cleaner Air', u'Powerslide', u'Seven', u'Sidelines', u'American Spirits', u'Nova Scotia 500'], 'artist_name': [u'Natalie Green', u'Ryan Beatty', u'Gus Dapperton', u'Kanye West', u'Tyler, The Creator', u'The Walters', u'Vampire Weekend', u'Kanye West', u'Mac Miller', u'Frank Ocean', u'Yeek', u'Ryan Beatty', u'Men I Trust', u'Wallows', u'Inner Wave', u'Boyscott'], 'track_id': [u'6URCJJRPQAJyxKhzILWllf', u'3UY4s7F4Ard3T6vm7xcJxQ', u'6RzMzTdBOH05fQN8DvY2iQ', u'3DK6m7It6Pw857FcQftMds', u'6Xw3iWrQKgArwlRhVuU9CK', u'1175r6ZmkUjX8dRJLz9Ohk', u'1ZcI6ZPRjKhuF2fhxTCRGD', u'3s7MCdXyWmwjdcWh7GWXas', u'01z2fBGB8Hl3Jd3zXe4IXR', u'5GUYJTQap5F3RDQiCOJhrS', u'3uwrczwM9A3xX63jlcRhIC', u'5x1Ctt9JCZNU5UhJWbHoQp', u'2dwvxOHnQjndZLowIR6PiS', u'3gar285uWggoxHwOwO7Ng9', u'01w1oN1WO5aOThHnLBN8eS', u'3OrI7MO3lL6F4dUYS5rCkz']}
+                                                image  ... energy
+15  https://i.scdn.co/image/ab67616d0000b273dfe1b2...  ...  0.768
+14  https://i.scdn.co/image/ab67616d0000b273bb19d9...  ...  0.824
+13  https://i.scdn.co/image/ab67616d0000b27384feca...  ...  0.655
+12  https://i.scdn.co/image/ab67616d0000b273591fa5...  ...  0.421
+11  https://i.scdn.co/image/ab67616d0000b273f58367...  ...  0.511
+10  https://i.scdn.co/image/ab67616d0000b273a628aa...  ...  0.797
+9   https://i.scdn.co/image/ab67616d0000b273c5649a...  ...  0.209
+8   https://i.scdn.co/image/ab67616d0000b273175c57...  ...  0.238
+7   https
