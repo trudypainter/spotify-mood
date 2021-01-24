@@ -40316,3 +40316,38 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 4030fc8] updating daily data 2021-01-24 08:00:04.890505
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-01-24 08:00:03.699365
+Auth happening...
+Getting songs
+Creating dataframe...
+Me Too
+Surgery
+King Kunta
+Shooters
+G.O.M.D.
+Whoopty
+Nobody's Around
+ORANGE SODA
+Thick Niggas and Anime Tiddies
+Legend
+Slay3r
+GOT THESE SONGS
+{'played_at': ['07:53', '07:50', '07:46', '07:42', '07:38', '07:33', '07:30', '07:27', '07:25', '07:23'], 'valence': [0.36, 0.501, 0.489, 0.117, 0.304, 0.737, 0.154, 0.107, 0.736, 0.477], 'mood_avg': [0.555, 0.64, 0.681, 0.412, 0.556, 0.699, 0.441, 0.488, 0.747, 0.52], 'danceability': [0.726, 0.88, 0.884, 0.639, 0.89, 0.711, 0.707, 0.83, 0.904, 0.634], 'energy': [0.605, 0.436, 0.657, 0.547, 0.393, 0.598, 0.482, 0.564, 0.454, 0.377], 'image': [u'https://i.scdn.co/image/ab67616d0000b273de876c64c4540805b0697f61', u'https://i.scdn.co/image/ab67616d0000b273dabce22a1c4152462ac628b2', u'https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1', u'https://i.scdn.co/image/ab67616d0000b273f7ae3e24169dae52de6dd842', u'https://i.scdn.co/image/ab67616d0000b2736aca031ccc27d2e4dd829d14', u'https://i.scdn.co/image/ab67616d0000b2739ad6e9cfa9573b5933d3f9bb', u'https://i.scdn.co/image/ab67616d0000b2730f47d89f02cd58a168b8193e', u'https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1', u'https://i.scdn.co/image/ab67616d0000b273cf242f299d9a576ff3914248', u'https://i.scdn.co/image/ab67616d0000b27306491125afedadec28527ea9'], 'album_name': [u'Luca Brasi 3', u'My Life 4Hunnid', u'To Pimp A Butterfly', u"MEMORIES DON'T DIE", u'2014 Forest Hills Drive', u'Whoopty', u'Melly vs. Melvin', u'DIE FOR MY BITCH', u'Thick Niggas and Anime Tiddies', u'Neighborhood Hero'], 'song_name': [u'Me Too', u'Surgery', u'King Kunta', u'Shooters', u'G.O.M.D.', u'Whoopty', u"Nobody's Around", u'ORANGE SODA', u'Thick Niggas and Anime Tiddies', u'Legend'], 'artist_name': [u'Kevin Gates', u'YG', u'Kendrick Lamar', u'Tory Lanez', u'J. Cole', u'CJ', u'YNW Melly', u'Baby Keem', u'Dbangz', u'NoCap'], 'track_id': [u'3yXFcbGxFn2au5q3pShkAe', u'3RniWkfPXJGxxM4IeBBRCe', u'0N3W5peJUQtI4eyR6GJT5O', u'6TrjaOqUwdKQ7KNxJr2s9Y', u'16qYlQ6koFxYVbiJbGHblz', u'5vGLcdRuSbUhD8ScwsGSdA', u'0Y42Np66Dz33VKgxIcUgOx', u'5FkoSXiJPKTNyYgALRJFhD', u'5Cax3xGAakyANy1tFZZ5Yv', u'2dMzpyiQmDvaADi3wxXL4Z']}
+                                               image  ... energy
+9  https://i.scdn.co/image/ab67616d0000b273064911...  ...  0.377
+8  https://i.scdn.co/image/ab67616d0000b273cf242f...  ...  0.454
+7  https://i.scdn.co/image/ab67616d0000b273683757...  ...  0.564
+6  https://i.scdn.co/image/ab67616d0000b2730f47d8...  ...  0.482
+5  https://i.scdn.co/image/ab67616d0000b2739ad6e9...  ...  0.598
+4  https://i.scdn.co/image/ab67616d0000b2736aca03...  ...  0.393
+3  https://i.scdn.co/image/ab67616d0000b273f7ae3e...  ...  0.547
+2  https://i.scdn.co/image/ab67616d0000b273cdb645...  ...  0.657
+1  https://i.scdn.co/image/ab67616d0000b273dabce2...  ...  0.436
+0  https://i.scdn.co/image/ab67616d0000b273de876c...  ...  0.605
+
+[10 rows x 10 columns]
+('Rows: ', 10)
+Saved!
+
