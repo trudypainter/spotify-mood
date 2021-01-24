@@ -40385,3 +40385,28 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master 767c066] updating daily data 2021-01-24 11:00:04.731293
+ 3 files changed, 25 insertions(+), 1 deletion(-)
+2021-01-24 11:00:03.791563
+Auth happening...
+Getting songs
+Creating dataframe...
+Cold
+DO U LIKE ME NOW?
+Want Some More
+smut
+F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)
+Uh Oh Thots (Remix)
+GOT THESE SONGS
+{'played_at': ['10:18', '10:15', '10:13', '10:09', '10:04'], 'valence': [0.782, 0.516, 0.214, 0.294, 0.662], 'mood_avg': [0.764, 0.562, 0.516, 0.413, 0.745], 'danceability': [0.675, 0.531, 0.842, 0.535, 0.853], 'energy': [0.906, 0.717, 0.466, 0.406, 0.693], 'image': [u'https://i.scdn.co/image/ab67616d0000b273ea2f8f07a050f8dc9ff93de0', u'https://i.scdn.co/image/ab67616d0000b27330ee79afd0b3c660f2aec58d', u'https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458', u'https://i.scdn.co/image/ab67616d0000b273e750cb4ef38953085c7a580e', u'https://i.scdn.co/image/ab67616d0000b273f3d5966c161176c6d72fc3b3'], 'album_name': [u'Anger Management', u'DO U LIKE ME NOW?', u'The Pinkprint (Deluxe)', u'ROSETTA', u'LONG.LIVE.A$AP (Deluxe Version)'], 'song_name': [u'Cold', u'DO U LIKE ME NOW?', u'Want Some More', u'smut', u"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)"], 'artist_name': [u'Rico Nasty', u'Dana Dentata', u'Nicki Minaj', u'Dua Saleh', u'A$AP Rocky'], 'track_id': [u'4Onanh2sbZQKTGH8KvWzxS', u'22Uh81w7dh0sdE4egnLndv', u'6cJ7CoT1gJ89Xy7NJXIInt', u'3SiTzuHs4OnqMt61vzPA0e', u'4X5f3vT8MRuXF68pfjNte5']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273f3d596...  ...  0.693
+3  https://i.scdn.co/image/ab67616d0000b273e750cb...  ...  0.406
+2  https://i.scdn.co/image/ab67616d0000b2730f79d1...  ...  0.466
+1  https://i.scdn.co/image/ab67616d0000b27330ee79...  ...  0.717
+0  https://i.scdn.co/image/ab67616d0000b273ea2f8f...  ...  0.906
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
