@@ -40366,3 +40366,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master c4c0b41] updating daily data 2021-01-24 10:00:04.813926
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-01-24 10:00:04.046077
+Auth happening...
+Getting songs
+Creating dataframe...
+Hard Work Pays Off
+Out of My Head
+Me Too
+GOT THESE SONGS
+{'played_at': ['09:57', '09:47'], 'valence': [0.608, 0.253], 'mood_avg': [0.634, 0.451], 'danceability': [0.736, 0.573], 'energy': [0.482, 0.601], 'image': [u'https://i.scdn.co/image/ab67616d0000b273644c510e8d4c02ae69028297', u'https://i.scdn.co/image/ab67616d0000b2730e27212feb83fa25264cf57b'], 'album_name': [u'Future & Juice WRLD Present... WRLD ON DRUGS', u'Out of My Head'], 'song_name': [u'Hard Work Pays Off', u'Out of My Head'], 'artist_name': [u'Future', u'Kamari'], 'track_id': [u'6gzIcEUuswJQGfJNPYMjjv', u'4HKXKVOgVG4tpXxqkgor07']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b2730e2721...  ...  0.601
+0  https://i.scdn.co/image/ab67616d0000b273644c51...  ...  0.482
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
