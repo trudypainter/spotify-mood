@@ -40425,3 +40425,64 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master d59db8d] updating daily data 2021-01-24 13:00:06.989711
+ 3 files changed, 25 insertions(+), 1 deletion(-)
+2021-01-24 13:00:05.612051
+Auth happening...
+Getting songs
+Creating dataframe...
+Woo
+DO A BITCH
+Not Friendly
+Give Her Some Money
+Pose
+SOUTHPAW
+DO U LIKE ME NOW?
+Rebel Girl
+Reign in Ratchet
+Cold
+GOT THESE SONGS
+{'played_at': ['12:59', '12:55', '12:52', '12:48', '12:45', '12:43', '12:39', '12:36', '12:34'], 'valence': [0.185, 0.317, 0.656, 0.249, 0.77, 0.434, 0.516, 0.531, 0.38], 'mood_avg': [0.335, 0.557, 0.772, 0.552, 0.752, 0.511, 0.562, 0.598, 0.576], 'danceability': [0.42, 0.87, 0.878, 0.872, 0.685, 0.471, 0.531, 0.487, 0.592], 'energy': [0.466, 0.41, 0.793, 0.516, 0.852, 0.746, 0.717, 0.956, 0.934], 'image': [u'https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093', u'https://i.scdn.co/image/ab67616d0000b2730636a1be50641f6472a16a14', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b27324a0b8c64370ac9fb7f0fae1', u'https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093', u'https://i.scdn.co/image/ab67616d0000b27372ed9e5c58f9c2e4600672f9', u'https://i.scdn.co/image/ab67616d0000b27330ee79afd0b3c660f2aec58d', u'https://i.scdn.co/image/ab67616d0000b2735d51cc215a4e6cdf1f96e4da', u'https://i.scdn.co/image/ab67616d0000b273219d864a353e568f2931abc0'], 'album_name': [u'ANTI (Deluxe)', u'DO A BITCH', u'Ho, why is you here ?', u'Give Her Some Money', u'ANTI (Deluxe)', u'SOUTHPAW', u'DO U LIKE ME NOW?', u'The Singles', u'Reign in Ratchet'], 'song_name': [u'Woo', u'DO A BITCH', u'Not Friendly', u'Give Her Some Money', u'Pose', u'SOUTHPAW', u'DO U LIKE ME NOW?', u'Rebel Girl', u'Reign in Ratchet'], 'artist_name': [u'Rihanna', u'Kali', u'Flo Milli', u'Maliibu Miitch', u'Rihanna', u'Ivy Sole', u'Dana Dentata', u'Bikini Kill', u'Contessa Stuto'], 'track_id': [u'3HQcsqRjRdruUjkbDSgmVF', u'7kppEmkcJQCNIAjJ0YWJWy', u'2le8xbpMJ1aA0SpJZRMbRw', u'6hrHoJmuISU9FhbFxGgrr1', u'4UTizOdGljPIIbXtoXycAd', u'6CMjWLeLPVe8YjtatZzxGr', u'22Uh81w7dh0sdE4egnLndv', u'3n0zZ1V9PXLsxtyTiqDhuQ', u'4InYGZ4R4DOuhpm2DCd0dR']}
+                                               image  ... energy
+8  https://i.scdn.co/image/ab67616d0000b273219d86...  ...  0.934
+7  https://i.scdn.co/image/ab67616d0000b2735d51cc...  ...  0.956
+6  https://i.scdn.co/image/ab67616d0000b27330ee79...  ...  0.717
+5  https://i.scdn.co/image/ab67616d0000b27372ed9e...  ...  0.746
+4  https://i.scdn.co/image/ab67616d0000b27333c6b9...  ...  0.852
+3  https://i.scdn.co/image/ab67616d0000b27324a0b8...  ...  0.516
+2  https://i.scdn.co/image/ab67616d0000b2733ae4c6...  ...  0.793
+1  https://i.scdn.co/image/ab67616d0000b2730636a1...  ...   0.41
+0  https://i.scdn.co/image/ab67616d0000b27333c6b9...  ...  0.466
+
+[9 rows x 10 columns]
+('Rows: ', 9)
+Saved!
+
+2021-01-24 14:00:05.033243
+Auth happening...
+Getting songs
+Creating dataframe...
+Welcome to the Circus
+Heart Of Glass (Live from the iHeart Festival)
+Fresh Meat Remix
+Fight Club
+Daddy AF
+Frida
+Girls in the Hood
+Roman's Revenge
+Nunnadet Shit
+smut
+Rage
+Slut Game Strong
+I Only Fucked You as a Joke
+Bitches Leave
+Crazy House
+I'm Hungry
+Playing Your Song
+Want Some More
+Cold
+I Eat Boys Like You for Breakfast
+Pussycat Doll
+Woo
+GOT THESE SONGS
+{'played_at': ['13:59', '13:57', '13:54', '13:51', '13:49', '13:46', '13:43', '13:41', '13:36', '13:32', '13:28', '13:26', '13:24', '13:22', '13:20', '13:17', '13:14', '13:10', '13:07', '13:04', '13:02'], 'valence': [0.805, 0.427, 0.317, 0.374, 0.316, 0.35, 0.797, 0.449, 0.607, 0.294, 0.728, 0.467, 0.817, 0.535, 0.68, 0.627, 0.172, 0.214, 0.782, 0.783, 0.938], 'mood_avg': [0.791, 0.584, 0.571, 0.505, 0.563, 0.558, 0.81, 0.692, 0.751, 0.413, 0.806, 0.53, 0.668, 0.538, 0.755, 0.7, 0.437, 0.516, 0.764, 0.698, 0.884], 'danceability': [0.734, 0.58, 0.619, 0.445, 0.713, 0.793, 0.821, 0.809, 0.955, 0.535, 0.836, 0.486, 0.417, 0.363, 0.77, 0.861, 0.458, 0.842, 0.675, 0.646, 0.886], 'energy': [0.879, 0.908, 0.983, 0.887, 0.757, 0.502, 0.816, 0.946, 0.63, 0.406, 0.901, 0.745, 0.872, 0.895, 0.873, 0.526, 0.926, 0.466, 0.906, 0.633, 0.772], 'image': [u'https://i.scdn.co/image/ab67616d0000b273f830902bc6e8ee64d4140ca3', u'https://i.scdn.co/image/ab67616d0000b27358577eee4dcd34c7be1512d1', u'https://i.scdn.co/image/ab67616d0000b2730087a87a533fd43b93f40efd', u'https://i.scdn.co/image/ab67616d0000b273024ea7e883a713a3ad552a71', u'https://i.scdn.co/image/ab67616d0000b273ca6187161cf8e97badac518f', u'https://i.scdn.co/image/ab67616d0000b273b41899cadb99a2784c3327a1', u'https://i.scdn.co/image/ab67616d0000b273da256972582b455d46985ba9', u'https://i.scdn.co/image/ab67616d0000b273aa7d2641af0fa4c1f76fafbf', u'https://i.scdn.co/image/ab67616d0000b273be7a0f2b5c3115237b0a275c', u'https://i.scdn.co/image/ab67616d0000b273e750cb4ef38953085c7a580e', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b2731397a7bcb843728ecddd7ffe', u'https://i.scdn.co/image/ab67616d0000b273075740710bad63f9e32c138c', u'https://i.scdn.co/image/ab67616d0000b2730bf771237eb3ff0c6e3d78a2', u'https://i.scdn.co/image/ab67616d0000b273f830902bc6e8ee64d4140ca3', u'https://i.scdn.co/image/ab67616d0000b27394f2c4eb36fe2936033915dd', u'https://i.scdn.co/image/ab67616d0000b2730649124c37ce988317263671', u'https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458', u'https://i.scdn.co/image/ab67616d0000b273ea2f8f07a050f8dc9ff93de0', u'https://i.scdn.co/image/ab67616d0000b27367b9f8266063e51cc437854e', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb'], 'album_name': [u'Everything Sucks', u'Heart Of Glass / Midnight Sky', u'Fresh Meat Remix', u'THE ANXIETY', u'Daddy AF', u'Muthaleficent', u'Good News', u'Pink Friday (Complete Edition)', u'Nunnadet Shit', u'ROSETTA', u'Nasty', u'Nailed It', u"It's a Girl!", u'Get Awkward', u'Everything Sucks', u"I'm Hungry", u'Celebrity Skin', u'The Pinkprint (Deluxe)', u'Anger Management', u'The 1st Session', u'Ho, why is you here ?'], 'song_name': [u'Welcome to the Circus', u'Heart Of Glass (Live from the iHeart Festival)', u'Fresh Meat Remix', u'Fight Club', u'Daddy AF', u'Frida', u'Girls in the Hood', u"Roman's Revenge", u'Nunnadet Shit', u'smut', u'Rage', u'Slut Game Strong', u'I Only Fucked You as a Joke', u'Bitches Leave', u'Crazy House', u"I'm Hungry", u'Playing Your Song', u'Want Some More', u'Cold', u'I Eat Boys Like You for Breakfast', u'Pussycat Doll'], 'artist_name': [u'Princess Nokia', u'Miley Cyrus', u'Contessa Stuto', u'THE ANXIETY', u'Slayyyter', u'BbyMutha', u'Megan Thee Stallion', u'Nicki Minaj', u'Asian Doll', u'Dua Saleh', u'Rico Nasty', u'Cheap Perfume', u'Childbirth', u'be your own PET', u'Princess Nokia', u'Contessa Stuto', u'Hole', u'Nicki Minaj', u'Rico Nasty', u'Riot Grrrl Sessions', u'Flo Milli'], 'track_id': [u'0D1HUNp7DqwRCsJVG3w1Xm', u'5i7ThJfYLAzp2DyZuFpF6j', u'1EfFUZvUPp7NtfokMYjJfb', u'2qkiFeuGW1hFVEEiUMthnL', u'5Pj9i
