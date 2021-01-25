@@ -40528,3 +40528,78 @@ Creating dataframe...
 Shake It (feat. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar)
 Best Friend (feat. Doja Cat)
 damn Right
+[master 971730c] updating daily data 2021-01-24 17:00:06.048892
+ 3 files changed, 56 insertions(+), 2 deletions(-)
+2021-01-24 17:00:04.456820
+Auth happening...
+Getting songs
+Creating dataframe...
+Click (feat. Kim Petras and Tommy Cash)
+Trader Joe
+Count Contessa
+Kerosene!
+Self Destruct
+might bang, might not
+In The Party
+Luxury
+Freak
+Bitch I'm Nasty
+Elephant
+Luxury
+Shake It (feat. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar)
+GOT THESE SONGS
+{'played_at': ['16:58', '16:54', '16:51', '16:46', '16:40', '16:37', '16:35', '16:33', '16:29', '16:05', '16:04', '16:01'], 'valence': [0.529, 0.589, 0.453, 0.299, 0.141, 0.644, 0.418, 0.569, 0.373, 0.342, 0.717, 0.569], 'mood_avg': [0.639, 0.693, 0.611, 0.471, 0.432, 0.576, 0.657, 0.685, 0.568, 0.645, 0.77, 0.685], 'danceability': [0.677, 0.872, 0.595, 0.506, 0.541, 0.431, 0.919, 0.689, 0.688, 0.953, 0.86, 0.689], 'energy': [0.781, 0.541, 0.957, 0.746, 0.797, 0.731, 0.609, 0.91, 0.716, 0.636, 0.694, 0.91], 'image': [u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273afd259c82011df4f2a0167ce', u'https://i.scdn.co/image/ab67616d0000b273e271c649ef92d73d64f0716d', u'https://i.scdn.co/image/ab67616d0000b273043864250fbec5f57c7076a7', u'https://i.scdn.co/image/ab67616d0000b27353eda473a9e619c6c4a150ce', u'https://i.scdn.co/image/ab67616d0000b273d0bb66e4667e13d4fdc739d6', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b273b5efe29cb31508624b9f59d5', u'https://i.scdn.co/image/ab67616d0000b27363a175ab64de0b0ada98700e', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b273dd4e4609eb5106f9e2900e15', u'https://i.scdn.co/image/ab67616d0000b273b5efe29cb31508624b9f59d5'], 'album_name': [u'Charli', u'Jp3', u'Count Contessa', u'Heaven To A Tortured Mind', u'Self Destruct (feat. Wuki)', u'Drop 6', u'Ho, why is you here ?', u'Broke with Expensive Taste', u'Freak', u'Nasty', u'Elephant', u'Broke with Expensive Taste'], 'song_name': [u'Click (feat. Kim Petras and Tommy Cash)', u'Trader Joe', u'Count Contessa', u'Kerosene!', u'Self Destruct', u'might bang, might not', u'In The Party', u'Luxury', u'Freak', u"Bitch I'm Nasty", u'Elephant', u'Luxury'], 'artist_name': [u'Charli XCX', u'Junglepussy', u'Azealia Banks', u'Yves Tumor', u'Slayyyter', u'Little Simz', u'Flo Milli', u'Azealia Banks', u'Doja Cat', u'Rico Nasty', u'cupcakKe', u'Azealia Banks'], 'track_id': [u'3B0K8G7WESjdKxQvVMByR9', u'68UwqWt98BW1QdDnGV9DO1', u'5qc9oEjMRZvdECu3g5vU8P', u'1Kjw0LwdniCWran4PxJqPQ', u'4ysFUHV0U6cxRECKZat00X', u'0lAenyfo765pFS0irWQ0sG', u'52BJrldggFQyTiW8XrILhO', u'7IzN1BfaQ8fmTHYPRPhNws', u'3aA6xB0tOilDDX17fIJ0Bl', u'2xXNa4tR2CronQsZ6OKQtP', u'2s1eBtPKbg1B0nYbcwEucx', u'7IzN1BfaQ8fmTHYPRPhNws']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b273b5efe2...  ...   0.91
+10  https://i.scdn.co/image/ab67616d0000b273dd4e46...  ...  0.694
+9   https://i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.636
+8   https://i.scdn.co/image/ab67616d0000b27363a175...  ...  0.716
+7   https://i.scdn.co/image/ab67616d0000b273b5efe2...  ...   0.91
+6   https://i.scdn.co/image/ab67616d0000b2733ae4c6...  ...  0.609
+5   https://i.scdn.co/image/ab67616d0000b273d0bb66...  ...  0.731
+4   https://i.scdn.co/image/ab67616d0000b27353eda4...  ...  0.797
+3   https://i.scdn.co/image/ab67616d0000b273043864...  ...  0.746
+2   https://i.scdn.co/image/ab67616d0000b273e271c6...  ...  0.957
+1   https://i.scdn.co/image/ab67616d0000b273afd259...  ...  0.541
+0   https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.781
+
+[12 rows x 10 columns]
+('Rows: ', 12)
+Saved!
+
+2021-01-24 18:00:16.192995
+Auth happening...
+Getting songs
+Creating dataframe...
+Die 4 You
+Out of Me Head
+Jonny
+Faded In The Morning
+IDORU
+Vowels = space and time
+Lonely Blue
+I Miss You
+Kerosene!
+Artangels
+Dead Man Walking
+Freaky Girls (feat. SZA)
+Sensitive
+OHFR?
+GOT THESE SONGS
+{'played_at': ['17:56', '17:52', '17:50', '17:46', '17:42', '17:34', '17:30', '17:25', '17:21', '17:16', '17:10', '17:05', '17:03'], 'valence': [0.264, 0.978, 0.244, 0.728, 0.472, 0.753, 0.0398, 0.102, 0.299, 0.435, 0.439, 0.249, 0.351], 'mood_avg': [0.285, 0.789, 0.387, 0.714, 0.535, 0.746, 0.288, 0.448, 0.471, 0.592, 0.431, 0.564, 0.511], 'danceability': [0.257, 0.799, 0.609, 0.591, 0.42, 0.701, 0.496, 0.637, 0.506, 0.569, 0.505, 0.821, 0.601], 'energy': [0.381, 0.39, 0.231, 0.932, 0.892, 0.822, 0.366, 0.761, 0.746, 0.951, 0.267, 0.681, 0.649], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738fdf12fe7f25d791a78375da', u'https://i.scdn.co/image/ab67616d0000b273c3545bbe806b845c2b52bc20', u'https://i.scdn.co/image/ab67616d0000b273863a30c04dd17e33a627fd31', u'https://i.scdn.co/image/ab67616d0000b2736d7e970464fcaae1379ac0f8', u'https://i.scdn.co/image/ab67616d0000b2731a302aafa2ea587960e27951', u'https://i.scdn.co/image/ab67616d0000b273550133f6d334ed152d75aa56', u'https://i.scdn.co/image/ab67616d0000b273c02d78ecd28d80920aa11f1c', u'https://i.scdn.co/image/ab67616d0000b2736aba91ac61162caeeef14460', u'https://i.scdn.co/image/ab67616d0000b273043864250fbec5f57c7076a7', u'https://i.scdn.co/image/ab67616d0000b2734f1235383b41920e64b00a78', u'https://i.scdn.co/image/ab67616d0000b2738d8aae8ad272d6f225f2ea28', u'https://i.scdn.co/image/ab67616d0000b273da256972582b455d46985ba9', u'https://i.scdn.co/image/ab67616d0000b2736c14371fb79606d6a937550b'], 'album_name': [u'No Shape', u'The Lo-Fis', u'Atlanta Millionaires Club', u'II (Deluxe Edition)', u'Miss Anthropocene (Deluxe Edition)', u'Visions', u'The OOZ', u'Post', u'Heaven To A Tortured Mind', u'Art Angels', u'Dead Man Walking', u'Good News', u'Sensitive'], 'song_name': [u'Die 4 You', u'Out of Me Head', u'Jonny', u'Faded In The Morning', u'IDORU', u'Vowels = space and time', u'Lonely Blue', u'I Miss You', u'Kerosene!', u'Artangels', u'Dead Man Walking', u'Freaky Girls (feat. SZA)', u'Sensitive'], 'artist_name': [u'Perfume Genius', u'Steve Lacy', u'Faye Webster', u'Unknown Mortal Orchestra', u'Grimes', u'Grimes', u'King Krule', u'Bj\xf6rk', u'Yves Tumor', u'Grimes', u'Brent Faiyaz', u'Megan Thee Stallion', u'Serena Isioma'], 'track_id': [u'2OBY3aeK3P2iiB6tkuanRz', u'3G9tyuUoBVNTDXY0icrUVf', u'5aJIjLBkHl6UYB6DoSEF3n', u'29rXQtC2wgdm68Z6EsDAWl', u'4mlkj14AjRMGnyYlcEbZlB', u'5QZhC2eaVU45XL6tC7PJjS', u'0MNyneZBpAC3nj9YurA6j8', u'3MWqudu2oIERgRqu5MOMbB', u'1Kjw0LwdniCWran4PxJqPQ', u'6kh5fj610DhNF1e02og1PL', u'5VlTQnZO89Ioku8ssdbqJk', u'4RAEVQeHanpXyK2lrEUkMk', u'0oHEteATZnAZuA9dl1dXF3']}
+                                                image  ... energy
+12  https://i.scdn.co/image/ab67616d0000b2736c1437...  ...  0.649
+11  https://i.scdn.co/image/ab67616d0000b273da2569...  ...  0.681
+10  https://i.scdn.co/image/ab67616d0000b2738d8aae...  ...  0.267
+9   https://i.scdn.co/image/ab67616d0000b2734f1235...  ...  0.951
+8   https://i.scdn.co/image/ab67616d0000b273043864...  ...  0.746
+7   https://i.scdn.co/image/ab67616d0000b2736aba91...  ...  0.761
+6   https://i.scdn.co/image/ab67616d0000b273c02d78...  ...  0.366
+5   https://i.scdn.co/image/ab67616d0000b273550133...  ...  0.822
+4   https://i.scdn.co/image/ab67616d0000b2731a302a...  ...  0.892
+3   https://i.scdn.co/image/ab67616d0000b2736d7e97...  ...  0.932
+2   https://i.scdn.co/image/ab67616d0000b273863a30...  ...  0.231
+1   https://i.scdn.co/image/ab67616d0000b273c3545b...  ...   0.39
+0   https://i.scdn.co/image/ab67616d0000b2738fdf12...  ...  0.381
+
+[13 rows x 10 columns]
