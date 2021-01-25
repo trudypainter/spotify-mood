@@ -40788,3 +40788,30 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master c4fcfc4] updating daily data 2021-01-25 07:00:06.002392
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-01-25 07:00:04.836208
+Auth happening...
+Getting songs
+Creating dataframe...
+Foot Fungus
+Low Life (feat. The Weeknd)
+Amigo
+Chanel (Go Get It) [feat. Gunna & Lil Baby]
+PICK UP (feat. Quavo)
+6 Kiss
+Martin & Gina
+GOT THESE SONGS
+{'played_at': ['06:19', '06:16', '06:09', '06:06', '06:03', '06:01'], 'valence': [0.745, 0.102, 0.528, 0.462, 0.758, 0.229], 'mood_avg': [0.775, 0.396, 0.655, 0.66, 0.792, 0.456], 'danceability': [0.881, 0.722, 0.774, 0.938, 0.915, 0.687], 'energy': [0.623, 0.331, 0.669, 0.5, 0.612, 0.449], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e62c8561e3b1bd9ad952ce01', u'https://i.scdn.co/image/ab67616d0000b273626745b3aa04899001a924ad', u'https://i.scdn.co/image/ab67616d0000b273bd69bbde4aeee723d6d08058', u'https://i.scdn.co/image/ab67616d0000b273fbd8ead00d2fb0649a534212', u'https://i.scdn.co/image/ab67616d0000b27320e08c8cc23f404d723b5647', u'https://i.scdn.co/image/ab67616d0000b273cd81b9f0393348b6537c9d92'], 'album_name': [u'STOKELEY', u'EVOL', u'We Love You Tecca', u'Slime Language', u'BLAME IT ON BABY', u'A Love Letter To You 4'], 'song_name': [u'Foot Fungus', u'Low Life (feat. The Weeknd)', u'Amigo', u'Chanel (Go Get It) [feat. Gunna & Lil Baby]', u'PICK UP (feat. Quavo)', u'6 Kiss'], 'artist_name': [u'Ski Mask The Slump God', u'Future', u'Lil Tecca', u'Young Thug', u'DaBaby', u'Trippie Redd'], 'track_id': [u'3EikYy40GMSp8l5mDV6IQo', u'7EiZI6JVHllARrX9PUvAdX', u'2BULAwmRpScmZE7YOF07e5', u'0kCBorRrKZkSztd9m0QI3r', u'5gNOINI5dXZVom2b36LMOd', u'7tgjDlQsMR8RvkdlNCJA58']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b273cd81b9...  ...  0.449
+4  https://i.scdn.co/image/ab67616d0000b27320e08c...  ...  0.612
+3  https://i.scdn.co/image/ab67616d0000b273fbd8ea...  ...    0.5
+2  https://i.scdn.co/image/ab67616d0000b273bd69bb...  ...  0.669
+1  https://i.scdn.co/image/ab67616d0000b273626745...  ...  0.331
+0  https://i.scdn.co/image/ab67616d0000b273e62c85...  ...  0.623
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
