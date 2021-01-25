@@ -40815,3 +40815,52 @@ GOT THESE SONGS
 ('Rows: ', 6)
 Saved!
 
+[master 02ea362] updating daily data 2021-01-25 08:00:06.130466
+ 3 files changed, 32 insertions(+), 1 deletion(-)
+2021-01-25 08:00:05.227356
+Auth happening...
+Getting songs
+Creating dataframe...
+Strangers Are Strange
+Basic Need
+laughing and not being normal
+Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)
+Foot Fungus
+GOT THESE SONGS
+{'played_at': ['07:56', '07:53', '07:50', '07:26'], 'valence': [0.597, 0.144, 0.269, 0.312], 'mood_avg': [0.697, 0.352, 0.417, 0.583], 'danceability': [0.849, 0.683, 0.585, 0.883], 'energy': [0.593, 0.107, 0.378, 0.525], 'image': [u'https://i.scdn.co/image/ab67616d0000b273110090c137e40673e1466462', u'https://i.scdn.co/image/ab67616d0000b273281b57bfec5391971863c05a', u'https://i.scdn.co/image/ab67616d0000b2734f1235383b41920e64b00a78', u'https://i.scdn.co/image/ab67616d0000b27393b1e96fad758869d0974162'], 'album_name': [u'Unknown Mortal Orchestra', u'Devotion', u'Art Angels', u'Perfect Ten'], 'song_name': [u'Strangers Are Strange', u'Basic Need', u'laughing and not being normal', u'Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)'], 'artist_name': [u'Unknown Mortal Orchestra', u'Tirzah', u'Grimes', u'Mustard'], 'track_id': [u'3SlYreSPaNs4WrHocM29q2', u'3BfAOs2YhLOXMlytIKUfPI', u'0DnYvbdoVg88EF2ddh7Tn6', u'2zjGJ0dChMR0KxBZS15aqo']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b27393b1e9...  ...  0.525
+2  https://i.scdn.co/image/ab67616d0000b2734f1235...  ...  0.378
+1  https://i.scdn.co/image/ab67616d0000b273281b57...  ...  0.107
+0  https://i.scdn.co/image/ab67616d0000b273110090...  ...  0.593
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
+2021-01-25 09:00:10.408137
+Auth happening...
+Getting songs
+Creating dataframe...
+Oh The Sunn!
+Mama
+WHEN I GROW UP
+Aurora
+Before the Fever
+Movies
+Feel Good
+Hummer
+Cut to the Feeling
+GOT THESE SONGS
+{'played_at': ['08:31', '08:28', '08:23', '08:19', '08:14', '08:10', '08:04', '08:01'], 'valence': [0.124, 0.291, 0.749, 0.258, 0.151, 0.089, 0.849, 0.583], 'mood_avg': [0.462, 0.397, 0.672, 0.447, 0.279, 0.142, 0.82, 0.705], 'danceability': [0.708, 0.492, 0.693, 0.564, 0.318, 0.086, 0.773, 0.881], 'energy': [0.644, 0.42, 0.478, 0.592, 0.458, 0.362, 0.857, 0.596], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273825d2628545eaea03bf9672f', u'https://i.scdn.co/image/ab67616d0000b2738ed9099f0643b99f85fa442e', u'https://i.scdn.co/image/ab67616d0000b273bc31229deb79f896eb9fee84', u'https://i.scdn.co/image/ab67616d0000b2731a302aafa2ea587960e27951', u'https://i.scdn.co/image/ab67616d0000b2730c64e752dec4c08362cc4a88', u'https://i.scdn.co/image/ab67616d0000b273db59437636f1219033bdc608', u'https://i.scdn.co/image/ab67616d0000b273c3545bbe806b845c2b52bc20'], 'album_name': [u'We Will Always Love You', u'Lucid', u'WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358', u'Vespertine', u'Miss Anthropocene (Deluxe Edition)', u'Titanic Rising', u'Hair of the Dog', u'The Lo-Fis'], 'song_name': [u'Oh The Sunn!', u'Mama', u'WHEN I GROW UP', u'Aurora', u'Before the Fever', u'Movies', u'Feel Good', u'Hummer'], 'artist_name': [u'The Avalanches', u'Raveena', u'Yaeji', u'Bj\xf6rk', u'Grimes', u'Weyes Blood', u'ARTHUR', u'Steve Lacy'], 'track_id': [u'1Qth3TmxzsBYDpCRCffdZk', u'20VdNP6JaftxMQE2AxWCcS', u'3Q1qtbLc4UQTdWBFrK5mU5', u'6uo8VFsqMd3cStrB4CGUNA', u'16aE1mxE48CBl3KAbRYrlM', u'6f4itfvWzS59Qu7JWorhxn', u'14CGCcA5NoPaT266sLR64g', u'2oT0kNNDv94u44BC2NB97z']}
+                                               image  ... energy
+7  https://i.scdn.co/image/ab67616d0000b273c3545b...  ...  0.596
+6  https://i.scdn.co/image/ab67616d0000b273db5943...  ...  0.857
+5  https://i.scdn.co/image/ab67616d0000b2730c64e7...  ...  0.362
+4  https://i.scdn.co/image/ab67616d0000b2731a302a...  ...  0.458
+3  https://i.scdn.co/image/ab67616d0000b273bc3122...  ...  0.592
+2  https://i.scdn.co/image/ab67616d0000b2738ed909...  ...  0.478
+1  https://i.scdn.co/image/ab67616d0000b273825d26...  ...   0.42
+0  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.644
+
+[8 rows x 10 columns]
