@@ -40976,3 +40976,18 @@ GOT THESE SONGS
 0   https://i.scdn.co/image/ab67616d0000b2734a8007...  ...   0.858
 
 [15 rows x 10 columns]
+[master 52c2d7b] updating daily data 2021-01-25 14:00:06.999145
+ 3 files changed, 139 insertions(+), 1 deletion(-)
+2021-01-25 14:00:05.348390
+Auth happening...
+Getting songs
+Creating dataframe...
+Falling Into Me
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
