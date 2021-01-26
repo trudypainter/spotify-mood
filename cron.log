@@ -41404,4 +41404,50 @@ GOT THESE SONGS
 10  https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...  0.368
 9   https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...  0.569
 8   https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...  0.625
-7   https://i.scdn.co/image/ab67616d0000b2737d15fb
+7   https://i.scdn.co/image/ab67616d0000b2737d15fb[master 024011e] updating daily data 2021-01-26 14:00:08.394474
+ 3 files changed, 98 insertions(+), 1 deletion(-)
+...  ...  0.312
+6   https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...   0.71
+5   https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...  0.672
+4   https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...  0.698
+3   https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...  0.625
+2   https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...  0.511
+1   https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...  0.659
+0   https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...  0.554
+
+[17 rows x 10 columns]
+('Rows: ', 17)
+Saved!
+
+2021-01-26 15:00:05.935993
+Auth happening...
+Getting songs
+Creating dataframe...
+Velvet 4 Sale
+Jesus Forgive Me, I Am A Thot
+Peso
+Change the Beat
+Babushka Boi
+Fried Rice (with JID)
+NBAYOUNGBOAT
+We Outta Here! (feat. Young Nudy)
+SCENE
+TOKYO
+JELLO
+JESUS
+SWEET
+JUNKY
+SUMMER
+SCENE 2
+SWAMP
+TEETH
+GOT THESE SONGS
+{'played_at': ['14:53', '14:49', '14:47', '14:44', '14:40', '14:37', '14:34', '14:32', '14:24', '14:24', '14:20', '14:16', '14:15', '14:10', '14:06', '14:03', '14:02'], 'valence': [0.458, 0.602, 0.584, 0.847, 0.905, 0.395, 0.364, 0.207, 0.862, 0.535, 0.641, 0.349, 0.722, 0.675, 0.542, 0.96, 0.4], 'mood_avg': [0.523, 0.648, 0.611, 0.769, 0.869, 0.576, 0.615, 0.536, 0.581, 0.592, 0.738, 0.456, 0.702, 0.658, 0.526, 0.633, 0.568], 'danceability': [0.461, 0.628, 0.527, 0.741, 0.897, 0.736, 0.769, 0.972, 0.434, 0.632, 0.92, 0.606, 0.718, 0.638, 0.497, 0.414, 0.692], 'energy': [0.777, 0.78, 0.831, 0.668, 0.743, 0.618, 0.807, 0.322, 0.312, 0.625, 0.569, 0.368, 0.628, 0.662, 0.55, 0.419, 0.655], 'image': [u'https://i.scdn.co/image/ab67616d0000b2731fe365b735112bcc5ebb4917', u'https://i.scdn.co/image/ab67616d0000b273c0f5083c53e881de8dec3d70', u'https://i.scdn.co/image/ab67616d0000b27320f0799a7bfd974e465fea7a', u'https://i.scdn.co/image/ab67616d0000b27348c9e1aaafeebed13a143fde', u'https://i.scdn.co/image/ab67616d0000b273f0af4e62df674240cc7a35f8', u'https://i.scdn.co/image/ab67616d0000b273b5ef90a1a20cf8c1e431e10d', u'https://i.scdn.co/image/ab67616d0000b2732dd3f11b04f31d9acd49015b', u'https://i.scdn.co/image/ab67616d0000b273fc62848680948acaa7d0305d', u'https://i.scdn.co/image/ab67616d0000b2737d15fb20303a589acc1ab98b', u'https://i.scdn.co/image/ab67616d0000b2737d15fb20303a589acc1ab98b', u'https://i.scdn.co/image/ab67616d0000b2737d15fb20303a589acc1ab98b', u'https://i.scdn.co/image/ab67616d0000b2737d15fb20303a589acc1ab98b', u'https://i.scdn.co/image/ab67616d0000b2737d15fb20303a589acc1ab98b', u'https://i.scdn.co/image/ab67616d0000b2737d15fb20303a589acc1ab98b', u'https://i.scdn.co/image/ab67616d0000b2737d15fb20303a589acc1ab98b', u'https://i.scdn.co/image/ab67616d0000b2737d15fb20303a589acc1ab98b', u'https://i.scdn.co/image/ab67616d0000b2737d15fb20303a589acc1ab98b'], 'album_name': [u'In A Poem Unlimited', u'All My Heroes Are Cornballs', u'Peso', u'Rae Dawn / Change the Beat', u'Babushka Boi', u'Spilled Milk 1', u'Lil Boat 2', u"Nuthin' 2 Prove", u'SATURATION II', u'SATURATION II', u'SATURATION II', u'SATURATION II', u'SATURATION II', u'SATURATION II', u'SATURATION II', u'SATURATION II', u'SATURATION II'], 'song_name': [u'Velvet 4 Sale', u'Jesus Forgive Me, I Am A Thot', u'Peso', u'Change the Beat', u'Babushka Boi', u'Fried Rice (with JID)', u'NBAYOUNGBOAT', u'We Outta Here! (feat. Young Nudy)', u'SCENE', u'TOKYO', u'JELLO', u'JESUS', u'SWEET', u'JUNKY', u'SUMMER', u'SCENE 2', u'SWAMP'], 'artist_name': [u'U.S. Girls', u'JPEGMAFIA', u'A$AP Rocky', u'MF DOOM', u'A$AP Rocky', u'Bas', u'Lil Yachty', u'Lil Yachty', u'BROCKHAMPTON', u'BROCKHAMPTON', u'BROCKHAMPTON', u'BROCKHAMPTON', u'BROCKHAMPTON', u'BROCKHAMPTON', u'BROCKHAMPTON', u'BROCKHAMPTON', u'BROCKHAMPTON'], 'track_id': [u'2onVAZJVHZMn5Nhpen89FF', u'4odoLyHnSx2jIcXs16IvsV', u'5sl2735QKaOmL8UL4Q39Ut', u'2eF8EoMtZkMFeQeakgNdxa', u'643PW82aBMUa1FiWi5VQY7', u'5ismU0nq9mjhseSq1pLcuZ', u'6K2anECyrckidwf5wxS78Q', u'3UbBCQJ0SI9QDgtTY4lEHY', u'5Kkmnf0Xi1pv6CaT3e7czy', u'1CKhx6sSkUxzomXnYZqSMh', u'1ZuQVisBNDRm51QIN9MajR', u'2WVsyRWVM6xyKkZadKu32E', u'2DgMxFMUQRPthW4ROhjen1', u'7ujucw8kFBPIy9mz7DlmAq', u'66dQdXAbtuPdSasezCQVZE', u'3zAjkGy22FCXrCqSosQYkk', u'6MTA4AwgmjVASTXpBEwvn8']}
+                                                image  ... energy
+16  https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...  0.655
+15  https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...  0.419
+14  https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...   0.55
+13  https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...  0.662
+12  https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...  0.628
+11  https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...  0.368
+10  https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...  0.5
