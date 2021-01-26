@@ -41021,3 +41021,26 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master f72c399] updating daily data 2021-01-25 17:00:07.414904
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-01-25 17:00:06.403227
+Auth happening...
+Getting songs
+Creating dataframe...
+Falling Into Me
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-01-25 18:00:05.272354
+Auth happening...
+Getting songs
+Creating dataframe...
+Running Up That Hill
+3 AM - Toro y Moi Remix
+Range Rover Sports Truck (feat. Lil Keed)
+Listening
