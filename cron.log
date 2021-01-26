@@ -41214,3 +41214,28 @@ Saved!
 Auth happening...
 Getting songs
 Creating dataframe...
+[master 2547dc8] updating daily data 2021-01-26 07:00:05.306426
+ 3 files changed, 25 insertions(+), 1 deletion(-)
+2021-01-26 07:00:03.826837
+Auth happening...
+Getting songs
+Creating dataframe...
+YuNg BrAtZ
+Come Get Her
+The Motto
+Met Gala (feat. Offset)
+Guatemala - From Swaecation
+through the late night
+GOT THESE SONGS
+{'played_at': ['06:16', '06:14', '06:10', '06:07', '06:04'], 'valence': [0.493, 0.123, 0.39, 0.352, 0.0778], 'mood_avg': [0.638, 0.438, 0.551, 0.585, 0.511], 'danceability': [0.755, 0.689, 0.766, 0.817, 0.849], 'energy': [0.695, 0.564, 0.442, 0.587, 0.699], 'image': [u'https://i.scdn.co/image/ab67616d0000b2735485ea186d6971e18fabcc2f', u'https://i.scdn.co/image/ab67616d0000b2734ca3fb4517ff722918877460', u'https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550', u'https://i.scdn.co/image/ab67616d0000b2738d9c4bc6eaea79df13321cfb', u'https://i.scdn.co/image/ab67616d0000b273ba9015f4504a9dfd7560bfa9'], 'album_name': [u'Revenge', u'SremmLife', u'Take Care (Deluxe)', u'Droptopwop', u'SR3MM'], 'song_name': [u'YuNg BrAtZ', u'Come Get Her', u'The Motto', u'Met Gala (feat. Offset)', u'Guatemala - From Swaecation'], 'artist_name': [u'XXXTENTACION', u'Rae Sremmurd', u'Drake', u'Gucci Mane', u'Rae Sremmurd'], 'track_id': [u'2ooF4088y5L72c4YTEJQoB', u'1Ser4X0TKttOvo8bgdytTP', u'4Kz4RdRCceaA9VgTqBhBfa', u'2XaInsPPUkZRkY4uFJ3AHK', u'0TCnOEVeLQMXOUrpPlM7uY']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273ba9015...  ...  0.699
+3  https://i.scdn.co/image/ab67616d0000b2738d9c4b...  ...  0.587
+2  https://i.scdn.co/image/ab67616d0000b273c7ea04...  ...  0.442
+1  https://i.scdn.co/image/ab67616d0000b2734ca3fb...  ...  0.564
+0  https://i.scdn.co/image/ab67616d0000b2735485ea...  ...  0.695
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
