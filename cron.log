@@ -41468,3 +41468,24 @@ GOT THESE SONGS
 ('Rows: ', 17)
 Saved!
 
+[master 7ed1ca3] updating daily data 2021-01-26 16:00:19.060064
+ 3 files changed, 22 insertions(+), 2 deletions(-)
+2021-01-26 16:00:17.192061
+Auth happening...
+Getting songs
+Creating dataframe...
+Rosebud
+Pearly Gates
+Time
+Velvet 4 Sale
+GOT THESE SONGS
+{'played_at': ['15:09', '15:06', '15:02'], 'valence': [0.83, 0.748, 0.365], 'mood_avg': [0.806, 0.714, 0.513], 'danceability': [0.749, 0.581, 0.503], 'energy': [0.873, 0.914, 0.828], 'image': [u'https://i.scdn.co/image/ab67616d0000b2731fe365b735112bcc5ebb4917', u'https://i.scdn.co/image/ab67616d0000b2731fe365b735112bcc5ebb4917', u'https://i.scdn.co/image/ab67616d0000b2731fe365b735112bcc5ebb4917'], 'album_name': [u'In A Poem Unlimited', u'In A Poem Unlimited', u'In A Poem Unlimited'], 'song_name': [u'Rosebud', u'Pearly Gates', u'Time'], 'artist_name': [u'U.S. Girls', u'U.S. Girls', u'U.S. Girls'], 'track_id': [u'1Rtcq2RErgV3NuQvKdCNf6', u'0A5jFU5XSqEaREBotTK6Hg', u'7vZpXEMtxxXrYvHoANeYRH']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b2731fe365...  ...  0.828
+1  https://i.scdn.co/image/ab67616d0000b2731fe365...  ...  0.914
+0  https://i.scdn.co/image/ab67616d0000b2731fe365...  ...  0.873
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
