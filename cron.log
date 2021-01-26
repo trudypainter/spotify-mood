@@ -41306,3 +41306,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master e3711a6] updating daily data 2021-01-26 11:00:05.108205
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-01-26 11:00:04.335425
+Auth happening...
+Getting songs
+Creating dataframe...
+SWEET
+FIGHT
+Switchblade
+GOT THESE SONGS
+{'played_at': ['10:27', '10:17'], 'valence': [0.722, 0.165], 'mood_avg': [0.702, 0.468], 'danceability': [0.718, 0.656], 'energy': [0.628, 0.698], 'image': [u'https://i.scdn.co/image/ab67616d0000b2737d15fb20303a589acc1ab98b', u'https://i.scdn.co/image/ab67616d0000b2737d15fb20303a589acc1ab98b'], 'album_name': [u'SATURATION II', u'SATURATION II'], 'song_name': [u'SWEET', u'FIGHT'], 'artist_name': [u'BROCKHAMPTON', u'BROCKHAMPTON'], 'track_id': [u'2DgMxFMUQRPthW4ROhjen1', u'7sJ7zlySCbRw6OjlLhVQMt']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...  0.698
+0  https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...  0.628
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
