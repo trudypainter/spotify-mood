@@ -41260,3 +41260,34 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master fe0273e] updating daily data 2021-01-26 09:00:07.663507
+ 3 files changed, 30 insertions(+), 1 deletion(-)
+2021-01-26 09:00:06.170947
+Auth happening...
+Getting songs
+Creating dataframe...
+Switchblade
+Grow Up
+Thunder
+Jane
+Grand Theft Auto
+Alex
+Happy
+Hazel
+Family
+GOT THESE SONGS
+{'played_at': ['08:54', '08:51', '08:21', '08:16', '08:12', '08:09', '08:05', '08:02'], 'valence': [0.397, 0.397, 0.156, 0.732, 0.289, 0.439, 0.519, 0.53], 'mood_avg': [0.463, 0.504, 0.392, 0.753, 0.463, 0.586, 0.6, 0.511], 'danceability': [0.412, 0.69, 0.667, 0.908, 0.7, 0.717, 0.798, 0.578], 'energy': [0.695, 0.346, 0.316, 0.487, 0.336, 0.616, 0.367, 0.338], 'image': [u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da', u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da', u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da', u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da', u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da', u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da', u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da', u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da'], 'album_name': [u'Cat Heaven', u'Cat Heaven', u'Cat Heaven', u'Cat Heaven', u'Cat Heaven', u'Cat Heaven', u'Cat Heaven', u'Cat Heaven'], 'song_name': [u'Switchblade', u'Grow Up', u'Thunder', u'Jane', u'Grand Theft Auto', u'Alex', u'Happy', u'Hazel'], 'artist_name': [u'Roy Blair', u'Roy Blair', u'Roy Blair', u'Roy Blair', u'Roy Blair', u'Roy Blair', u'Roy Blair', u'Roy Blair'], 'track_id': [u'0l93gDYICgIacWar7DgUEK', u'3vwqetWRrTEz67QBY5t6Tv', u'0afGLa6wcYiLLXFZ48ZQpY', u'34hUQ9ahInlX8q5T4Baeg1', u'6TvVM0uHHFbMtr3uhgDXyu', u'7iEyBDoonnF13ILng7SEZ7', u'6aHTqCC2qHHs5H0rjgJVbc', u'6olfAuiqOGpkQLo4i5A7nd']}
+                                               image  ... energy
+7  https://i.scdn.co/image/ab67616d0000b273de3c33...  ...  0.338
+6  https://i.scdn.co/image/ab67616d0000b273de3c33...  ...  0.367
+5  https://i.scdn.co/image/ab67616d0000b273de3c33...  ...  0.616
+4  https://i.scdn.co/image/ab67616d0000b273de3c33...  ...  0.336
+3  https://i.scdn.co/image/ab67616d0000b273de3c33...  ...  0.487
+2  https://i.scdn.co/image/ab67616d0000b273de3c33...  ...  0.316
+1  https://i.scdn.co/image/ab67616d0000b273de3c33...  ...  0.346
+0  https://i.scdn.co/image/ab67616d0000b273de3c33...  ...  0.695
+
+[8 rows x 10 columns]
+('Rows: ', 8)
+Saved!
+
