@@ -41239,3 +41239,24 @@ GOT THESE SONGS
 ('Rows: ', 5)
 Saved!
 
+[master fef8de0] updating daily data 2021-01-26 08:00:13.367820
+ 3 files changed, 29 insertions(+), 1 deletion(-)
+2021-01-26 08:00:08.826854
+Auth happening...
+Getting songs
+Creating dataframe...
+Family
+Kansas
+California
+Slippery (feat. Gucci Mane)
+GOT THESE SONGS
+{'played_at': ['07:58', '07:54', '07:51'], 'valence': [0.499, 0.571, 0.286], 'mood_avg': [0.594, 0.649, 0.416], 'danceability': [0.683, 0.787, 0.595], 'energy': [0.608, 0.53, 0.319], 'image': [u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da', u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da', u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da'], 'album_name': [u'Cat Heaven', u'Cat Heaven', u'Cat Heaven'], 'song_name': [u'Family', u'Kansas', u'California'], 'artist_name': [u'Roy Blair', u'Roy Blair', u'Roy Blair'], 'track_id': [u'4LTqV1h5sYlaG6tO4ZuDXD', u'5aJxpXrVzSPXW6T1hwaXwj', u'0cFwHGaBfemNGX5QYGO0W6']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273de3c33...  ...  0.319
+1  https://i.scdn.co/image/ab67616d0000b273de3c33...  ...   0.53
+0  https://i.scdn.co/image/ab67616d0000b273de3c33...  ...  0.608
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
