@@ -41779,3 +41779,22 @@ Jennifer
 Paradise - Extended
 Payphone
 Addicted
+[master 6db0944] updating daily data 2021-01-27 12:00:04.639080
+ 3 files changed, 37 insertions(+), 1 deletion(-)
+2021-01-27 12:00:03.812079
+Auth happening...
+Getting songs
+Creating dataframe...
+The Birds Pt. 1
+D.D.
+Coming Down
+GOT THESE SONGS
+{'played_at': ['11:04', '11:01'], 'valence': [0.22, 0.382], 'mood_avg': [0.455, 0.566], 'danceability': [0.571, 0.68], 'energy': [0.692, 0.707], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b298538481c52f7e217ed000', u'https://i.scdn.co/image/ab67616d0000b273b298538481c52f7e217ed000'], 'album_name': [u'Trilogy', u'Trilogy'], 'song_name': [u'The Birds Pt. 1', u'D.D.'], 'artist_name': [u'The Weeknd', u'The Weeknd'], 'track_id': [u'323ujVhfSg16TlRK0PB5JY', u'7eZ7ODAt9cALYnWLO8F6Fd']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273b29853...  ...  0.707
+0  https://i.scdn.co/image/ab67616d0000b273b29853...  ...  0.692
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
