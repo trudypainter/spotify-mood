@@ -41685,3 +41685,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master ce2d12c] updating daily data 2021-01-27 06:00:04.959459
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-01-27 06:00:03.639123
+Auth happening...
+Getting songs
+Creating dataframe...
+do re mi
+Whole Lotta Lovin'
+Remember Me
+Mad Man (feat. Playboi Carti)
+GOT THESE SONGS
+{'played_at': ['05:58', '05:53', '05:48'], 'valence': [0.17, 0.382, 0.526], 'mood_avg': [0.485, 0.436, 0.615], 'danceability': [0.745, 0.51, 0.84], 'energy': [0.593, 0.398, 0.344], 'image': [u'https://i.scdn.co/image/ab67616d0000b27318e8b6e355542ddf38562055', u'https://i.scdn.co/image/ab67616d0000b2730be52c4adc81385794b1dd80', u'https://i.scdn.co/image/ab67616d0000b2732b2fe53607e28f85e928fd14'], 'album_name': [u'digital druglord', u"Whole Lotta Lovin'", u'Remember Me'], 'song_name': [u'do re mi', u"Whole Lotta Lovin'", u'Remember Me'], 'artist_name': [u'blackbear', u'Mustard', u'UMI'], 'track_id': [u'3Q3myFA7q4Op95DOpHplaY', u'01gNiOqg8u7vT90uVgOVmz', u'630Ug0XtmhhFvAKo0PNuEI']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b2732b2fe5...  ...  0.344
+1  https://i.scdn.co/image/ab67616d0000b2730be52c...  ...  0.398
+0  https://i.scdn.co/image/ab67616d0000b27318e8b6...  ...  0.593
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
