@@ -41706,3 +41706,24 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master 41d1359] updating daily data 2021-01-27 07:00:05.442023
+ 3 files changed, 25 insertions(+), 1 deletion(-)
+2021-01-27 07:00:03.866958
+Auth happening...
+Getting songs
+Creating dataframe...
+Wherever I Go
+I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)
+Mixtape (feat. Young Thug & Lil Yachty)
+do re mi
+GOT THESE SONGS
+{'played_at': ['06:11', '06:08', '06:03'], 'valence': [0.348, 0.817, 0.126], 'mood_avg': [0.49, 0.7, 0.472], 'danceability': [0.54, 0.599, 0.838], 'energy': [0.675, 0.667, 0.43], 'image': [u'https://i.scdn.co/image/ab67616d0000b273eedabed826eeb6506a4c700d', u'https://i.scdn.co/image/ab67616d0000b2737b219c19829e83a86cc9786c', u'https://i.scdn.co/image/ab67616d0000b273e71dd15fc5bdefd5bff70452'], 'album_name': [u'Oh My My', u'Grateful', u'Coloring Book'], 'song_name': [u'Wherever I Go', u"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)", u'Mixtape (feat. Young Thug & Lil Yachty)'], 'artist_name': [u'OneRepublic', u'DJ Khaled', u'Chance the Rapper'], 'track_id': [u'7kftK4n15rl1wbpfjSq2Tk', u'1jYiIOC5d6soxkJP81fxq2', u'0WCbhE2evMrIwRM0DlMy9k']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273e71dd1...  ...   0.43
+1  https://i.scdn.co/image/ab67616d0000b2737b219c...  ...  0.667
+0  https://i.scdn.co/image/ab67616d0000b273eedabe...  ...  0.675
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
