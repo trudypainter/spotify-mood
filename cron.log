@@ -42241,3 +42241,63 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master ec18515] updating daily data 2021-01-28 13:00:06.667137
+ 3 files changed, 28 insertions(+), 1 deletion(-)
+2021-01-28 13:00:04.932206
+Auth happening...
+Getting songs
+Creating dataframe...
+Ostra
+My Heart
+There She Goes
+Light On
+Mile High (feat. Travis Scott & Metro Boomin)
+Into The Red
+The Great Gig in the Sky
+Down With the Clique
+Almeda
+Hunnybee
+Are You In Love?
+Us and Them
+Things I Imagined
+GOT THESE SONGS
+{'played_at': ['12:59', '12:55', '12:47', '12:45', '12:41', '12:37', '12:33', '12:27', '12:23', '12:19', '12:15', '12:11'], 'valence': [0.418, 0.369, 0.905, 0.399, 0.228, 0.151, 0.181, 0.356, 0.0631, 0.568, 0.335, 0.126], 'mood_avg': [0.501, 0.406, 0.747, 0.536, 0.467, 0.358, 0.226, 0.5, 0.467, 0.684, 0.412, 0.253], 'danceability': [0.62, 0.352, 0.536, 0.657, 0.754, 0.508, 0.275, 0.664, 0.827, 0.956, 0.557, 0.356], 'energy': [0.429, 0.586, 0.854, 0.569, 0.37, 0.47, 0.216, 0.459, 0.553, 0.373, 0.278, 0.302], 'image': [u'https://i.scdn.co/image/ab67616d0000b27399f4adbf1e32cc1bd07e8acf', u'https://i.scdn.co/image/ab67616d0000b273556966ae0ac93e2aa1c3896a', u'https://i.scdn.co/image/ab67616d0000b2738a9c1b058c215b14983e0725', u'https://i.scdn.co/image/ab67616d0000b273d658a02ba8931985bdc4e0da', u'https://i.scdn.co/image/ab67616d0000b273534dc6aebb7cf3c04e410cc6', u'https://i.scdn.co/image/ab67616d0000b273534dc6aebb7cf3c04e410cc6', u'https://i.scdn.co/image/ab67616d0000b273f05e5ac32fdd79d100315a20', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273aa839bb04931542d830c73b1', u'https://i.scdn.co/image/ab67616d0000b273534dc6aebb7cf3c04e410cc6', u'https://i.scdn.co/image/ab67616d0000b273f05e5ac32fdd79d100315a20'], 'album_name': [u'Willowbank', u"Dreamin' Wild", u"The La's", u'Heard It In A Past Life', u'Assume Form', u'Assume Form', u'The Dark Side of the Moon', u'When I Get Home', u'When I Get Home', u'Sex & Food', u'Assume Form', u'The Dark Side of the Moon'], 'song_name': [u'Ostra', u'My Heart', u'There She Goes', u'Light On', u'Mile High (feat. Travis Scott & Metro Boomin)', u'Into The Red', u'The Great Gig in the Sky', u'Down With the Clique', u'Almeda', u'Hunnybee', u'Are You In Love?', u'Us and Them'], 'artist_name': [u'Yumi Zouma', u'Donnie & Joe Emerson', u"The La's", u'Maggie Rogers', u'James Blake', u'James Blake', u'Pink Floyd', u'Solange', u'Solange', u'Unknown Mortal Orchestra', u'James Blake', u'Pink Floyd'], 'track_id': [u'1xXjQeUsj6hPDQ8Tj2QaTd', u'1EFsKhZXfAftEYLR1iAyh2', u'0SMkzFGJOBFDI9KfYD55L0', u'6UnCGAEmrbGIOSmGRZQ1M2', u'6gWo0JYLA6Dnw40WIx1MTl', u'5T4l3jMleCgNMmeYRPYvnS', u'2TjdnqlpwOjhijHCwHCP2d', u'3803fF96TYnzkSMA0M0L5H', u'6IAgarq2wDeYzpsY2Kx0Hw', u'3DPFmwFtV5ElQaTniLOdgk', u'48TwC1IPK9g9r6xYMseKZ0', u'1TKTiKp3zbNgrBH2IwSwIx']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b273f05e5a...  ...  0.302
+10  https://i.scdn.co/image/ab67616d0000b273534dc6...  ...  0.278
+9   https://i.scdn.co/image/ab67616d0000b273aa839b...  ...  0.373
+8   https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.553
+7   https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.459
+6   https://i.scdn.co/image/ab67616d0000b273f05e5a...  ...  0.216
+5   https://i.scdn.co/image/ab67616d0000b273534dc6...  ...   0.47
+4   https://i.scdn.co/image/ab67616d0000b273534dc6...  ...   0.37
+3   https://i.scdn.co/image/ab67616d0000b273d658a0...  ...  0.569
+2   https://i.scdn.co/image/ab67616d0000b2738a9c1b...  ...  0.854
+1   https://i.scdn.co/image/ab67616d0000b273556966...  ...  0.586
+0   https://i.scdn.co/image/ab67616d0000b27399f4ad...  ...  0.429
+
+[12 rows x 10 columns]
+('Rows: ', 12)
+Saved!
+
+2021-01-28 14:00:06.041031
+Auth happening...
+Getting songs
+Creating dataframe...
+2021-01-28 15:00:05.804246
+Auth happening...
+Getting songs
+Creating dataframe...
+Ostra
+My Heart
+There She Goes
+Light On
+Mile High (feat. Travis Scott & Metro Boomin)
+Into The Red
+The Great Gig in the Sky
+Down With the Clique
+Almeda
+Hunnybee
+Are You In Love?
+Us and Them
+Things I Imagined
