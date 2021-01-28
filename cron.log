@@ -42071,3 +42071,26 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master 8760b19] updating daily data 2021-01-28 07:00:05.217334
+ 3 files changed, 24 insertions(+), 1 deletion(-)
+2021-01-28 07:00:04.264970
+Auth happening...
+Getting songs
+Creating dataframe...
+Neon Guts (feat. Pharrell Williams)
+Cleaner Air
+Love Hurts (feat. Travis Scott)
+Every Single Thing
+Heaven's on Fire
+GOT THESE SONGS
+{'played_at': ['06:14', '06:09', '06:06', '06:03'], 'valence': [0.412, 0.849, 0.464, 0.323], 'mood_avg': [0.621, 0.786, 0.565, 0.507], 'danceability': [0.859, 0.717, 0.724, 0.816], 'energy': [0.563, 0.797, 0.45, 0.255], 'image': [u'https://i.scdn.co/image/ab67616d0000b2730d5a84e4e47399d2726c330c', u'https://i.scdn.co/image/ab67616d0000b273a628aafe33421f50c08ed3c2', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194', u'https://i.scdn.co/image/ab67616d0000b273cd7c3cba379ae624e118ebcb'], 'album_name': [u'Luv Is Rage 2 (Deluxe)', u'Cleaner Air', u'Die Lit', u'Fresh Air'], 'song_name': [u'Neon Guts (feat. Pharrell Williams)', u'Cleaner Air', u'Love Hurts (feat. Travis Scott)', u'Every Single Thing'], 'artist_name': [u'Lil Uzi Vert', u'Yeek', u'Playboi Carti', u'HOMESHAKE'], 'track_id': [u'2BUXjDhEuVLvEzFI6tabOF', u'3uwrczwM9A3xX63jlcRhIC', u'3K6U7TamNyVSWcFH8pCQHX', u'7yZTPEXSUqWw7sEYKKDv2N']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273cd7c3c...  ...  0.255
+2  https://i.scdn.co/image/ab67616d0000b273a1e867...  ...   0.45
+1  https://i.scdn.co/image/ab67616d0000b273a628aa...  ...  0.797
+0  https://i.scdn.co/image/ab67616d0000b2730d5a84...  ...  0.563
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
