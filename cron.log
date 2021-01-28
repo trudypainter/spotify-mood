@@ -42052,3 +42052,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master caa91e1] updating daily data 2021-01-28 06:00:04.124152
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-01-28 06:00:03.363311
+Auth happening...
+Getting songs
+Creating dataframe...
+Courtside
+Diana (feat. King Combs)
+I'll Come Too
+GOT THESE SONGS
+{'played_at': ['05:54', '05:49'], 'valence': [0.621, 0.546], 'mood_avg': [0.62, 0.694], 'danceability': [0.668, 0.794], 'energy': [0.524, 0.792], 'image': [u'https://i.scdn.co/image/ab67616d0000b273d42a7bb4e092b8a61b7a4f20', u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369'], 'album_name': [u'Courtside', u'Shoot For The Stars Aim For The Moon'], 'song_name': [u'Courtside', u'Diana (feat. King Combs)'], 'artist_name': [u'Triathalon', u'Pop Smoke'], 'track_id': [u'4QBs03zMdjDtS6ZRAdojDv', u'4Tc9PHEoeP17PQj3OOKXPu']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b27377ada0...  ...  0.792
+0  https://i.scdn.co/image/ab67616d0000b273d42a7b...  ...  0.524
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
