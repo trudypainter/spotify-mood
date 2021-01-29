@@ -42301,3 +42301,75 @@ Hunnybee
 Are You In Love?
 Us and Them
 Things I Imagined
+[master c4b04f7] updating daily data 2021-01-28 16:00:07.273916
+ 2 files changed, 61 insertions(+), 1 deletion(-)
+2021-01-28 16:00:06.410926
+Auth happening...
+Getting songs
+Creating dataframe...
+Assume Form
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-01-28 17:00:04.221346
+Auth happening...
+Getting songs
+Creating dataframe...
+SLD (Quiet Storm Hour)
+Way to the Show
+2021-01-28 18:00:04.143095
+Auth happening...
+Getting songs
+Creating dataframe...
+c2.0
+Love Me Like (feat. DUCKWRTH)
+You Gotta Shake (feat. Supa)
+223 Remix
+Pretty Girl
+2021-01-28 19:00:04.596499
+Auth happening...
+Getting songs
+Creating dataframe...
+Hood Baby
+Andreaen Sand Dunes
+Rebel
+Dark Red
+Motion Sickness
+Compensating (feat. Young Thug)
+Dancing In The Street - Stereo
+Something Special
+party 4 u
+Easy Baby
+Dream Glow (BTS World Original Soundtrack) - Pt. 1
+Work from Home (feat. Ty Dolla $ign)
+SWISH/USE 2
+Psycho Pass
+Girls just want to have fun
+Case 19 (feat. 6ix9ine)
+Tap In
+GOT THESE SONGS
+{'played_at': ['18:51', '18:49', '18:43', '18:41', '18:38', '18:34', '18:31', '18:28', '18:25', '18:20', '18:17', '18:14', '18:10', '18:07', '18:04', '18:02'], 'valence': [0.806, 0.496, 0.377, 0.775, 0.626, 0.513, 0.304, 0.627, 0.245, 0.753, 0.541, 0.593, 0.284, 0.265, 0.114, 0.285], 'mood_avg': [0.806, 0.581, 0.5, 0.708, 0.62, 0.675, 0.458, 0.66, 0.434, 0.714, 0.658, 0.675, 0.502, 0.584, 0.378, 0.605], 'danceability': [0.974, 0.649, 0.563, 0.603, 0.652, 0.868, 0.556, 0.747, 0.579, 0.829, 0.735, 0.803, 0.76, 0.973, 0.517, 0.864], 'energy': [0.472, 0.617, 0.619, 0.783, 0.545, 0.612, 0.57, 0.55, 0.522, 0.408, 0.74, 0.585, 0.421, 0.446, 0.626, 0.729], 'image': [u'https://i.scdn.co/image/ab67616d0000b273cdb01929a0a814b80ff11e55', u'https://i.scdn.co/image/ab67616d0000b273b5bc4e4f87c58fe6c074440f', u'https://i.scdn.co/image/ab67616d0000b273bcb658f897e16f890505c020', u'https://i.scdn.co/image/ab67616d0000b273263886a4992c39704c601409', u'https://i.scdn.co/image/ab67616d0000b273bbc87dd5388d9a98e80650a4', u'https://i.scdn.co/image/ab67616d0000b2732a307aef8951ec81c991d4c8', u'https://i.scdn.co/image/ab67616d0000b273fc466e0c9ac165ac85ddbedf', u'https://i.scdn.co/image/ab67616d0000b2735ed042f6acab601cada08c61', u'https://i.scdn.co/image/ab67616d0000b273664e38c99d077cc52ab48914', u'https://i.scdn.co/image/ab67616d0000b273e95b59346e115b1aa7ab53ac', u'https://i.scdn.co/image/ab67616d0000b2731a4b23d64ef996b521ff298d', u'https://i.scdn.co/image/ab67616d0000b273d03fa6f4e758282b7920b5c8', u'https://i.scdn.co/image/ab67616d0000b2734b46531560c338d3d40d5e9d', u'https://i.scdn.co/image/ab67616d0000b2734080317bbaf1ea9956767434', u'https://i.scdn.co/image/ab67616d0000b273510329ed87b90bf821be6209', u'https://i.scdn.co/image/ab67616d0000b2735e8cc10ff27240cc3139b090'], 'album_name': [u'Hood Baby', u'Neptunes Lair', u'Rebel', u'Dark Red', u'Stranger in the Alps', u'Limbo', u'Dance Party', u'Shoot For The Stars Aim For The Moon', u"how i'm feeling now", u'Easy Baby', u'Dream Glow (BTS World Original Soundtrack) [Pt. 1]', u'7/27 (Deluxe)', u'XOOL SUMMER', u'Blood Shore Season 2', u'Girls just want to have fun', u'Jasiah I Am'], 'song_name': [u'Hood Baby', u'Andreaen Sand Dunes', u'Rebel', u'Dark Red', u'Motion Sickness', u'Compensating (feat. Young Thug)', u'Dancing In The Street - Stereo', u'Something Special', u'party 4 u', u'Easy Baby', u'Dream Glow (BTS World Original Soundtrack) - Pt. 1', u'Work from Home (feat. Ty Dolla $ign)', u'SWISH/USE 2', u'Psycho Pass', u'Girls just want to have fun', u'Case 19 (feat. 6ix9ine)'], 'artist_name': [u'KBFR', u'Drexciya', u'Jasiah', u'Steve Lacy', u'Phoebe Bridgers', u'Amin\xe9', u'Martha Reeves & The Vandellas', u'Pop Smoke', u'Charli XCX', u'Denyah', u'BTS', u'Fifth Harmony', u'FLEE', u'Xavier Wulf', u'Bladee', u'Jasiah'], 'track_id': [u'5au5NgWCdev4WeLRB3YEOR', u'4r0YHR3zvwXER5yrZuKDfP', u'5GzDv3BcvqhqcHPACBQc6h', u'37y7iDayfwm3WXn5BiAoRk', u'6LxcPUqx6noURdA5qc4BAT', u'7f5XDi0xqquW2Mc2lbk1Qr', u'6rLqjzGV5VMLDWEnuUqi8q', u'6k40uQhrPUF7ytiaHZCG6J', u'2RdEC8Ff83WkX7kDVCHseE', u'3hiaRDT2SmsR8aYl93MqgT', u'4c1WgUnHXq2LEncGHKgj1I', u'4tCtwWceOPWzenK2HAIJSb', u'316psfgQyeOKRKVltAV3kz', u'3kZAm2TC74lBJFPDoV40Qc', u'16aNHWdWoO9zobj4lqAoWV', u'4iO6aCCNBAN2TGTD5JYIiq']}
+                                                image  ... energy
+15  https://i.scdn.co/image/ab67616d0000b2735e8cc1...  ...  0.729
+14  https://i.scdn.co/image/ab67616d0000b273510329...  ...  0.626
+13  https://i.scdn.co/image/ab67616d0000b273408031...  ...  0.446
+12  https://i.scdn.co/image/ab67616d0000b2734b4653...  ...  0.421
+11  https://i.scdn.co/image/ab67616d0000b273d03fa6...  ...  0.585
+10  https://i.scdn.co/image/ab67616d0000b2731a4b23...  ...   0.74
+9   https://i.scdn.co/image/ab67616d0000b273e95b59...  ...  0.408
+8   https://i.scdn.co/image/ab67616d0000b273664e38...  ...  0.522
+7   https://i.scdn.co/image/ab67616d0000b2735ed042...  ...   0.55
+6   https://i.scdn.co/image/ab67616d0000b273fc466e...  ...   0.57
+5   https://i.scdn.co/image/ab67616d0000b2732a307a...  ...  0.612
+4   https://i.scdn.co/image/ab67616d0000b273bbc87d...  ...  0.545
+3   https://i.scdn.co/image/ab67616d0000b273263886...  ...  0.783
+2   https://i.scdn.co/image/ab67616d0000b273bcb658...  ...  0.619
+1   https://i.scdn.co/image/ab67616d0000b273b5bc4e...  ...  0.617
+0   https://i.scdn.co/image/ab67616d0000b273cdb019...  ...  0.472
+
+[16 rows x 10 columns]
