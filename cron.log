@@ -42403,3 +42403,67 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 586921a] updating daily data 2021-01-28 22:00:04.796695
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-01-28 22:00:03.902057
+Auth happening...
+Getting songs
+Creating dataframe...
+Mr. Lee
+Girl
+Hood Baby
+GOT THESE SONGS
+{'played_at': ['21:07', '21:05'], 'valence': [0.872, 0.52], 'mood_avg': [0.667, 0.487], 'danceability': [0.494, 0.38], 'energy': [0.602, 0.635], 'image': [u'https://i.scdn.co/image/ab67616d0000b27320c7ae65841e77d5dbcf17a1', u'https://i.scdn.co/image/ab67616d0000b2734aae755505727152873173aa'], 'album_name': [u'Stand By Me [Original Motion Picture Soundtrack]', u'Standing on the Corner'], 'song_name': [u'Mr. Lee', u'Girl'], 'artist_name': [u'The Bobbettes', u'Standing On The Corner'], 'track_id': [u'6zLGmxUA1ClhzCByaxtkNK', u'5FtjaVLEeDfFb9t23hqizi']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b2734aae75...  ...  0.635
+0  https://i.scdn.co/image/ab67616d0000b27320c7ae...  ...  0.602
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
+2021-01-30 15:25:24.850685
+Auth happening...
+Getting songs
+Creating dataframe...
+The New Normal
+BIPP
+BIPP - Autechre Mx
+After the Afterparty (feat. Lil Yachty)
+1,2,3 dayz up (feat. SOPHIE)
+BIPP
+Ocean of Tears
+Insomnia
+Look At Me Now
+I Give Up
+Hit Me Where It Hurts
+New Normal
+Pang
+The Gate
+Ocean of Tears
+Where U Are
+We Out Here - Bonus Track
+GOT THESE SONGS
+{'played_at': ['15:24', '15:21', '15:17', '15:13', '15:10', '15:06', '15:01', '14:58', '14:54', '14:51', '14:48', '14:45', '14:40', '14:36', '14:32', '14:28'], 'valence': [0.974, 0.335, 0.41, 0.645, 0.884, 0.335, 0.132, 0.0363, 0.2, 0.591, 0.261, 0.488, 0.547, 0.103, 0.132, 0.469], 'mood_avg': [0.746, 0.581, 0.587, 0.678, 0.786, 0.581, 0.37, 0.157, 0.392, 0.632, 0.502, 0.567, 0.638, 0.174, 0.37, 0.544], 'danceability': [0.461, 0.765, 0.859, 0.653, 0.785, 0.765, 0.572, 0.231, 0.564, 0.788, 0.732, 0.688, 0.707, 0.176, 0.572, 0.553], 'energy': [0.86, 0.703, 0.398, 0.794, 0.592, 0.703, 0.442, 0.249, 0.43, 0.4, 0.523, 0.483, 0.681, 0.314, 0.442, 0.675], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e29fab5766887dfc51422d34', u'https://i.scdn.co/image/ab67616d0000b27340df34b99c605e1eb07ea9b3', u'https://i.scdn.co/image/ab67616d0000b27340b614542b80b7795f759849', u'https://i.scdn.co/image/ab67616d0000b273901d5e4c873dc3dc9af647d9', u'https://i.scdn.co/image/ab67616d0000b273011a178740fd2a2a7eb98045', u'https://i.scdn.co/image/ab67616d0000b27340df34b99c605e1eb07ea9b3', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b273d53f7c72eccea3c4223dc9ce'], 'album_name': [u'Sound Ancestors', u'BIPP', u'BIPP (Autechre Mx)', u'After the Afterparty (feat. Lil Yachty)', u'1,2,3 dayz up (feat. SOPHIE)', u'BIPP', u'Pang', u'Pang', u'Pang', u'Pang', u'Pang', u'Pang', u'Pang', u'Pang', u'Pang', u'Where U Are'], 'song_name': [u'The New Normal', u'BIPP', u'BIPP - Autechre Mx', u'After the Afterparty (feat. Lil Yachty)', u'1,2,3 dayz up (feat. SOPHIE)', u'BIPP', u'Ocean of Tears', u'Insomnia', u'Look At Me Now', u'I Give Up', u'Hit Me Where It Hurts', u'New Normal', u'Pang', u'The Gate', u'Ocean of Tears', u'Where U Are'], 'artist_name': [u'Madlib', u'SOPHIE', u'SOPHIE', u'Charli XCX', u'Kim Petras', u'SOPHIE', u'Caroline Polachek', u'Caroline Polachek', u'Caroline Polachek', u'Caroline Polachek', u'Caroline Polachek', u'Caroline Polachek', u'Caroline Polachek', u'Caroline Polachek', u'Caroline Polachek', u'Rina Sawayama'], 'track_id': [u'7llj3CelJOkh7DXt1fXCo7', u'5HuOQHBDbb0UJjEE2fw6Uq', u'4tBdLWvYYr5IjJpvwiZr85', u'0y8Wf6ltWpGCpgqVa21QNX', u'0KK1FJFCBjdgPE00CJuvEG', u'5HuOQHBDbb0UJjEE2fw6Uq', u'4RqBss578GNj4u9VYZK5u0', u'1hEusmjsW1ZxqmBYs9AmfR', u'1z7Pc2fpIffOtXQh1XHMn9', u'4BNFrnwcbsAAohZHww1MtS', u'2wcrQZ7ZJolYEfIaPP9yL4', u'3dPkaunRnlcwGiOTJpQGD1', u'5bcJwBywjaz78KTf374PCb', u'7zEFT8tRNy9B7I0F9OeNd0', u'4RqBss578GNj4u9VYZK5u0', u'30tie454RN2304xzAu5Din']}
+                                                image                                song_name  ... danceability energy
+15  https://i.scdn.co/image/ab67616d0000b273d53f7c...                              Where U Are  ...        0.553  0.675
+14  https://i.scdn.co/image/ab67616d0000b2737d983e...                           Ocean of Tears  ...        0.572  0.442
+13  https://i.scdn.co/image/ab67616d0000b2737d983e...                                 The Gate  ...        0.176  0.314
+12  https://i.scdn.co/image/ab67616d0000b2737d983e...                                     Pang  ...        0.707  0.681
+11  https://i.scdn.co/image/ab67616d0000b2737d983e...                               New Normal  ...        0.688  0.483
+10  https://i.scdn.co/image/ab67616d0000b2737d983e...                    Hit Me Where It Hurts  ...        0.732  0.523
+9   https://i.scdn.co/image/ab67616d0000b2737d983e...                                I Give Up  ...        0.788    0.4
+8   https://i.scdn.co/image/ab67616d0000b2737d983e...                           Look At Me Now  ...        0.564   0.43
+7   https://i.scdn.co/image/ab67616d0000b2737d983e...                                 Insomnia  ...        0.231  0.249
+6   https://i.scdn.co/image/ab67616d0000b2737d983e...                           Ocean of Tears  ...        0.572  0.442
+5   https://i.scdn.co/image/ab67616d0000b27340df34...                                     BIPP  ...        0.765  0.703
+4   https://i.scdn.co/image/ab67616d0000b273011a17...             1,2,3 dayz up (feat. SOPHIE)  ...        0.785  0.592
+3   https://i.scdn.co/image/ab67616d0000b273901d5e...  After the Afterparty (feat. Lil Yachty)  ...        0.653  0.794
+2   https://i.scdn.co/image/ab67616d0000b27340b614...                       BIPP - Autechre Mx  ...        0.859  0.398
+1   https://i.scdn.co/image/ab67616d0000b27340df34...                                     BIPP  ...        0.765  0.703
+0   https://i.scdn.co/image/ab67616d0000b273e29fab...                           The New Normal  ...        0.461   0.86
+
+[16 rows x 10 columns]
+('Rows: ', 16)
+Saved!
+

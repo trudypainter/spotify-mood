@@ -14,7 +14,7 @@ import pandas as pd
 import os
 
 from sh import git, cd
-from git import Repo,remote
+# from git import Repo,remote
 
 
 def push_to_github():
