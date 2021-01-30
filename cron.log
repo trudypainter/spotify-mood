@@ -42467,3 +42467,45 @@ GOT THESE SONGS
 ('Rows: ', 16)
 Saved!
 
+[master 9194d5b] updating daily data 2021-01-30 16:00:04.848521
+ 4 files changed, 90 insertions(+), 46 deletions(-)
+ rename .ipynb_checkpoints/{Untitled-checkpoint.ipynb => jupyter-spotify-checkpoint.ipynb} (100%)
+ delete mode 100644 Untitled.ipynb
+ create mode 100644 jupyter-spotify.ipynb
+2021-01-30 16:00:03.721373
+Auth happening...
+Getting songs
+Creating dataframe...
+Sunday Morning
+Conquistadores
+Sound Ancestors
+Dirtknock
+Loose Goose
+The New Normal
+BIPP
+BIPP - Autechre Mx
+After the Afterparty (feat. Lil Yachty)
+1,2,3 dayz up (feat. SOPHIE)
+BIPP
+Ocean of Tears
+Insomnia
+GOT THESE SONGS
+{'played_at': ['15:56', '15:54', '15:32', '15:29', '15:27', '15:24', '15:21', '15:17', '15:13', '15:10', '15:06', '15:01'], 'valence': [0.888, 0.936, 0.507, 0.565, 0.926, 0.974, 0.335, 0.41, 0.645, 0.884, 0.335, 0.132], 'mood_avg': [0.724, 0.787, 0.467, 0.609, 0.838, 0.746, 0.581, 0.587, 0.678, 0.786, 0.581, 0.37], 'danceability': [0.545, 0.568, 0.437, 0.713, 0.878, 0.461, 0.765, 0.859, 0.653, 0.785, 0.765, 0.572], 'energy': [0.754, 0.925, 0.447, 0.488, 0.584, 0.86, 0.703, 0.398, 0.794, 0.592, 0.703, 0.442], 'image': [u'https://i.scdn.co/image/ab67616d0000b2734638746276eb4609760e522e', u'https://i.scdn.co/image/ab67616d0000b2733cf32b63e847f3f7118dee6a', u'https://i.scdn.co/image/ab67616d0000b273e29fab5766887dfc51422d34', u'https://i.scdn.co/image/ab67616d0000b273e29fab5766887dfc51422d34', u'https://i.scdn.co/image/ab67616d0000b273e29fab5766887dfc51422d34', u'https://i.scdn.co/image/ab67616d0000b273e29fab5766887dfc51422d34', u'https://i.scdn.co/image/ab67616d0000b27340df34b99c605e1eb07ea9b3', u'https://i.scdn.co/image/ab67616d0000b27340b614542b80b7795f759849', u'https://i.scdn.co/image/ab67616d0000b273901d5e4c873dc3dc9af647d9', u'https://i.scdn.co/image/ab67616d0000b273011a178740fd2a2a7eb98045', u'https://i.scdn.co/image/ab67616d0000b27340df34b99c605e1eb07ea9b3', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759'], 'album_name': [u'Take A Picture', u'El Chico', u'Sound Ancestors', u'Sound Ancestors', u'Sound Ancestors', u'Sound Ancestors', u'BIPP', u'BIPP (Autechre Mx)', u'After the Afterparty (feat. Lil Yachty)', u'1,2,3 dayz up (feat. SOPHIE)', u'BIPP', u'Pang'], 'song_name': [u'Sunday Morning', u'Conquistadores', u'Sound Ancestors', u'Dirtknock', u'Loose Goose', u'The New Normal', u'BIPP', u'BIPP - Autechre Mx', u'After the Afterparty (feat. Lil Yachty)', u'1,2,3 dayz up (feat. SOPHIE)', u'BIPP', u'Ocean of Tears'], 'artist_name': [u'Margo Guryan', u'Chico Hamilton', u'Madlib', u'Madlib', u'Madlib', u'Madlib', u'SOPHIE', u'SOPHIE', u'Charli XCX', u'Kim Petras', u'SOPHIE', u'Caroline Polachek'], 'track_id': [u'6m1fMKg17Mb8utdiQHiB8k', u'2CKyVTxpJ7hGhV2shxsnuB', u'4WFIJMRi7DQrQ35jmaov9s', u'0YDKs79BKbglQu8DNZA5KQ', u'4DJ6Aw9QtUTY16FGSxgl94', u'7llj3CelJOkh7DXt1fXCo7', u'5HuOQHBDbb0UJjEE2fw6Uq', u'4tBdLWvYYr5IjJpvwiZr85', u'0y8Wf6ltWpGCpgqVa21QNX', u'0KK1FJFCBjdgPE00CJuvEG', u'5HuOQHBDbb0UJjEE2fw6Uq', u'4RqBss578GNj4u9VYZK5u0']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b2737d983e...  ...  0.442
+10  https://i.scdn.co/image/ab67616d0000b27340df34...  ...  0.703
+9   https://i.scdn.co/image/ab67616d0000b273011a17...  ...  0.592
+8   https://i.scdn.co/image/ab67616d0000b273901d5e...  ...  0.794
+7   https://i.scdn.co/image/ab67616d0000b27340b614...  ...  0.398
+6   https://i.scdn.co/image/ab67616d0000b27340df34...  ...  0.703
+5   https://i.scdn.co/image/ab67616d0000b273e29fab...  ...   0.86
+4   https://i.scdn.co/image/ab67616d0000b273e29fab...  ...  0.584
+3   https://i.scdn.co/image/ab67616d0000b273e29fab...  ...  0.488
+2   https://i.scdn.co/image/ab67616d0000b273e29fab...  ...  0.447
+1   https://i.scdn.co/image/ab67616d0000b2733cf32b...  ...  0.925
+0   https://i.scdn.co/image/ab67616d0000b273463874...  ...  0.754
+
+[12 rows x 10 columns]
+('Rows: ', 12)
+Saved!
+
