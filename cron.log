@@ -42817,3 +42817,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 5a47e97] updating daily data 2021-01-31 10:00:03.457482
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-01-31 10:00:02.509890
+Auth happening...
+Getting songs
+Creating dataframe...
+Surfer's Hymn (Actress Primitive Patterns Remix)
+Reversing
+No Idol
+Unknown, Forever Unknown - Alt.v5
+Me or Us
+pick up the phone
+GOT THESE SONGS
+{'played_at': ['09:48', '09:47', '09:36', '09:33', '09:26'], 'valence': [0.516, 0.316, 0.56, 0.16, 0.419], 'mood_avg': [0.654, 0.516, 0.626, 0.414, 0.491], 'danceability': [0.739, 0.579, 0.805, 0.665, 0.682], 'energy': [0.759, 0.791, 0.402, 0.42, 0.251], 'image': [u'https://i.scdn.co/image/ab67616d0000b273a2507116edb4266ecd3ab7bb', u'https://i.scdn.co/image/ab67616d0000b2731c60d216c55dbf149c6ed5cb', u'https://i.scdn.co/image/ab67616d0000b273dc9868cdb2071c4a0d47be36', u'https://i.scdn.co/image/ab67616d0000b2732e5356bd7e54f7369cf1f515', u'https://i.scdn.co/image/ab67616d0000b273419cedff7b313b962a93932e'], 'album_name': [u"Surfer's Hymn", u'There Is Love in You (Expanded Edition)', u'Grace EP', u'ODCD ALT VERSIONS', u'Beautiful Thugger Girls'], 'song_name': [u"Surfer's Hymn (Actress Primitive Patterns Remix)", u'Reversing', u'No Idol', u'Unknown, Forever Unknown - Alt.v5', u'Me or Us'], 'artist_name': [u'Panda Bear', u'Four Tet', u'DJ Haram', u'Vegyn', u'Young Thug'], 'track_id': [u'6Foc3nnCr9gZm5a91rbZeX', u'4LfKIh5UahhWrs0kZBMF4v', u'4eiZyyg4EeEH4lMAoBVbLy', u'7ebpx6cWTgxVD1TLJTilpY', u'0JaN65P0DapRjboDEv2g08']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273419ced...  ...  0.251
+3  https://i.scdn.co/image/ab67616d0000b2732e5356...  ...   0.42
+2  https://i.scdn.co/image/ab67616d0000b273dc9868...  ...  0.402
+1  https://i.scdn.co/image/ab67616d0000b2731c60d2...  ...  0.791
+0  https://i.scdn.co/image/ab67616d0000b273a25071...  ...  0.759
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
