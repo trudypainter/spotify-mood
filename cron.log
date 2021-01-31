@@ -42979,4 +42979,40 @@ GOT THESE SONGS
 3   https://i.scdn.co/image/ab67616d0000b273b8c3e0...  ...   0.389
 2   https://i.scdn.co/image/ab67616d0000b273b8c3e0...  ...   0.654
 1   https://i.scdn.co/image/ab67616d0000b273534dc6...  ...    0.37
-0   https://i.scdn.co/image/ab67616d0000b2732c8696...
+0   https://i.scdn.co/image/ab67616d0000b2732c8696...[master 4ced3d7] updating daily data 2021-01-31 17:00:06.023532
+ 3 files changed, 82 insertions(+), 1 deletion(-)
+  ...   0.209
+
+[14 rows x 10 columns]
+('Rows: ', 14)
+Saved!
+
+2021-01-31 18:00:04.009127
+Auth happening...
+Getting songs
+Creating dataframe...
+Titanic Rising
+Debold
+Sublunary
+Weightless
+Reflecting Light
+HP Junt
+Darkseid
+TV Volume
+Vidual
+Interstellar Love
+KLK
+Fake It
+Center of Gravity
+Comet Face
+Vulture Baby
+Hope
+Insomnia
+Don't Miss It
+Crib Remix
+Sugar
+GOT THESE SONGS
+{'played_at': ['17:58', '17:56', '17:53', '17:51', '17:49', '17:44', '17:41', '17:37', '17:34', '17:32', '17:28', '17:25', '17:21', '17:18', '17:15', '17:14', '17:10', '17:07', '17:02'], 'valence': [0.0345, 0.388, 0.133, 0.028, 0.404, 0.114, 0.331, 0.348, 0.878, 0.27, 0.846, 0.206, 0.968, 0.292, 0.512, 0.354, 0.0363, 0.052, 0.501], 'mood_avg': [0.137, 0.519, 0.22, 0.233, 0.401, 0.374, 0.454, 0.514, 0.776, 0.453, 0.832, 0.4, 0.785, 0.522, 0.469, 0.352, 0.157, 0.297, 0.485], 'danceability': [0.162, 0.553, 0.215, 0.373, 0.247, 0.322, 0.448, 0.862, 0.584, 0.448, 0.798, 0.696, 0.817, 0.588, 0.531, 0.413, 0.231, 0.52, 0.488], 'energy': [0.293, 0.711, 0.403, 0.363, 0.701, 0.998, 0.713, 0.148, 0.955, 0.83, 0.873, 0.195, 0.356, 0.85, 0.258, 0.227, 0.249, 0.341, 0.449], 'image': [u'https://i.scdn.co/image/ab67616d0000b2730c64e752dec4c08362cc4a88', u'https://i.scdn.co/image/ab67616d0000b273b80f8eb7cd3776e665e77477', u'https://i.scdn.co/image/ab67616d0000b273c02d78ecd28d80920aa11f1c', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273e83cd94b8475cc0d2bd11f30', u'https://i.scdn.co/image/ab67616d0000b2731a302aafa2ea587960e27951', u'https://i.scdn.co/image/ab67616d0000b273cd7c3cba379ae624e118ebcb', u'https://i.scdn.co/image/ab67616d0000b273c02d78ecd28d80920aa11f1c', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b2738c894fac3d113f98885d3117', u'https://i.scdn.co/image/ab67616d0000b27337af2ce4e0abffff0045034c', u'https://i.scdn.co/image/ab67616d0000b2734599fdba5f431f3b419349a0', u'https://i.scdn.co/image/ab67616d0000b27328916ffa16f5473ac57ffe84', u'https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6', u'https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b273534dc6aebb7cf3c04e410cc6', u'https://i.scdn.co/image/ab67616d0000b273b0a300e99d926bb85d1efb23'], 'album_name': [u'Titanic Rising', u'Only Diamonds Cut Diamonds', u'The OOZ', u'We Will Always Love You', u'We Will Always Love You', u'When Man Fails You', u'Miss Anthropocene (Deluxe Edition)', u'Fresh Air', u'The OOZ', u'We Will Always Love You', u'KiCk i', u'Both', u'I Can Hear The Heart Beating As One', u'Man Alive!', u'Negro Swan', u'Negro Swan', u'Pang', u'Assume Form', u'B-Sides & Rarities'], 'song_name': [u'Titanic Rising', u'Debold', u'Sublunary', u'Weightless', u'Reflecting Light', u'HP Junt', u'Darkseid', u'TV Volume', u'Vidual', u'Interstellar Love', u'KLK', u'Fake It', u'Center of Gravity', u'Comet Face', u'Vulture Baby', u'Hope', u'Insomnia', u"Don't Miss It", u'Crib Remix'], 'artist_name': [u'Weyes Blood', u'Vegyn', u'King Krule', u'The Avalanches', u'The Avalanches', u'Yves Tumor', u'Grimes', u'HOMESHAKE', u'King Krule', u'The Avalanches', u'Arca', u'Okay Kaya', u'Yo La Tengo', u'King Krule', u'Blood Orange', u'Blood Orange', u'Caroline Polachek', u'James Blake', u'Sen Morimoto'], 'track_id': [u'1ki6pB2iYh9nSmlG4WPdqf', u'6TNBx9lvDcqLq1GQCPNJqH', u'7zU4eAKXYbQ8hleYDXcov2', u'383d4fIERp2dnWr54kpiJu', u'3mkr5TrEjhi5RhVSjvg0nM', u'2sqgZvtmxB6hJurPW2lS5I', u'0TlBuH1azntROo6SCNe3Kb', u'7xNdbfeeHV3InY7hYr6foY', u'73YamekX9jhQu5r2sLf2uF', u'4PUGAmAvt5VxbbefkhV0x5', u'2ZFu40Ik8VsUE9H87W0MmZ', u'4FmgEzMcoKvcn6zlXg7ZYv', u'6bBobm1wePzB1WG7FD68zd', u'37NhTqdEWadpZ6tdYOtI6w', u'0wlXb1TAj96igP2GJdqa3b', u'2QLNDKL7hZyh2OZ8UL9WrV', u'1hEusmjsW1ZxqmBYs9AmfR', u'5VYCCPct242jtbidE13EKK', u'47IJYDSFWPoqRUmc30whq4']}
+                                                image  ... energy
+18  https://i.scdn.co/image/ab67616d0000b273b0a300...  ...  0.449
+17  https://i.scdn.co/im
