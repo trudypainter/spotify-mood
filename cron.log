@@ -42857,3 +42857,46 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master b142104] updating daily data 2021-01-31 12:00:04.523194
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-01-31 12:00:03.778137
+Auth happening...
+Getting songs
+Creating dataframe...
+Surfer's Hymn (Actress Primitive Patterns Remix)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-01-31 13:00:02.411613
+Auth happening...
+Getting songs
+Creating dataframe...
+Still Dreaming
+Getting Down Pt II (He's Cooling Down)
+Laws of the Universe
+No Tengo
+LUCID
+Enjoy
+Surfer's Hymn (Actress Primitive Patterns Remix)
+and so I come to isolation
+FREAK
+Surfer's Hymn (Actress Primitive Patterns Remix)
+GOT THESE SONGS
+{'played_at': ['12:59', '12:52', '12:47', '12:45', '12:41', '12:35', '12:35', '12:31', '12:31'], 'valence': [0.134, 0.216, 0.853, 0.935, 0.514, 0.438, 0.516, 0.81, 0.508], 'mood_avg': [0.415, 0.466, 0.835, 0.807, 0.653, 0.568, 0.654, 0.611, 0.63], 'danceability': [0.745, 0.794, 0.823, 0.716, 0.675, 0.543, 0.739, 0.568, 0.622], 'energy': [0.318, 0.311, 0.822, 0.731, 0.885, 0.878, 0.759, 0.297, 0.891], 'image': [u'https://i.scdn.co/image/ab67616d0000b273825d2628545eaea03bf9672f', u'https://i.scdn.co/image/ab67616d0000b273cd7c3cba379ae624e118ebcb', u'https://i.scdn.co/image/ab67616d0000b273e6afa3b111faa03806f7d257', u'https://i.scdn.co/image/ab67616d0000b273db59437636f1219033bdc608', u'https://i.scdn.co/image/ab67616d0000b273db0a368a7ede184a67a51b95', u'https://i.scdn.co/image/ab67616d0000b2736aba91ac61162caeeef14460', u'https://i.scdn.co/image/ab67616d0000b273a2507116edb4266ecd3ab7bb', u'https://i.scdn.co/image/ab67616d0000b2738b40e0ef79069fb9bcc560d9', u'https://i.scdn.co/image/ab67616d0000b273eb21af039f00adb6e3c2f356'], 'album_name': [u'Lucid', u'Fresh Air', u'Outer Peace', u'Hair of the Dog', u'SAWAYAMA (Deluxe Edition)', u'Post', u"Surfer's Hymn", u'gr\xe6', u'ALIAS'], 'song_name': [u'Still Dreaming', u"Getting Down Pt II (He's Cooling Down)", u'Laws of the Universe', u'No Tengo', u'LUCID', u'Enjoy', u"Surfer's Hymn (Actress Primitive Patterns Remix)", u'and so I come to isolation', u'FREAK'], 'artist_name': [u'Raveena', u'HOMESHAKE', u'Toro y Moi', u'ARTHUR', u'Rina Sawayama', u'Bj\xf6rk', u'Panda Bear', u'Moses Sumney', u'Shygirl'], 'track_id': [u'2GWMfWHvLixgTo9s5NGn3w', u'2zmnbk1WA0P1XdOJQWyfOU', u'5iogKheqFC4DTFCy8i1LXh', u'4fPvmBrFtrzh7iJc8DTl1O', u'7BoVAJ0HuKcBBRmUGlzX6o', u'6JQVN9gi04NCK1tiz0aQA1', u'6Foc3nnCr9gZm5a91rbZeX', u'1fFN6b3FCu4PP092xeVDr6', u'3RvYDpbvZFOwqWhcleKhpH']}
+                                               image  ... energy
+8  https://i.scdn.co/image/ab67616d0000b273eb21af...  ...  0.891
+7  https://i.scdn.co/image/ab67616d0000b2738b40e0...  ...  0.297
+6  https://i.scdn.co/image/ab67616d0000b273a25071...  ...  0.759
+5  https://i.scdn.co/image/ab67616d0000b2736aba91...  ...  0.878
+4  https://i.scdn.co/image/ab67616d0000b273db0a36...  ...  0.885
+3  https://i.scdn.co/image/ab67616d0000b273db5943...  ...  0.731
+2  https://i.scdn.co/image/ab67616d0000b273e6afa3...  ...  0.822
+1  https://i.scdn.co/image/ab67616d0000b273cd7c3c...  ...  0.311
+0  https://i.scdn.co/image/ab67616d0000b273825d26...  ...  0.318
+
+[9 rows x 10 columns]
