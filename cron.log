@@ -42915,3 +42915,68 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 2873216] updating daily data 2021-01-31 15:00:04.417222
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-01-31 15:00:02.878739
+Auth happening...
+Getting songs
+Creating dataframe...
+Still Dreaming
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-01-31 16:00:03.050209
+Auth happening...
+Getting songs
+Creating dataframe...
+I Miss You
+Love Me 4 Me
+Still Dreaming
+GOT THESE SONGS
+{'played_at': ['15:49', '15:45'], 'valence': [0.102, 0.403], 'mood_avg': [0.448, 0.531], 'danceability': [0.637, 0.503], 'energy': [0.761, 0.842], 'image': [u'https://i.scdn.co/image/ab67616d0000b2736aba91ac61162caeeef14460', u'https://i.scdn.co/image/ab67616d0000b273db0a368a7ede184a67a51b95'], 'album_name': [u'Post', u'SAWAYAMA (Deluxe Edition)'], 'song_name': [u'I Miss You', u'Love Me 4 Me'], 'artist_name': [u'Bj\xf6rk', u'Rina Sawayama'], 'track_id': [u'3MWqudu2oIERgRqu5MOMbB', u'7cEKTr1IcSj6VxxFkgJNEv']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273db0a36...  ...  0.842
+0  https://i.scdn.co/image/ab67616d0000b2736aba91...  ...  0.761
+
+[2 rows x 10 columns]
+2021-01-31 17:00:04.348167
+Auth happening...
+Getting songs
+Creating dataframe...
+Sugar
+Mile High (feat. Travis Scott & Metro Boomin)
+rangerover - Bonus Track
+Do U Wanna
+Insert Generic Name
+Simple Song
+It's Nice to Be Alive
+Xxoplex
+Orban Eq Trx 4
+Haunted
+Faith In Nothing Except In Salvation
+Parallel 3
+Parallel 3
+Yikes!
+I Miss You
+GOT THESE SONGS
+{'played_at': ['16:59', '16:57', '16:54', '16:52', '16:49', '16:46', '16:44', '16:40', '16:38', '16:36', '16:31', '16:29', '16:29', '16:01'], 'valence': [0.139, 0.228, 0.782, 0.458, 0.346, 0.896, 0.513, 0.285, 0.27, 0.203, 0.109, 0.0657, 0.0657, 0.125], 'mood_avg': [0.332, 0.467, 0.697, 0.528, 0.468, 0.82, 0.596, 0.526, 0.473, 0.219, 0.258, 0.203, 0.203, 0.402], 'danceability': [0.586, 0.754, 0.634, 0.668, 0.611, 0.694, 0.648, 0.678, 0.774, 0.31, 0.252, 0.379, 0.379, 0.716], 'energy': [0.209, 0.37, 0.654, 0.389, 0.424, 0.918, 0.66, 0.705, 0.276, 0.0694, 0.567, 0.128, 0.128, 0.329], 'image': [u'https://i.scdn.co/image/ab67616d0000b2732c8696d7273aae34bf911007', u'https://i.scdn.co/image/ab67616d0000b273534dc6aebb7cf3c04e410cc6', u'https://i.scdn.co/image/ab67616d0000b273b8c3e04fb7b927e5ce0da89e', u'https://i.scdn.co/image/ab67616d0000b273b8c3e04fb7b927e5ce0da89e', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b273db59437636f1219033bdc608', u'https://i.scdn.co/image/ab67616d0000b273b80f8eb7cd3776e665e77477', u'https://i.scdn.co/image/ab67616d0000b27395d35bb46c2ea54d9f179bca', u'https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a', u'https://i.scdn.co/image/ab67616d0000b27395d35bb46c2ea54d9f179bca', u'https://i.scdn.co/image/ab67616d0000b273f5533d680fa116232aa10cbc', u'https://i.scdn.co/image/ab67616d0000b2738ca7b1e049ed737df8e29d5d', u'https://i.scdn.co/image/ab67616d0000b2738ca7b1e049ed737df8e29d5d', u'https://i.scdn.co/image/ab67616d0000b27337e744667c098ff2669b4d4f'], 'album_name': [u'Boys by Girls', u'Assume Form', u'Ricky Music', u'Ricky Music', u'Watch This Liquid Pour Itself', u'Hair of the Dog', u'Only Diamonds Cut Diamonds', u'Apple', u'Drukqs', u'Apple', u'Safe In The Hands of Love', u'Parallel', u'Parallel', u'direct line to My Creator'], 'song_name': [u'Sugar', u'Mile High (feat. Travis Scott & Metro Boomin)', u'rangerover - Bonus Track', u'Do U Wanna', u'Insert Generic Name', u'Simple Song', u"It's Nice to Be Alive", u'Xxoplex', u'Orban Eq Trx 4', u'Haunted', u'Faith In Nothing Except In Salvation', u'Parallel 3', u'Parallel 3', u'Yikes!'], 'artist_name': [u'Instupendo', u'James Blake', u'Porches', u'Porches', u'Okay Kaya', u'ARTHUR', u'Vegyn', u'A. G. Cook', u'Aphex Twin', u'A. G. Cook', u'Yves Tumor', u'Four Tet', u'Four Tet', u'duendita'], 'track_id': [u'0Zpxnqxeqj7htYK7FHwjVF', u'6gWo0JYLA6Dnw40WIx1MTl', u'2IM2fs9rVuDbqtuXpycvam', u'22MqBhjCzF6Lwgh6v35COU', u'58llsMQ3PfvaGNZD8WNn2f', u'3BKLrpmp2484YQeKZU8E0s', u'4Qosj8bJfXBlXi35ukPiGi', u'7I3fl9WpFpNEdSNvxtl803', u'5HNkBdzEYOKJzwYRgMN0z9', u'5fFulubkazski2cFEt7trR', u'0mouikhdkvV8UH8XZfMTvV', u'0P5SYXWSgFTsSIKzWelMyh', u'0P5SYXWSgFTsSIKzWelMyh', u'3cKLo1SKFNKWZvESQVBUTe']}
+                                                image  ...  energy
+13  https://i.scdn.co/image/ab67616d0000b27337e744...  ...   0.329
+12  https://i.scdn.co/image/ab67616d0000b2738ca7b1...  ...   0.128
+11  https://i.scdn.co/image/ab67616d0000b2738ca7b1...  ...   0.128
+10  https://i.scdn.co/image/ab67616d0000b273f5533d...  ...   0.567
+9   https://i.scdn.co/image/ab67616d0000b27395d35b...  ...  0.0694
+8   https://i.scdn.co/image/ab67616d0000b273a5aef9...  ...   0.276
+7   https://i.scdn.co/image/ab67616d0000b27395d35b...  ...   0.705
+6   https://i.scdn.co/image/ab67616d0000b273b80f8e...  ...    0.66
+5   https://i.scdn.co/image/ab67616d0000b273db5943...  ...   0.918
+4   https://i.scdn.co/image/ab67616d0000b2733d3652...  ...   0.424
+3   https://i.scdn.co/image/ab67616d0000b273b8c3e0...  ...   0.389
+2   https://i.scdn.co/image/ab67616d0000b273b8c3e0...  ...   0.654
+1   https://i.scdn.co/image/ab67616d0000b273534dc6...  ...    0.37
+0   https://i.scdn.co/image/ab67616d0000b2732c8696...
