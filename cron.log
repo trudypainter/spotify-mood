@@ -42783,3 +42783,22 @@ GOT THESE SONGS
 ('Rows: ', 7)
 Saved!
 
+[master bd511ab] updating daily data 2021-01-31 08:00:03.387425
+ 3 files changed, 32 insertions(+), 1 deletion(-)
+2021-01-31 08:00:02.615106
+Auth happening...
+Getting songs
+Creating dataframe...
+pick up the phone
+Hun43rd
+Climax (feat. 6lack)
+GOT THESE SONGS
+{'played_at': ['07:07', '07:03'], 'valence': [0.459, 0.355], 'mood_avg': [0.609, 0.485], 'danceability': [0.706, 0.584], 'energy': [0.716, 0.546], 'image': [u'https://i.scdn.co/image/ab67616d0000b2736f90c4dc2e8599829dae3848', u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b'], 'album_name': [u'pick up the phone', u'TESTING'], 'song_name': [u'pick up the phone', u'Hun43rd'], 'artist_name': [u'Young Thug', u'A$AP Rocky'], 'track_id': [u'4GXl8l1MfZPf2GvpyRPJBf', u'1r33iukEx0COYuBzyXPmPP']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b2739feadc...  ...  0.546
+0  https://i.scdn.co/image/ab67616d0000b2736f90c4...  ...  0.716
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
