@@ -42610,3 +42610,26 @@ GOT THESE SONGS
 
 [3 rows x 10 columns]
 ('checking', '~/Desktop/personal-projects/spotify-mood/daily-data/2021-01-30.csv', ' for duplicates....')
+[master 85ac132] updating daily data 2021-01-30 22:00:03.345324
+ 7 files changed, 2310 insertions(+), 63 deletions(-)
+2021-01-30 22:00:02.409390
+Auth happening...
+Getting songs
+Creating dataframe...
+NASA
+Pretty Girl
+Chun Swae (feat. Swae Lee)
+Pretty Girl hi!
+Not Friendly
+GOT THESE SONGS
+{'played_at': ['21:25', '21:22', '21:19', '21:13'], 'valence': [0.47, 0.695, 0.21, 0.441], 'mood_avg': [0.578, 0.772, 0.509, 0.585], 'danceability': [0.747, 0.93, 0.851, 0.636], 'energy': [0.458, 0.611, 0.421, 0.772], 'image': [u'https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8', u'https://i.scdn.co/image/ab67616d0000b273efe812ae54f0698a32ccae14', u'https://i.scdn.co/image/ab67616d0000b273540ab7c149079184e8724dc4', u'https://i.scdn.co/image/ab67616d0000b273680f7aff18376de523d7dea5'], 'album_name': [u'thank u, next', u'Pretty Girl', u'Queen', u'Introspection'], 'song_name': [u'NASA', u'Pretty Girl', u'Chun Swae (feat. Swae Lee)', u'Pretty Girl hi!'], 'artist_name': [u'Ariana Grande', u'Clairo', u'Nicki Minaj', u'UMI'], 'track_id': [u'4uTvPEr01pjTbZgl7jcKBD', u'0KyAGiNGUytG5JLxJu4F6l', u'03It1uO69CjGWP3yyVe465', u'35SJSCkL9h2APOXwiSTPX1']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273680f7a...  ...  0.772
+2  https://i.scdn.co/image/ab67616d0000b273540ab7...  ...  0.421
+1  https://i.scdn.co/image/ab67616d0000b273efe812...  ...  0.611
+0  https://i.scdn.co/image/ab67616d0000b27356ac7b...  ...  0.458
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
