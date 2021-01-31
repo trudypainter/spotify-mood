@@ -42554,3 +42554,42 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 6594763] updating daily data 2021-01-30 20:00:03.919544
+ 6 files changed, 290 insertions(+), 96 deletions(-)
+ create mode 100644 daily-data/test.csv
+ rewrite jupyter-spotify.ipynb (95%)
+2021-01-30 20:00:02.652233
+Auth happening...
+Getting songs
+Creating dataframe...
+Moon Song
+Chinese Satellite
+Halloween
+Punisher
+Kyoto
+Garden Song
+DVD Menu
+On the Road South
+Sentence
+Drek
+BIPP - Autechre Mx
+Mia Askisi Fysikis Alyti
+GOT THESE SONGS
+{'played_at': ['19:52', '19:47', '19:44', '19:39', '19:36', '19:33', '19:29', '19:26', '19:23', '19:17', '19:12'], 'valence': [0.172, 0.379, 0.373, 0.212, 0.493, 0.158, 0.111, 0.679, 0.239, 0.659, 0.41], 'mood_avg': [0.269, 0.361, 0.374, 0.301, 0.585, 0.329, 0.147, 0.5, 0.307, 0.703, 0.587], 'danceability': [0.38, 0.302, 0.483, 0.428, 0.599, 0.528, 0.213, 0.165, 0.0889, 0.883, 0.859], 'energy': [0.24, 0.444, 0.156, 0.226, 0.742, 0.273, 0.0864, 0.813, 0.88, 0.433, 0.398], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b273fd1f3aab4af1f62da24708d4', u'https://i.scdn.co/image/ab67616d0000b27339350816d2ed47f8d12a5902', u'https://i.scdn.co/image/ab67616d0000b273e41ecc7340247a48201d2606', u'https://i.scdn.co/image/ab67616d0000b27340b614542b80b7795f759849'], 'album_name': [u'Punisher', u'Punisher', u'Punisher', u'Punisher', u'Punisher', u'Punisher', u'Punisher', u'Texas Garage Bands, Vol. 2', u'Amanita', u'Vixere II/II', u'BIPP (Autechre Mx)'], 'song_name': [u'Moon Song', u'Chinese Satellite', u'Halloween', u'Punisher', u'Kyoto', u'Garden Song', u'DVD Menu', u'On the Road South', u'Sentence', u'Drek', u'BIPP - Autechre Mx'], 'artist_name': [u'Phoebe Bridgers', u'Phoebe Bridgers', u'Phoebe Bridgers', u'Phoebe Bridgers', u'Phoebe Bridgers', u'Phoebe Bridgers', u'Phoebe Bridgers', u'The Stereo Shoestring', u'Bardo Pond', u'Malin Genie', u'SOPHIE'], 'track_id': [u'6sALLrBPX30ptG1HWH6vmW', u'60zlkOrTCHjpRTd1g6PI5y', u'7FQ2JgfdkBcBb3BEbu8Axf', u'7yR6GEJsPI6kmNRvFkPuN3', u'49UDOG8DoBajXTJSTqfRMg', u'5uQRmdIqyMmKPWJcot4UmV', u'6Tz8qANEIf4aCGEEjcxgKg', u'3a7K7noPGQOWy6lxw51mir', u'3JLzne7Jdbkro8XoJFbwXz', u'4RbxlZWodv9svm0Sq04CFW', u'4tBdLWvYYr5IjJpvwiZr85']}
+                                                image  ...  energy
+10  https://i.scdn.co/image/ab67616d0000b27340b614...  ...   0.398
+9   https://i.scdn.co/image/ab67616d0000b273e41ecc...  ...   0.433
+8   https://i.scdn.co/image/ab67616d0000b273393508...  ...    0.88
+7   https://i.scdn.co/image/ab67616d0000b273fd1f3a...  ...   0.813
+6   https://i.scdn.co/image/ab67616d0000b2733040ca...  ...  0.0864
+5   https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.273
+4   https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.742
+3   https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.226
+2   https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.156
+1   https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.444
+0   https://i.scdn.co/image/ab67616d0000b2733040ca...  ...    0.24
+
+[11 rows x 10 columns]
+('Rows: ', 11)
+Saved!
+
