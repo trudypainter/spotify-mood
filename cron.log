@@ -42593,3 +42593,20 @@ GOT THESE SONGS
 ('Rows: ', 11)
 Saved!
 
+2021-01-30 21:00:02.958272
+Auth happening...
+Getting songs
+Creating dataframe...
+Not Friendly
+I Know The End
+Graceland Too
+ICU
+GOT THESE SONGS
+{'played_at': ['20:13', '20:09', '20:03'], 'valence': [0.656, 0.259, 0.361], 'mood_avg': [0.772, 0.299, 0.388], 'danceability': [0.878, 0.328, 0.44], 'energy': [0.793, 0.32, 0.34], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add'], 'album_name': [u'Ho, why is you here ?', u'Punisher', u'Punisher'], 'song_name': [u'Not Friendly', u'I Know The End', u'Graceland Too'], 'artist_name': [u'Flo Milli', u'Phoebe Bridgers', u'Phoebe Bridgers'], 'track_id': [u'2le8xbpMJ1aA0SpJZRMbRw', u'3cr3oAP4bQFNjZBV7ElKaB', u'44spdItKKM7rOtKswbBG0U']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.34
+1  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.32
+0  https://i.scdn.co/image/ab67616d0000b2733ae4c6...  ...  0.793
+
+[3 rows x 10 columns]
+('checking', '~/Desktop/personal-projects/spotify-mood/daily-data/2021-01-30.csv', ' for duplicates....')

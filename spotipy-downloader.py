@@ -159,8 +159,6 @@ print(df)
 
 filename = "~/Desktop/personal-projects/spotify-mood/daily-data/" + datetime.now().strftime('%Y-%m-%d/')[:10] + ".csv"
 
-# TODO: remove the duplicate songs from the csv
-
 # add the dataframe to a csv
 try:
     df.to_csv(filename, mode = 'a', header = False, index = False)
@@ -168,6 +166,43 @@ except:
     command = 'touch ' + filename
     os.system(command)  
     df.to_csv(filename, mode = 'a', header = False, index = False)
+
+# remove duplicates if there are any
+def remove_duplicates(filename):
+    
+    print("checking", filename, " for duplicates....")
+    # make tuple of songs
+    with open(filename, mode='r') as csv_file:
+        csv_reader = csv.reader(csv_file, delimiter=',')
+
+        line_count=0
+        unique_songs = tuple()
+        for row in csv_reader:
+            line_count+=1  
+            row_tup = tuple(row)
+            if row_tup not in unique_songs:
+                unique_songs += (row_tup,)
+          
+        if line_count == len(unique_songs):
+            print("There were no duplicates!\n")
+            return None
+        
+        print("DUPLICATES FOR ", filename)
+        print(line_count)
+        print(len(unique_songs)) 
+        
+    # delete songs
+    open(filename, 'w').close()
+    
+    # rewrite data
+    with open(filename, mode='w') as csv_file:
+        writer = csv.writer(csv_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+        for song in unique_songs:
+            writer.writerow(song)  
+        num_removed = line_count-len(unique_songs)     
+    print("Completed removal of", num_removed, "duplicates!\n ")
+
+# remove_duplicates(filename)
 
 print("Rows: ", len(df.index))
 print("Saved!\n")
