@@ -42900,3 +42900,18 @@ GOT THESE SONGS
 0  https://i.scdn.co/image/ab67616d0000b273825d26...  ...  0.318
 
 [9 rows x 10 columns]
+[master 3c71c71] updating daily data 2021-01-31 14:00:04.214097
+ 3 files changed, 46 insertions(+), 1 deletion(-)
+2021-01-31 14:00:03.556599
+Auth happening...
+Getting songs
+Creating dataframe...
+Still Dreaming
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
