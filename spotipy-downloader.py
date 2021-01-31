@@ -159,6 +159,9 @@ print(df)
 
 filename = "~/Desktop/personal-projects/spotify-mood/daily-data/" + datetime.now().strftime('%Y-%m-%d/')[:10] + ".csv"
 
+# TODO: remove the duplicate songs from the csv
+
+# add the dataframe to a csv
 try:
     df.to_csv(filename, mode = 'a', header = False, index = False)
 except:
