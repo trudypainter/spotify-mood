@@ -43415,3 +43415,36 @@ s://i.scdn.co/image/ab67616d0000b273e1a818...  ...  0.608
 ('Rows: ', 16)
 Saved!
 
+[master 3bce3dd] updating daily data 2021-02-01 12:00:04.381231
+ 3 files changed, 21 insertions(+), 2 deletions(-)
+2021-02-01 12:00:03.379510
+Auth happening...
+Getting songs
+Creating dataframe...
+Praise The Lord (Da Shine) (feat. Skepta)
+Jason
+Slumber Party (feat. Princess Nokia)
+Kids See Ghosts
+Feel The Love
+I Get the Bag (feat. Migos)
+GOT THESE SONGS
+{'played_at': ['11:59', '11:56', '11:52', '11:49', '11:18'], 'valence': [0.294, 0.344, 0.563, 0.338, 0.369], 'mood_avg': [0.573, 0.338, 0.69, 0.608, 0.473], 'danceability': [0.854, 0.34, 0.964, 0.841, 0.58], 'energy': [0.569, 0.324, 0.398, 0.682, 0.469], 'image': [u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b', u'https://i.scdn.co/image/ab67616d0000b27343f44b90dd0a223b06aba994', u'https://i.scdn.co/image/ab67616d0000b27311b63834a1a557cc77403458', u'https://i.scdn.co/image/ab67616d0000b273013c00ee367dd85396f79c82', u'https://i.scdn.co/image/ab67616d0000b273013c00ee367dd85396f79c82'], 'album_name': [u'TESTING', u'Set My Heart On Fire Immediately', u'DEMIDEVIL', u'KIDS SEE GHOSTS', u'KIDS SEE GHOSTS'], 'song_name': [u'Praise The Lord (Da Shine) (feat. Skepta)', u'Jason', u'Slumber Party (feat. Princess Nokia)', u'Kids See Ghosts', u'Feel The Love'], 'artist_name': [u'A$AP Rocky', u'Perfume Genius', u'Ashnikko', u'KIDS SEE GHOSTS', u'KIDS SEE GHOSTS'], 'track_id': [u'7ycWLEP1GsNjVvcjawXz3z', u'34B5INdEjbTXvNkCC5GtYz', u'11ZulcYY4lowvcQm4oe3VJ', u'2I3dW2dCBZAJGj5X21E53k', u'3aUFrxO1B8EW63QchEl3wX']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273013c00...  ...  0.469
+3  https://i.scdn.co/image/ab67616d0000b273013c00...  ...  0.682
+2  https://i.scdn.co/image/ab67616d0000b27311b638...  ...  0.398
+1  https://i.scdn.co/image/ab67616d0000b27343f44b...  ...  0.324
+0  https://i.scdn.co/image/ab67616d0000b2739feadc...  ...  0.569
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
+2021-02-01 13:00:07.292756
+Auth happening...
+Getting songs
+Creating dataframe...
+Habitual Love
+Monte Carlo (feat. WET)
+Augustine
+Halloween
