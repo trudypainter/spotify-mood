@@ -43298,3 +43298,44 @@ GOT THESE SONGS
 ('Rows: ', 7)
 Saved!
 
+[master 7fbdbd6] updating daily data 2021-02-01 09:00:09.356239
+ 3 files changed, 43 insertions(+), 1 deletion(-)
+2021-02-01 09:00:06.487511
+Auth happening...
+Getting songs
+Creating dataframe...
+Cry (feat. Grimes)
+Toxic
+Drunk With My Friends
+Daisy
+Slumber Party (feat. Princess Nokia)
+Solitary Ceremonies
+KLK
+Bars. 16
+The Pines
+Time
+Serious
+Subterranean Homesick Alien
+Darkseid
+Falling Into Me
+GOT THESE SONGS
+{'played_at': ['08:58', '08:56', '08:54', '08:51', '08:49', '08:43', '08:31', '08:27', '08:26', '08:23', '08:20', '08:09', '08:04'], 'valence': [0.825, 0.718, 0.399, 0.774, 0.563, 0.193, 0.846, 0.965, 0.176, 0.374, 0.506, 0.337, 0.331], 'mood_avg': [0.762, 0.734, 0.607, 0.776, 0.69, 0.237, 0.832, 0.764, 0.367, 0.433, 0.571, 0.379, 0.454], 'danceability': [0.679, 0.843, 0.83, 0.834, 0.964, 0.267, 0.798, 0.623, 0.522, 0.548, 0.684, 0.312, 0.448], 'energy': [0.801, 0.546, 0.578, 0.663, 0.398, 0.267, 0.873, 0.646, 0.439, 0.322, 0.475, 0.595, 0.713], 'image': [u'https://i.scdn.co/image/ab67616d0000b27311b63834a1a557cc77403458', u'https://i.scdn.co/image/ab67616d0000b27311b63834a1a557cc77403458', u'https://i.scdn.co/image/ab67616d0000b27311b63834a1a557cc77403458', u'https://i.scdn.co/image/ab67616d0000b27311b63834a1a557cc77403458', u'https://i.scdn.co/image/ab67616d0000b27311b63834a1a557cc77403458', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b2738c894fac3d113f98885d3117', u'https://i.scdn.co/image/ab67616d0000b273c3545bbe806b845c2b52bc20', u'https://i.scdn.co/image/ab67616d0000b27320921767dd81e8f90ef9fc71', u'https://i.scdn.co/image/ab67616d0000b2738c894fac3d113f98885d3117', u'https://i.scdn.co/image/ab67616d0000b273cd7c3cba379ae624e118ebcb', u'https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856', u'https://i.scdn.co/image/ab67616d0000b2731a302aafa2ea587960e27951'], 'album_name': [u'DEMIDEVIL', u'DEMIDEVIL', u'DEMIDEVIL', u'DEMIDEVIL', u'DEMIDEVIL', u'We Will Always Love You', u'KiCk i', u'The Lo-Fis', u'Modus Vivendi', u'KiCk i', u'Fresh Air', u'OK Computer', u'Miss Anthropocene (Deluxe Edition)'], 'song_name': [u'Cry (feat. Grimes)', u'Toxic', u'Drunk With My Friends', u'Daisy', u'Slumber Party (feat. Princess Nokia)', u'Solitary Ceremonies', u'KLK', u'Bars. 16', u'The Pines', u'Time', u'Serious', u'Subterranean Homesick Alien', u'Darkseid'], 'artist_name': [u'Ashnikko', u'Ashnikko', u'Ashnikko', u'Ashnikko', u'Ashnikko', u'The Avalanches', u'Arca', u'Steve Lacy', u'070 Shake', u'Arca', u'HOMESHAKE', u'Radiohead', u'Grimes'], 'track_id': [u'1jR9XTpUeT6a82Yz4GNCCo', u'37KAHk68qniQvtacrldNmM', u'2YBN2v1sRizy1bQQFMlDEI', u'2g1KggY9PKvsoEAOaiz4xx', u'11ZulcYY4lowvcQm4oe3VJ', u'4ITwUwPgYYl9QF2k9dyH9r', u'2ZFu40Ik8VsUE9H87W0MmZ', u'5yeGSsoKFW1cq5WWnDY9oJ', u'0uTw7TNnYn64XmCAo5jr0c', u'3XdXixlx3MoVzfL7pu9hx6', u'0J6LNjtX37SlLbfnQKcmMW', u'2CVV8PtUYYsux8XOzWkCP0', u'0TlBuH1azntROo6SCNe3Kb']}
+                                                image  ... energy
+12  https://i.scdn.co/image/ab67616d0000b2731a302a...  ...  0.713
+11  https://i.scdn.co/image/ab67616d0000b273c8b444...  ...  0.595
+10  https://i.scdn.co/image/ab67616d0000b273cd7c3c...  ...  0.475
+9   https://i.scdn.co/image/ab67616d0000b2738c894f...  ...  0.322
+8   https://i.scdn.co/image/ab67616d0000b273209217...  ...  0.439
+7   https://i.scdn.co/image/ab67616d0000b273c3545b...  ...  0.646
+6   https://i.scdn.co/image/ab67616d0000b2738c894f...  ...  0.873
+5   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.267
+4   https://i.scdn.co/image/ab67616d0000b27311b638...  ...  0.398
+3   https://i.scdn.co/image/ab67616d0000b27311b638...  ...  0.663
+2   https://i.scdn.co/image/ab67616d0000b27311b638...  ...  0.578
+1   https://i.scdn.co/image/ab67616d0000b27311b638...  ...  0.546
+0   https://i.scdn.co/image/ab67616d0000b27311b638...  ...  0.801
+
+[13 rows x 10 columns]
+('Rows: ', 13)
+Saved!
+
