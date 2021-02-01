@@ -43339,3 +43339,65 @@ GOT THESE SONGS
 ('Rows: ', 13)
 Saved!
 
+[master 333d1dd] updating daily data 2021-02-01 10:00:06.208753
+ 3 files changed, 49 insertions(+), 1 deletion(-)
+2021-02-01 10:00:04.897435
+Auth happening...
+Getting songs
+Creating dataframe...
+Serious
+Breathe
+Deal With It (feat. Kelis)
+Little Boy
+Good While It Lasted
+Daisy
+L8r Boi
+Clitoris! The Musical
+GOT THESE SONGS
+{'played_at': ['09:24', '09:18', '09:14', '09:11', '09:08', '09:05', '09:02'], 'valence': [0.506, 0.558, 0.49, 0.327, 0.128, 0.774, 0.816], 'mood_avg': [0.571, 0.527, 0.619, 0.541, 0.402, 0.776, 0.808], 'danceability': [0.684, 0.437, 0.712, 0.781, 0.662, 0.834, 0.789], 'energy': [0.475, 0.644, 0.689, 0.487, 0.428, 0.663, 0.83], 'image': [u'https://i.scdn.co/image/ab67616d0000b273cd7c3cba379ae624e118ebcb', u'https://i.scdn.co/image/ab67616d0000b2735a973167d72dfaaedf82a654', u'https://i.scdn.co/image/ab67616d0000b27311b63834a1a557cc77403458', u'https://i.scdn.co/image/ab67616d0000b27311b63834a1a557cc77403458', u'https://i.scdn.co/image/ab67616d0000b27311b63834a1a557cc77403458', u'https://i.scdn.co/image/ab67616d0000b27311b63834a1a557cc77403458', u'https://i.scdn.co/image/ab67616d0000b27311b63834a1a557cc77403458'], 'album_name': [u'Fresh Air', u'Song of Sage: Post Panic!', u'DEMIDEVIL', u'DEMIDEVIL', u'DEMIDEVIL', u'DEMIDEVIL', u'DEMIDEVIL'], 'song_name': [u'Serious', u'Breathe', u'Deal With It (feat. Kelis)', u'Little Boy', u'Good While It Lasted', u'Daisy', u'L8r Boi'], 'artist_name': [u'HOMESHAKE', u'Navy Blue', u'Ashnikko', u'Ashnikko', u'Ashnikko', u'Ashnikko', u'Ashnikko'], 'track_id': [u'0J6LNjtX37SlLbfnQKcmMW', u'6WRf9onJIim8mvHGSAgvFd', u'1S85LGnDPKKOkfuFaK6vFu', u'660rulYF3eLCuW6rQpiMdL', u'4GjzTwHiTbRBGbAzvOTtRu', u'2g1KggY9PKvsoEAOaiz4xx', u'5lTjWwzlToolJUVR9Qh3ya']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b27311b638...  ...   0.83
+5  https://i.scdn.co/image/ab67616d0000b27311b638...  ...  0.663
+4  https://i.scdn.co/image/ab67616d0000b27311b638...  ...  0.428
+3  https://i.scdn.co/image/ab67616d0000b27311b638...  ...  0.487
+2  https://i.scdn.co/image/ab67616d0000b27311b638...  ...  0.689
+1  https://i.scdn.co/image/ab67616d0000b2735a9731...  ...  0.644
+0  https://i.scdn.co/image/ab67616d0000b273cd7c3c...  ...  0.475
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
+2021-02-01 11:00:07.851235
+Auth happening...
+Getting songs
+Creating dataframe...
+I Get the Bag (feat. Migos)
+Sweet to Me
+Loving Is Easy
+Slayerr
+Pretty Girl
+Revvin' My Cj7
+Wake Up
+Love Me
+Mother Nature's Bitch
+Something to Believe
+Violence - Original Mix
+Nonbinary
+Drumset
+That Ain't No Dang Cat!
+Up From A Dream
+This Is Not
+Serious
+GOT THESE SONGS
+{'played_at': ['10:57', '10:53', '10:49', '10:47', '10:43', '10:40', '10:35', '10:33', '10:25', '10:23', '10:18', '10:15', '10:12', '10:09', '10:07', '10:04'], 'valence': [0.425, 0.501, 0.537, 0.68, 0.695, 0.347, 0.342, 0.464, 0.683, 0.188, 0.0795, 0.218, 0.822, 0.827, 0.568, 0.707], 'mood_avg': [0.653, 0.528, 0.639, 0.691, 0.772, 0.537, 0.548, 0.577, 0.676, 0.277, 0.425, 0.473, 0.761, 0.827, 0.627, 0.729], 'danceability': [0.89, 0.563, 0.756, 0.709, 0.93, 0.762, 0.778, 0.674, 0.714, 0.31, 0.533, 0.746, 0.75, 0.807, 0.63, 0.789], 'energy': [0.633, 0.51, 0.609, 0.676, 0.611, 0.468, 0.5, 0.608, 0.588, 0.391, 0.9, 0.439, 0.661, 0.867, 0.739, 0.654], 'image': [u'https://i.scdn.co/image/ab67616d0000b273af7525e55333b110ff0f4e95', u'https://i.scdn.co/image/ab67616d0000b273c4c9ca67b07423071204c0b1', u'https://i.scdn.co/image/ab67616d0000b273280a72fdd9bd502bcba6ada8', u'https://i.scdn.co/image/ab67616d0000b273d64e16e79f29debbb2690d62', u'https://i.scdn.co/image/ab67616d0000b273efe812ae54f0698a32ccae14', u'https://i.scdn.co/image/ab67616d0000b27372dda75d6fb0b8d524476595', u'https://i.scdn.co/image/ab67616d0000b2739763102d656ebbb5dad3c97d', u'https://i.scdn.co/image/ab67616d0000b273e1a81870181de556d515d4cc', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b2730c64e752dec4c08362cc4a88', u'https://i.scdn.co/image/ab67616d0000b2731a302aafa2ea587960e27951', u'https://i.scdn.co/image/ab67616d0000b2738c894fac3d113f98885d3117', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b273b80f8eb7cd3776e665e77477', u'https://i.scdn.co/image/ab67616d0000b273d2631fe4c90aae7dec8fb0df', u'https://i.scdn.co/image/ab67616d0000b273af071325c295f71b0d320a90'], 'album_name': [u'Mr. Davis', u'Driving to Hawaii', u'Loving Is Easy', u'Slayerr', u'Pretty Girl', u'So Polite', u'Sun Shower', u'I Am Not A Human Being II (Deluxe)', u'Watch This Liquid Pour Itself', u'Titanic Rising', u'Miss Anthropocene (Deluxe Edition)', u'KiCk i', u'Fetch The Bolt Cutters', u'Only Diamonds Cut Diamonds', u'Women In Music Pt. III', u'Cannonball!'], 'song_name': [u'I Get the Bag (feat. Migos)', u'Sweet to Me', u'Loving Is Easy', u'Slayerr', u'Pretty Girl', u"Revvin' My Cj7", u'Wake Up', u'Love Me', u"Mother Nature's Bitch", u'Something to Believe', u'Violence - Original Mix', u'Nonbinary', u'Drumset', u"That Ain't No Dang Cat!", u'Up From A Dream', u'This Is Not'], 'artist_name': [u'Gucci Mane', u'Summer Salt', u'Rex Orange County', u'Tm88', u'Clairo', u'Summer Salt', u'Elton Aura', u'Lil Wayne', u'Okay Kaya', u'Weyes Blood', u'Grimes', u'Arca', u'Fiona Apple', u'Vegyn', u'HAIM', u'Sen Morimoto'], 'track_id': [u'1XRgIKC5TPwo7nWGyKqgG0', u'3qqeDnTGXgRftw1RZj4Jv2', u'5EYi2rH4LYs6M21ZLOyQTx', u'5X2I1TVUkchLBggRTCMYem', u'0KyAGiNGUytG5JLxJu4F6l', u'6PVx8IYQJdeLa2AIJnnFrj', u'6k8OXtHlpkbW8ebykbiS7A', u'7tGlzXJv6GD5e5qlu5YmDg', u'3TsNXF2EbIUS6zlfm5Ju3M', u'30TCAxiC8zVb5NVdUoUuCS', u'3KeOFns3LGJuh1lapMm9eA', u'4lUlYGT5VvZWN3GBDIc9KT', u'4baGw8dAfqNl7RrmlMtzb5', u'2rktSGjo4b3QPFQKXAGpD9', u'391xSsWIqxAMTNt7pekYZs', u'2K0jDRTeZC8Dr6enR8vAMP']}
+                                                image  ... energy
+15  https://i.scdn.co/image/ab67616d0000b273af0713...  ...  0.654
+14  https://i.scdn.co/image/ab67616d0000b273d2631f...  ...  0.739
+13  https://i.scdn.co/image/ab67616d0000b273b80f8e...  ...  0.867
+12  https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.661
+11  https://i.scdn.co/image/ab67616d0000b2738c894f...  ...  0.439
+10  https://i.scdn.co/image/ab67616d0000b2731a302a...  ...    0.9
+9   https://i.scdn.co/image/ab67616d0000b2730c64e7...  ...  0.391
+8   https://i.scdn.co/image/ab67616d0000b2733d3652...  ...  0.588
+7   http
