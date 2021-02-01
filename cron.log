@@ -43068,3 +43068,37 @@ GOT THESE SONGS
 0  https://i.scdn.co/image/ab67616d0000b273e8ac8f...  ...  0.679
 
 [9 rows x 10 columns]
+[master c9da835] updating daily data 2021-01-31 20:00:04.558058
+ 3 files changed, 66 insertions(+), 2 deletions(-)
+2021-01-31 20:00:03.510953
+Auth happening...
+Getting songs
+Creating dataframe...
+Gwety Mernans
+Die
+Holy Will
+Music Is The Light
+I Wanna C U
+I Heard You Looking
+SeeSaw
+GOT THESE SONGS
+{'played_at': ['19:49', '19:44', '19:41', '19:36', '19:06', '19:05'], 'valence': [0.0416, 0.458, 0.182, 0.257, 0.72, 0.132], 'mood_avg': [0.164, 0.545, 0.245, 0.42, 0.666, 0.243], 'danceability': [0.304, 0.574, 0.303, 0.603, 0.793, 0.217], 'energy': [0.129, 0.66, 0.255, 0.379, 0.304, 0.518], 'image': [u'https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a', u'https://i.scdn.co/image/ab67616d0000b273e46284dd97f628323a544297', u'https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273c705e4061a1de1139ced6554', u'https://i.scdn.co/image/ab67616d0000b27375d190b89508d795e7570aaf'], 'album_name': [u'Drukqs', u'Beware of the Dogs', u'Negro Swan', u'We Will Always Love You', u"Angel's Pulse", u'Painful'], 'song_name': [u'Gwety Mernans', u'Die', u'Holy Will', u'Music Is The Light', u'I Wanna C U', u'I Heard You Looking'], 'artist_name': [u'Aphex Twin', u'Stella Donnelly', u'Blood Orange', u'The Avalanches', u'Blood Orange', u'Yo La Tengo'], 'track_id': [u'28C2j0QoqXJpkoOOIYW0iT', u'3upS2kqDLefy9HfB7uaXpE', u'6ImkphIMAbZRkZOJuVrTA2', u'5eDLEMBoefYrDbhAycL5LK', u'4BD3sl4HjTAzWGVIP8LLm4', u'21Zpw9qk5LwnEqgYqfB43O']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b27375d190...  ...  0.518
+4  https://i.scdn.co/image/ab67616d0000b273c705e4...  ...  0.304
+3  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.379
+2  https://i.scdn.co/image/ab67616d0000b27347dd2c...  ...  0.255
+1  https://i.scdn.co/image/ab67616d0000b273e46284...  ...   0.66
+0  https://i.scdn.co/image/ab67616d0000b273a5aef9...  ...  0.129
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
+2021-01-31 21:00:03.272681
+Auth happening...
+Getting songs
+Creating dataframe...
+Nauseous / Devilish
+Strawberry Privilege
+5th Harm
