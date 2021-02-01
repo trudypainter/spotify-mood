@@ -43250,3 +43250,22 @@ GOT THESE SONGS
 ('Rows: ', 6)
 Saved!
 
+[master 1ccdb1c] updating daily data 2021-02-01 07:00:04.295705
+ 3 files changed, 30 insertions(+), 1 deletion(-)
+2021-02-01 07:00:03.311704
+Auth happening...
+Getting songs
+Creating dataframe...
+3 Headed Snake (feat. Young Thug)
+Dark Queen
+If I Got To
+GOT THESE SONGS
+{'played_at': ['06:07', '06:03'], 'valence': [0.646, 0.2], 'mood_avg': [0.707, 0.5], 'danceability': [0.914, 0.747], 'energy': [0.415, 0.606], 'image': [u'https://i.scdn.co/image/ab67616d0000b273bddf008ccaea655e61892c27', u'https://i.scdn.co/image/ab67616d0000b27341b41e6f7924e530a9b00f9c'], 'album_name': [u'Drip or Drown 2', u'Luv Is Rage 2'], 'song_name': [u'3 Headed Snake (feat. Young Thug)', u'Dark Queen'], 'artist_name': [u'Gunna', u'Lil Uzi Vert'], 'track_id': [u'2OaKHGvIxoOzIYjyMsxcT8', u'2ZdCrBA52bb4pIG3tOOZiQ']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b27341b41e...  ...  0.606
+0  https://i.scdn.co/image/ab67616d0000b273bddf00...  ...  0.415
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
