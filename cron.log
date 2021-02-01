@@ -43269,3 +43269,32 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master 801755a] updating daily data 2021-02-01 08:00:04.394860
+ 3 files changed, 27 insertions(+), 1 deletion(-)
+2021-02-01 08:00:03.269384
+Auth happening...
+Getting songs
+Creating dataframe...
+Assume Form
+Waves Know Shores
+Identity Trade
+Reach Hi
+Emergency Blimp
+Love Me In Whatever Way
+Take Care
+3 Headed Snake (feat. Young Thug)
+GOT THESE SONGS
+{'played_at': ['07:55', '07:50', '07:47', '07:45', '07:41', '07:38', '07:16'], 'valence': [0.148, 0.0677, 0.869, 0.229, 0.496, 0.236, 0.637], 'mood_avg': [0.294, 0.143, 0.757, 0.431, 0.606, 0.318, 0.677], 'danceability': [0.413, 0.222, 0.646, 0.821, 0.526, 0.318, 0.718], 'energy': [0.349, 0.138, 0.757, 0.0559, 0.987, 0.482, 0.675], 'image': [u'https://i.scdn.co/image/ab67616d0000b273534dc6aebb7cf3c04e410cc6', u'https://i.scdn.co/image/ab67616d0000b273559bd53b0292ed01f789a0d8', u'https://i.scdn.co/image/ab67616d0000b273043864250fbec5f57c7076a7', u'https://i.scdn.co/image/ab67616d0000b273281b57bfec5391971863c05a', u'https://i.scdn.co/image/ab67616d0000b273c02d78ecd28d80920aa11f1c', u'https://i.scdn.co/image/ab67616d0000b273559bd53b0292ed01f789a0d8', u'https://i.scdn.co/image/ab67616d0000b273419cedff7b313b962a93932e'], 'album_name': [u'Assume Form', u'The Colour In Anything', u'Heaven To A Tortured Mind', u'Devotion', u'The OOZ', u'The Colour In Anything', u'Beautiful Thugger Girls'], 'song_name': [u'Assume Form', u'Waves Know Shores', u'Identity Trade', u'Reach Hi', u'Emergency Blimp', u'Love Me In Whatever Way', u'Take Care'], 'artist_name': [u'James Blake', u'James Blake', u'Yves Tumor', u'Tirzah', u'King Krule', u'James Blake', u'Young Thug'], 'track_id': [u'2zUYg51Df8nLuymwI67mzk', u'6CaixeaNllgzmFcfMhAeD8', u'3qDnEaYjm0QsYASCB7114n', u'6Kpv9JARbOqhtFl7YzmojA', u'7nhoOoBjLXVx1FadDQmDNd', u'1C0WuqxJFwspf1lc0v4qhZ', u'1mB1N8BVAN3BeyOes2uj1E']}
+                                               image  ...  energy
+6  https://i.scdn.co/image/ab67616d0000b273419ced...  ...   0.675
+5  https://i.scdn.co/image/ab67616d0000b273559bd5...  ...   0.482
+4  https://i.scdn.co/image/ab67616d0000b273c02d78...  ...   0.987
+3  https://i.scdn.co/image/ab67616d0000b273281b57...  ...  0.0559
+2  https://i.scdn.co/image/ab67616d0000b273043864...  ...   0.757
+1  https://i.scdn.co/image/ab67616d0000b273559bd5...  ...   0.138
+0  https://i.scdn.co/image/ab67616d0000b273534dc6...  ...   0.349
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
