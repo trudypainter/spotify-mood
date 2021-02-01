@@ -43223,3 +43223,30 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 5dccd23] updating daily data 2021-02-01 06:00:04.723515
+ 3 files changed, 22 insertions(+), 1 deletion(-)
+2021-02-01 06:00:03.736348
+Auth happening...
+Getting songs
+Creating dataframe...
+She Wanna Party (feat. Millie Go Lightly)
+Floyd Mayweather (feat. Travis Scott, Gucci Mane and Gunna)
+You Was Right
+Up in Here
+Swervin (feat. 6ix9ine)
+Blue Verb
+Nauseous / Devilish
+GOT THESE SONGS
+{'played_at': ['05:59', '05:54', '05:48', '05:46', '05:43', '05:39'], 'valence': [0.388, 0.806, 0.156, 0.409, 0.434, 0.853], 'mood_avg': [0.486, 0.777, 0.471, 0.604, 0.538, 0.683], 'danceability': [0.578, 0.891, 0.843, 0.772, 0.581, 0.621], 'energy': [0.5, 0.491, 0.359, 0.659, 0.662, 0.469], 'image': [u'https://i.scdn.co/image/ab67616d0000b273419cedff7b313b962a93932e', u'https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8', u'https://i.scdn.co/image/ab67616d0000b2738be07181aa935225a6f25d56', u'https://i.scdn.co/image/ab67616d0000b2731541a676423805fc68ff3e66', u'https://i.scdn.co/image/ab67616d0000b273dcfadea246002a5c0fd7b1b8', u'https://i.scdn.co/image/ab67616d0000b273b80f8eb7cd3776e665e77477'], 'album_name': [u'Beautiful Thugger Girls', u'JEFFERY', u'Lil Uzi Vert vs. The World', u'Painting Pictures', u'Hoodie SZN', u'Only Diamonds Cut Diamonds'], 'song_name': [u'She Wanna Party (feat. Millie Go Lightly)', u'Floyd Mayweather (feat. Travis Scott, Gucci Mane and Gunna)', u'You Was Right', u'Up in Here', u'Swervin (feat. 6ix9ine)', u'Blue Verb'], 'artist_name': [u'Young Thug', u'Young Thug', u'Lil Uzi Vert', u'Kodak Black', u'A Boogie Wit da Hoodie', u'Vegyn'], 'track_id': [u'3WL6yCfh0zw2MxVSWSe0G1', u'5ALc7rbru6QOLGodVSDocc', u'2ANLarE8yHVsLWW21nj79M', u'4rcDP7pcJ9TN3LDeFSfUav', u'1wJRveJZLSb1rjhnUHQiv6', u'5LWDFMMBB24zGSLGyVcgZE']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b273b80f8e...  ...  0.469
+4  https://i.scdn.co/image/ab67616d0000b273dcfade...  ...  0.662
+3  https://i.scdn.co/image/ab67616d0000b2731541a6...  ...  0.659
+2  https://i.scdn.co/image/ab67616d0000b2738be071...  ...  0.359
+1  https://i.scdn.co/image/ab67616d0000b273d0c722...  ...  0.491
+0  https://i.scdn.co/image/ab67616d0000b273419ced...  ...    0.5
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
