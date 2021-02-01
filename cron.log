@@ -43528,3 +43528,54 @@ GOT THESE SONGS
 ('Rows: ', 16)
 Saved!
 
+[master f70695f] updating daily data 2021-02-01 16:00:04.400199
+ 2 files changed, 17 insertions(+), 1 deletion(-)
+2021-02-01 16:00:03.767054
+Auth happening...
+Getting songs
+Creating dataframe...
+Nunnadet Shit
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-02-01 17:00:03.524222
+Auth happening...
+Getting songs
+Creating dataframe...
+34+35
+Blame It on Your Love (feat. Lizzo)
+Woo
+B*tch From Da Souf
+Pretty Girl
+Count Contessa
+Pretty Girl hi!
+Girl Blunt
+Gucci Flip Flops (feat. Lil Yachty)
+Acrylic
+Hello Kitty
+Lala
+No Frauds
+Gone
+Good Form (feat. Lil Wayne)
+Nunnadet Shit
+GOT THESE SONGS
+{'played_at': ['16:59', '16:56', '16:53', '16:49', '16:47', '16:44', '16:39', '16:37', '16:33', '16:31', '16:28', '16:25', '16:22', '16:17', '16:13'], 'valence': [0.485, 0.598, 0.185, 0.399, 0.695, 0.453, 0.441, 0.367, 0.177, 0.543, 0.591, 0.425, 0.432, 0.66, 0.295], 'mood_avg': [0.643, 0.677, 0.335, 0.552, 0.772, 0.611, 0.585, 0.622, 0.519, 0.656, 0.655, 0.549, 0.631, 0.716, 0.624], 'danceability': [0.83, 0.717, 0.42, 0.863, 0.93, 0.595, 0.636, 0.856, 0.82, 0.928, 0.725, 0.707, 0.867, 0.91, 0.898], 'energy': [0.585, 0.755, 0.466, 0.235, 0.611, 0.957, 0.772, 0.665, 0.603, 0.338, 0.641, 0.483, 0.558, 0.441, 0.733], 'image': [u'https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093', u'https://i.scdn.co/image/ab67616d0000b273abd0868c50eca32b3861b826', u'https://i.scdn.co/image/ab67616d0000b273efe812ae54f0698a32ccae14', u'https://i.scdn.co/image/ab67616d0000b273e271c649ef92d73d64f0716d', u'https://i.scdn.co/image/ab67616d0000b273680f7aff18376de523d7dea5', u'https://i.scdn.co/image/ab67616d0000b27395af8a497821be5c98fdd5dc', u'https://i.scdn.co/image/ab67616d0000b2734230e47d7122807dc73e8bc7', u'https://i.scdn.co/image/ab67616d0000b27395af8a497821be5c98fdd5dc', u'https://i.scdn.co/image/ab67616d0000b27385e1a4e3692d910ddb8416e6', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b2738222051128ef2edccf1e83d8', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273fc8c64bfc4323ff7ce68fea8'], 'album_name': [u'Positions', u'Charli', u'ANTI (Deluxe)', u'B*tch From Da Souf', u'Pretty Girl', u'Count Contessa', u'Introspection', u'Acrylic', u'15', u'Acrylic', u'Hello Kitty', u'Nasty', u'No Frauds', u'Charli', u'Queen (Deluxe)'], 'song_name': [u'34+35', u'Blame It on Your Love (feat. Lizzo)', u'Woo', u'B*tch From Da Souf', u'Pretty Girl', u'Count Contessa', u'Pretty Girl hi!', u'Girl Blunt', u'Gucci Flip Flops (feat. Lil Yachty)', u'Acrylic', u'Hello Kitty', u'Lala', u'No Frauds', u'Gone', u'Good Form (feat. Lil Wayne)'], 'artist_name': [u'Ariana Grande', u'Charli XCX', u'Rihanna', u'Mulatto', u'Clairo', u'Azealia Banks', u'UMI', u'Leikeli47', u'Bhad Bhabie', u'Leikeli47', u'Slayyyter', u'Rico Nasty', u'Nicki Minaj', u'Charli XCX', u'Nicki Minaj'], 'track_id': [u'6Im9k8u9iIzKMrmV7BWtlF', u'2RCUr24WkEe2r5Vv4oDKlN', u'3HQcsqRjRdruUjkbDSgmVF', u'6tLWt7gkvvTSjS6OfJjiyJ', u'0KyAGiNGUytG5JLxJu4F6l', u'5qc9oEjMRZvdECu3g5vU8P', u'35SJSCkL9h2APOXwiSTPX1', u'1lAGdqI4Wwa8G0XTP6VqHl', u'3hv6ndi7uFT9L9wrhQCsqY', u'0XfWFaFpr7wIPEhMkX78Lt', u'2EZHO9OoxZoaBs669GtWZv', u'245hvnaN40qR26q131lG9y', u'7KcGEssn7BnJdTgildK5y0', u'1yUJK3qxPiFiPeAG2gLfuW', u'6supMAknraGpJrN5qqYfV8']}
+                                                image  ... energy
+14  https://i.scdn.co/image/ab67616d0000b273fc8c64...  ...  0.733
+13  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.441
+12  https://i.scdn.co/image/ab67616d0000b273822205...  ...  0.558
+11  https://i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.483
+10  https://i.scdn.co/image/ab67616d0000b27385e1a4...  ...  0.641
+9   https://i.scdn.co/image/ab67616d0000b27395af8a...  ...  0.338
+8   https://i.scdn.co/image/ab67616d0000b2734230e4...  ...  0.603
+7   https://i.scdn.co/image/ab67616d0000b27395af8a...  ...  0.665
+6   https://i.scdn.co/image/ab67616d0000b273680f7a...  ...  0.772
+5   https://i.scdn.co/image/ab67616d0000b273e271c6...  ...  0.957
+4   https://i.scdn.co/image/ab67616d0000b273efe812...  ...  0.611
+3   https://i.scdn.co/image/ab67616d0000b273abd086...  ...  0.235
+2   https://i.scdn.co/image/ab67616d0000b27333c6b9..
