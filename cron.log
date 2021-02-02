@@ -43916,3 +43916,18 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 59af698] updating daily data 2021-02-02 12:00:05.877953
+ 2 files changed, 18 insertions(+), 1 deletion(-)
+2021-02-02 12:00:04.490330
+Auth happening...
+Getting songs
+Creating dataframe...
+Muwop (feat. Gucci Mane)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
