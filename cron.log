@@ -43678,3 +43678,20 @@ GOT THESE SONGS
 ('Rows: ', 8)
 Saved!
 
+[master bb79be3] updating daily data 2021-02-01 21:00:03.914217
+ 3 files changed, 33 insertions(+), 1 deletion(-)
+2021-02-01 21:00:03.123224
+Auth happening...
+Getting songs
+Creating dataframe...
+Dior
+Painting (Masterpiece)
+GOT THESE SONGS
+{'played_at': ['20:22'], 'valence': [0.648], 'mood_avg': [0.639], 'danceability': [0.548], 'energy': [0.805], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5'], 'album_name': [u'Meet The Woo'], 'song_name': [u'Dior'], 'artist_name': [u'Pop Smoke'], 'track_id': [u'79s5XnCN4TJKTVMSmOx8Ep']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b2738fe5d0...  ...  0.805
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
