@@ -43588,3 +43588,62 @@ GOT THESE SONGS
 ('Rows: ', 15)
 Saved!
 
+[master 8658eee] updating daily data 2021-02-01 18:00:05.869206
+ 3 files changed, 21 insertions(+), 2 deletions(-)
+2021-02-01 18:00:04.354187
+Auth happening...
+Getting songs
+Creating dataframe...
+Delete Forever - Channel Tres Remix
+Flim
+Tangerine
+Designer Boi
+There's Nothing Left 2 Make U Stay
+I'm So Tired
+Ever Again
+Slay3r
+ICY GRL
+Not Friendly
+34+35
+GOT THESE SONGS
+{'played_at': ['17:28', '17:25', '17:22', '17:19', '17:17', '17:15', '17:13', '17:08', '17:05', '17:03'], 'valence': [0.713, 0.4, 0.842, 0.598, 0.257, 0.155, 0.727, 0.436, 0.842, 0.656], 'mood_avg': [0.71, 0.591, 0.791, 0.613, 0.304, 0.209, 0.775, 0.661, 0.82, 0.772], 'danceability': [0.773, 0.71, 0.845, 0.667, 0.258, 0.303, 0.942, 0.885, 0.927, 0.878], 'energy': [0.577, 0.734, 0.583, 0.534, 0.492, 0.129, 0.539, 0.661, 0.563, 0.793], 'image': [u'https://i.scdn.co/image/ab67616d0000b273f990b0093204f7829a6340a5', u'https://i.scdn.co/image/ab67616d0000b273c4d5de8930bbc762a68c0bc7', u'https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea', u'https://i.scdn.co/image/ab67616d0000b273328c8eacdfa20a67b588f8e2', u'https://i.scdn.co/image/ab67616d0000b27374c6d1b593f03ac6a1b78d5e', u'https://i.scdn.co/image/ab67616d0000b273528034c2cfe590178ac6657a', u'https://i.scdn.co/image/ab67616d0000b273fbf9a966181d8e527f34077f', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b2731f0b3f9a2f29efd8291a6c46', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb'], 'album_name': [u'Miss Anthropocene (Rave Edition)', u'Come To Daddy', u'Dreamland (+ Bonus Levels)', u'Designer Boi', u"There's Nothing Left 2 Make U Stay", u'Instrument Soundtrack', u'Honey', u'Whole Lotta Red', u'High Maintenance', u'Ho, why is you here ?'], 'song_name': [u'Delete Forever - Channel Tres Remix', u'Flim', u'Tangerine', u'Designer Boi', u"There's Nothing Left 2 Make U Stay", u"I'm So Tired", u'Ever Again', u'Slay3r', u'ICY GRL', u'Not Friendly'], 'artist_name': [u'Grimes', u'Aphex Twin', u'Glass Animals', u'A$AP NAST', u'Vegyn', u'Fugazi', u'Robyn', u'Playboi Carti', u'Saweetie', u'Flo Milli'], 'track_id': [u'1axJ3uSyqXEeQgwaN9sgGK', u'4q650OiSDQIwccxDFpuuBm', u'5VGEgFZfWBoEOGb3Vlo3rU', u'5ZHdSdhLl9d79wasqTn3Ax', u'2HAGLGli9HjV6Ds9Jbam5J', u'5IafdoRLyaGPeeA6f8ysIe', u'2E5e4J3nm1LMHkqTS21Dlq', u'1eMNW1HQjF1dbb4GtnmpaX', u'1sl1cpix9GnwNwaVt04BIu', u'2le8xbpMJ1aA0SpJZRMbRw']}
+                                               image  ... energy
+9  https://i.scdn.co/image/ab67616d0000b2733ae4c6...  ...  0.793
+8  https://i.scdn.co/image/ab67616d0000b2731f0b3f...  ...  0.563
+7  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.661
+6  https://i.scdn.co/image/ab67616d0000b273fbf9a9...  ...  0.539
+5  https://i.scdn.co/image/ab67616d0000b273528034...  ...  0.129
+4  https://i.scdn.co/image/ab67616d0000b27374c6d1...  ...  0.492
+3  https://i.scdn.co/image/ab67616d0000b273328c8e...  ...  0.534
+2  https://i.scdn.co/image/ab67616d0000b2739e495f...  ...  0.583
+1  https://i.scdn.co/image/ab67616d0000b273c4d5de...  ...  0.734
+0  https://i.scdn.co/image/ab67616d0000b273f990b0...  ...  0.577
+
+[10 rows x 10 columns]
+('Rows: ', 10)
+Saved!
+
+2021-02-01 19:00:07.568739
+Auth happening...
+Getting songs
+Creating dataframe...
+Ultralight Beam
+>;0 (feat. Vegyn)
+1491
+F33l Lik3 Dyin
+ILoveUIHateU
+Parallel 2
+Safety Net
+Delete Forever - Channel Tres Remix
+GOT THESE SONGS
+{'played_at': ['18:57', '18:53', '18:51', '18:49', '18:45', '18:43', '18:37'], 'valence': [0.149, 0.0331, 0.798, 0.0966, 0.108, 0.119, 0.322], 'mood_avg': [0.248, 0.423, 0.623, 0.472, 0.455, 0.47, 0.429], 'danceability': [0.34, 0.702, 0.369, 0.733, 0.684, 0.65, 0.565], 'energy': [0.26, 0.646, 0.781, 0.703, 0.693, 0.81, 0.371], 'image': [u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d', u'https://i.scdn.co/image/ab67616d0000b273a7e961749d530e3957afcd72', u'https://i.scdn.co/image/ab67616d0000b2735a973167d72dfaaedf82a654', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b2738ca7b1e049ed737df8e29d5d', u'https://i.scdn.co/image/ab67616d0000b273a59c1c25139409626a40fc37'], 'album_name': [u'Jesus Is Born', u'A Museum Of Contradiction', u'Song of Sage: Post Panic!', u'Whole Lotta Red', u'Whole Lotta Red', u'Parallel', u'Miss Universe'], 'song_name': [u'Ultralight Beam', u'>;0 (feat. Vegyn)', u'1491', u'F33l Lik3 Dyin', u'ILoveUIHateU', u'Parallel 2', u'Safety Net'], 'artist_name': [u'Sunday Service Choir', u'Mk.gee', u'Navy Blue', u'Playboi Carti', u'Playboi Carti', u'Four Tet', u'Nil\xfcfer Yanya'], 'track_id': [u'5anPHKl01TNpTe618GzX1m', u'64tgANMtVxmUzIYfuZSZrx', u'3HToRpmkcdb6SwGqiXP1qu', u'1xVVYE1ahLotRpppJViVzs', u'1BpKJw4RZxaFB88NE5uxXf', u'2sJSXoJaTbY2SGqiAEpw96', u'5re19xiUldb7JxTwSsLnfP']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b273a59c1c...  ...  0.371
+5  https://i.scdn.co/image/ab67616d0000b2738ca7b1...  ...   0.81
+4  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.693
+3  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.703
+2  https://i.scdn.co/image/ab67616d0000b2735a9731...  ...  0.781
+1  https://i.scdn.co/image/ab67616d0000b273a7e961...  ...  0.646
+0  https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...   0.26
+
+[7 rows x 10 columns]
