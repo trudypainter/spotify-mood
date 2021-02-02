@@ -43946,3 +43946,66 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master f5ef64c] updating daily data 2021-02-02 14:00:05.094193
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-02-02 14:00:03.856291
+Auth happening...
+Getting songs
+Creating dataframe...
+Muwop (feat. Gucci Mane)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-02-02 15:00:03.718714
+Auth happening...
+Getting songs
+Creating dataframe...
+Baked Bean
+Romanticist
+Noise Above Our Heads
+Parallel 3
+Fifty-fifty Clown
+Ordinary Pleasure
+Virile
+Bbydhyonchord
+Harpsichord
+Secret Xtians
+The Pines
+Not the News
+Muwop (feat. Gucci Mane)
+GOT THESE SONGS
+{'played_at': ['14:54', '14:51', '14:50', '14:45', '14:44', '14:41', '14:38', '14:33', '14:31', '14:28', '14:25', '14:21'], 'valence': [0.137, 0.65, 0.399, 0.0657, 0.374, 0.778, 0.189, 0.884, 0.0364, 0.253, 0.176, 0.261], 'mood_avg': [0.261, 0.634, 0.519, 0.203, 0.481, 0.818, 0.297, 0.764, 0.162, 0.489, 0.367, 0.49], 'danceability': [0.422, 0.584, 0.748, 0.379, 0.481, 0.878, 0.187, 0.803, 0.305, 0.753, 0.522, 0.557], 'energy': [0.189, 0.703, 0.3, 0.128, 0.694, 0.779, 0.735, 0.447, 0.126, 0.432, 0.439, 0.813], 'image': [u'https://i.scdn.co/image/ab67616d0000b2735225a38c3fd08bd3f61325f4', u'https://i.scdn.co/image/ab67616d0000b273043864250fbec5f57c7076a7', u'https://i.scdn.co/image/ab67616d0000b273559bd53b0292ed01f789a0d8', u'https://i.scdn.co/image/ab67616d0000b2738ca7b1e049ed737df8e29d5d', u'https://i.scdn.co/image/ab67616d0000b273dd65e48e39cbd75ee8dd81a3', u'https://i.scdn.co/image/ab67616d0000b273e6afa3b111faa03806f7d257', u'https://i.scdn.co/image/ab67616d0000b2738b40e0ef79069fb9bcc560d9', u'https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a', u'https://i.scdn.co/image/ab67616d0000b273210e19d835bb0af6620256cf', u'https://i.scdn.co/image/ab67616d0000b2736d7e970464fcaae1379ac0f8', u'https://i.scdn.co/image/ab67616d0000b27320921767dd81e8f90ef9fc71', u'https://i.scdn.co/image/ab67616d0000b27334063c0d826f5fb27d1db6e5'], 'album_name': [u'Surviving Is The New Living', u'Heaven To A Tortured Mind', u'The Colour In Anything', u'Parallel', u'Heaven or Las Vegas', u'Outer Peace', u'gr\xe6', u'Drukqs', u'Sixteen Oceans', u'II (Deluxe Edition)', u'Modus Vivendi', u'ANIMA'], 'song_name': [u'Baked Bean', u'Romanticist', u'Noise Above Our Heads', u'Parallel 3', u'Fifty-fifty Clown', u'Ordinary Pleasure', u'Virile', u'Bbydhyonchord', u'Harpsichord', u'Secret Xtians', u'The Pines', u'Not the News'], 'artist_name': [u'Okay Kaya', u'Yves Tumor', u'James Blake', u'Four Tet', u'Cocteau Twins', u'Toro y Moi', u'Moses Sumney', u'Aphex Twin', u'Four Tet', u'Unknown Mortal Orchestra', u'070 Shake', u'Thom Yorke'], 'track_id': [u'3JY7wAWdekwat0JooBqaqq', u'5YixskhSGNwmqjUrG0DTEY', u'3mUGTZQ7SctWdmDMukT6tJ', u'0P5SYXWSgFTsSIKzWelMyh', u'2vDC9iyQpY3EsioJD8pRiW', u'31F0KxmTD4rz3o0tJht5RL', u'0pR6PNm69ejQHbeDcLLf57', u'35GYDmixAiE0d36qSPqfuO', u'7tO0SljL5CVxyFLFx3GKWh', u'26GJnbBoVlJexxUFmZIxNl', u'0uTw7TNnYn64XmCAo5jr0c', u'3ejjAD15KNXGwRG1lQMFPI']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b27334063c...  ...  0.813
+10  https://i.scdn.co/image/ab67616d0000b273209217...  ...  0.439
+9   https://i.scdn.co/image/ab67616d0000b2736d7e97...  ...  0.432
+8   https://i.scdn.co/image/ab67616d0000b273210e19...  ...  0.126
+7   https://i.scdn.co/image/ab67616d0000b273a5aef9...  ...  0.447
+6   https://i.scdn.co/image/ab67616d0000b2738b40e0...  ...  0.735
+5   https://i.scdn.co/image/ab67616d0000b273e6afa3...  ...  0.779
+4   https://i.scdn.co/image/ab67616d0000b273dd65e4...  ...  0.694
+3   https://i.scdn.co/image/ab67616d0000b2738ca7b1...  ...  0.128
+2   https://i.scdn.co/image/ab67616d0000b273559bd5...  ...    0.3
+1   https://i.scdn.co/image/ab67616d0000b273043864...  ...  0.703
+0   https://i.scdn.co/image/ab67616d0000b2735225a3...  ...  0.189
+
+[12 rows x 10 columns]
+2021-02-02 16:00:06.034261
+Auth happening...
+Getting songs
+Creating dataframe...
+About You Now
+Day 7.5093
+Baked Bean
+GOT THESE SONGS
+{'played_at': ['15:55', '15:52'], 'valence': [0.686, 0.799], 'mood_avg': [0.705, 0.76], 'danceability': [0.583, 0.809], 'energy': [0.985, 0.583], 'image': [u'https://i.scdn.co/image/ab67616d0000b2731a5dc9eb75132318af4571e5', u'https://i.scdn.co/image/ab67616d0000b27311601bea0d8dbca101872a94'], 'album_name': [u'About You Now', u'Feeling Lucky?'], 'song_name': [u'About You Now', u'Day 7.5093'], 'artist_name': [u'OTTO', u'Nil\xfcfer Yanya'], 'track_id': [u'5b2pRl7o9dwMLVRe3M433K', u'3a4jtq7w9N7qOrIjCaxO8v']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b27311601b...  ...  0.583
+0  https://i.scdn.co/image/ab67616d0000b2731a5dc9...  ...  0.985
+
+[2 rows x 10 columns]
