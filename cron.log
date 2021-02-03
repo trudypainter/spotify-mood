@@ -44024,3 +44024,100 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 6bd8364] updating daily data 2021-02-02 18:00:04.965183
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-02-02 18:00:03.999180
+Auth happening...
+Getting songs
+Creating dataframe...
+Hope
+F33l Lik3 Dyin
+iMi
+About You Now
+GOT THESE SONGS
+{'played_at': ['17:44', '17:40', '17:36'], 'valence': [0.354, 0.0966, 0.523], 'mood_avg': [0.352, 0.472, 0.484], 'danceability': [0.413, 0.733, 0.489], 'energy': [0.227, 0.703, 0.396], 'image': [u'https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b2735cc90d375ab1e4423615654c'], 'album_name': [u'Negro Swan', u'Whole Lotta Red', u'i,i'], 'song_name': [u'Hope', u'F33l Lik3 Dyin', u'iMi'], 'artist_name': [u'Blood Orange', u'Playboi Carti', u'Bon Iver'], 'track_id': [u'2QLNDKL7hZyh2OZ8UL9WrV', u'1xVVYE1ahLotRpppJViVzs', u'5p2vqFW6PVyE38GJlCVIHv']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b2735cc90d...  ...  0.396
+1  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.703
+0  https://i.scdn.co/image/ab67616d0000b27347dd2c...  ...  0.227
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
+2021-02-02 19:00:06.938392
+Auth happening...
+Getting songs
+Creating dataframe...
+You've Been Flirting Again
+We Go On
+Assume Form
+Don't Miss It
+f.o.r.e.v.e.r.
+Not Screwed! (interlude)
+Wash Your Hands
+Fake It
+Pitch the Baby
+Flowers (feat. Father)
+Extreme Wealth and Casual Cruelty
+Bbydhyonchord
+Magdalena
+Stoned Again
+Hope
+GOT THESE SONGS
+{'played_at': ['18:58', '18:55', '18:51', '18:46', '18:41', '18:39', '18:38', '18:37', '18:33', '18:30', '18:26', '18:20', '18:17', '18:13'], 'valence': [0.136, 0.641, 0.148, 0.052, 0.159, 0.166, 0.513, 0.206, 0.975, 0.0551, 0.368, 0.884, 0.0424, 0.0795], 'mood_avg': [0.153, 0.677, 0.294, 0.297, 0.239, 0.29, 0.524, 0.4, 0.745, 0.334, 0.528, 0.764, 0.277, 0.313], 'danceability': [0.221, 0.63, 0.413, 0.52, 0.42, 0.34, 0.691, 0.696, 0.478, 0.675, 0.567, 0.803, 0.501, 0.399], 'energy': [0.0495, 0.841, 0.349, 0.341, 0.0375, 0.436, 0.212, 0.195, 0.821, 0.21, 0.77, 0.447, 0.298, 0.606], 'image': [u'https://i.scdn.co/image/ab67616d0000b2736aba91ac61162caeeef14460', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273534dc6aebb7cf3c04e410cc6', u'https://i.scdn.co/image/ab67616d0000b273534dc6aebb7cf3c04e410cc6', u'https://i.scdn.co/image/ab67616d0000b273559bd53b0292ed01f789a0d8', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b27385c476434306b26394f9a53f', u'https://i.scdn.co/image/ab67616d0000b27337af2ce4e0abffff0045034c', u'https://i.scdn.co/image/ab67616d0000b273dd65e48e39cbd75ee8dd81a3', u'https://i.scdn.co/image/ab67616d0000b273863a30c04dd17e33a627fd31', u'https://i.scdn.co/image/ab67616d0000b273ee70875d2ac4c16bdeba0191', u'https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a', u'https://i.scdn.co/image/ab67616d0000b27337e744667c098ff2669b4d4f', u'https://i.scdn.co/image/ab67616d0000b27328916ffa16f5473ac57ffe84'], 'album_name': [u'Post', u'We Will Always Love You', u'Assume Form', u'Assume Form', u'The Colour In Anything', u'When I Get Home', u'Clam Day', u'Both', u'Heaven or Las Vegas', u'Atlanta Millionaires Club', u'Multi-Love', u'Drukqs', u'direct line to My Creator', u'Man Alive!'], 'song_name': [u"You've Been Flirting Again", u'We Go On', u'Assume Form', u"Don't Miss It", u'f.o.r.e.v.e.r.', u'Not Screwed! (interlude)', u'Wash Your Hands', u'Fake It', u'Pitch the Baby', u'Flowers (feat. Father)', u'Extreme Wealth and Casual Cruelty', u'Bbydhyonchord', u'Magdalena', u'Stoned Again'], 'artist_name': [u'Bj\xf6rk', u'The Avalanches', u'James Blake', u'James Blake', u'James Blake', u'Solange', u'OTTO', u'Okay Kaya', u'Cocteau Twins', u'Faye Webster', u'Unknown Mortal Orchestra', u'Aphex Twin', u'duendita', u'King Krule'], 'track_id': [u'2lJSlVayNDdEZuPqlIPPcm', u'4k65ndzxH3tHYZSnYurgM7', u'2zUYg51Df8nLuymwI67mzk', u'5VYCCPct242jtbidE13EKK', u'73Uc6U9BTEFoGP5ywB6MLr', u'1A8y9j0iVvQkjkhLFVrQFO', u'5QrC5tfoO8wXdIgJmTjE08', u'4FmgEzMcoKvcn6zlXg7ZYv', u'1DXD0wVXXHwUYo9AXbcMMI', u'0MJSvmvNu0IGFMmYtW8KNH', u'2nqqIatHUVkw9S342HZKTz', u'35GYDmixAiE0d36qSPqfuO', u'5TfCb9HOSGpLu2e4yy65xq', u'1jk6tbx0xFuEq1eHGTDMv3']}
+                                                image  ...  energy
+13  https://i.scdn.co/image/ab67616d0000b27328916f...  ...   0.606
+12  https://i.scdn.co/image/ab67616d0000b27337e744...  ...   0.298
+11  https://i.scdn.co/image/ab67616d0000b273a5aef9...  ...   0.447
+10  https://i.scdn.co/image/ab67616d0000b273ee7087...  ...    0.77
+9   https://i.scdn.co/image/ab67616d0000b273863a30...  ...    0.21
+8   https://i.scdn.co/image/ab67616d0000b273dd65e4...  ...   0.821
+7   https://i.scdn.co/image/ab67616d0000b27337af2c...  ...   0.195
+6   https://i.scdn.co/image/ab67616d0000b27385c476...  ...   0.212
+5   https://i.scdn.co/image/ab67616d0000b273b1150f...  ...   0.436
+4   https://i.scdn.co/image/ab67616d0000b273559bd5...  ...  0.0375
+3   https://i.scdn.co/image/ab67616d0000b273534dc6...  ...   0.341
+2   https://i.scdn.co/image/ab67616d0000b273534dc6...  ...   0.349
+1   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...   0.841
+0   https://i.scdn.co/image/ab67616d0000b2736aba91...  ...  0.0495
+
+[14 rows x 10 columns]
+2021-02-02 20:00:02.861791
+Auth happening...
+Getting songs
+Creating dataframe...
+Mama Teaches Sanskrit
+Calvin
+I Just Spoke to Mama
+Cocky Girl
+Borrowed Light
+Sugar
+Lindisfarne I
+New House
+Moon Song
+Summer Girl - Bonus Track
+Symbols, Tokens
+Boys Will Be Boys
+Parallel 2
+Smoke
+You've Been Flirting Again
+GOT THESE SONGS
+{'played_at': ['19:46', '19:42', '19:38', '19:34', '19:33', '19:30', '19:28', '19:25', '19:22', '19:18', '19:14', '19:12', '19:07', '19:01'], 'valence': [0.0684, 0.0958, 0.694, 0.579, 0.0398, 0.139, 0.189, 0.353, 0.172, 0.611, 0.645, 0.0535, 0.119, 0.236], 'mood_avg': [0.164, 0.344, 0.513, 0.593, 0.165, 0.332, 0.282, 0.485, 0.269, 0.559, 0.683, 0.221, 0.47, 0.374], 'danceability': [0.325, 0.639, 0.517, 0.686, 0.266, 0.586, 0.514, 0.671, 0.38, 0.514, 0.748, 0.435, 0.65, 0.586], 'energy': [0.0343, 0.252, 0.145, 0.437, 0.211, 0.209, 0.00521, 0.378, 0.24, 0.545, 0.629, 0.13, 0.81, 0.225], 'image': [u'https://i.scdn.co/image/ab67616d0000b273210e19d835bb0af6620256cf', u'https://i.scdn.co/image/ab67616d0000b2735ccc62529c77101d6b2f00f3', u'https://i.scdn.co/image/ab67616d0000b273af071325c295f71b0d320a90', u'https://i.scdn.co/image/ab67616d0000b273c3545bbe806b845c2b52bc20', u'https://i.scdn.co/image/ab67616d0000b27343f44b90dd0a223b06aba994', u'https://i.scdn.co/image/ab67616d0000b2732c8696d7273aae34bf911007', u'https://i.scdn.co/image/ab67616d0000b273a6b49ca72312383b72a8d9b4', u'https://i.scdn.co/image/ab67616d0000b273e6afa3b111faa03806f7d257', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b273d2631fe4c90aae7dec8fb0df', u'https://i.scdn.co/image/ab67616d0000b273a957341d8a1a75973d22bee0', u'https://i.scdn.co/image/ab67616d0000b273e46284dd97f628323a544297', u'https://i.scdn.co/image/ab67616d0000b2738ca7b1e049ed737df8e29d5d', u'https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6'], 'album_name': [u'Sixteen Oceans', u'Salvador', u'Cannonball!', u'The Lo-Fis', u'Set My Heart On Fire Immediately', u'Boys by Girls', u'James Blake', u'Outer Peace', u'Punisher', u'Women In Music Pt. III', u'Sen Morimoto', u'Beware of the Dogs', u'Parallel', u'Negro Swan'], 'song_name': [u'Mama Teaches Sanskrit', u'Calvin', u'I Just Spoke to Mama', u'Cocky Girl', u'Borrowed Light', u'Sugar', u'Lindisfarne I', u'New House', u'Moon Song', u'Summer Girl - Bonus Track', u'Symbols, Tokens', u'Boys Will Be Boys', u'Parallel 2', u'Smoke'], 'artist_name': [u'Four Tet', u'Sega Bodega', u'Sen Morimoto', u'Steve Lacy', u'Perfume Genius', u'Instupendo', u'James Blake', u'Toro y Moi', u'Phoebe Bridgers', u'HAIM', u'Sen Morimoto', u'Stella Donnelly', u'Four Tet', u'Blood Orange'], 'track_id': [u'4BZmUSWrHiop8R8RRH0olL', u'4GOqG8aesMgZjDSeH14NnT', u'1VhvguVcu75eDzhDlRj4Sc', u'0QkIWTxOYYK4pHgOKYmPhY', u'5mdEJeUnUcGcOwUcjd9YdT', u'0Zpxnqxeqj7htYK7FHwjVF', u'4PFa7ZyqP0quv3jGKi4cje', u'40YmyUvb5AmaAWXpXTj7VD', u'6sALLrBPX30ptG1HWH6vmW', u'4iVAyRRWdgjwBooBaSkSRc', u'0fC2zJ3VrSIWbPSGzdbQHp', u'6PzxnSCD8vU5unIbnJkWk0', u'2sJSXoJaTbY2SGqiAEpw96', u'1sFqfjMzxrwyvhL8785yUL']}
+                                                image  ...   energy
+13  https://i.scdn.co/image/ab67616d0000b27347dd2c...  ...    0.225
+12  https://i.scdn.co/image/ab67616d0000b2738ca7b1...  ...     0.81
+11  https://i.scdn.co/image/ab67616d0000b273e46284...  ...     0.13
+10  https://i.scdn.co/image/ab67616d0000b273a95734...  ...    0.629
+9   https://i.scdn.co/image/ab67616d0000b273d2631f...  ...    0.545
+8   https://i.scdn.co/image/ab67616d0000b2733040ca...  ...     0.24
+7   https://i.scdn.co/image/ab67616d0000b273e6afa3...  ...    0.378
+6   https://i.scdn.co/image/ab67616d0000b273a6b49c...  ...  0.00521
+5   https://i.scdn.co/image/ab67616d0000b2732c8696...  ...    0.209
+4   https://i.scdn.co/image/ab67616d0000b27343f44b...  ...    0.211
+3   https://i.scdn.co/image/ab67616d0000b273c3545b...  ...    0.437
+2   https://i.scdn.co/image/ab67616d0000b273af0713...  ...    0.145
+1   https://i.scdn.co/image/ab67616d0000b2735ccc62...  ...    0.252
+0   https://i.scdn.co/image/ab67616d0000b273210e19...  ...   0.0343
+
+[14 rows x 10 column
