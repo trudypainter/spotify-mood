@@ -44272,3 +44272,26 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 69892db] updating daily data 2021-02-03 06:00:03.589439
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+2021-02-03 06:00:02.684629
+Auth happening...
+Getting songs
+Creating dataframe...
+Bands
+beibs in the trap
+Suge
+Choices (Yup)
+All Day
+GOT THESE SONGS
+{'played_at': ['05:59', '05:58', '05:54', '05:51'], 'valence': [0.533, 0.495, 0.844, 0.244], 'mood_avg': [0.638, 0.609, 0.82, 0.576], 'danceability': [0.834, 0.743, 0.876, 0.892], 'energy': [0.457, 0.571, 0.662, 0.607], 'image': [u'https://i.scdn.co/image/ab67616d0000b273fc22b0ce07f38f096102c1a7', u'https://i.scdn.co/image/ab67616d0000b273f54b99bf27cda88f4a7403ce', u'https://i.scdn.co/image/ab67616d0000b27374d72ebd51dd5781d5f83ffd', u'https://i.scdn.co/image/ab67616d0000b273be1f3453aef32a126279850f'], 'album_name': [u'Bawskee', u'Birds In The Trap Sing McKnight', u'Baby On Baby', u'Sharp On All 4 Corners (Deluxe Edition)'], 'song_name': [u'Bands', u'beibs in the trap', u'Suge', u'Choices (Yup)'], 'artist_name': [u'Comethazine', u'Travis Scott', u'DaBaby', u'E-40'], 'track_id': [u'0AphwbfFSlGgGDlXGeiEpu', u'0ESJlaM8CE1jRWaNtwSNj8', u'2gwkD6igEhQbDQegRCcdoB', u'5vIu19A3EEdHgFM4Cba6F4']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273be1f34...  ...  0.607
+2  https://i.scdn.co/image/ab67616d0000b27374d72e...  ...  0.662
+1  https://i.scdn.co/image/ab67616d0000b273f54b99...  ...  0.571
+0  https://i.scdn.co/image/ab67616d0000b273fc22b0...  ...  0.457
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
