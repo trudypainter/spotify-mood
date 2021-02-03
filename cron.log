@@ -44380,3 +44380,92 @@ GOT THESE SONGS
 0   https://i.scdn.co/image/ab67616d0000b2738b40e0...  ...  0.268
 
 [13 rows x 10 columns]
+[master db3a0e5] updating daily data 2021-02-03 11:00:04.523010
+ 3 files changed, 82 insertions(+), 1 deletion(-)
+2021-02-03 11:00:03.557204
+Auth happening...
+Getting songs
+Creating dataframe...
+Love Salad
+Ziggomatic 17
+GOT THESE SONGS
+{'played_at': ['10:07'], 'valence': [0.0742], 'mood_avg': [0.374], 'danceability': [0.609], 'energy': [0.502], 'image': [u'https://i.scdn.co/image/ab67616d0000b273210e19d835bb0af6620256cf'], 'album_name': [u'Sixteen Oceans'], 'song_name': [u'Love Salad'], 'artist_name': [u'Four Tet'], 'track_id': [u'3r1T4pyyw8SutoozrWZSzS']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273210e19...  ...  0.502
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
+2021-02-03 12:00:03.654837
+Auth happening...
+Getting songs
+Creating dataframe...
+Limit To Your Love
+The Steps
+Snakes & Ladders
+Baked Bean
+Lindisfarne II
+Right Side of My Neck
+Cinderella
+Aussois
+2021-02-03 13:00:03.462245
+Auth happening...
+Getting songs
+Creating dataframe...
+Bad Friend
+Exit Scott (interlude)
+Not U
+Double Dare
+Crash
+Describe
+Insert Generic Name
+Call Me Up
+cellophane
+Nowhere Near
+Two Dogs
+Almeda
+Limit To Your Love
+GOT THESE SONGS
+{'played_at': ['12:40', '12:36', '12:35', '12:33', '12:29', '12:25', '12:21', '12:18', '12:16', '12:12', '12:06', '12:02'], 'valence': [0.454, 0.525, 0.415, 0.216, 0.562, 0.0473, 0.346, 0.524, 0.229, 0.085, 0.264, 0.0631], 'mood_avg': [0.545, 0.453, 0.542, 0.289, 0.609, 0.181, 0.468, 0.563, 0.321, 0.253, 0.251, 0.467], 'danceability': [0.549, 0.39, 0.753, 0.218, 0.558, 0.228, 0.611, 0.764, 0.431, 0.431, 0.221, 0.827], 'energy': [0.72, 0.436, 0.373, 0.578, 0.806, 0.356, 0.424, 0.24, 0.284, 0.233, 0.285, 0.553], 'image': [u'https://i.scdn.co/image/ab67616d0000b273db0a368a7ede184a67a51b95', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273cd7c3cba379ae624e118ebcb', u'https://i.scdn.co/image/ab67616d0000b27375d190b89508d795e7570aaf', u'https://i.scdn.co/image/ab67616d0000b27311601bea0d8dbca101872a94', u'https://i.scdn.co/image/ab67616d0000b27343f44b90dd0a223b06aba994', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b273cd7c3cba379ae624e118ebcb', u'https://i.scdn.co/image/ab67616d0000b2730ca446ea270edb01238cb969', u'https://i.scdn.co/image/ab67616d0000b27375d190b89508d795e7570aaf', u'https://i.scdn.co/image/ab67616d0000b2738b40e0ef79069fb9bcc560d9', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc'], 'album_name': [u'SAWAYAMA (Deluxe Edition)', u'When I Get Home', u'Fresh Air', u'Painful', u'Feeling Lucky?', u'Set My Heart On Fire Immediately', u'Watch This Liquid Pour Itself', u'Fresh Air', u'MAGDALENE', u'Painful', u'gr\xe6', u'When I Get Home'], 'song_name': [u'Bad Friend', u'Exit Scott (interlude)', u'Not U', u'Double Dare', u'Crash', u'Describe', u'Insert Generic Name', u'Call Me Up', u'cellophane', u'Nowhere Near', u'Two Dogs', u'Almeda'], 'artist_name': [u'Rina Sawayama', u'Solange', u'HOMESHAKE', u'Yo La Tengo', u'Nil\xfcfer Yanya', u'Perfume Genius', u'Okay Kaya', u'HOMESHAKE', u'FKA twigs', u'Yo La Tengo', u'Moses Sumney', u'Solange'], 'track_id': [u'72AmnIAgci6MxHFMXoPRJM', u'0sB95316MVikK4D0BfnirE', u'0L69GfeRq90IeRGwRXQH6g', u'0I3eh6o8SY5Od5ccF6UD1X', u'1z7rdfeKdgIlPFmOHqQFR3', u'7zZpX1EByY0CLdDFqjSEZs', u'58llsMQ3PfvaGNZD8WNn2f', u'5fBamKoQ3aXwQpe2Cch8K6', u'7x8pIrhMu9FCmqqHNyuH0P', u'5L2STOBiS00u7q4aLtRjKK', u'385VQNxMmADWlAS0YBcIsI', u'6IAgarq2wDeYzpsY2Kx0Hw']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.553
+10  https://i.scdn.co/image/ab67616d0000b2738b40e0...  ...  0.285
+9   https://i.scdn.co/image/ab67616d0000b27375d190...  ...  0.233
+8   https://i.scdn.co/image/ab67616d0000b2730ca446...  ...  0.284
+7   https://i.scdn.co/image/ab67616d0000b273cd7c3c...  ...   0.24
+6   https://i.scdn.co/image/ab67616d0000b2733d3652...  ...  0.424
+5   https://i.scdn.co/image/ab67616d0000b27343f44b...  ...  0.356
+4   https://i.scdn.co/image/ab67616d0000b27311601b...  ...  0.806
+3   https://i.scdn.co/image/ab67616d0000b27375d190...  ...  0.578
+2   https://i.scdn.co/image/ab67616d0000b273cd7c3c...  ...  0.373
+1   https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.436
+0   https://i.scdn.co/image/ab67616d0000b273db0a36...  ...   0.72
+
+[12 rows x 10 columns]
+2021-02-03 14:00:02.996665
+Auth happening...
+Getting songs
+Creating dataframe...
+Unknown, Forever Unknown
+THE TH1NG
+Fake It
+Chinese Satellite
+Hey Big Eyes
+Meltphace 6
+Lifetime
+We Will Always Love You
+Seven Hours Part 1
+GOT THESE SONGS
+{'played_at': ['13:30', '13:28', '13:23', '13:20', '13:16', '13:12', '13:06', '13:02'], 'valence': [0.19, 0.181, 0.206, 0.379, 0.208, 0.271, 0.512, 0.176], 'mood_avg': [0.291, 0.382, 0.4, 0.361, 0.443, 0.527, 0.581, 0.41], 'danceability': [0.356, 0.519, 0.696, 0.302, 0.537, 0.583, 0.476, 0.535], 'energy': [0.362, 0.511, 0.195, 0.444, 0.726, 0.929, 0.93, 0.626], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b80f8eb7cd3776e665e77477', u'https://i.scdn.co/image/ab67616d0000b2738ed9099f0643b99f85fa442e', u'https://i.scdn.co/image/ab67616d0000b27337af2ce4e0abffff0045034c', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a', u'https://i.scdn.co/image/ab67616d0000b273f5533d680fa116232aa10cbc', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1'], 'album_name': [u'Only Diamonds Cut Diamonds', u'WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358', u'Both', u'Punisher', u'Pang', u'Drukqs', u'Safe In The Hands of Love', u'We Will Always Love You'], 'song_name': [u'Unknown, Forever Unknown', u'THE TH1NG', u'Fake It', u'Chinese Satellite', u'Hey Big Eyes', u'Meltphace 6', u'Lifetime', u'We Will Always Love You'], 'artist_name': [u'Vegyn', u'Yaeji', u'Okay Kaya', u'Phoebe Bridgers', u'Caroline Polachek', u'Aphex Twin', u'Yves Tumor', u'The Avalanches'], 'track_id': [u'5EhP08K5zqnX196GtSe4wW', u'3Jlyj8Gtfg4jcuhE4QbiEX', u'4FmgEzMcoKvcn6zlXg7ZYv', u'60zlkOrTCHjpRTd1g6PI5y', u'37Iurk7tldnNLPYpSq00Ol', u'6k4rGXnm8jWGk9lEnpCIyP', u'6z1TKEurXotxsMGB0Kuuka', u'51wxtCuipwjvvT99wsSmCc']}
+                                               image  ... energy
+7  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.626
+6  https://i.scdn.co/image/ab67616d0000b273f5533d...  ...   0.93
+5  https://i.scdn.co/image/ab67616d0000b273a5aef9...  ...  0.929
+4  https://i.scdn.co/image/ab67616d0000b2737d983e...  ...  0.726
+3  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...  0.444
+2  https://i.scdn.co/image/ab67616d0000b27337af2c...  ...  0.195
+1  https://i.scdn.co/image/ab67616d0000b2738ed909...  ...  0.511
+0  https://i.scdn.co/image/ab67616d0000b273b80f8e...  ...  0.362
+
+[8 rows x 10 columns]
