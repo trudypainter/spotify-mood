@@ -44141,3 +44141,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 96b454f] updating daily data 2021-02-02 22:00:04.637133
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-02-02 22:00:03.551532
+Auth happening...
+Getting songs
+Creating dataframe...
+All Day
+Crooked Smile (feat. TLC)
+10 Bands
+Numb / Encore
+Pursuit Of Happiness (Nightmare)
+Timing
+GOT THESE SONGS
+{'played_at': ['21:38', '21:33', '21:28', '21:25', '21:22'], 'valence': [0.421, 0.48, 0.888, 0.799, 0.266], 'mood_avg': [0.643, 0.591, 0.836, 0.754, 0.479], 'danceability': [0.861, 0.606, 0.825, 0.685, 0.63], 'energy': [0.651, 0.784, 0.756, 0.803, 0.605], 'image': [u'https://i.scdn.co/image/ab67616d0000b2734f96137ee493d57977218c2f', u'https://i.scdn.co/image/ab67616d0000b273c1bb124f993488cf21b269fc', u'https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733', u'https://i.scdn.co/image/ab67616d0000b273d3acd0f2186daa8e4cb0f65b', u'https://i.scdn.co/image/ab67616d0000b273aab2c3c3f1f3207137d915c9'], 'album_name': [u'All Day', u'Born Sinner (Deluxe Version)', u"If You're Reading This It's Too Late", u'Collision Course (Deluxe Version)', u'Man On The Moon: The End Of Day'], 'song_name': [u'All Day', u'Crooked Smile (feat. TLC)', u'10 Bands', u'Numb / Encore', u'Pursuit Of Happiness (Nightmare)'], 'artist_name': [u'Kanye West', u'J. Cole', u'Drake', u'JAY-Z', u'Kid Cudi'], 'track_id': [u'79reBHqpRoWXaQbjBBY3UC', u'5gFoAVTN9YlM9uJCrFZtgl', u'12d5QFwzh60IIHlsSnAvps', u'7dyluIqv7QYVTXXZiMWPHW', u'5iSEsR6NKjlC9SrIJkyL3k']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273aab2c3...  ...  0.605
+3  https://i.scdn.co/image/ab67616d0000b273d3acd0...  ...  0.803
+2  https://i.scdn.co/image/ab67616d0000b2732090f4...  ...  0.756
+1  https://i.scdn.co/image/ab67616d0000b273c1bb12...  ...  0.784
+0  https://i.scdn.co/image/ab67616d0000b2734f9613...  ...  0.651
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
