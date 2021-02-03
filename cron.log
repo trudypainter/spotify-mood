@@ -44316,3 +44316,67 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master fc24ee5] updating daily data 2021-02-03 08:00:03.463906
+ 3 files changed, 25 insertions(+), 1 deletion(-)
+2021-02-03 08:00:02.611452
+Auth happening...
+Getting songs
+Creating dataframe...
+Throw Sum Mo
+R.I.P.
+RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)
+BENJAMIN COUNTER
+GOT THESE SONGS
+{'played_at': ['07:57', '07:53', '07:50'], 'valence': [0.594, 0.515, 0.333], 'mood_avg': [0.707, 0.641, 0.605], 'danceability': [0.859, 0.725, 0.848], 'energy': [0.627, 0.725, 0.663], 'image': [u'https://i.scdn.co/image/ab67616d0000b2734ca3fb4517ff722918877460', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194', u'https://i.scdn.co/image/ab67616d0000b273ce9a92efb0c3ad4c2fb33072'], 'album_name': [u'SremmLife', u'Die Lit', u'Cozy Tapes Vol. 2: Too Cozy'], 'song_name': [u'Throw Sum Mo', u'R.I.P.', u'RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)'], 'artist_name': [u'Rae Sremmurd', u'Playboi Carti', u'A$AP Mob'], 'track_id': [u'5uqphUYsR45kPYplrYSAQh', u'3L0IKstjUgDFVQAbQIRZRv', u'4pdgV8qr9Oytcv6thCdiIZ']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273ce9a92...  ...  0.663
+1  https://i.scdn.co/image/ab67616d0000b273a1e867...  ...  0.725
+0  https://i.scdn.co/image/ab67616d0000b2734ca3fb...  ...  0.627
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
+2021-02-03 09:00:04.795612
+Auth happening...
+Getting songs
+Creating dataframe...
+Blue Verb Reprise
+Lucky
+World Princess part II
+2021-02-03 10:00:04.454335
+Auth happening...
+Getting songs
+Creating dataframe...
+Colouour
+Uncle ACE
+Nightmusic
+Chosen Family
+Unison
+My Name is Dark - Art Mix
+Radio Silence
+Guess My Crush
+Just Saying
+No Right Thing
+Boy Witch
+La Meg
+Green
+Blue Verb Reprise
+GOT THESE SONGS
+{'played_at': ['09:51', '09:48', '09:44', '09:40', '09:36', '09:29', '09:23', '09:19', '09:15', '09:14', '09:09', '09:07', '09:04'], 'valence': [0.0738, 0.742, 0.884, 0.364, 0.217, 0.464, 0.417, 0.477, 0.0389, 0.249, 0.55, 0.253, 0.177], 'mood_avg': [0.204, 0.783, 0.756, 0.474, 0.403, 0.561, 0.462, 0.674, 0.166, 0.529, 0.572, 0.372, 0.357], 'danceability': [0.302, 0.742, 0.633, 0.521, 0.536, 0.517, 0.532, 0.786, 0.277, 0.747, 0.436, 0.576, 0.533], 'energy': [0.268, 0.945, 0.747, 0.599, 0.511, 0.842, 0.412, 0.845, 0.196, 0.651, 0.887, 0.2, 0.364], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738b40e0ef79069fb9bcc560d9', u'https://i.scdn.co/image/ab67616d0000b2739d6bd2afa2987a69b7b55f72', u'https://i.scdn.co/image/ab67616d0000b273550133f6d334ed152d75aa56', u'https://i.scdn.co/image/ab67616d0000b273db0a368a7ede184a67a51b95', u'https://i.scdn.co/image/ab67616d0000b273bc31229deb79f896eb9fee84', u'https://i.scdn.co/image/ab67616d0000b2731a302aafa2ea587960e27951', u'https://i.scdn.co/image/ab67616d0000b273559bd53b0292ed01f789a0d8', u'https://i.scdn.co/image/ab67616d0000b27385c476434306b26394f9a53f', u'https://i.scdn.co/image/ab67616d0000b273e8ac8f5ea7877d823e5df3ea', u'https://i.scdn.co/image/ab67616d0000b2739d6bd2afa2987a69b7b55f72', u'https://i.scdn.co/image/ab67616d0000b273110090c137e40673e1466462', u'https://i.scdn.co/image/ab67616d0000b27337af2ce4e0abffff0045034c', u'https://i.scdn.co/image/ab67616d0000b273210e19d835bb0af6620256cf'], 'album_name': [u'gr\xe6', u'Cupid Deluxe', u'Visions', u'SAWAYAMA (Deluxe Edition)', u'Vespertine', u'Miss Anthropocene (Deluxe Edition)', u'The Colour In Anything', u'Clam Day', u'In Colour', u'Cupid Deluxe', u'Unknown Mortal Orchestra', u'Both', u'Sixteen Oceans'], 'song_name': [u'Colouour', u'Uncle ACE', u'Nightmusic', u'Chosen Family', u'Unison', u'My Name is Dark - Art Mix', u'Radio Silence', u'Guess My Crush', u'Just Saying', u'No Right Thing', u'Boy Witch', u'La Meg', u'Green'], 'artist_name': [u'Moses Sumney', u'Blood Orange', u'Grimes', u'Rina Sawayama', u'Bj\xf6rk', u'Grimes', u'James Blake', u'OTTO', u'Jamie xx', u'Blood Orange', u'Unknown Mortal Orchestra', u'Okay Kaya', u'Four Tet'], 'track_id': [u'1doU1LSa3k9wgXpVILuoxV', u'0Cn4UhpHhgf88eWaS9nn5u', u'1KIb20Sgqg4XiRIPaEBwDv', u'0iF3PK3dnzHlJMCwDlm0jV', u'1t9us2hggVqmnyWz7uG54y', u'43DBhwmvfhWTQwBRmJsafC', u'0ZPPbwJD2WVU8HdMsVtChk', u'5I53e46kEe28mcFEBinsKq', u'5X6tXbeeE2Gk5XDNb8I5Ku', u'5u8ZMevzINPCrN2uXQkeNZ', u'5dalRkw5u1HTeFwfJQSDLz', u'1TenYwHUfKq18hSfcbc2Rj', u'4EcQ8GHyJGLw45jkA9SzmD']}
+                                                image  ... energy
+12  https://i.scdn.co/image/ab67616d0000b273210e19...  ...  0.364
+11  https://i.scdn.co/image/ab67616d0000b27337af2c...  ...    0.2
+10  https://i.scdn.co/image/ab67616d0000b273110090...  ...  0.887
+9   https://i.scdn.co/image/ab67616d0000b2739d6bd2...  ...  0.651
+8   https://i.scdn.co/image/ab67616d0000b273e8ac8f...  ...  0.196
+7   https://i.scdn.co/image/ab67616d0000b27385c476...  ...  0.845
+6   https://i.scdn.co/image/ab67616d0000b273559bd5...  ...  0.412
+5   https://i.scdn.co/image/ab67616d0000b2731a302a...  ...  0.842
+4   https://i.scdn.co/image/ab67616d0000b273bc3122...  ...  0.511
+3   https://i.scdn.co/image/ab67616d0000b273db0a36...  ...  0.599
+2   https://i.scdn.co/image/ab67616d0000b273550133...  ...  0.747
+1   https://i.scdn.co/image/ab67616d0000b2739d6bd2...  ...  0.945
+0   https://i.scdn.co/image/ab67616d0000b2738b40e0...  ...  0.268
+
+[13 rows x 10 columns]
