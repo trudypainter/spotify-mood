@@ -44730,3 +44730,28 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master f63d239] updating daily data 2021-02-04 07:00:04.140062
+ 3 files changed, 25 insertions(+), 1 deletion(-)
+2021-02-04 07:00:03.162160
+Auth happening...
+Getting songs
+Creating dataframe...
+Of Course We Ghetto Flowers (feat. Playboi Carti & Offset)
+Praise The Lord (Da Shine) (feat. Skepta)
+Neon Guts (feat. Pharrell Williams)
+The London (feat. J. Cole & Travis Scott)
+BUTTERFLY EFFECT
+Me or Us
+GOT THESE SONGS
+{'played_at': ['06:20', '06:16', '06:12', '06:08', '06:05'], 'valence': [0.337, 0.294, 0.412, 0.179, 0.193], 'mood_avg': [0.573, 0.573, 0.621, 0.507, 0.508], 'danceability': [0.81, 0.854, 0.859, 0.796, 0.763], 'energy': [0.57, 0.569, 0.563, 0.586, 0.628], 'image': [u'https://i.scdn.co/image/ab67616d0000b2732143db1c88358d70dd898aa3', u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b', u'https://i.scdn.co/image/ab67616d0000b2730d5a84e4e47399d2726c330c', u'https://i.scdn.co/image/ab67616d0000b273137c2d3150118e7157800c5b', u'https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3'], 'album_name': [u'The Perfect LUV Tape', u'TESTING', u'Luv Is Rage 2 (Deluxe)', u'The London (feat. J. Cole & Travis Scott)', u'ASTROWORLD'], 'song_name': [u'Of Course We Ghetto Flowers (feat. Playboi Carti & Offset)', u'Praise The Lord (Da Shine) (feat. Skepta)', u'Neon Guts (feat. Pharrell Williams)', u'The London (feat. J. Cole & Travis Scott)', u'BUTTERFLY EFFECT'], 'artist_name': [u'Lil Uzi Vert', u'A$AP Rocky', u'Lil Uzi Vert', u'Young Thug', u'Travis Scott'], 'track_id': [u'0gqfvyewE2Sh8TwKBFajCF', u'7ycWLEP1GsNjVvcjawXz3z', u'2BUXjDhEuVLvEzFI6tabOF', u'7DcvwMAiqKJQD1rrdfxSDx', u'2cYqizR4lgvp4Qu6IQ3qGN']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273072e9f...  ...  0.628
+3  https://i.scdn.co/image/ab67616d0000b273137c2d...  ...  0.586
+2  https://i.scdn.co/image/ab67616d0000b2730d5a84...  ...  0.563
+1  https://i.scdn.co/image/ab67616d0000b2739feadc...  ...  0.569
+0  https://i.scdn.co/image/ab67616d0000b2732143db...  ...   0.57
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
