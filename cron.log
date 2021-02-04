@@ -44550,3 +44550,20 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master 54c871d] updating daily data 2021-02-03 20:00:04.234531
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-02-03 20:00:03.543072
+Auth happening...
+Getting songs
+Creating dataframe...
+Recognizing The Enemy
+Vulture Baby
+GOT THESE SONGS
+{'played_at': ['19:02'], 'valence': [0.0301], 'mood_avg': [0.227], 'danceability': [0.319], 'energy': [0.436], 'image': [u'https://i.scdn.co/image/ab67616d0000b273f5533d680fa116232aa10cbc'], 'album_name': [u'Safe In The Hands of Love'], 'song_name': [u'Recognizing The Enemy'], 'artist_name': [u'Yves Tumor'], 'track_id': [u'3ghtOcSMima0cduZihPKY4']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273f5533d...  ...  0.436
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
