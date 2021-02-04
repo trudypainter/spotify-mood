@@ -44711,3 +44711,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master b6a4304] updating daily data 2021-02-04 06:00:03.482756
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-02-04 06:00:02.741592
+Auth happening...
+Getting songs
+Creating dataframe...
+Me or Us
+Dark Horse
+Warm (feat. HAIM)
+GOT THESE SONGS
+{'played_at': ['05:58', '05:56'], 'valence': [0.419, 0.353], 'mood_avg': [0.491, 0.516], 'danceability': [0.682, 0.645], 'energy': [0.251, 0.585], 'image': [u'https://i.scdn.co/image/ab67616d0000b273419cedff7b313b962a93932e', u'https://i.scdn.co/image/ab67616d0000b27347f930accd8ac01686401fa2'], 'album_name': [u'Beautiful Thugger Girls', u'PRISM (Deluxe)'], 'song_name': [u'Me or Us', u'Dark Horse'], 'artist_name': [u'Young Thug', u'Katy Perry'], 'track_id': [u'0JaN65P0DapRjboDEv2g08', u'5jrdCoLpJSvHHorevXBATy']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b27347f930...  ...  0.585
+0  https://i.scdn.co/image/ab67616d0000b273419ced...  ...  0.251
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
