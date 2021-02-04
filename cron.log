@@ -44776,3 +44776,27 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master e10320e] updating daily data 2021-02-04 09:00:05.278122
+ 3 files changed, 24 insertions(+), 1 deletion(-)
+2021-02-04 09:00:04.332939
+Auth happening...
+Getting songs
+Creating dataframe...
+I. Miss. Raving.
+Lento
+Wild Love (feat. The Weeknd & Francis and the Lights)
+GOT THESE SONGS
+{'played_at': ['08:15', '08:08'], 'valence': [0.219, 0.201], 'mood_avg': [0.566, 0.333], 'danceability': [0.783, 0.533], 'energy': [0.826, 0.195], 'image': [u'https://i.scdn.co/image/ab67616d0000b273400d82d8039634308dca93ad', u'https://i.scdn.co/image/ab67616d0000b273ace0dd3c10d90b7a3bcbc40e'], 'album_name': [u'I. Miss. Raving.', u'Lento'], 'song_name': [u'I. Miss. Raving.', u'Lento'], 'artist_name': [u'Elkka', u'Pandit Pam Pam'], 'track_id': [u'2yUij1L3PWvoAEcUqOBTbi', u'0KDI7YYlJopODY7Yet5YG1']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273ace0dd...  ...  0.195
+0  https://i.scdn.co/image/ab67616d0000b273400d82...  ...  0.826
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
+2021-02-04 10:00:03.500806
+Auth happening...
+Getting songs
+Creating dataframe...
+Multi-Love
