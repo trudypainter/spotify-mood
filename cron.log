@@ -44529,3 +44529,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master c759dc8] updating daily data 2021-02-03 19:00:14.814152
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-02-03 19:00:12.536252
+Auth happening...
+Getting songs
+Creating dataframe...
+Vulture Baby
+STFU!
+Animals
+Daisy
+GOT THESE SONGS
+{'played_at': ['18:57', '18:56', '18:52'], 'valence': [0.512, 0.482, 0.077], 'mood_avg': [0.469, 0.577, 0.234], 'danceability': [0.531, 0.494, 0.328], 'energy': [0.258, 0.931, 0.36], 'image': [u'https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6', u'https://i.scdn.co/image/ab67616d0000b273db0a368a7ede184a67a51b95', u'https://i.scdn.co/image/ab67616d0000b27395d35bb46c2ea54d9f179bca'], 'album_name': [u'Negro Swan', u'SAWAYAMA (Deluxe Edition)', u'Apple'], 'song_name': [u'Vulture Baby', u'STFU!', u'Animals'], 'artist_name': [u'Blood Orange', u'Rina Sawayama', u'A. G. Cook'], 'track_id': [u'0wlXb1TAj96igP2GJdqa3b', u'2OXI1pLV43JVhkdl83YQc7', u'2dRgEWjRWtXpiUt6tUoQQ0']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b27395d35b...  ...   0.36
+1  https://i.scdn.co/image/ab67616d0000b273db0a36...  ...  0.931
+0  https://i.scdn.co/image/ab67616d0000b27347dd2c...  ...  0.258
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
