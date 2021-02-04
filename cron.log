@@ -44815,3 +44815,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master d040afb] updating daily data 2021-02-04 12:00:05.115681
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-02-04 12:00:03.103619
+Auth happening...
+Getting songs
+Creating dataframe...
+Born Confused
+Multi-Love
+GOT THESE SONGS
+{'played_at': ['11:07'], 'valence': [0.701], 'mood_avg': [0.646], 'danceability': [0.491], 'energy': [0.846], 'image': [u'https://i.scdn.co/image/ab67616d0000b27330fea82d18d2674a91c00e4f'], 'album_name': [u'Every Bad'], 'song_name': [u'Born Confused'], 'artist_name': [u'Porridge Radio'], 'track_id': [u'67WYyxMKmuFd7E4pELpwcm']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b27330fea8...  ...  0.846
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
