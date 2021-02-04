@@ -44755,3 +44755,24 @@ GOT THESE SONGS
 ('Rows: ', 5)
 Saved!
 
+[master b5b40d0] updating daily data 2021-02-04 08:00:05.432780
+ 3 files changed, 29 insertions(+), 1 deletion(-)
+2021-02-04 08:00:03.294914
+Auth happening...
+Getting songs
+Creating dataframe...
+Wild Love (feat. The Weeknd & Francis and the Lights)
+Ain't Got the Love (Of One Girl On My Mind)
+A Raga Called Pat - Part IV
+HIPPOPOTAMUS
+GOT THESE SONGS
+{'played_at': ['07:56', '07:53', '07:50'], 'valence': [0.195, 0.933, 0.039], 'mood_avg': [0.264, 0.716, 0.2], 'danceability': [0.339, 0.559, 0.388], 'energy': [0.25, 0.594, 0.144], 'image': [u'https://i.scdn.co/image/ab67616d0000b273747de7362e80274878719786', u'https://i.scdn.co/image/ab67616d0000b2733108c6b0ffb07d73411083a2', u'https://i.scdn.co/image/ab67616d0000b2733f95f46dd61f6f7dc353866f'], 'album_name': [u'9', u'Soul Summit', u'The Voice Of The Turtle'], 'song_name': [u'Wild Love (feat. The Weeknd & Francis and the Lights)', u"Ain't Got the Love (Of One Girl On My Mind)", u'A Raga Called Pat - Part IV'], 'artist_name': [u'Cashmere Cat', u'Ambassadors', u'John Fahey'], 'track_id': [u'5vmakI7B19A2L7WBVutTXO', u'3PEDuxCwlOEAtyGFroMMXB', u'33m3FcOmJC9m2m1GkMBBx4']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b2733f95f4...  ...  0.144
+1  https://i.scdn.co/image/ab67616d0000b2733108c6...  ...  0.594
+0  https://i.scdn.co/image/ab67616d0000b273747de7...  ...   0.25
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
