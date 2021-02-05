@@ -45131,3 +45131,26 @@ GOT THESE SONGS
 ('Rows: ', 4)
 Saved!
 
+[master bb131c5] updating daily data 2021-02-05 07:00:06.603207
+ 3 files changed, 28 insertions(+), 1 deletion(-)
+2021-02-05 07:00:05.508606
+Auth happening...
+Getting songs
+Creating dataframe...
+Floating (feat. 21 Savage)
+Praise The Lord (Da Shine) (feat. Skepta)
+Poke It Out (with Nicki Minaj)
+pick up the phone
+Take Care
+GOT THESE SONGS
+{'played_at': ['06:13', '06:10', '06:06', '06:02'], 'valence': [0.543, 0.294, 0.576, 0.459], 'mood_avg': [0.689, 0.573, 0.706, 0.609], 'danceability': [0.906, 0.854, 0.894, 0.706], 'energy': [0.545, 0.569, 0.59, 0.716], 'image': [u'https://i.scdn.co/image/ab67616d0000b273f2149422121d1674c6f4c009', u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194', u'https://i.scdn.co/image/ab67616d0000b2736f90c4dc2e8599829dae3848'], 'album_name': [u'CrasH Talk', u'TESTING', u'Die Lit', u'pick up the phone'], 'song_name': [u'Floating (feat. 21 Savage)', u'Praise The Lord (Da Shine) (feat. Skepta)', u'Poke It Out (with Nicki Minaj)', u'pick up the phone'], 'artist_name': [u'ScHoolboy Q', u'A$AP Rocky', u'Playboi Carti', u'Young Thug'], 'track_id': [u'4NN6N5TxBO5k9uqu0W4gfQ', u'7ycWLEP1GsNjVvcjawXz3z', u'2rPSFKzGeqUWwfcCFVkkq3', u'4GXl8l1MfZPf2GvpyRPJBf']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b2736f90c4...  ...  0.716
+2  https://i.scdn.co/image/ab67616d0000b273a1e867...  ...   0.59
+1  https://i.scdn.co/image/ab67616d0000b2739feadc...  ...  0.569
+0  https://i.scdn.co/image/ab67616d0000b273f21494...  ...  0.545
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
