@@ -45169,3 +45169,32 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 203ed03] updating daily data 2021-02-05 09:00:05.350336
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-02-05 09:00:04.003241
+Auth happening...
+Getting songs
+Creating dataframe...
+NONSENSE
+through the late night
+Old Money
+HOW DO YOU DO?
+A$AP Forever REMIX (feat. Moby, T.I. & Kid Cudi)
+No Type
+Up in Here
+Floating (feat. 21 Savage)
+GOT THESE SONGS
+{'played_at': ['08:32', '08:31', '08:26', '08:24', '08:22', '08:17', '08:13'], 'valence': [0.5, 0.242, 0.584, 0.702, 0.394, 0.239, 0.409], 'mood_avg': [0.618, 0.512, 0.644, 0.747, 0.48, 0.549, 0.604], 'danceability': [0.639, 0.744, 0.716, 0.784, 0.428, 0.891, 0.772], 'energy': [0.812, 0.589, 0.619, 0.763, 0.754, 0.486, 0.659], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c477cd93b7d209ede3980f20', u'https://i.scdn.co/image/ab67616d0000b273f54b99bf27cda88f4a7403ce', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194', u'https://i.scdn.co/image/ab67616d0000b273c477cd93b7d209ede3980f20', u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b', u'https://i.scdn.co/image/ab67616d0000b2734ca3fb4517ff722918877460', u'https://i.scdn.co/image/ab67616d0000b2731541a676423805fc68ff3e66'], 'album_name': [u'Bawskee 2', u'Birds In The Trap Sing McKnight', u'Die Lit', u'Bawskee 2', u'TESTING', u'SremmLife', u'Painting Pictures'], 'song_name': [u'NONSENSE', u'through the late night', u'Old Money', u'HOW DO YOU DO?', u'A$AP Forever REMIX (feat. Moby, T.I. & Kid Cudi)', u'No Type', u'Up in Here'], 'artist_name': [u'Comethazine', u'Travis Scott', u'Playboi Carti', u'Comethazine', u'A$AP Rocky', u'Rae Sremmurd', u'Kodak Black'], 'track_id': [u'1h6OiyF7bf4jifbw1s7mVD', u'1Ci4wASMY4xtKVMeHA6Sd5', u'0syXbGoFZbTMXm8hGCEvW0', u'6kcreirHsB8RNewt8rjd4X', u'3oHkMCVJyOcjg5FhfLc2Rq', u'4scpF6J5uMBvoh6sFB7EL1', u'4rcDP7pcJ9TN3LDeFSfUav']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b2731541a6...  ...  0.659
+5  https://i.scdn.co/image/ab67616d0000b2734ca3fb...  ...  0.486
+4  https://i.scdn.co/image/ab67616d0000b2739feadc...  ...  0.754
+3  https://i.scdn.co/image/ab67616d0000b273c477cd...  ...  0.763
+2  https://i.scdn.co/image/ab67616d0000b273a1e867...  ...  0.619
+1  https://i.scdn.co/image/ab67616d0000b273f54b99...  ...  0.589
+0  https://i.scdn.co/image/ab67616d0000b273c477cd...  ...  0.812
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
