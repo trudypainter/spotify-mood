@@ -44907,3 +44907,33 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 26642d3] updating daily data 2021-02-04 18:00:04.421529
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-02-04 18:00:03.647213
+Auth happening...
+Getting songs
+Creating dataframe...
+Born Confused
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-02-04 19:00:15.001073
+Auth happening...
+Getting songs
+Creating dataframe...
+One at a Time
+Hunnybee
+Affection
+L8r Boi
+But You
+Medicine Burn
+224
+Better Than Me
+On the Floor
+Chewing Gum
+Blue Verb
