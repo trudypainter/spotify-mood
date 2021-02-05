@@ -44937,3 +44937,30 @@ Better Than Me
 On the Floor
 Chewing Gum
 Blue Verb
+[master 0932857] updating daily data 2021-02-04 20:00:04.420680
+ 3 files changed, 37 insertions(+), 1 deletion(-)
+2021-02-04 20:00:03.382390
+Auth happening...
+Getting songs
+Creating dataframe...
+Punk Monk
+On That Time
+New N3on
+Sky
+Rockstar Made
+SB-04
+One at a Time
+GOT THESE SONGS
+{'played_at': ['19:53', '19:50', '19:48', '19:46', '19:28', '19:16'], 'valence': [0.139, 0.0545, 0.948, 0.565, 0.381, 0.198], 'mood_avg': [0.417, 0.356, 0.901, 0.721, 0.584, 0.389], 'danceability': [0.699, 0.598, 0.888, 0.785, 0.773, 0.37], 'energy': [0.408, 0.476, 0.833, 0.903, 0.612, 0.807], 'image': [u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b2734b606f7386c21c63650ecea9'], 'album_name': [u'Whole Lotta Red', u'Whole Lotta Red', u'Whole Lotta Red', u'Whole Lotta Red', u'Whole Lotta Red', u'SB-04'], 'song_name': [u'Punk Monk', u'On That Time', u'New N3on', u'Sky', u'Rockstar Made', u'SB-04'], 'artist_name': [u'Playboi Carti', u'Playboi Carti', u'Playboi Carti', u'Playboi Carti', u'Playboi Carti', u'Unknown Mortal Orchestra'], 'track_id': [u'5fSZXFOZfPVW9gvnnG4ZVW', u'3dl8bSF08LQfCf4T6CCksf', u'7ejepEh5DJ79YI6owGRfkk', u'29TPjc8wxfz4XMn21O7VsZ', u'3cWmqvMwVQKDigWLSZ3w9h', u'5kPcetopxE4Xscx2ufpqM6']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b2734b606f...  ...  0.807
+4  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.612
+3  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.903
+2  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.833
+1  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.476
+0  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.408
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
