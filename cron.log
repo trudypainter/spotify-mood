@@ -45228,3 +45228,86 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 0f21393] updating daily data 2021-02-05 12:00:10.943937
+ 3 files changed, 30 insertions(+), 1 deletion(-)
+2021-02-05 12:00:07.068270
+Auth happening...
+Getting songs
+Creating dataframe...
+money machine
+Next Level Charli
+Holy Will
+Baby Florence (Figure)
+Str8 Outta Mumbai
+Circumambient
+Gone
+Devil I Know
+Raising Hell
+DROPPED OUTTA COLLEGE
+Mood (feat. iann dior)
+1491
+Self Harm
+Slay3r
+NONSENSE
+GOT THESE SONGS
+{'played_at': ['11:57', '11:55', '11:52', '11:48', '11:43', '11:41', '11:36', '11:32', '11:29', '11:24', '11:22', '11:20', '11:17', '11:15'], 'valence': [0.75, 0.215, 0.182, 0.038, 0.569, 0.185, 0.64, 0.384, 0.288, 0.191, 0.756, 0.798, 0.197, 0.436], 'mood_avg': [0.704, 0.47, 0.245, 0.451, 0.536, 0.51, 0.706, 0.465, 0.411, 0.517, 0.727, 0.623, 0.352, 0.661], 'danceability': [0.68, 0.536, 0.303, 0.764, 0.399, 0.751, 0.906, 0.51, 0.577, 0.911, 0.7, 0.369, 0.429, 0.885], 'energy': [0.659, 0.847, 0.255, 0.652, 0.743, 0.679, 0.438, 0.536, 0.323, 0.379, 0.722, 0.781, 0.509, 0.661], 'image': [u'https://i.scdn.co/image/ab67616d0000b2734123c0f9b6689205d20f350f', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6', u'https://i.scdn.co/image/ab67616d0000b273c705e4061a1de1139ced6554', u'https://i.scdn.co/image/ab67616d0000b273bb4474fdf0517c301f1201a5', u'https://i.scdn.co/image/ab67616d0000b273550133f6d334ed152d75aa56', u'https://i.scdn.co/image/ab67616d0000b2730c40f0ad4ff7e8d13553cd88', u'https://i.scdn.co/image/ab67616d0000b27332ef63bcb552e1e9c1ecf475', u'https://i.scdn.co/image/ab67616d0000b2735ccc62529c77101d6b2f00f3', u'https://i.scdn.co/image/ab67616d0000b273574d6b3636e7ed59705a0e56', u'https://i.scdn.co/image/ab67616d0000b273ff8c985ecb3b7c5f847be357', u'https://i.scdn.co/image/ab67616d0000b2735a973167d72dfaaedf82a654', u'https://i.scdn.co/image/ab67616d0000b2735a973167d72dfaaedf82a654', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb'], 'album_name': [u'1000 gecs', u'Charli', u'Negro Swan', u"Angel's Pulse", u'Leak 04-13 (Bait Ones)', u'Visions', u'Gone', u'Cape God', u'Salvador', u'DROPPED OUTTA COLLEGE', u'Mood (feat. iann dior)', u'Song of Sage: Post Panic!', u'Song of Sage: Post Panic!', u'Whole Lotta Red'], 'song_name': [u'money machine', u'Next Level Charli', u'Holy Will', u'Baby Florence (Figure)', u'Str8 Outta Mumbai', u'Circumambient', u'Gone', u'Devil I Know', u'Raising Hell', u'DROPPED OUTTA COLLEGE', u'Mood (feat. iann dior)', u'1491', u'Self Harm', u'Slay3r'], 'artist_name': [u'100 gecs', u'Charli XCX', u'Blood Orange', u'Blood Orange', u'Jai Paul', u'Grimes', u'Charli XCX', u'Allie X', u'Sega Bodega', u'24kGoldn', u'24kGoldn', u'Navy Blue', u'Navy Blue', u'Playboi Carti'], 'track_id': [u'61bwFjzXGG1x2aZsANdLyl', u'7a6HVxpLhW7hRL9JcFZl16', u'6ImkphIMAbZRkZOJuVrTA2', u'7r6bmQt0kYZZL97ihXsNWU', u'0mRtv3pnmPiN2mDMzYzWt2', u'2yP2fo52aCyQGr8K9QMXiw', u'4UQeq4HUvC5uPEA9pWTgPW', u'4GSqiK9YdVNhilXMFtCiQB', u'5q9F2CNzrrNQMM7l62S2c6', u'5j8fi3IRcWH1B0RyPIPKl1', u'3tjFYV6RSFtuktYl3ZtYcq', u'3HToRpmkcdb6SwGqiXP1qu', u'1w1k2sO6YHmseERkIigSvW', u'1eMNW1HQjF1dbb4GtnmpaX']}
+                                                image  ... energy
+13  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.661
+12  https://i.scdn.co/image/ab67616d0000b2735a9731...  ...  0.509
+11  https://i.scdn.co/image/ab67616d0000b2735a9731...  ...  0.781
+10  https://i.scdn.co/image/ab67616d0000b273ff8c98...  ...  0.722
+9   https://i.scdn.co/image/ab67616d0000b273574d6b...  ...  0.379
+8   https://i.scdn.co/image/ab67616d0000b2735ccc62...  ...  0.323
+7   https://i.scdn.co/image/ab67616d0000b27332ef63...  ...  0.536
+6   https://i.scdn.co/image/ab67616d0000b2730c40f0...  ...  0.438
+5   https://i.scdn.co/image/ab67616d0000b273550133...  ...  0.679
+4   https://i.scdn.co/image/ab67616d0000b273bb4474...  ...  0.743
+3   https://i.scdn.co/image/ab67616d0000b273c705e4...  ...  0.652
+2   https://i.scdn.co/image/ab67616d0000b27347dd2c...  ...  0.255
+1   https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.847
+0   https://i.scdn.co/image/ab67616d0000b2734123c0...  ...  0.659
+
+[14 rows x 10 columns]
+('Rows: ', 14)
+Saved!
+
+2021-02-05 13:00:05.491591
+Auth happening...
+Getting songs
+Creating dataframe...
+Me in 20 Years
+my future
+Oblivion
+Abracadabra
+CALL ME (Freestyle)
+Back of a Cab
+This Is Not
+Gold Teeth
+Thee Dreams Wilt
+Pourquoi tu me fous plus des coups ? - Radio Edit
+sadder badder cooler - Y2K Remix
+Dark & Handsome
+Naked Alone
+Count Contessa
+Delete Forever
+Is It Cold In The Water?
+GOT THESE SONGS
+{'played_at': ['12:57', '12:53', '12:50', '12:46', '12:42', '12:39', '12:36', '12:30', '12:27', '12:23', '12:19', '12:16', '12:13', '12:09', '12:04'], 'valence': [0.0543, 0.0875, 0.486, 0.485, 0.47, 0.565, 0.707, 0.525, 0.49, 0.56, 0.736, 0.288, 0.702, 0.453, 0.389], 'mood_avg': [0.237, 0.274, 0.579, 0.586, 0.6, 0.596, 0.729, 0.699, 0.611, 0.597, 0.702, 0.427, 0.746, 0.611, 0.527], 'danceability': [0.35, 0.444, 0.697, 0.772, 0.749, 0.609, 0.789, 0.89, 0.645, 0.599, 0.756, 0.584, 0.9, 0.595, 0.56], 'energy': [0.376, 0.309, 0.529, 0.415, 0.564, 0.63, 0.654, 0.665, 0.785, 0.665, 0.527, 0.389, 0.527, 0.957, 0.736], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738b40e0ef79069fb9bcc560d9', u'https://i.scdn.co/image/ab67616d0000b273c6031b915b9ce1378be1200f', u'https://i.scdn.co/image/ab67616d0000b273550133f6d334ed152d75aa56', u'https://i.scdn.co/image/ab67616d0000b273e01f1c9ee98004769b5a55d1', u'https://i.scdn.co/image/ab67616d0000b273428f0c9bee39cd8298f31718', u'https://i.scdn.co/image/ab67616d0000b273b586d555c83bf5c4199aacc8', u'https://i.scdn.co/image/ab67616d0000b273af071325c295f71b0d320a90', u'https://i.scdn.co/image/ab67616d0000b273c705e4061a1de1139ced6554', u'https://i.scdn.co/image/ab67616d0000b273a0bc75ee5b3352ff67957f3e', u'https://i.scdn.co/image/ab67616d0000b273929dcf7fd8f4e9a544a23036', u'https://i.scdn.co/image/ab67616d0000b27392444c56efe76d96688d7658', u'https://i.scdn.co/image/ab67616d0000b273c705e4061a1de1139ced6554', u'https://i.scdn.co/image/ab67616d0000b27319e05b12bb87d6a3d4e51542', u'https://i.scdn.co/image/ab67616d0000b273e271c649ef92d73d64f0716d', u'https://i.scdn.co/image/ab67616d0000b2731a302aafa2ea587960e27951'], 'album_name': [u'gr\xe6', u'my future', u'Visions', u'Screamo', u'CALL ME (Freestyle)', u'Cheap Queen (Deluxe)', u'Cannonball!', u"Angel's Pulse", u'Icebreaker', u'Pourquoi tu me fous plus des coups ? (Radio Edit)', u'sadder badder cooler (Y2K Remix)', u"Angel's Pulse", u'Naked Alone', u'Count Contessa', u'Miss Anthropocene (Deluxe Edition)'], 'song_name': [u'Me in 20 Years', u'my future', u'Oblivion', u'Abracadabra', u'CALL ME (Freestyle)', u'Back of a Cab', u'This Is Not', u'Gold Teeth', u'Thee Dreams Wilt', u'Pourquoi tu me fous plus des coups ? - Radio Edit', u'sadder badder cooler - Y2K Remix', u'Dark & Handsome', u'Naked Alone', u'Count Contessa', u'Delete Forever'], 'artist_name': [u'Moses Sumney', u'Billie Eilish', u'Grimes', u'Sean Nicholas Savage', u'Blood Orange', u'King Princess', u'Sen Morimoto', u'Blood Orange', u'Cowgirl Clue', u'An Luu', u'Tove Lo', u'Blood Orange', u'L Devine', u'Azealia Banks', u'Grimes'], 'track_id': [u'0KnvToS92AMDTaB0f0FIwf', u'2ygvZOXrIeVL4xZmAWJT2C', u'3LGsgpx4TfxhXbr07OFKqs', u'5TUXYElp06JcHSQsUAImTj', u'1awc3w3LUJOK8TwD17bQLZ', u'6WsTNd2VLZRs84cwBhwVZA', u'2K0jDRTeZC8Dr6enR8vAMP', u'3BbWvLOFaxx0npzxfRixyO', u'3ayfNuucRULFyeQHO2IMRI', u'5qslwtsb10gXzmA6p1APKZ', u'4YGgFxIQBQPE46ytGUfX4U', u'0Zgcv1wy4bRWpfsM27uPGK', u'2C1V8JFnm2OqZVkHhNu4qe', u'5qc9oEjMRZvdECu3g5vU8P', u'71J2rawCGulCAyTMtNY3Ej']}
+                                                image  ... energy
+14  https://i.scdn.co/image/ab67616d0000b2731a302a...  ...  0.736
+13  https://i.scdn.co/image/ab67616d0000b273e271c6...  ...  0.957
+12  https://i.scdn.co/image/ab67616d0000b27319e05b...  ...  0.527
+11  https://i.scdn.co/image/ab67616d0000b273c705e4...  ...  0.389
+10  https://i.scdn.co/image/ab67616d0000b27392444c...  ...  0.527
+9   https://i.scdn.co/image/ab67616d0000b273929dcf...  ...  0.665
+8   https://i.scdn.co/image/ab67616d0000b273a0bc75...  ...  0.785
+7   https://i.scdn.co/image/ab67616d0000b273c705e4...  ...  0.665
+6   https://i.scdn.co/image/ab67616d0000b273af0713...  ...  0.654
+5   https://i.scdn.co/image/ab67616d0000b273b586d5...  ...   0.63
+4   https://i.scdn.co/image/ab67616d0000b273428f0c...  ...  0.564
+3   https://i.scdn.co/image/ab67616d0000b273e01f1c...  ...  0.415
+2   https://i.scdn.co/image/ab67616d0000b273550133...  ...  0.529
+1   https://i.scdn.co/image/ab67616d0000b273c6031b...  ...  0.309
+0   https://i.scdn.co/image/ab67616d0000b2738b40e0...  ...  0.376
+
+[15 rows x 10 columns]
