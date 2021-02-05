@@ -45326,3 +45326,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 5da5f99] updating daily data 2021-02-05 15:00:06.697911
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-02-05 15:00:05.855470
+Auth happening...
+Getting songs
+Creating dataframe...
+People Watching
+Me in 20 Years
+GOT THESE SONGS
+{'played_at': ['14:32'], 'valence': [0.435], 'mood_avg': [0.516], 'danceability': [0.655], 'energy': [0.4], 'image': [u'https://i.scdn.co/image/ab67616d0000b273af071325c295f71b0d320a90'], 'album_name': [u'Cannonball!'], 'song_name': [u'People Watching'], 'artist_name': [u'Sen Morimoto'], 'track_id': [u'1z4DPOVwQxj2HSuXQYnoKO']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273af0713...  ...    0.4
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
