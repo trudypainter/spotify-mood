@@ -45534,3 +45534,40 @@ GOT THESE SONGS
 ('Rows: ', 6)
 Saved!
 
+[master b38e3b5] updating daily data 2021-02-06 11:00:04.406514
+ 3 files changed, 39 insertions(+), 1 deletion(-)
+2021-02-06 11:00:03.102429
+Auth happening...
+Getting songs
+Creating dataframe...
+Doo Wop (That Thing)
+Forgive Them Father
+The Miseducation of Lauryn Hill
+Intro
+Intro
+To Zion (feat. Carlos Santana)
+Lost Ones
+Tell Him
+Nothing Even Matters (feat. D'Angelo)
+Can't Take My Eyes Off of You - (I Love You Baby)
+When It Hurts so Bad
+Ex-Factor
+GOT THESE SONGS
+{'played_at': ['10:49', '10:44', '10:38', '10:34', '10:28', '10:27', '10:21', '10:16', '10:11', '10:05', '10:01'], 'valence': [0.495, 0.691, 0.653, 0.566, 0.566, 0.516, 0.65, 0.931, 0.549, 0.63, 0.825], 'mood_avg': [0.513, 0.72, 0.475, 0.445, 0.445, 0.491, 0.743, 0.764, 0.508, 0.683, 0.701], 'danceability': [0.535, 0.808, 0.356, 0.373, 0.373, 0.41, 0.832, 0.655, 0.539, 0.747, 0.669], 'energy': [0.505, 0.6, 0.355, 0.349, 0.349, 0.601, 0.749, 0.647, 0.363, 0.662, 0.519], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9'], 'album_name': [u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill'], 'song_name': [u'Doo Wop (That Thing)', u'Forgive Them Father', u'The Miseducation of Lauryn Hill', u'Intro', u'Intro', u'To Zion (feat. Carlos Santana)', u'Lost Ones', u'Tell Him', u"Nothing Even Matters (feat. D'Angelo)", u"Can't Take My Eyes Off of You - (I Love You Baby)", u'When It Hurts so Bad'], 'artist_name': [u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill'], 'track_id': [u'0uEp9E98JB5awlA084uaIg', u'2RPhXg9D4JOkryUznL0aaB', u'12Y1GaS44vga0G3rUtjFAY', u'34QTgJPSf9Nvpw3NrlX8pu', u'34QTgJPSf9Nvpw3NrlX8pu', u'7x6hO9VMAee9x1iWaeNkL6', u'71XhXay6rKPZCVAaDtFlSR', u'7iCs98iS5n6KCI4q3H7zp9', u'1Q0lOGB52skgfzdcq233vs', u'2GFExyKXf9383tSRSrEHEt', u'3CNSWn2mISh7Ll3yJQbVEw']}
+                                                image  ... energy
+10  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.519
+9   https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.662
+8   https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.363
+7   https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.647
+6   https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.749
+5   https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.601
+4   https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.349
+3   https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.349
+2   https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.355
+1   https://i.scdn.co/image/ab67616d0000b273e08b12...  ...    0.6
+0   https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.505
+
+[11 rows x 10 columns]
+('Rows: ', 11)
+Saved!
+
