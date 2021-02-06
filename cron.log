@@ -45491,3 +45491,19 @@ Creating dataframe...
 Auth happening...
 Getting songs
 Creating dataframe...
+[master 583a7e8] updating daily data 2021-02-06 09:00:04.313489
+ 3 files changed, 60 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2021-02-06.csv
+2021-02-06 09:00:03.705177
+Auth happening...
+Getting songs
+Creating dataframe...
+Dance Me To The End Of Love
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
