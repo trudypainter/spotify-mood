@@ -45417,3 +45417,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master ee220e5] updating daily data 2021-02-05 20:00:03.957629
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-02-05 20:00:03.406611
+Auth happening...
+Getting songs
+Creating dataframe...
+When You Down (with Polo G feat. Lil Durk)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
