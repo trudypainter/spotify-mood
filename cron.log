@@ -45616,3 +45616,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 0b9d43b] updating daily data 2021-02-06 15:00:04.051771
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-02-06 15:00:02.904810
+Auth happening...
+Getting songs
+Creating dataframe...
+I Feel Best When I'm Alone
+Confessions
+Sleepwalker
+Doo Wop (That Thing)
+GOT THESE SONGS
+{'played_at': ['14:44', '14:41', '14:38'], 'valence': [0.111, 0.25, 0.725], 'mood_avg': [0.354, 0.395, 0.7], 'danceability': [0.678, 0.535, 0.718], 'energy': [0.191, 0.404, 0.615], 'image': [u'https://i.scdn.co/image/ab67616d0000b27301bfd9cea452f6c27eaea4cb', u'https://i.scdn.co/image/ab67616d0000b2734e68c72ed083220c00aef5d3', u'https://i.scdn.co/image/ab67616d0000b273fa13b533480a7ad4ba9ce0e2'], 'album_name': [u'Bad Bonez', u'Athena', u'EP 9'], 'song_name': [u"I Feel Best When I'm Alone", u'Confessions', u'Sleepwalker'], 'artist_name': [u'Michael Seyer', u'Sudan Archives', u'Qveen Herby'], 'track_id': [u'3OYejGbGSMijzWFTdCd8sy', u'55DysyWEMxWovEIFYpE9Gd', u'53rtA2vuD7zGLIN6fcxwuA']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273fa13b5...  ...  0.615
+1  https://i.scdn.co/image/ab67616d0000b2734e68c7...  ...  0.404
+0  https://i.scdn.co/image/ab67616d0000b27301bfd9...  ...  0.191
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
