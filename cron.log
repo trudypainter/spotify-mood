@@ -45571,3 +45571,18 @@ GOT THESE SONGS
 ('Rows: ', 11)
 Saved!
 
+[master e02e86c] updating daily data 2021-02-06 12:00:03.660315
+ 2 files changed, 38 insertions(+), 1 deletion(-)
+2021-02-06 12:00:03.046386
+Auth happening...
+Getting songs
+Creating dataframe...
+Doo Wop (That Thing)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
