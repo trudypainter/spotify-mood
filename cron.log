@@ -45507,3 +45507,30 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master dac71d6] updating daily data 2021-02-06 10:00:03.978677
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-02-06 10:00:02.757168
+Auth happening...
+Getting songs
+Creating dataframe...
+Ex-Factor
+Final Hour
+0000 871 0003
+Path
+Melodious Wind Song
+Foundations
+Dance Me To The End Of Love
+GOT THESE SONGS
+{'played_at': ['09:56', '09:50', '09:45', '09:44', '09:40', '09:37'], 'valence': [0.668, 0.61, 0.0724, 0.163, 0.0466, 0.921], 'mood_avg': [0.628, 0.721, 0.239, 0.343, 0.157, 0.767], 'danceability': [0.593, 0.847, 0.395, 0.648, 0.208, 0.711], 'energy': [0.619, 0.689, 0.26, 0.0919, 0.275, 0.572], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b27372cdd96fef2c42b9d66366c5', u'https://i.scdn.co/image/ab67616d0000b273460d1218d66f63140bcfc373', u'https://i.scdn.co/image/ab67616d0000b273f7994b9e44a7601e4cffcf08', u'https://i.scdn.co/image/ab67616d0000b273829f5120a8832ff04cde1b3d'], 'album_name': [u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'871', u'Symbolic Use Of Light', u'Radiance', u'Collector Limited Edition'], 'song_name': [u'Ex-Factor', u'Final Hour', u'0000 871 0003', u'Path', u'Melodious Wind Song', u'Foundations'], 'artist_name': [u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'00110100 01010100', u'UMFANG', u'Malcolm Cecil', u'Jeff Resnick'], 'track_id': [u'2VjXGuPVVxyhMgER3Uz2Fe', u'7nY3NA1AvORewLU3BU7GNX', u'7ns3vcnzAxjCZVYwlwazah', u'7KJeyZv0JBqzPNt9NkrPET', u'0V7h0Ns105p2Lr37D0wp0a', u'6xF3e0Q5D5MGUYJKElk3qd']}
+                                               image  ...  energy
+5  https://i.scdn.co/image/ab67616d0000b273829f51...  ...   0.572
+4  https://i.scdn.co/image/ab67616d0000b273f7994b...  ...   0.275
+3  https://i.scdn.co/image/ab67616d0000b273460d12...  ...  0.0919
+2  https://i.scdn.co/image/ab67616d0000b27372cdd9...  ...    0.26
+1  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...   0.689
+0  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...   0.619
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
