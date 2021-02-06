@@ -45652,3 +45652,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 80d5299] updating daily data 2021-02-06 17:00:06.899805
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-02-06 17:00:05.400572
+Auth happening...
+Getting songs
+Creating dataframe...
+Something in the Water
+Drill a RaMA (feat. Benny the Butcher)
+Jesus (feat. Kacy Hill)
+I Feel Best When I'm Alone
+GOT THESE SONGS
+{'played_at': ['16:46', '16:30', '16:27'], 'valence': [0.26, 0.538, 0.113], 'mood_avg': [0.562, 0.641, 0.228], 'danceability': [0.892, 0.795, 0.234], 'energy': [0.508, 0.538, 0.444], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b9b960b71872fb3f7512a6e5', u'https://i.scdn.co/image/ab67616d0000b2732ef89230d6589c790d43d6e2', u'https://i.scdn.co/image/ab67616d0000b273dce49d37f7fc8009fae67bf9'], 'album_name': [u'Mrs. Whoever / Something in the Water', u'THE LIZ', u'Jesus (feat. Kacy Hill)'], 'song_name': [u'Something in the Water', u'Drill a RaMA (feat. Benny the Butcher)', u'Jesus (feat. Kacy Hill)'], 'artist_name': [u'Saba', u'Armani Caesar', u'Jimi Somewhere'], 'track_id': [u'4exgimuT6EdLBN3R4Ww3xO', u'0ScyCZruSs8LADmXmsEQ19', u'3ZeI0GVkgyBqTCEgNHx3da']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273dce49d...  ...  0.444
+1  https://i.scdn.co/image/ab67616d0000b2732ef892...  ...  0.538
+0  https://i.scdn.co/image/ab67616d0000b273b9b960...  ...  0.508
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
