@@ -45779,3 +45779,19 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master d2e93e9] updating daily data 2021-02-07 00:00:04.978317
+ 3 files changed, 16 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2021-02-07.csv
+2021-02-07 00:00:04.462266
+Auth happening...
+Getting songs
+Creating dataframe...
+rangerover - Vegyn Remix
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
