@@ -45986,3 +45986,22 @@ GOT THESE SONGS
 0   https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.544
 
 [13 rows x 10 columns]
+[master 0153989] updating daily data 2021-02-07 12:00:08.676807
+ 3 files changed, 66 insertions(+), 1 deletion(-)
+2021-02-07 12:00:06.880575
+Auth happening...
+Getting songs
+Creating dataframe...
+WAP (feat. Megan Thee Stallion)
+Asexual Wellbeing
+White Mercedes
+GOT THESE SONGS
+{'played_at': ['11:06', '11:02'], 'valence': [0.357, 0.262], 'mood_avg': [0.608, 0.38], 'danceability': [0.935, 0.417], 'energy': [0.454, 0.541], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7'], 'album_name': [u'WAP (feat. Megan Thee Stallion)', u'Watch This Liquid Pour Itself'], 'song_name': [u'WAP (feat. Megan Thee Stallion)', u'Asexual Wellbeing'], 'artist_name': [u'Cardi B', u'Okay Kaya'], 'track_id': [u'4Oun2ylbjFKMPTiaSbbCih', u'5Hl1HecGM9yame1jI29Z2L']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b2733d3652...  ...  0.541
+0  https://i.scdn.co/image/ab67616d0000b273c450c8...  ...  0.454
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
