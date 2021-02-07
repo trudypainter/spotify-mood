@@ -45704,3 +45704,18 @@ GOT THESE SONGS
 ('Rows: ', 8)
 Saved!
 
+[master 680fd2e] updating daily data 2021-02-06 19:00:15.952757
+ 2 files changed, 32 insertions(+), 1 deletion(-)
+2021-02-06 19:00:14.434846
+Auth happening...
+Getting songs
+Creating dataframe...
+rangerover - Vegyn Remix
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
