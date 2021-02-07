@@ -46005,3 +46005,40 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master 2d93ce5] updating daily data 2021-02-07 13:00:05.355018
+ 3 files changed, 31 insertions(+), 1 deletion(-)
+2021-02-07 13:00:03.927842
+Auth happening...
+Getting songs
+Creating dataframe...
+North
+Softly
+Alewife
+Closer To You
+Mother
+Open Up
+Wat U Mean (Aye, Aye, Aye)
+WAP (feat. Megan Thee Stallion)
+Sum Bout U (feat. FKA twigs)
+Take It or Leave It
+Back In My Body
+WAP (feat. Megan Thee Stallion)
+GOT THESE SONGS
+{'played_at': ['12:54', '12:50', '12:44', '12:41', '12:36', '12:33', '12:30', '12:27', '12:23', '12:21', '12:18'], 'valence': [0.54, 0.782, 0.264, 0.663, 0.119, 0.66, 0.667, 0.357, 0.253, 0.931, 0.276], 'mood_avg': [0.483, 0.704, 0.345, 0.644, 0.284, 0.642, 0.756, 0.608, 0.529, 0.799, 0.438], 'danceability': [0.352, 0.759, 0.433, 0.76, 0.366, 0.608, 0.923, 0.935, 0.76, 0.69, 0.442], 'energy': [0.632, 0.436, 0.329, 0.376, 0.452, 0.674, 0.599, 0.454, 0.619, 0.753, 0.753], 'image': [u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', u'https://i.scdn.co/image/ab67616d0000b273a2d85ca9cebdb431e0b44f31', u'https://i.scdn.co/image/ab67616d0000b2734e2ae7b0123354da4c201466', u'https://i.scdn.co/image/ab67616d0000b27357d4336d50e2929622b8048c', u'https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c', u'https://i.scdn.co/image/ab67616d0000b273d9f8b6165cbfe7ff53c15c1a', u'https://i.scdn.co/image/ab67616d0000b27354a26dab113919c448f690d0', u'https://i.scdn.co/image/ab67616d0000b273d658a02ba8931985bdc4e0da'], 'album_name': [u'Immunity', u'Immunity', u'Immunity', u'Immunity', u'Mother', u'Open Up', u'Wat U Mean (Aye, Aye, Aye)', u'WAP (feat. Megan Thee Stallion)', u'Sum Bout U (feat. FKA twigs)', u'III', u'Heard It In A Past Life'], 'song_name': [u'North', u'Softly', u'Alewife', u'Closer To You', u'Mother', u'Open Up', u'Wat U Mean (Aye, Aye, Aye)', u'WAP (feat. Megan Thee Stallion)', u'Sum Bout U (feat. FKA twigs)', u'Take It or Leave It', u'Back In My Body'], 'artist_name': [u'Clairo', u'Clairo', u'Clairo', u'Clairo', u'UMI', u'UMI', u'Dae Dae', u'Cardi B', u'645AR', u'Great Good Fine Ok', u'Maggie Rogers'], 'track_id': [u'0zzz9l8ZX5vDBJmNHnWOom', u'4PvbbMYL4fkToni5BLaYRb', u'3jgrNd3uPU1c2PFBKYsV9d', u'3r2TFFPynN97CgmzXKal5X', u'51WLu8FjR1tiyIU1jUoWvm', u'0JUqRnMPFGR7kZZwgLlWgL', u'46IdjlVO3EmaMqooXZ1Hcu', u'4Oun2ylbjFKMPTiaSbbCih', u'092rfWVlz3tFzGRIOlofm2', u'1HH9T6jsitwm9Cvs9jUeTf', u'0DlMSBJh9uo52DieTYVXLw']}
+                                                image  ... energy
+10  https://i.scdn.co/image/ab67616d0000b273d658a0...  ...  0.753
+9   https://i.scdn.co/image/ab67616d0000b27354a26d...  ...  0.753
+8   https://i.scdn.co/image/ab67616d0000b273d9f8b6...  ...  0.619
+7   https://i.scdn.co/image/ab67616d0000b273c450c8...  ...  0.454
+6   https://i.scdn.co/image/ab67616d0000b27357d433...  ...  0.599
+5   https://i.scdn.co/image/ab67616d0000b2734e2ae7...  ...  0.674
+4   https://i.scdn.co/image/ab67616d0000b273a2d85c...  ...  0.452
+3   https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...  0.376
+2   https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...  0.329
+1   https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...  0.436
+0   https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...  0.632
+
+[11 rows x 10 columns]
+('Rows: ', 11)
+Saved!
+
