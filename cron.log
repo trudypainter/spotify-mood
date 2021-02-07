@@ -46079,3 +46079,18 @@ GOT THESE SONGS
 ('Rows: ', 11)
 Saved!
 
+[master 8901aa8] updating daily data 2021-02-07 15:00:03.689548
+ 2 files changed, 38 insertions(+), 1 deletion(-)
+2021-02-07 15:00:03.104735
+Auth happening...
+Getting songs
+Creating dataframe...
+Why Don't You Call Me
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
