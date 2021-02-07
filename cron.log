@@ -45673,3 +45673,34 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master f8101be] updating daily data 2021-02-06 18:00:05.494510
+ 3 files changed, 30 insertions(+), 1 deletion(-)
+2021-02-06 18:00:04.317913
+Auth happening...
+Getting songs
+Creating dataframe...
+rangerover - Vegyn Remix
+Pollen
+Mood Swings (feat. Lil Tjay & Summer Walker) - Remix
+Actin' Dumb
+Better Distractions
+When You Down (with Polo G feat. Lil Durk)
+10x Stronger
+All My Friends (feat. Tinashe & Chance the Rapper)
+Something in the Water
+GOT THESE SONGS
+{'played_at': ['17:44', '17:41', '17:39', '17:34', '17:31', '17:27', '17:24', '17:23'], 'valence': [0.583, 0.505, 0.344, 0.498, 0.574, 0.308, 0.132, 0.178], 'mood_avg': [0.495, 0.45, 0.46, 0.502, 0.615, 0.456, 0.299, 0.451], 'danceability': [0.439, 0.578, 0.499, 0.565, 0.707, 0.514, 0.42, 0.689], 'energy': [0.43, 0.0855, 0.613, 0.385, 0.513, 0.634, 0.391, 0.521], 'image': [u'https://i.scdn.co/image/ab67616d0000b2736d9886948c5c6fe520111d15', u'https://i.scdn.co/image/ab67616d0000b273e1fd7cdcfe23f86b4c7acd2f', u'https://i.scdn.co/image/ab67616d0000b273501eda3b94858d7ddbc79b47', u'https://i.scdn.co/image/ab67616d0000b273b6620bfa66a6f3baa915a219', u'https://i.scdn.co/image/ab67616d0000b27360514745f3acf32f67bb408b', u'https://i.scdn.co/image/ab67616d0000b2732026d0048432d395f6f715b5', u'https://i.scdn.co/image/ab67616d0000b273967651d505c3f7d23154f42b', u'https://i.scdn.co/image/ab67616d0000b273813300e61b70247a43f54c53'], 'album_name': [u'rangerover (Vegyn Remix)', u'Pollen', u'Mood Swings', u"Actin' Dumb", u'Better Distractions', u'Virgo World', u'What Could Possibly Go Wrong', u'All My Friends - EP'], 'song_name': [u'rangerover - Vegyn Remix', u'Pollen', u'Mood Swings (feat. Lil Tjay & Summer Walker) - Remix', u"Actin' Dumb", u'Better Distractions', u'When You Down (with Polo G feat. Lil Durk)', u'10x Stronger', u'All My Friends (feat. Tinashe & Chance the Rapper)'], 'artist_name': [u'Porches', u'Ecco2k', u'Pop Smoke', u'Koney', u'Faye Webster', u'Lil Tecca', u'Dominic Fike', u'Snakehips'], 'track_id': [u'0zXtX0BXeGpgNhINFCWaGh', u'2QJzLEscinqP3hrqbDL5Ao', u'7g8AxvC14d0ZeBFt1qRRQx', u'094EKA6pkdXWo1orMS8GFK', u'4sPh466Pk3l706g10DO1FO', u'5kTn07V96U8LyoQgz6DZzX', u'0BFhjOlQizlU5I7XyzEeiv', u'3gr6q0Q8R1EjeXRAQYmX9l']}
+                                               image  ...  energy
+7  https://i.scdn.co/image/ab67616d0000b273813300...  ...   0.521
+6  https://i.scdn.co/image/ab67616d0000b273967651...  ...   0.391
+5  https://i.scdn.co/image/ab67616d0000b2732026d0...  ...   0.634
+4  https://i.scdn.co/image/ab67616d0000b273605147...  ...   0.513
+3  https://i.scdn.co/image/ab67616d0000b273b6620b...  ...   0.385
+2  https://i.scdn.co/image/ab67616d0000b273501eda...  ...   0.613
+1  https://i.scdn.co/image/ab67616d0000b273e1fd7c...  ...  0.0855
+0  https://i.scdn.co/image/ab67616d0000b2736d9886...  ...    0.43
+
+[8 rows x 10 columns]
+('Rows: ', 8)
+Saved!
+
