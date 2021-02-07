@@ -45935,3 +45935,54 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 7e8e065] updating daily data 2021-02-07 10:00:03.597464
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-02-07 10:00:02.965558
+Auth happening...
+Getting songs
+Creating dataframe...
+Pretty Girl hi!
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-02-07 11:00:03.919293
+Auth happening...
+Getting songs
+Creating dataframe...
+White Mercedes
+Bad Company (feat. BlocBoy JB)
+Mother
+Open Up
+Runnin'
+Treat You Right
+WHY?
+Kids See Ghosts
+Take It or Leave It
+Afterlife
+In The Party
+Mad Man (feat. Playboi Carti)
+Introspection
+Then Leave (feat. Queendome Come)
+GOT THESE SONGS
+{'played_at': ['10:59', '10:56', '10:53', '10:50', '10:47', '10:44', '10:39', '10:35', '10:31', '10:28', '10:25', '10:23', '10:20'], 'valence': [0.199, 0.343, 0.119, 0.66, 0.668, 0.869, 0.223, 0.338, 0.931, 0.376, 0.418, 0.0728, 0.35], 'mood_avg': [0.486, 0.603, 0.284, 0.642, 0.699, 0.794, 0.47, 0.608, 0.799, 0.552, 0.657, 0.443, 0.46], 'danceability': [0.743, 0.901, 0.366, 0.608, 0.742, 0.714, 0.658, 0.841, 0.69, 0.736, 0.919, 0.654, 0.586], 'energy': [0.544, 0.529, 0.452, 0.674, 0.675, 0.804, 0.59, 0.682, 0.753, 0.535, 0.609, 0.762, 0.428], 'image': [u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273f669edbfecf19e5725b7af6c', u'https://i.scdn.co/image/ab67616d0000b273a2d85ca9cebdb431e0b44f31', u'https://i.scdn.co/image/ab67616d0000b2734e2ae7b0123354da4c201466', u'https://i.scdn.co/image/ab67616d0000b27335b6e28964dc73173ba9587f', u'https://i.scdn.co/image/ab67616d0000b273d2413632009214a348fd8065', u'https://i.scdn.co/image/ab67616d0000b273a52fb68f00620e45ed7467c5', u'https://i.scdn.co/image/ab67616d0000b273013c00ee367dd85396f79c82', u'https://i.scdn.co/image/ab67616d0000b27354a26dab113919c448f690d0', u'https://i.scdn.co/image/ab67616d0000b273de8106bde1c5134f6237564b', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b273d79cfa3155b50beb5dbeeb9a', u'https://i.scdn.co/image/ab67616d0000b273680f7aff18376de523d7dea5'], 'album_name': [u'Charli', u'Bad Company (feat. BlocBoy JB)', u'Mother', u'Open Up', u'Runnin\u2019 feat. Yeek', u'Treat You Right', u'ONEPOINTFIVE', u'KIDS SEE GHOSTS', u'III', u'Afterlife', u'Ho, why is you here ?', u'Still Striving', u'Introspection'], 'song_name': [u'White Mercedes', u'Bad Company (feat. BlocBoy JB)', u'Mother', u'Open Up', u"Runnin'", u'Treat You Right', u'WHY?', u'Kids See Ghosts', u'Take It or Leave It', u'Afterlife', u'In The Party', u'Mad Man (feat. Playboi Carti)', u'Introspection'], 'artist_name': [u'Charli XCX', u'A$AP Rocky', u'UMI', u'UMI', u'UMI', u'Yellow Days', u'Amin\xe9', u'KIDS SEE GHOSTS', u'Great Good Fine Ok', u'Flatbush Zombies', u'Flo Milli', u'A$AP Ferg', u'UMI'], 'track_id': [u'7fOFeVSyL18q7RiU6cnhiM', u'3ZYwSDF9knZI0RVlKR4PHC', u'51WLu8FjR1tiyIU1jUoWvm', u'0JUqRnMPFGR7kZZwgLlWgL', u'10x9aHDFGk5aSbvAVlwJA3', u'7ItOfW0Phlgis72tCdIcsw', u'4qV3FpOX5NQbghsnmx3wKX', u'2I3dW2dCBZAJGj5X21E53k', u'1HH9T6jsitwm9Cvs9jUeTf', u'42dLRNmTqdwPZIiG0NRBWH', u'52BJrldggFQyTiW8XrILhO', u'0EoJCSeuAq9Ilw2AesTBUu', u'4dt9aFW2Mnm9JuVPgQhHxB']}
+                                                image  ... energy
+12  https://i.scdn.co/image/ab67616d0000b273680f7a...  ...  0.428
+11  https://i.scdn.co/image/ab67616d0000b273d79cfa...  ...  0.762
+10  https://i.scdn.co/image/ab67616d0000b2733ae4c6...  ...  0.609
+9   https://i.scdn.co/image/ab67616d0000b273de8106...  ...  0.535
+8   https://i.scdn.co/image/ab67616d0000b27354a26d...  ...  0.753
+7   https://i.scdn.co/image/ab67616d0000b273013c00...  ...  0.682
+6   https://i.scdn.co/image/ab67616d0000b273a52fb6...  ...   0.59
+5   https://i.scdn.co/image/ab67616d0000b273d24136...  ...  0.804
+4   https://i.scdn.co/image/ab67616d0000b27335b6e2...  ...  0.675
+3   https://i.scdn.co/image/ab67616d0000b2734e2ae7...  ...  0.674
+2   https://i.scdn.co/image/ab67616d0000b273a2d85c...  ...  0.452
+1   https://i.scdn.co/image/ab67616d0000b273f669ed...  ...  0.529
+0   https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.544
+
+[13 rows x 10 columns]
