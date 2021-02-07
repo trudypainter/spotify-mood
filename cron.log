@@ -45885,3 +45885,38 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master f650190] updating daily data 2021-02-07 07:00:03.721802
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-02-07 07:00:03.211132
+Auth happening...
+Getting songs
+Creating dataframe...
+rangerover - Vegyn Remix
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-02-07 08:00:02.180150
+Auth happening...
+Getting songs
+Creating dataframe...
+Pretty Girl hi!
+Woodlawn
+Put That On My Set (feat. A$AP Rocky & Skepta)
+Over It
+Antidote
+rangerover - Vegyn Remix
+GOT THESE SONGS
+{'played_at': ['07:54', '07:52', '07:50', '07:46', '07:03'], 'valence': [0.441, 0.824, 0.161, 0.455, 0.193], 'mood_avg': [0.585, 0.76, 0.475, 0.521, 0.398], 'danceability': [0.636, 0.784, 0.752, 0.63, 0.558], 'energy': [0.772, 0.586, 0.547, 0.437, 0.487], 'image': [u'https://i.scdn.co/image/ab67616d0000b273680f7aff18376de523d7dea5', u'https://i.scdn.co/image/ab67616d0000b273ea9bbdf9f1433e68c7dffbad', u'https://i.scdn.co/image/ab67616d0000b27330eaf29813f551d9188ad35a', u'https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3', u'https://i.scdn.co/image/ab67616d0000b2731dc1bd83254e89b474ca496b'], 'album_name': [u'Introspection', u'Limbo', u'Cozy Tapes: Vol. 1 Friends -', u'Over It', u'Orca'], 'song_name': [u'Pretty Girl hi!', u'Woodlawn', u'Put That On My Set (feat. A$AP Rocky & Skepta)', u'Over It', u'Antidote'], 'artist_name': [u'UMI', u'Amin\xe9', u'A$AP Mob', u'Summer Walker', u'Gus Dapperton'], 'track_id': [u'35SJSCkL9h2APOXwiSTPX1', u'4FFC7McrnnwAWKbAqbckTP', u'2kwxN1whHc0YR0cBHR5iOi', u'0csmcZqM3uTKfjxehw0Lw2', u'0LjqpFxP0mgqgO6id6XyyA']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b2731dc1bd...  ...  0.487
+3  https://i.scdn.co/image/ab67616d0000b273b5ed91...  ...  0.437
+2  https://i.scdn.co/image/ab67616d0000b27330eaf2...  ...  0.547
+1  https://i.scdn.co/image/ab67616d0000b273ea9bbd...  ...  0.586
+0  https://i.scdn.co/image/ab67616d0000b273680f7a...  ...  0.772
+
+[5 rows x 10 columns]
