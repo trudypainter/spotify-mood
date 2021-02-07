@@ -46042,3 +46042,40 @@ GOT THESE SONGS
 ('Rows: ', 11)
 Saved!
 
+[master 5cf4daf] updating daily data 2021-02-07 14:00:04.522381
+ 3 files changed, 49 insertions(+), 1 deletion(-)
+2021-02-07 14:00:03.131995
+Auth happening...
+Getting songs
+Creating dataframe...
+Why Don't You Call Me
+To Care (Like You)
+I Mind
+I Never Learnt To Share
+Lindisfarne I
+Lindisfarne II
+Measurements
+Give Me My Month
+White Flag
+Sofia
+I Wouldn't Ask You
+North
+GOT THESE SONGS
+{'played_at': ['13:52', '13:51', '13:47', '13:43', '13:38', '13:36', '13:33', '13:28', '13:07', '13:04', '13:01'], 'valence': [0.0946, 0.0431, 0.231, 0.136, 0.189, 0.517, 0.177, 0.335, 0.0613, 0.641, 0.242], 'mood_avg': [0.214, 0.313, 0.434, 0.278, 0.282, 0.493, 0.31, 0.354, 0.269, 0.678, 0.317], 'danceability': [0.395, 0.597, 0.648, 0.409, 0.514, 0.653, 0.524, 0.512, 0.375, 0.744, 0.363], 'energy': [0.0917, 0.287, 0.41, 0.299, 0.00521, 0.124, 0.146, 0.075, 0.473, 0.619, 0.376], 'image': [u'https://i.scdn.co/image/ab67616d0000b273a6b49ca72312383b72a8d9b4', u'https://i.scdn.co/image/ab67616d0000b273a6b49ca72312383b72a8d9b4', u'https://i.scdn.co/image/ab67616d0000b273a6b49ca72312383b72a8d9b4', u'https://i.scdn.co/image/ab67616d0000b273a6b49ca72312383b72a8d9b4', u'https://i.scdn.co/image/ab67616d0000b273a6b49ca72312383b72a8d9b4', u'https://i.scdn.co/image/ab67616d0000b273a6b49ca72312383b72a8d9b4', u'https://i.scdn.co/image/ab67616d0000b273a6b49ca72312383b72a8d9b4', u'https://i.scdn.co/image/ab67616d0000b273a6b49ca72312383b72a8d9b4', u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc'], 'album_name': [u'James Blake', u'James Blake', u'James Blake', u'James Blake', u'James Blake', u'James Blake', u'James Blake', u'James Blake', u'Immunity', u'Immunity', u'Immunity'], 'song_name': [u"Why Don't You Call Me", u'To Care (Like You)', u'I Mind', u'I Never Learnt To Share', u'Lindisfarne I', u'Lindisfarne II', u'Measurements', u'Give Me My Month', u'White Flag', u'Sofia', u"I Wouldn't Ask You"], 'artist_name': [u'James Blake', u'James Blake', u'James Blake', u'James Blake', u'James Blake', u'James Blake', u'James Blake', u'James Blake', u'Clairo', u'Clairo', u'Clairo'], 'track_id': [u'2zNt5fxWw3XHyQfgxQ0l3F', u'6tOSWVaUm5tXtjYiQptTNQ', u'4G1X8COHNmJ8Lp1vux7Ied', u'2mKgAOAUL9uTOFGPxb4a6O', u'4PFa7ZyqP0quv3jGKi4cje', u'62GNy3YZzp9LxXavwaUZZw', u'16NlVqvSoCnApLpASSUpLU', u'0wXiC2Qisd4DeehG8u6qqa', u'08IFMDAxF7Se7X8RNyoQWF', u'7B3z0ySL9Rr0XvZEAjWZzM', u'6YTUGuz1IzqKFpNm0yGQws']}
+                                                image  ...   energy
+10  https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...    0.376
+9   https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...    0.619
+8   https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...    0.473
+7   https://i.scdn.co/image/ab67616d0000b273a6b49c...  ...    0.075
+6   https://i.scdn.co/image/ab67616d0000b273a6b49c...  ...    0.146
+5   https://i.scdn.co/image/ab67616d0000b273a6b49c...  ...    0.124
+4   https://i.scdn.co/image/ab67616d0000b273a6b49c...  ...  0.00521
+3   https://i.scdn.co/image/ab67616d0000b273a6b49c...  ...    0.299
+2   https://i.scdn.co/image/ab67616d0000b273a6b49c...  ...     0.41
+1   https://i.scdn.co/image/ab67616d0000b273a6b49c...  ...    0.287
+0   https://i.scdn.co/image/ab67616d0000b273a6b49c...  ...   0.0917
+
+[11 rows x 10 columns]
+('Rows: ', 11)
+Saved!
+
