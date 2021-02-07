@@ -46094,3 +46094,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master a3045db] updating daily data 2021-02-07 16:00:11.128283
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-02-07 16:00:09.989667
+Auth happening...
+Getting songs
+Creating dataframe...
+Unluck
+The Wilhelm Scream
+Why Don't You Call Me
+GOT THESE SONGS
+{'played_at': ['15:50', '15:47'], 'valence': [0.217, 0.363], 'mood_avg': [0.449, 0.422], 'danceability': [0.663, 0.546], 'energy': [0.483, 0.291], 'image': [u'https://i.scdn.co/image/ab67616d0000b273a6b49ca72312383b72a8d9b4', u'https://i.scdn.co/image/ab67616d0000b273a6b49ca72312383b72a8d9b4'], 'album_name': [u'James Blake', u'James Blake'], 'song_name': [u'Unluck', u'The Wilhelm Scream'], 'artist_name': [u'James Blake', u'James Blake'], 'track_id': [u'7wL42r11vcEhohThbDVz7Y', u'688DZF6e1MH5Uf409dwaHm']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273a6b49c...  ...  0.291
+0  https://i.scdn.co/image/ab67616d0000b273a6b49c...  ...  0.483
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
