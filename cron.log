@@ -46309,3 +46309,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master b78c601] updating daily data 2021-02-08 06:00:04.879109
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-02-08 06:00:03.919581
+Auth happening...
+Getting songs
+Creating dataframe...
+Hit Different
+Steppin On N*ggas
+Six (umru Remix)
+Liar
+Limit To Your Love
+Unluck
+GOT THESE SONGS
+{'played_at': ['05:56', '05:52', '05:50', '05:47', '05:44'], 'valence': [0.716, 0.726, 0.634, 0.683, 0.0398], 'mood_avg': [0.661, 0.756, 0.59, 0.695, 0.382], 'danceability': [0.679, 0.842, 0.462, 0.73, 0.775], 'energy': [0.516, 0.646, 0.76, 0.649, 0.281], 'image': [u'https://i.scdn.co/image/ab67616d0000b273a135dd969dce9f38ed32ef98', u'https://i.scdn.co/image/ab67616d0000b273138e7a41bfb8df5545b6a8ea', u'https://i.scdn.co/image/ab67616d0000b273fa7c8d48427de0f7aac36f9c', u'https://i.scdn.co/image/ab67616d0000b27328457940524ad7af69415005', u'https://i.scdn.co/image/ab67616d0000b273a6b49ca72312383b72a8d9b4'], 'album_name': [u'Hit Different', u'SAVAGE MODE II', u'Six (umru Remix)', u'Liar', u'James Blake'], 'song_name': [u'Hit Different', u'Steppin On N*ggas', u'Six (umru Remix)', u'Liar', u'Limit To Your Love'], 'artist_name': [u'SZA', u'21 Savage', u'Kacy Hill', u'Abigail Asante', u'James Blake'], 'track_id': [u'7Bar1kLTmsRmH6FCKKMEyU', u'6higdpilQBtxJDp1vUuPaw', u'2x9GC3fRPEbUcYI31GmIwb', u'69hH1rzhkjEe7vS9NIRcS3', u'33BnSMHgX0AsbKSIbkuMwh']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273a6b49c...  ...  0.281
+3  https://i.scdn.co/image/ab67616d0000b273284579...  ...  0.649
+2  https://i.scdn.co/image/ab67616d0000b273fa7c8d...  ...   0.76
+1  https://i.scdn.co/image/ab67616d0000b273138e7a...  ...  0.646
+0  https://i.scdn.co/image/ab67616d0000b273a135dd...  ...  0.516
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
