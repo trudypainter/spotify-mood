@@ -46468,3 +46468,58 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 0b43a31] updating daily data 2021-02-08 13:00:05.630104
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-02-08 13:00:03.925249
+Auth happening...
+Getting songs
+Creating dataframe...
+One Another
+For the First Time
+On the Level
+Moonlight on the River
+My Old Man
+Cannonball
+Good Luck
+Feeling Myself
+GOT THESE SONGS
+{'played_at': ['12:59', '12:56', '12:53', '12:49', '12:38', '12:34', '12:32'], 'valence': [0.847, 0.522, 0.515, 0.43, 0.832, 0.396, 0.328], 'mood_avg': [0.783, 0.535, 0.53, 0.532, 0.711, 0.421, 0.306], 'danceability': [0.82, 0.551, 0.573, 0.662, 0.658, 0.51, 0.377], 'energy': [0.579, 0.529, 0.473, 0.478, 0.575, 0.294, 0.118], 'image': [u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27340871168b425364e7aeedd32', u'https://i.scdn.co/image/ab67616d0000b273e23235bc4b1a560ce220be5a'], 'album_name': [u'This Old Dog', u'This Old Dog', u'This Old Dog', u'This Old Dog', u'This Old Dog', u'Cannonball', u'Good Luck'], 'song_name': [u'One Another', u'For the First Time', u'On the Level', u'Moonlight on the River', u'My Old Man', u'Cannonball', u'Good Luck'], 'artist_name': [u'Mac DeMarco', u'Mac DeMarco', u'Mac DeMarco', u'Mac DeMarco', u'Mac DeMarco', u'Dijon', u'Dijon'], 'track_id': [u'4xF9zRaPdnrLU7QmVMKOzR', u'4LB5cNN7f18wIJA2RU4iIO', u'36rqjSUBaArtMBLWrzwInc', u'1yCJHs8UFfmqMujayg9i5y', u'4c7k0jGOFR1OraHvE3BszV', u'52Y7fihwIppKrBaNFwb56D', u'76cZ2GHG0pM6GHiCZSWXyQ']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b273e23235...  ...  0.118
+5  https://i.scdn.co/image/ab67616d0000b273408711...  ...  0.294
+4  https://i.scdn.co/image/ab67616d0000b273985268...  ...  0.575
+3  https://i.scdn.co/image/ab67616d0000b273985268...  ...  0.478
+2  https://i.scdn.co/image/ab67616d0000b273985268...  ...  0.473
+1  https://i.scdn.co/image/ab67616d0000b273985268...  ...  0.529
+0  https://i.scdn.co/image/ab67616d0000b273985268...  ...  0.579
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
+2021-02-08 14:00:03.554824
+Auth happening...
+Getting songs
+Creating dataframe...
+A Wolf Who Wears Sheeps Clothes
+Sister
+One More Love Song
+Still Beating
+Watching Him Fade Away
+My Old Man
+One Another
+For the First Time
+On the Level
+Moonlight on the River
+This Old Dog
+Dreams from Yesterday
+Baby You're Out
+A Wolf Who Wears Sheeps Clothes
+Sister
+One More Love Song
+Still Beating
+Watching Him Fade Away
+My Old Man
+One Another
+GOT THESE SONGS
+{'played_at': ['13:59', '13:56', '13:54', '13:50', '13:47', '13:45', '13:41', '13:38', '13:35', '13:32', '13:25', '13:22', '13:19', '13:16', '13:13', '13:12', '13:08', '13:05', '13:02'], 'valence': [0.701, 0.481, 0.518, 0.469, 0.297, 0.832, 0.847, 0.522, 0.515, 0.43, 0.616, 0.725, 0.549, 0.701, 0.481, 0.518, 0.469, 0.297, 0.832], 'mood_avg': [0.719, 0.475, 0.549, 0.57, 0.43, 0.711, 0.783, 0.535, 0.53, 0.532, 0.626, 0.706, 0.623, 0.719, 0.475, 0.549, 0.57, 0.43, 0.711], 'danceability': [0.828, 0.696, 0.693, 0.709, 0.741, 0.658, 0.82, 0.551, 0.573, 0.662, 0.749, 0.857, 0.717, 0.828, 0.696, 0.693, 0.709, 0.741, 0.658], 'energy': [0.538, 0.0209, 0.322, 0.496, 0.072, 0.575, 0.579, 0.529, 0.473, 0.478, 0.401, 0.368, 0.581, 0.538, 0.0209, 0.322, 0.496, 0.072, 0.575], 'image': [u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818'], 'album_name': [u'This Old Dog', u'This Old Dog', u'This Old Dog', u'This Old Dog', u'This Old Dog', u'This Old Dog', u'This Old Dog', u'This Old Dog', u'This Old Dog', u'This Old Dog', u'This Old Dog', u'This Old Dog', u'This Old Dog', u'This Old Dog', u'This Old Dog', u'This Old Dog', u'This Old Dog', u'This Old Dog', u'This Old Dog'], 'song_name': [u'A Wolf Who Wears Sheeps Clothes', u'Sister', u'One More Love Song', u'Still Beating', u'Watching Him Fade Away', u'My Old Man', u'One Another', u'For the First Time', u'On the Level', u'Moonlight on the River', u'This Old Dog', u'Dreams from Yesterday', u"Baby You're Out", u'A Wolf Who Wears Sheeps Clothes', u'Sister', u'One More Love Song', u'Still Beating', u'Watching Him Fade Away', u'My Old Man'], 'artist_name': [u'Mac DeMarco', u'Mac DeMarco', u'Mac DeMarco', u'Mac DeMarco', u'Mac DeMarco', u'Mac DeMarco', u'Mac DeMarco', u'Mac DeMarco', u'Mac DeMarco', u'Mac DeMarco', u'Mac DeMarco', u'Mac DeMarco', u'Mac DeMarco', u'Mac DeMarco', u'Mac DeMarco', u'Mac DeMarco', u'Mac DeMarco', u'Mac DeMarco', u'Mac DeMarco'], 'track_id': [u'1xpnkMYroPcpCwQmf9Z5sS', u'2Wsgcbi4ZlAtua74Hitvmk', u'6l91G5h57AW47LDPMuJSST', u'2N4idqj9TT3HnH2OFT9j0v', u'4q0CeoDsBdFYCDDj3a6Jej', u'4c7k0jGOFR1OraHvE3BszV', u'4xF9zRaPdnrLU7QmVMKOzR', u'4LB5cNN7f18wIJA2RU4iIO', u'36rqjSUBaArtMBLWrzwInc', u'1yCJHs8UFfmqMujayg9i5y', u'1KTMZ2DeqT4oqIJ7Co5F6R', u'0mGJYajNW8Y4T9NxnD6P79', u'18nwOqwVCo7JFOci9uqBLD', u'1xpnkMYroPcpCwQmf9Z5sS', u'2Wsgcbi4ZlAtua74Hitvmk', u'6l91G5h57AW47LDPMuJSST', u'2N4idqj9TT3HnH2OFT9j0v', u'4q0CeoDsB
