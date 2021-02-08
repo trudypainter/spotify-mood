@@ -46362,3 +46362,52 @@ Saved!
 2021-02-08 08:00:03.948574
 Auth happening...
 Getting songs
+[master f957162] updating daily data 2021-02-08 09:00:08.838571
+ 3 files changed, 31 insertions(+), 1 deletion(-)
+2021-02-08 09:00:04.809723
+Auth happening...
+Getting songs
+Creating dataframe...
+Going Through It
+Going Through It
+There's Nothing Left 2 Make U Stay
+GOT THESE SONGS
+{'played_at': ['08:57', '08:56'], 'valence': [0.602, 0.602], 'mood_avg': [0.722, 0.722], 'danceability': [0.799, 0.799], 'energy': [0.807, 0.807], 'image': [u'https://i.scdn.co/image/ab67616d0000b27348f2487a18a735f457404eb9', u'https://i.scdn.co/image/ab67616d0000b27348f2487a18a735f457404eb9'], 'album_name': [u'Ignorance is Bliss', u'Ignorance is Bliss'], 'song_name': [u'Going Through It', u'Going Through It'], 'artist_name': [u'Skepta', u'Skepta'], 'track_id': [u'2pty3r2awm2Ir904mq5Fxw', u'2pty3r2awm2Ir904mq5Fxw']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b27348f248...  ...  0.807
+0  https://i.scdn.co/image/ab67616d0000b27348f248...  ...  0.807
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
+2021-02-08 10:00:03.069368
+Auth happening...
+Getting songs
+Creating dataframe...
+Spread a Little Love - Soul Clap Extended Mix
+>;0 (feat. Vegyn)
+GONE (feat. KIRBY)
+Designer Boi
+Hard To Believe
+Blowin' Minds (Skateboard) (feat. A$AP Rocky, A$AP Nast, A$AP Ant, Chief Keef & Playboi Carti)
+Mean
+Like
+ILoveUIHateU
+Be Nice 2 Me
+Parallel 2
+Deep Water Blue
+IZ-US
+Ultralight Beam
+Self Harm
+More Than Anything
+Going Through It
+GOT THESE SONGS
+{'played_at': ['09:55', '09:45', '09:43', '09:40', '09:38', '09:35', '09:31', '09:29', '09:25', '09:23', '09:20', '09:14', '09:11', '09:08', '09:05', '09:03'], 'valence': [0.347, 0.0331, 0.359, 0.598, 0.553, 0.337, 0.631, 0.599, 0.108, 0.332, 0.119, 0.676, 0.315, 0.149, 0.197, 0.293], 'mood_avg': [0.582, 0.423, 0.552, 0.613, 0.71, 0.554, 0.734, 0.592, 0.455, 0.438, 0.47, 0.536, 0.45, 0.248, 0.352, 0.315], 'danceability': [0.738, 0.702, 0.873, 0.667, 0.886, 0.732, 0.844, 0.483, 0.684, 0.449, 0.65, 0.417, 0.581, 0.34, 0.429, 0.311], 'energy': [0.74, 0.646, 0.296, 0.534, 0.674, 0.632, 0.72, 0.796, 0.693, 0.63, 0.81, 0.492, 0.459, 0.26, 0.509, 0.367], 'image': [u'https://i.scdn.co/image/ab67616d0000b2734278cf1978a2cd6167aa6a7f', u'https://i.scdn.co/image/ab67616d0000b273a7e961749d530e3957afcd72', u'https://i.scdn.co/image/ab67616d0000b27390343935d78149064024913f', u'https://i.scdn.co/image/ab67616d0000b273328c8eacdfa20a67b588f8e2', u'https://i.scdn.co/image/ab67616d0000b27306d32ec41bd05c2afe4d8ec8', u'https://i.scdn.co/image/ab67616d0000b273ce9a92efb0c3ad4c2fb33072', u'https://i.scdn.co/image/ab67616d0000b273c343fbd7aeb726a2c1e1bb97', u'https://i.scdn.co/image/ab67616d0000b2734056ba5aea894c6812e88680', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b273407be60b024efcbabe7da815', u'https://i.scdn.co/image/ab67616d0000b2738ca7b1e049ed737df8e29d5d', u'https://i.scdn.co/image/ab67616d0000b2735a973167d72dfaaedf82a654', u'https://i.scdn.co/image/ab67616d0000b273c4d5de8930bbc762a68c0bc7', u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d', u'https://i.scdn.co/image/ab67616d0000b2735a973167d72dfaaedf82a654', u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d'], 'album_name': [u'The Love EP', u'A Museum Of Contradiction', u'GONE (feat. KIRBY)', u'Designer Boi', u'Top Boy (A Selection of Music Inspired by the Series)', u'Cozy Tapes Vol. 2: Too Cozy', u'Beautiful Havoc', u'Help', u'Whole Lotta Red', u'Icedancer', u'Parallel', u'Song of Sage: Post Panic!', u'Come To Daddy', u'Jesus Is Born', u'Song of Sage: Post Panic!', u'Jesus Is Born'], 'song_name': [u'Spread a Little Love - Soul Clap Extended Mix', u'>;0 (feat. Vegyn)', u'GONE (feat. KIRBY)', u'Designer Boi', u'Hard To Believe', u"Blowin' Minds (Skateboard) (feat. A$AP Rocky, A$AP Nast, A$AP Ant, Chief Keef & Playboi Carti)", u'Mean', u'Like', u'ILoveUIHateU', u'Be Nice 2 Me', u'Parallel 2', u'Deep Water Blue', u'IZ-US', u'Ultralight Beam', u'Self Harm', u'More Than Anything'], 'artist_name': [u'The Emanations', u'Mk.gee', u'Sam Dew', u'A$AP NAST', u'Headie One', u'A$AP Mob', u'$NOT', u'Duval Timothy', u'Playboi Carti', u'Bladee', u'Four Tet', u'Navy Blue', u'Aphex Twin', u'Sunday Service Choir', u'Navy Blue', u'Sunday Service Choir'], 'track_id': [u'3mzhMqPgc8NLsxRamoCPIQ', u'64tgANMtVxmUzIYfuZSZrx', u'5ozGY8UV81YCLKSqCqHgot', u'5ZHdSdhLl9d79wasqTn3Ax', u'2pQvgkGz5RTvdZN6pwPnDY', u'3FUP0gYxsivCHzWzu8uUGw', u'3PXi72ZtSqx1PZc40KS0Qj', u'5jmSvq9DNh0UJfMaFeLe9J', u'1BpKJw4RZxaFB88NE5uxXf', u'2TmqHjg7uhizGndzXQdFuf', u'2sJSXoJaTbY2SGqiAEpw96', u'4QhhjJ4dusSDgsVFa13wUe', u'0c0Z5agmnSibjIWjdZV6R1', u'5anPHKl01TNpTe618GzX1m', u'1w1k2sO6YHmseERkIigSvW', u'2vUNNg9K4PAY5o3OBwGUVU']}
+                                                image  ... energy
+15  https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...  0.367
+14  https://i.scdn.co/image/ab67616d0000b2735a9731...  ...  0.509
+13  https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...   0.26
+12  https://i.scdn.co/image/ab67616d0000b273c4d5de...  ...  0.459
+11  https://i.scdn.co/image/ab67616d0000b2735a9731...  ...  0.492
+10 
