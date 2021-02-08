@@ -46654,3 +46654,72 @@ i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.636
 ('Rows: ', 16)
 Saved!
 
+[master 508797c] updating daily data 2021-02-08 17:00:04.383029
+ 3 files changed, 26 insertions(+), 2 deletions(-)
+2021-02-08 17:00:03.066010
+Auth happening...
+Getting songs
+Creating dataframe...
+When It Hurts so Bad
+Final Hour
+Superstar
+Doo Wop (That Thing)
+To Zion (feat. Carlos Santana)
+To Zion (feat. Carlos Santana)
+Lost Ones
+Can't Take My Eyes Off of You - (I Love You Baby)
+Shark In The Water
+tell me
+0000 871 0003
+Rage
+GOT THESE SONGS
+{'played_at': ['16:58', '16:52', '16:48', '16:43', '16:38', '16:34', '16:27', '16:21', '16:13', '16:10', '16:08'], 'valence': [0.825, 0.61, 0.626, 0.495, 0.516, 0.516, 0.65, 0.63, 0.697, 0.126, 0.0724], 'mood_avg': [0.701, 0.721, 0.595, 0.513, 0.491, 0.491, 0.743, 0.683, 0.661, 0.487, 0.239], 'danceability': [0.669, 0.847, 0.491, 0.535, 0.41, 0.41, 0.832, 0.747, 0.554, 0.777, 0.395], 'energy': [0.519, 0.689, 0.74, 0.505, 0.601, 0.601, 0.749, 0.662, 0.805, 0.629, 0.26], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273703e55d5e562ef129a01532e', u'https://i.scdn.co/image/ab67616d0000b273d6d878c44c304370ac226803', u'https://i.scdn.co/image/ab67616d0000b27372cdd96fef2c42b9d66366c5'], 'album_name': [u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'Travelling Like The Light', u'tell me', u'871'], 'song_name': [u'When It Hurts so Bad', u'Final Hour', u'Superstar', u'Doo Wop (That Thing)', u'To Zion (feat. Carlos Santana)', u'To Zion (feat. Carlos Santana)', u'Lost Ones', u"Can't Take My Eyes Off of You - (I Love You Baby)", u'Shark In The Water', u'tell me', u'0000 871 0003'], 'artist_name': [u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'V V Brown', u'Yung Kayo', u'00110100 01010100'], 'track_id': [u'3CNSWn2mISh7Ll3yJQbVEw', u'7nY3NA1AvORewLU3BU7GNX', u'4zSmsHur194jO2hGCTt6Hn', u'0uEp9E98JB5awlA084uaIg', u'7x6hO9VMAee9x1iWaeNkL6', u'7x6hO9VMAee9x1iWaeNkL6', u'71XhXay6rKPZCVAaDtFlSR', u'2GFExyKXf9383tSRSrEHEt', u'0BLPuaA32HDg6AJTUT4WMl', u'27sZerMRTYOR72CKE1BV8q', u'7ns3vcnzAxjCZVYwlwazah']}
+                                                image  ... energy
+10  https://i.scdn.co/image/ab67616d0000b27372cdd9...  ...   0.26
+9   https://i.scdn.co/image/ab67616d0000b273d6d878...  ...  0.629
+8   https://i.scdn.co/image/ab67616d0000b273703e55...  ...  0.805
+7   https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.662
+6   https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.749
+5   https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.601
+4   https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.601
+3   https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.505
+2   https://i.scdn.co/image/ab67616d0000b273e08b12...  ...   0.74
+1   https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.689
+0   https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.519
+
+[11 rows x 10 columns]
+('Rows: ', 11)
+Saved!
+
+2021-02-08 18:00:03.206774
+Auth happening...
+Getting songs
+Creating dataframe...
+Shake That
+sadder badder cooler - Y2K Remix
+223 Remix
+Awake
+ICY GRL
+No Frauds
+Girl Blunt
+Cry (feat. Grimes)
+Yikes
+34+35
+sweetener
+101 FM
+Good Form (feat. Lil Wayne)
+Every Ghetto, Every City
+Forgive Them Father
+I Used to Love Him (feat. Mary J. Blige)
+When It Hurts so Bad
+GOT THESE SONGS
+{'played_at': ['17:58', '17:55', '17:52', '17:49', '17:46', '17:44', '17:39', '17:36', '17:34', '17:31', '17:28', '17:25', '17:21', '17:14', '17:09', '17:04'], 'valence': [0.497, 0.736, 0.442, 0.28, 0.842, 0.432, 0.367, 0.843, 0.66, 0.485, 0.46, 0.969, 0.295, 0.498, 0.691, 0.745], 'mood_avg': [0.736, 0.702, 0.665, 0.599, 0.82, 0.631, 0.622, 0.77, 0.756, 0.643, 0.564, 0.813, 0.624, 0.566, 0.72, 0.652], 'danceability': [0.949, 0.756, 0.921, 0.764, 0.927, 0.867, 0.856, 0.667, 0.911, 0.83, 0.721, 0.79, 0.898, 0.613, 0.808, 0.486], 'energy': [0.786, 0.527, 0.598, 0.908, 0.563, 0.558, 0.665, 0.828, 0.637, 0.585, 0.459, 0.547, 0.733, 0.61, 0.6, 0.797], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738fdfd969c0b6375ca22c3fa3', u'https://i.scdn.co/image/ab67616d0000b27392444c56efe76d96688d7658', u'https://i.scdn.co/image/ab67616d0000b273d7445441ad80d77b1d15a666', u'https://i.scdn.co/image/ab67616d0000b2732ff16cb8c50004d7aaca646d', u'https://i.scdn.co/image/ab67616d0000b2731f0b3f9a2f29efd8291a6c46', u'https://i.scdn.co/image/ab67616d0000b2738222051128ef2edccf1e83d8', u'https://i.scdn.co/image/ab67616d0000b27395af8a497821be5c98fdd5dc', u'https://i.scdn.co/image/ab67616d0000b273b92c8caf2c7b8f35c2b3ff00', u'https://i.scdn.co/image/ab67616d0000b27398441652fc8a6b7ebf395ba9', u'https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605', u'https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394', u'https://i.scdn.co/image/ab67616d0000b2731c54fc953531d5da04232deb', u'https://i.scdn.co/image/ab67616d0000b273fc8c64bfc4323ff7ce68fea8', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9'], 'album_name': [u'Fever', u'sadder badder cooler (Y2K Remix)', u'Dumb Shit: The Album', u'Awake', u'High Maintenance', u'No Frauds', u'Acrylic', u'Cry (feat. Grimes)', u'Yikes', u'Positions', u'Sweetener', u'GREY Area', u'Queen (Deluxe)', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill'], 'song_name': [u'Shake That', u'sadder badder cooler - Y2K Remix', u'223 Remix', u'Awake', u'ICY GRL', u'No Frauds', u'Girl Blunt', u'Cry (feat. Grimes)', u'Yikes', u'34+35', u'sweetener', u'101 FM', u'Good Form (feat. Lil Wayne)', u'Every Ghetto, Every City', u'Forgive Them Father', u'I Used to Love Him (feat. Mary J. Blige)'], 'artist_name': [u'Megan Thee Stallion', u'Tove Lo', u'S3nsi Molly', u'Tkay Maidza', u'Saweetie', u'Nicki Minaj', u'Leikeli47', u'Ashnikko', u'Nicki Minaj', u'Ariana Grande', u'Ariana Grande', u'Little Simz', u'Nicki Minaj', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill'], 'track_id': [u'0nWDgFps67oDM01swzHCcC', u'4YGgFxIQBQPE46ytGUfX4U', u'0BhjjRVSL5LWwmlz72rfgY', u'4Puw64CYf5hi5hlrQo9mm4', u'1sl1cpix9GnwNwaVt04BIu', u'7KcGEssn7BnJdTgildK5y0', u'1lAGdqI4Wwa8G0XTP6VqHl', u'0w1Wd17IygSVDMOZtKm4hi', u'75dLEqanQTupF3dtP9exT5', u'6Im9k8u9iIzKMrmV7BWtlF', u'70khXICDeTTxgYtw3EysKH', u'4Vk4Yf7pDmB1dxLFSTjBUH', u'6supMAknraGpJrN5qqYfV8', u'6ioEEcJzOpLyIO6Dgn1RYS', u'2RPhXg9D4JOkryUznL0aaB', u'3IRdgbdqDcmJBIa6TY2mKX']}
+                                                image  ... energy
+15  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.797
+14  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...    0.6
+13  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...   0.61
+12  https://i.scdn.co/image/ab67616d0000b273fc8c64...  ...  0.733
+11  https://i.scdn.co/image/ab67616d0000b2731c54fc...  ...  0.547
+10  https://i.scdn.co/image/ab67616d0000b273c3af0c...  ...  0.459
+9   https://i.scdn.co/image/ab67616d0000b2735ef878...  ...  0.585
+8   https://i.scdn.co/
