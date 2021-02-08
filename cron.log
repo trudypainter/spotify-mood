@@ -46428,3 +46428,28 @@ GOT THESE SONGS
 ('Rows: ', 16)
 Saved!
 
+[master 72aafcb] updating daily data 2021-02-08 11:00:08.396530
+ 3 files changed, 24 insertions(+), 2 deletions(-)
+2021-02-08 11:00:07.222324
+Auth happening...
+Getting songs
+Creating dataframe...
+Feeling Myself
+Acrylic
+BB
+34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix
+Heat Waves
+Ribs
+GOT THESE SONGS
+{'played_at': ['10:18', '10:14', '10:11', '10:08', '10:04'], 'valence': [0.477, 0.543, 0.267, 0.726, 0.531], 'mood_avg': [0.557, 0.656, 0.536, 0.775, 0.622], 'danceability': [0.564, 0.928, 0.693, 0.88, 0.761], 'energy': [0.703, 0.338, 0.761, 0.662, 0.525], 'image': [u'https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458', u'https://i.scdn.co/image/ab67616d0000b27395af8a497821be5c98fdd5dc', u'https://i.scdn.co/image/ab67616d0000b273a7ef0539771ba8bfa0bae81c', u'https://i.scdn.co/image/ab67616d0000b27343d04ae192008a5113862faf', u'https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea'], 'album_name': [u'The Pinkprint (Deluxe)', u'Acrylic', u'BB', u'34+35 (Remix)', u'Dreamland (+ Bonus Levels)'], 'song_name': [u'Feeling Myself', u'Acrylic', u'BB', u'34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix', u'Heat Waves'], 'artist_name': [u'Nicki Minaj', u'Leikeli47', u'Shygirl', u'Ariana Grande', u'Glass Animals'], 'track_id': [u'5fyIGoaaKelzdyW8ELhYJZ', u'0XfWFaFpr7wIPEhMkX78Lt', u'1oTZfA19b295ZdWdFTzJNj', u'3jjBPF4NDMCU51psU8JPpR', u'02MWAaffLxlfxAUY7c5dvx']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b2739e495f...  ...  0.525
+3  https://i.scdn.co/image/ab67616d0000b27343d04a...  ...  0.662
+2  https://i.scdn.co/image/ab67616d0000b273a7ef05...  ...  0.761
+1  https://i.scdn.co/image/ab67616d0000b27395af8a...  ...  0.338
+0  https://i.scdn.co/image/ab67616d0000b2730f79d1...  ...  0.703
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
