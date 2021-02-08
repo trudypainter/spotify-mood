@@ -46334,3 +46334,31 @@ GOT THESE SONGS
 ('Rows: ', 5)
 Saved!
 
+[master d5a118c] updating daily data 2021-02-08 07:00:04.096349
+ 3 files changed, 31 insertions(+), 1 deletion(-)
+2021-02-08 07:00:02.837267
+Auth happening...
+Getting songs
+Creating dataframe...
+The Woo (feat. 50 Cent & Roddy Ricch)
+Flexin'
+Got It On Me
+Imperfections (Interlude)
+GATTI
+Hit Different
+GOT THESE SONGS
+{'played_at': ['06:15', '06:11', '06:08', '06:05', '06:03'], 'valence': [0.286, 0.517, 0.195, 0.324, 0.472], 'mood_avg': [0.434, 0.622, 0.483, 0.542, 0.562], 'danceability': [0.49, 0.605, 0.688, 0.774, 0.594], 'energy': [0.618, 0.868, 0.647, 0.513, 0.676], 'image': [u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369', u'https://i.scdn.co/image/ab67616d0000b2737425f756cdc992d2f485eb64', u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369', u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03', u'https://i.scdn.co/image/ab67616d0000b273dfc2f59568272de50a257f2f'], 'album_name': [u'Shoot For The Stars Aim For The Moon', u"Flexin'", u'Shoot For The Stars Aim For The Moon', u'Shoot For The Stars Aim For The Moon (Deluxe)', u'JACKBOYS'], 'song_name': [u'The Woo (feat. 50 Cent & Roddy Ricch)', u"Flexin'", u'Got It On Me', u'Imperfections (Interlude)', u'GATTI'], 'artist_name': [u'Pop Smoke', u'Pop Smoke', u'Pop Smoke', u'Pop Smoke', u'JACKBOYS'], 'track_id': [u'1H7KnK26kc1YyellpbINEn', u'7mpoOB5YMpPnbllsALgSfr', u'25zlnOAzbVoOzIeXSvQFf1', u'42er1na9BHF1ERol51wg8M', u'40mjsnRjCpycdUw3xhS20g']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273dfc2f5...  ...  0.676
+3  https://i.scdn.co/image/ab67616d0000b27346e130...  ...  0.513
+2  https://i.scdn.co/image/ab67616d0000b27377ada0...  ...  0.647
+1  https://i.scdn.co/image/ab67616d0000b2737425f7...  ...  0.868
+0  https://i.scdn.co/image/ab67616d0000b27377ada0...  ...  0.618
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
+2021-02-08 08:00:03.948574
+Auth happening...
+Getting songs
