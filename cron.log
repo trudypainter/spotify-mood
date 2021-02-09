@@ -46900,3 +46900,34 @@ GOT THESE SONGS
 ('Rows: ', 9)
 Saved!
 
+[master ed8ca1b] updating daily data 2021-02-09 11:00:05.213054
+ 3 files changed, 42 insertions(+), 1 deletion(-)
+2021-02-09 11:00:03.922749
+Auth happening...
+Getting songs
+Creating dataframe...
+Roaring 20s
+1,2,3 dayz up (feat. SOPHIE)
+Al Sur
+see me
+Keep Her Happy
+tell me
+Shark In The Water
+Nightmares (feat. Bilal & Pharrell Williams)
+Lapdance from Asia
+GOT THESE SONGS
+{'played_at': ['10:58', '10:56', '10:52', '10:49', '10:46', '10:44', '10:41', '10:38'], 'valence': [0.786, 0.884, 0.961, 0.467, 0.965, 0.126, 0.697, 0.633], 'mood_avg': [0.812, 0.786, 0.827, 0.642, 0.849, 0.487, 0.661, 0.622], 'danceability': [0.91, 0.785, 0.669, 0.709, 0.7, 0.777, 0.554, 0.619], 'energy': [0.67, 0.592, 0.877, 0.858, 0.914, 0.629, 0.805, 0.608], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733eee02e04b08d2c415ae63a5', u'https://i.scdn.co/image/ab67616d0000b273011a178740fd2a2a7eb98045', u'https://i.scdn.co/image/ab67616d0000b273568ea51da0564f98897faf23', u'https://i.scdn.co/image/ab67616d0000b273a826caf3c0a605ab03b1e2a7', u'https://i.scdn.co/image/ab67616d0000b2732e3676fea262cec1bde0861a', u'https://i.scdn.co/image/ab67616d0000b273d6d878c44c304370ac226803', u'https://i.scdn.co/image/ab67616d0000b273703e55d5e562ef129a01532e', u'https://i.scdn.co/image/ab67616d0000b2731533f5dd895bb03556473485'], 'album_name': [u'Roaring 20s', u'1,2,3 dayz up (feat. SOPHIE)', u'Al Sur', u'see me', u"Henry Stone's Miami Sound - The Record Man's Finest 45s", u'tell me', u'Travelling Like The Light', u'Hell Hath No Fury'], 'song_name': [u'Roaring 20s', u'1,2,3 dayz up (feat. SOPHIE)', u'Al Sur', u'see me', u'Keep Her Happy', u'tell me', u'Shark In The Water', u'Nightmares (feat. Bilal & Pharrell Williams)'], 'artist_name': [u'Flo Milli', u'Kim Petras', u'The Notwist', u'2hollis', u'Phillip Wright', u'Yung Kayo', u'V V Brown', u'Clipse'], 'track_id': [u'5N4oNpf3YH76vNhXKc5usy', u'0KK1FJFCBjdgPE00CJuvEG', u'6mrxKzfu4L3AcDxPwYPjUs', u'4NYwJNFMAJXenSwnlM7Nui', u'1CLSRrFaaW9BTVFA6c3PqD', u'27sZerMRTYOR72CKE1BV8q', u'0BLPuaA32HDg6AJTUT4WMl', u'37HUD7Mr1zOIDW1QuOgaZH']}
+                                               image  ... energy
+7  https://i.scdn.co/image/ab67616d0000b2731533f5...  ...  0.608
+6  https://i.scdn.co/image/ab67616d0000b273703e55...  ...  0.805
+5  https://i.scdn.co/image/ab67616d0000b273d6d878...  ...  0.629
+4  https://i.scdn.co/image/ab67616d0000b2732e3676...  ...  0.914
+3  https://i.scdn.co/image/ab67616d0000b273a826ca...  ...  0.858
+2  https://i.scdn.co/image/ab67616d0000b273568ea5...  ...  0.877
+1  https://i.scdn.co/image/ab67616d0000b273011a17...  ...  0.592
+0  https://i.scdn.co/image/ab67616d0000b2733eee02...  ...   0.67
+
+[8 rows x 10 columns]
+('Rows: ', 8)
+Saved!
+
