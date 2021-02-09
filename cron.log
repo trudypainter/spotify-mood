@@ -46815,3 +46815,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 9a2b2b3] updating daily data 2021-02-09 08:00:04.336762
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+2021-02-09 08:00:02.914427
+Auth happening...
+Getting songs
+Creating dataframe...
+Lapdance from Asia
+Don't Judge Me
+Discounts
+Discounts
+GOT THESE SONGS
+{'played_at': ['07:59', '07:55', '07:35'], 'valence': [0.449, 0.236, 0.867], 'mood_avg': [0.584, 0.463, 0.825], 'danceability': [0.807, 0.61, 0.791], 'energy': [0.408, 0.625, 0.81], 'image': [u'https://i.scdn.co/image/ab67616d0000b273259103f522763e34a379a796', u'https://i.scdn.co/image/ab67616d0000b273be53db0d1e09575772c04d07', u'https://i.scdn.co/image/ab67616d0000b2731de90928b7e41cc8dfc97c68'], 'album_name': [u'Lapdance from Asia', u"Don't Judge Me", u'Discounts'], 'song_name': [u'Lapdance from Asia', u"Don't Judge Me", u'Discounts'], 'artist_name': [u'Cosha', u'FKA twigs', u'cupcakKe'], 'track_id': [u'70Tn7Qn1LyVCTTd8EyyXGW', u'2ixabSVbccs9np9r5CpbWW', u'3NILSt8vgJrRqwWkwB8das']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b2731de909...  ...   0.81
+1  https://i.scdn.co/image/ab67616d0000b273be53db...  ...  0.625
+0  https://i.scdn.co/image/ab67616d0000b273259103...  ...  0.408
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
