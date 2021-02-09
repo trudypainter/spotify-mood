@@ -46836,3 +46836,34 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master c760684] updating daily data 2021-02-09 09:00:08.018244
+ 3 files changed, 30 insertions(+), 1 deletion(-)
+2021-02-09 09:00:04.949167
+Auth happening...
+Getting songs
+Creating dataframe...
+Last Day In
+Kacey Talk
+Late Night Calls
+4th of july
+midnite 3112
+Even If It Hurts
+A-Men
+Roaring 20s
+Lapdance from Asia
+GOT THESE SONGS
+{'played_at': ['08:47', '08:44', '08:41', '08:18', '08:15', '08:11', '08:07', '08:01'], 'valence': [0.374, 0.773, 0.0979, 0.31, 0.248, 0.616, 0.506, 0.786], 'mood_avg': [0.555, 0.781, 0.459, 0.42, 0.466, 0.677, 0.566, 0.812], 'danceability': [0.674, 0.877, 0.784, 0.592, 0.68, 0.738, 0.7, 0.91], 'energy': [0.681, 0.607, 0.533, 0.296, 0.476, 0.675, 0.418, 0.67], 'image': [u'https://i.scdn.co/image/ab67616d0000b2737ba72685679d7abd665908d7', u'https://i.scdn.co/image/ab67616d0000b2738bd6e34012a7ab6311050d0c', u'https://i.scdn.co/image/ab67616d0000b2731ab0f3e14f604ca8f49492f9', u'https://i.scdn.co/image/ab67616d0000b273c674871d5154e94966de4ae0', u'https://i.scdn.co/image/ab67616d0000b2737137437821aef0e761d36799', u'https://i.scdn.co/image/ab67616d0000b273db5e990274ebb0a38f78e757', u'https://i.scdn.co/image/ab67616d0000b2732bb07fe40f5e794d6a5d9ca9', u'https://i.scdn.co/image/ab67616d0000b2733eee02e04b08d2c415ae63a5'], 'album_name': [u'Last Day In', u'Top', u'Late Night Calls', u'4th of july', u'Midnight at the Premier Inn', u'La Linda', u'On All Fours', u'Roaring 20s'], 'song_name': [u'Last Day In', u'Kacey Talk', u'Late Night Calls', u'4th of july', u'midnite 3112', u'Even If It Hurts', u'A-Men', u'Roaring 20s'], 'artist_name': [u'Kodak Black', u'YoungBoy Never Broke Again', u'Tee Grizzley', u'Hand Habits', u'ELLES', u'Tei Shi', u'Goat Girl', u'Flo Milli'], 'track_id': [u'1jJPsemOvkw0cvtzNrkBpo', u'1SF8piqsZWn86DajVKih8F', u'7gVseEuINTNzR31IiG1aUe', u'1jRhmp69z3clRhNjev6P6f', u'6doVXW1u0uTLBtbiHESvJM', u'4CwchvMNlpQSpQGKEK3sAw', u'7gjLnTKbKNPeUsZuOBoB7G', u'5N4oNpf3YH76vNhXKc5usy']}
+                                               image  ... energy
+7  https://i.scdn.co/image/ab67616d0000b2733eee02...  ...   0.67
+6  https://i.scdn.co/image/ab67616d0000b2732bb07f...  ...  0.418
+5  https://i.scdn.co/image/ab67616d0000b273db5e99...  ...  0.675
+4  https://i.scdn.co/image/ab67616d0000b273713743...  ...  0.476
+3  https://i.scdn.co/image/ab67616d0000b273c67487...  ...  0.296
+2  https://i.scdn.co/image/ab67616d0000b2731ab0f3...  ...  0.533
+1  https://i.scdn.co/image/ab67616d0000b2738bd6e3...  ...  0.607
+0  https://i.scdn.co/image/ab67616d0000b2737ba726...  ...  0.681
+
+[8 rows x 10 columns]
+('Rows: ', 8)
+Saved!
+
