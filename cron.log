@@ -46738,3 +46738,34 @@ image/ab67616d0000b273984416...  ...  0.637
 ('Rows: ', 16)
 Saved!
 
+[master 29bce4e] updating daily data 2021-02-08 19:00:08.276103
+ 3 files changed, 25 insertions(+), 2 deletions(-)
+2021-02-08 19:00:06.837514
+Auth happening...
+Getting songs
+Creating dataframe...
+Babyface Savage (feat. Tory Lanez)
+Pretty Girl hi!
+Blame It on Your Love (feat. Lizzo)
+Pretty Girl
+Pussy Talk
+Like That Bitch
+1999
+Gucci Flip Flops (feat. Lil Yachty)
+Shake That
+GOT THESE SONGS
+{'played_at': ['18:28', '18:26', '18:24', '18:14', '18:11', '18:07', '18:04', '18:01'], 'valence': [0.425, 0.441, 0.598, 0.695, 0.242, 0.76, 0.625, 0.177], 'mood_avg': [0.644, 0.585, 0.677, 0.772, 0.602, 0.786, 0.694, 0.519], 'danceability': [0.907, 0.636, 0.717, 0.93, 0.943, 0.782, 0.745, 0.82], 'energy': [0.557, 0.772, 0.755, 0.611, 0.641, 0.844, 0.728, 0.603], 'image': [u'https://i.scdn.co/image/ab67616d0000b273afd59b8f7df2be1b94bee052', u'https://i.scdn.co/image/ab67616d0000b273680f7aff18376de523d7dea5', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273efe812ae54f0698a32ccae14', u'https://i.scdn.co/image/ab67616d0000b273c2db305f095cf12d55d55df3', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b2734230e47d7122807dc73e8bc7'], 'album_name': [u'Babyface Savage (feat. Tory Lanez)', u'Introspection', u'Charli', u'Pretty Girl', u'City On Lock', u'Ho, why is you here ?', u'Charli', u'15'], 'song_name': [u'Babyface Savage (feat. Tory Lanez)', u'Pretty Girl hi!', u'Blame It on Your Love (feat. Lizzo)', u'Pretty Girl', u'Pussy Talk', u'Like That Bitch', u'1999', u'Gucci Flip Flops (feat. Lil Yachty)'], 'artist_name': [u'Bhad Bhabie', u'UMI', u'Charli XCX', u'Clairo', u'City Girls', u'Flo Milli', u'Charli XCX', u'Bhad Bhabie'], 'track_id': [u'2xB64x7pRS8Qa9uuZktOnA', u'35SJSCkL9h2APOXwiSTPX1', u'2RCUr24WkEe2r5Vv4oDKlN', u'0KyAGiNGUytG5JLxJu4F6l', u'5EzL7hGT9g2Tvqsy158Lu9', u'7zoZd2MuTaQEdF1rlq6Vv1', u'3WGJSY8JaGliVIJyMig5aS', u'3hv6ndi7uFT9L9wrhQCsqY']}
+                                               image  ... energy
+7  https://i.scdn.co/image/ab67616d0000b2734230e4...  ...  0.603
+6  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.728
+5  https://i.scdn.co/image/ab67616d0000b2733ae4c6...  ...  0.844
+4  https://i.scdn.co/image/ab67616d0000b273c2db30...  ...  0.641
+3  https://i.scdn.co/image/ab67616d0000b273efe812...  ...  0.611
+2  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.755
+1  https://i.scdn.co/image/ab67616d0000b273680f7a...  ...  0.772
+0  https://i.scdn.co/image/ab67616d0000b273afd59b...  ...  0.557
+
+[8 rows x 10 columns]
+('Rows: ', 8)
+Saved!
+
