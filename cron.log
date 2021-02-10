@@ -47264,3 +47264,26 @@ GOT THESE SONGS
 ('Rows: ', 5)
 Saved!
 
+[master 228ff15] updating daily data 2021-02-10 07:00:02.421190
+ 3 files changed, 30 insertions(+), 1 deletion(-)
+2021-02-10 07:00:01.639400
+Auth happening...
+Getting songs
+Creating dataframe...
+Controlla
+PICK UP (feat. Quavo)
+Gyalchester
+JAPAN
+forever
+GOT THESE SONGS
+{'played_at': ['06:18', '06:13', '06:11', '06:07'], 'valence': [0.349, 0.758, 0.122, 0.841], 'mood_avg': [0.478, 0.792, 0.478, 0.765], 'danceability': [0.611, 0.915, 0.877, 0.733], 'energy': [0.468, 0.612, 0.391, 0.678], 'image': [u'https://i.scdn.co/image/ab67616d0000b27382e3e6968e73ec00a9f7861b', u'https://i.scdn.co/image/ab67616d0000b27320e08c8cc23f404d723b5647', u'https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700', u'https://i.scdn.co/image/ab67616d0000b27324ef7429ba82789623ae8b14'], 'album_name': [u'Views', u'BLAME IT ON BABY', u'More Life', u'Dex Meets Dexter'], 'song_name': [u'Controlla', u'PICK UP (feat. Quavo)', u'Gyalchester', u'JAPAN'], 'artist_name': [u'Drake', u'DaBaby', u'Drake', u'Famous Dex'], 'track_id': [u'4CpKEkdGbOJV51cSvx7SoG', u'5gNOINI5dXZVom2b36LMOd', u'6UjfByV1lDLW0SOVQA4NAi', u'5PTG6rrL6EPFD9E2QMI2pl']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b27324ef74...  ...  0.678
+2  https://i.scdn.co/image/ab67616d0000b2734f0fd9...  ...  0.391
+1  https://i.scdn.co/image/ab67616d0000b27320e08c...  ...  0.612
+0  https://i.scdn.co/image/ab67616d0000b27382e3e6...  ...  0.468
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
