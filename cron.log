@@ -47353,3 +47353,32 @@ cdn.co/image/ab67616d0000b2739a67b7...  ...  0.431
 ('Rows: ', 14)
 Saved!
 
+[master 8ca5375] updating daily data 2021-02-10 10:00:03.510192
+ 3 files changed, 16 insertions(+), 2 deletions(-)
+2021-02-10 10:00:02.424756
+Auth happening...
+Getting songs
+Creating dataframe...
+Mysterious
+BIPP - Autechre Mx
+Paradise (feat. Hannah Diamond)
+Options
+Discounts
+We Will Always Love You
+Even If It Hurts
+More Like You
+GOT THESE SONGS
+{'played_at': ['09:48', '09:46', '09:45', '09:42', '09:39', '09:06', '09:03'], 'valence': [0.817, 0.41, 0.169, 0.603, 0.867, 0.176, 0.616], 'mood_avg': [0.678, 0.587, 0.381, 0.683, 0.825, 0.41, 0.677], 'danceability': [0.571, 0.859, 0.438, 0.785, 0.791, 0.535, 0.738], 'energy': [0.612, 0.398, 0.689, 0.64, 0.81, 0.626, 0.675], 'image': [u'https://i.scdn.co/image/ab67616d0000b27324a6fe12818b6018c0b1ded7', u'https://i.scdn.co/image/ab67616d0000b27340b614542b80b7795f759849', u'https://i.scdn.co/image/ab67616d0000b27345fefe45b11cde997046d567', u'https://i.scdn.co/image/ab67616d0000b2731ad049762e7a984854856ea1', u'https://i.scdn.co/image/ab67616d0000b2731de90928b7e41cc8dfc97c68', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273db5e990274ebb0a38f78e757'], 'album_name': [u'Mysterious', u'BIPP (Autechre Mx)', u'Vroom Vroom EP', u'Options', u'Discounts', u'We Will Always Love You', u'La Linda'], 'song_name': [u'Mysterious', u'BIPP - Autechre Mx', u'Paradise (feat. Hannah Diamond)', u'Options', u'Discounts', u'We Will Always Love You', u'Even If It Hurts'], 'artist_name': [u'CHINAH', u'SOPHIE', u'Charli XCX', u'Maka Oceania', u'cupcakKe', u'The Avalanches', u'Tei Shi'], 'track_id': [u'46ttgIruREPWtj42XSJ6jN', u'4tBdLWvYYr5IjJpvwiZr85', u'3SoLRBDWUJ4xtFRDFI1Z6F', u'3S9EqZwFAy8nBGIzRGdWVo', u'3NILSt8vgJrRqwWkwB8das', u'51wxtCuipwjvvT99wsSmCc', u'4CwchvMNlpQSpQGKEK3sAw']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b273db5e99...  ...  0.675
+5  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.626
+4  https://i.scdn.co/image/ab67616d0000b2731de909...  ...   0.81
+3  https://i.scdn.co/image/ab67616d0000b2731ad049...  ...   0.64
+2  https://i.scdn.co/image/ab67616d0000b27345fefe...  ...  0.689
+1  https://i.scdn.co/image/ab67616d0000b27340b614...  ...  0.398
+0  https://i.scdn.co/image/ab67616d0000b27324a6fe...  ...  0.612
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
