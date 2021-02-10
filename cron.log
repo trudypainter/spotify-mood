@@ -47412,3 +47412,38 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 37aa307] updating daily data 2021-02-10 13:00:07.035226
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-02-10 13:00:05.319099
+Auth happening...
+Getting songs
+Creating dataframe...
+Thinkin Bout You
+Forrest Gump
+Chum
+The Less I Know The Better
+Nangs
+Hold My Liquor
+Chanel (Go Get It) [feat. Gunna & Lil Baby]
+Part Of Me
+Work REMIX (feat. A$AP Rocky, French Montana, Trinidad James & ScHoolboy Q)
+Pyramids
+Mysterious
+GOT THESE SONGS
+{'played_at': ['12:57', '12:54', '12:51', '12:47', '12:43', '12:41', '12:36', '12:33', '12:29', '12:24'], 'valence': [0.2, 0.186, 0.193, 0.785, 0.434, 0.04, 0.462, 0.761, 0.284, 0.15], 'mood_avg': [0.436, 0.438, 0.382, 0.718, 0.493, 0.279, 0.66, 0.756, 0.597, 0.35], 'danceability': [0.721, 0.701, 0.51, 0.64, 0.536, 0.497, 0.938, 0.667, 0.841, 0.4], 'energy': [0.339, 0.417, 0.503, 0.74, 0.526, 0.322, 0.5, 0.922, 0.733, 0.65], 'image': [u'https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5', u'https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5', u'https://i.scdn.co/image/ab67616d0000b27346f9bf1154c7205b0e8b1667', u'https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79', u'https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79', u'https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9', u'https://i.scdn.co/image/ab67616d0000b273fbd8ead00d2fb0649a534212', u'https://i.scdn.co/image/ab67616d0000b273a56dc57d708c7b62db950105', u'https://i.scdn.co/image/ab67616d0000b273005ca921bdef6548d4f71b76', u'https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5'], 'album_name': [u'channel ORANGE', u'channel ORANGE', u'Doris', u'Currents', u'Currents', u'Yeezus', u'Slime Language', u'Teenage Dream: The Complete Confection', u'Trap Lord', u'channel ORANGE'], 'song_name': [u'Thinkin Bout You', u'Forrest Gump', u'Chum', u'The Less I Know The Better', u'Nangs', u'Hold My Liquor', u'Chanel (Go Get It) [feat. Gunna & Lil Baby]', u'Part Of Me', u'Work REMIX (feat. A$AP Rocky, French Montana, Trinidad James & ScHoolboy Q)', u'Pyramids'], 'artist_name': [u'Frank Ocean', u'Frank Ocean', u'Earl Sweatshirt', u'Tame Impala', u'Tame Impala', u'Kanye West', u'Young Thug', u'Katy Perry', u'A$AP Ferg', u'Frank Ocean'], 'track_id': [u'7DfFc7a6Rwfi3YQMRbDMau', u'4YZbVct8l9MnAVIROnLQdx', u'6plT7nFGiXKSBP9HFSI4ef', u'6K4t31amVTZDgR3sKmwUJJ', u'1cCbsojaA6GIT7Y3zuMJ1q', u'5nIu0VwPOsjkF61zfevLKh', u'0kCBorRrKZkSztd9m0QI3r', u'6yARPLK0PV4heEyh7pVMGz', u'7xVLFuuYdAvcTfcP3IG3dS', u'4QhWbupniDd44EDtnh2bFJ']}
+                                               image  ... energy
+9  https://i.scdn.co/image/ab67616d0000b2737aede4...  ...   0.65
+8  https://i.scdn.co/image/ab67616d0000b273005ca9...  ...  0.733
+7  https://i.scdn.co/image/ab67616d0000b273a56dc5...  ...  0.922
+6  https://i.scdn.co/image/ab67616d0000b273fbd8ea...  ...    0.5
+5  https://i.scdn.co/image/ab67616d0000b2731dacfb...  ...  0.322
+4  https://i.scdn.co/image/ab67616d0000b2739e1cfc...  ...  0.526
+3  https://i.scdn.co/image/ab67616d0000b2739e1cfc...  ...   0.74
+2  https://i.scdn.co/image/ab67616d0000b27346f9bf...  ...  0.503
+1  https://i.scdn.co/image/ab67616d0000b2737aede4...  ...  0.417
+0  https://i.scdn.co/image/ab67616d0000b2737aede4...  ...  0.339
+
+[10 rows x 10 columns]
+('Rows: ', 10)
+Saved!
+
