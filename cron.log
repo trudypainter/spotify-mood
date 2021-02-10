@@ -47047,3 +47047,44 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master d145f16] updating daily data 2021-02-09 18:00:05.638276
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-02-09 18:00:04.281294
+Auth happening...
+Getting songs
+Creating dataframe...
+Welcome to the World of the Plastic Beach (feat. Snoop Dogg and Hypnotic Brass Ensemble)
+Broken
+Orchestral Intro (feat. Sinfonia ViVA)
+Superfast Jellyfish (feat. Gruff Rhys and De La Soul)
+To Binge (feat. Little Dragon)
+Rhinestone Eyes
+Plastic Beach (feat. Mick Jones and Paul Simonon)
+Plastic Beach (feat. Mick Jones and Paul Simonon)
+How Far? (feat. Tony Allen and Skepta)
+Lost Ones
+Late Night Calls
+GOT THESE SONGS
+{'played_at': ['17:49', '17:45', '17:42', '17:41', '17:38', '17:34', '17:31', '17:27', '17:23', '17:18'], 'valence': [0.331, 0.703, 0.0334, 0.819, 0.957, 0.852, 0.499, 0.499, 0.848, 0.65], 'mood_avg': [0.546, 0.662, 0.131, 0.76, 0.715, 0.752, 0.593, 0.593, 0.778, 0.743], 'danceability': [0.645, 0.493, 0.107, 0.705, 0.576, 0.676, 0.537, 0.537, 0.7, 0.832], 'energy': [0.777, 0.918, 0.376, 0.751, 0.511, 0.703, 0.893, 0.893, 0.794, 0.749], 'image': [u'https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985', u'https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985', u'https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985', u'https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985', u'https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985', u'https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985', u'https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985', u'https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985', u'https://i.scdn.co/image/ab67616d0000b27305a3c11cb2cb7c60d30316a3', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9'], 'album_name': [u'Plastic Beach', u'Plastic Beach', u'Plastic Beach', u'Plastic Beach', u'Plastic Beach', u'Plastic Beach', u'Plastic Beach', u'Plastic Beach', u'Song Machine, Season One: Strange Timez (Deluxe)', u'The Miseducation of Lauryn Hill'], 'song_name': [u'Welcome to the World of the Plastic Beach (feat. Snoop Dogg and Hypnotic Brass Ensemble)', u'Broken', u'Orchestral Intro (feat. Sinfonia ViVA)', u'Superfast Jellyfish (feat. Gruff Rhys and De La Soul)', u'To Binge (feat. Little Dragon)', u'Rhinestone Eyes', u'Plastic Beach (feat. Mick Jones and Paul Simonon)', u'Plastic Beach (feat. Mick Jones and Paul Simonon)', u'How Far? (feat. Tony Allen and Skepta)', u'Lost Ones'], 'artist_name': [u'Gorillaz', u'Gorillaz', u'Gorillaz', u'Gorillaz', u'Gorillaz', u'Gorillaz', u'Gorillaz', u'Gorillaz', u'Gorillaz', u'Ms. Lauryn Hill'], 'track_id': [u'46WOptLnXUtH3LOyYvmMO1', u'3THFKx88trZuOFlssVLJ5G', u'3s2f6XU5sJ6aqEe7GgDBta', u'1UJNbgfTzG1gZZTWFJdMf1', u'1dvOwoHwZB9SwvRw2Gv3nz', u'1foMv2HQwfQ2vntFf9HFeG', u'2nZ33CKRbgpJQJJQKHuGXb', u'2nZ33CKRbgpJQJJQKHuGXb', u'7oPUdVHd88LJG7A9mVGbuF', u'71XhXay6rKPZCVAaDtFlSR']}
+                                               image  ... energy
+9  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.749
+8  https://i.scdn.co/image/ab67616d0000b27305a3c1...  ...  0.794
+7  https://i.scdn.co/image/ab67616d0000b273661d01...  ...  0.893
+6  https://i.scdn.co/image/ab67616d0000b273661d01...  ...  0.893
+5  https://i.scdn.co/image/ab67616d0000b273661d01...  ...  0.703
+4  https://i.scdn.co/image/ab67616d0000b273661d01...  ...  0.511
+3  https://i.scdn.co/image/ab67616d0000b273661d01...  ...  0.751
+2  https://i.scdn.co/image/ab67616d0000b273661d01...  ...  0.376
+1  https://i.scdn.co/image/ab67616d0000b273661d01...  ...  0.918
+0  https://i.scdn.co/image/ab67616d0000b273661d01...  ...  0.777
+
+[10 rows x 10 columns]
+('Rows: ', 10)
+Saved!
+
+2021-02-09 19:00:10.572596
+Auth happening...
+Getting songs
+Creating dataframe...
+Are You On?
+Violo
