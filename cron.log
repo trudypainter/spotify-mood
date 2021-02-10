@@ -47507,3 +47507,36 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master 5c9e7d1] updating daily data 2021-02-10 16:00:09.562111
+ 3 files changed, 29 insertions(+), 1 deletion(-)
+2021-02-10 16:00:08.056712
+Auth happening...
+Getting songs
+Creating dataframe...
+Blame Game
+F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)
+Over My Dead Body
+From Time
+POWER
+I Know There's Gonna Be (Good Times)
+Driving to Hawaii
+Throw Sum Mo
+Weekend
+Sober
+GOT THESE SONGS
+{'played_at': ['15:57', '15:49', '15:45', '15:41', '15:35', '15:30', '15:27', '15:24', '15:19'], 'valence': [0.636, 0.662, 0.584, 0.448, 0.576, 0.486, 0.299, 0.594, 0.448], 'mood_avg': [0.538, 0.745, 0.543, 0.573, 0.63, 0.577, 0.386, 0.707, 0.608], 'danceability': [0.419, 0.853, 0.489, 0.739, 0.542, 0.657, 0.348, 0.859, 0.684], 'energy': [0.581, 0.693, 0.57, 0.491, 0.914, 0.597, 0.638, 0.627, 0.774], 'image': [u'https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f', u'https://i.scdn.co/image/ab67616d0000b273f3d5966c161176c6d72fc3b3', u'https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550', u'https://i.scdn.co/image/ab67616d0000b273a90d170c61fb7d063d47161d', u'https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f', u'https://i.scdn.co/image/ab67616d0000b273e8ac8f5ea7877d823e5df3ea', u'https://i.scdn.co/image/ab67616d0000b273c4c9ca67b07423071204c0b1', u'https://i.scdn.co/image/ab67616d0000b2734ca3fb4517ff722918877460', u'https://i.scdn.co/image/ab67616d0000b2737e23338ed400192ad6cde223'], 'album_name': [u'My Beautiful Dark Twisted Fantasy', u'LONG.LIVE.A$AP (Deluxe Version)', u'Take Care (Deluxe)', u'Nothing Was The Same', u'My Beautiful Dark Twisted Fantasy', u'In Colour', u'Driving to Hawaii', u'SremmLife', u'Weekend'], 'song_name': [u'Blame Game', u"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)", u'Over My Dead Body', u'From Time', u'POWER', u"I Know There's Gonna Be (Good Times)", u'Driving to Hawaii', u'Throw Sum Mo', u'Weekend'], 'artist_name': [u'Kanye West', u'A$AP Rocky', u'Drake', u'Drake', u'Kanye West', u'Jamie xx', u'Summer Salt', u'Rae Sremmurd', u'Louis The Child'], 'track_id': [u'4EndPA8b6FDWYp1RgsnLEB', u'4X5f3vT8MRuXF68pfjNte5', u'2Gnsof1hvZzjE1xdLRpjtf', u'0GaBIpyHvytM1UBYmqXu08', u'2gZUPNdnz5Y45eiGxpHGSc', u'06UOL50QYtDR5l06ohu88m', u'1l9hj8jFK4bEsRguwqMrKJ', u'5uqphUYsR45kPYplrYSAQh', u'1VCHNbal0VtE2plMRzvoho']}
+                                               image  ... energy
+8  https://i.scdn.co/image/ab67616d0000b2737e2333...  ...  0.774
+7  https://i.scdn.co/image/ab67616d0000b2734ca3fb...  ...  0.627
+6  https://i.scdn.co/image/ab67616d0000b273c4c9ca...  ...  0.638
+5  https://i.scdn.co/image/ab67616d0000b273e8ac8f...  ...  0.597
+4  https://i.scdn.co/image/ab67616d0000b273d9194a...  ...  0.914
+3  https://i.scdn.co/image/ab67616d0000b273a90d17...  ...  0.491
+2  https://i.scdn.co/image/ab67616d0000b273c7ea04...  ...   0.57
+1  https://i.scdn.co/image/ab67616d0000b273f3d596...  ...  0.693
+0  https://i.scdn.co/image/ab67616d0000b273d9194a...  ...  0.581
+
+[9 rows x 10 columns]
+('Rows: ', 9)
+Saved!
+
