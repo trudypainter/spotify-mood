@@ -47488,3 +47488,22 @@ GOT THESE SONGS
 ('Rows: ', 13)
 Saved!
 
+[master 03fdb6b] updating daily data 2021-02-10 15:00:09.520753
+ 3 files changed, 44 insertions(+), 1 deletion(-)
+2021-02-10 15:00:07.853796
+Auth happening...
+Getting songs
+Creating dataframe...
+Sober
+Brazil
+Minnesota
+GOT THESE SONGS
+{'played_at': ['14:06', '14:02'], 'valence': [0.418, 0.665], 'mood_avg': [0.562, 0.664], 'danceability': [0.707, 0.687], 'energy': [0.562, 0.617], 'image': [u'https://i.scdn.co/image/ab67616d0000b2737206597364af87adb3377b0e', u'https://i.scdn.co/image/ab67616d0000b273ec8be21d32e663885fbb244e'], 'album_name': [u'Kauai', u'What Do You Think About the Car?'], 'song_name': [u'Sober', u'Brazil'], 'artist_name': [u'Childish Gambino', u'Declan McKenna'], 'track_id': [u'5NhlpQ6BOIz3S5welptk1W', u'4sNG6zQBmtq7M8aeeKJRMQ']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273ec8be2...  ...  0.617
+0  https://i.scdn.co/image/ab67616d0000b273720659...  ...  0.562
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
