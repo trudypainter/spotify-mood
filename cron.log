@@ -47287,3 +47287,62 @@ GOT THESE SONGS
 ('Rows: ', 4)
 Saved!
 
+[master 7bd7e3e] updating daily data 2021-02-10 08:00:02.896187
+ 3 files changed, 28 insertions(+), 1 deletion(-)
+2021-02-10 08:00:01.895262
+Auth happening...
+Getting songs
+Creating dataframe...
+Gravity (feat. Tyler, The Creator)
+Ginseng Strip 2002
+GNF (OKOKOK)
+Carrier Waves
+Controlla
+GOT THESE SONGS
+{'played_at': ['07:57', '07:54', '07:51', '07:47'], 'valence': [0.493, 0.386, 0.531, 0.0775], 'mood_avg': [0.536, 0.537, 0.666, 0.247], 'danceability': [0.539, 0.601, 0.8, 0.3], 'energy': [0.615, 0.712, 0.67, 0.481], 'image': [u'https://i.scdn.co/image/ab67616d0000b27312bb288c1f093c654fb3563f', u'https://i.scdn.co/image/ab67616d0000b273fd5d145e815d352e195c02e7', u'https://i.scdn.co/image/ab67616d0000b273a5b50c3e5797aedbffb90952', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1'], 'album_name': [u'Gravity (feat. Tyler, The Creator)', u'Lavender', u'GNF (OKOKOK)', u'We Will Always Love You'], 'song_name': [u'Gravity (feat. Tyler, The Creator)', u'Ginseng Strip 2002', u'GNF (OKOKOK)', u'Carrier Waves'], 'artist_name': [u'Brent Faiyaz', u'Yung Lean', u'Polo G', u'The Avalanches'], 'track_id': [u'6u3CPnFMKANYgfdiifFOiJ', u'79nEEoEPY2w8EXj9hjn5oc', u'1A8990rtwHQ417l3yADe5t', u'501InEJ0WT4PTkvr7EVXvl']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.481
+2  https://i.scdn.co/image/ab67616d0000b273a5b50c...  ...   0.67
+1  https://i.scdn.co/image/ab67616d0000b273fd5d14...  ...  0.712
+0  https://i.scdn.co/image/ab67616d0000b27312bb28...  ...  0.615
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
+2021-02-10 09:00:02.628035
+Auth happening...
+Getting songs
+Creating dataframe...
+More Like You
+Funk U
+ok
+tell me
+The New Normal
+Kacey Talk
+Violo
+Severed Head (feat. Goldlink and Unknown Mortal Orchestra)
+3000 Miles (Baby Baby)
+BIPP - Autechre Mx
+We Will Always Love You
+Tweety
+Country Rap Tunes
+Friday 13th (feat. Octavian)
+Gravity (feat. Tyler, The Creator)
+GOT THESE SONGS
+{'played_at': ['08:59', '08:55', '08:52', '08:49', '08:46', '08:44', '08:41', '08:34', '08:21', '08:18', '08:11', '08:08', '08:04', '08:01'], 'valence': [0.768, 0.624, 0.473, 0.126, 0.974, 0.773, 0.0504, 0.472, 0.959, 0.41, 0.176, 0.538, 0.519, 0.484], 'mood_avg': [0.747, 0.669, 0.659, 0.487, 0.746, 0.781, 0.229, 0.62, 0.768, 0.587, 0.41, 0.663, 0.635, 0.577], 'danceability': [0.883, 0.723, 0.904, 0.777, 0.461, 0.877, 0.388, 0.74, 0.643, 0.859, 0.535, 0.848, 0.802, 0.753], 'energy': [0.431, 0.653, 0.542, 0.629, 0.86, 0.607, 0.266, 0.674, 0.638, 0.398, 0.626, 0.542, 0.532, 0.411], 'image': [u'https://i.scdn.co/image/ab67616d0000b2739a67b7023b53435c0aeac841', u'https://i.scdn.co/image/ab67616d0000b27377daac07a4988edfd1495679', u'https://i.scdn.co/image/ab67616d0000b2730c5cfafac2a490c56055a357', u'https://i.scdn.co/image/ab67616d0000b273d6d878c44c304370ac226803', u'https://i.scdn.co/image/ab67616d0000b273e29fab5766887dfc51422d34', u'https://i.scdn.co/image/ab67616d0000b2738bd6e34012a7ab6311050d0c', u'https://i.scdn.co/image/ab67616d0000b273b70e49903d81c5687ba14dc2', u'https://i.scdn.co/image/ab67616d0000b27305a3c11cb2cb7c60d30316a3', u'https://i.scdn.co/image/ab67616d0000b27306ac715283f8468d1a186234', u'https://i.scdn.co/image/ab67616d0000b27340b614542b80b7795f759849', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273d5fbc0957493ae1e0a34aa2c', u'https://i.scdn.co/image/ab67616d0000b2731c86b6d6f8c6dbe29a666e8d', u'https://i.scdn.co/image/ab67616d0000b2735566386805cf4f9ce5054b20'], 'album_name': [u'More Like You', u'Funk U', u'ok', u'tell me', u'Sound Ancestors', u'Top', u'Madre', u'Song Machine, Season One: Strange Timez (Deluxe)', u'3000 Miles (Baby Baby)', u'BIPP (Autechre Mx)', u'We Will Always Love You', u'Tweety', u'The Art of Finessin 2', u'Song Machine Episode 4'], 'song_name': [u'More Like You', u'Funk U', u'ok', u'tell me', u'The New Normal', u'Kacey Talk', u'Violo', u'Severed Head (feat. Goldlink and Unknown Mortal Orchestra)', u'3000 Miles (Baby Baby)', u'BIPP - Autechre Mx', u'We Will Always Love You', u'Tweety', u'Country Rap Tunes', u'Friday 13th (feat. Octavian)'], 'artist_name': [u'Orla Gartland', u'WEISS', u'warner case', u'Yung Kayo', u'Madlib', u'YoungBoy Never Broke Again', u'Arca', u'Gorillaz', u'Yeek', u'SOPHIE', u'The Avalanches', u'Raveena', u'Fendi P', u'Gorillaz'], 'track_id': [u'1UpFb9izAOYlcxWTOQzGf6', u'3Nu6och4FpCM0kpLqLGee0', u'30j17PGHg0vmx4IgKpZsWu', u'27sZerMRTYOR72CKE1BV8q', u'7llj3CelJOkh7DXt1fXCo7', u'1SF8piqsZWn86DajVKih8F', u'5syPwaSJSzNSB6ufaE6sI9', u'0Zn0jtLj2ehkIPxlCoO65O', u'3Xsmpypmc2DcxQBbmnnrB5', u'4tBdLWvYYr5IjJpvwiZr85', u'51wxtCuipwjvvT99wsSmCc', u'2NDMLu8ZNrAsAsPAoW5VOx', u'169GeYnJ7bXJOWRXlyXu2c', u'6szrrh2IL7cgu4q6D5ryW0']}
+                                                image  ... energy
+13  https://i.scdn.co/image/ab67616d0000b273556638...  ...  0.411
+12  https://i.scdn.co/image/ab67616d0000b2731c86b6...  ...  0.532
+11  https://i.scdn.co/image/ab67616d0000b273d5fbc0...  ...  0.542
+10  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.626
+9   https://i.scdn.co/image/ab67616d0000b27340b614...  ...  0.398
+8   https://i.scdn.co/image/ab67616d0000b27306ac71...  ...  0.638
+7   https://i.scdn.co/image/ab67616d0000b27305a3c1...  ...  0.674
+6   https://i.scdn.co/image/ab67616d0000b273b70e49...  ...  0.266
+5   https://i.scdn.co/image/ab67616d0000b2738bd6e3...  ...  0.607
+4   https://i.scdn.co/image/ab67616d0000b273e29fab...  ...   0.86
+3   https://i.scdn.co/image/ab67616d0000b273d6d878...  ...  0.629
+2   https://i.scdn.co/image/ab67616d0000b2730c5cfa...  ...  0.542
+1   https://i.scdn.co/image/ab67616d0000b27377daac...  ...  0.653
+0   https://i.s
