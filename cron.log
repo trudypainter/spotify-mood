@@ -47447,3 +47447,44 @@ GOT THESE SONGS
 ('Rows: ', 10)
 Saved!
 
+[master ca4c584] updating daily data 2021-02-10 14:00:05.172090
+ 3 files changed, 49 insertions(+), 1 deletion(-)
+2021-02-10 14:00:03.724501
+Auth happening...
+Getting songs
+Creating dataframe...
+Minnesota
+Sunday (feat. Frank Ocean)
+Runaway
+Lost In The World
+Furthest Thing
+Ass Drop
+Where'd All the Time Go?
+American Spirits
+Pornography
+Black Skinhead
+Mr. Rager
+90210 (feat. Kacy Hill)
+2SEATER (feat. Aaron Shaw, Samantha Nelson & Austin Feinstein)
+Thinkin Bout You
+GOT THESE SONGS
+{'played_at': ['13:57', '13:53', '13:50', '13:40', '13:36', '13:32', '13:29', '13:25', '13:22', '13:18', '13:15', '13:10', '13:04'], 'valence': [0.246, 0.905, 0.111, 0.277, 0.271, 0.302, 0.575, 0.877, 0.343, 0.325, 0.581, 0.312, 0.348], 'mood_avg': [0.553, 0.762, 0.308, 0.503, 0.458, 0.563, 0.576, 0.717, 0.508, 0.598, 0.646, 0.391, 0.419], 'danceability': [0.812, 0.716, 0.374, 0.608, 0.484, 0.816, 0.454, 0.503, 0.603, 0.766, 0.671, 0.402, 0.352], 'energy': [0.648, 0.568, 0.568, 0.746, 0.78, 0.578, 0.82, 0.824, 0.649, 0.809, 0.726, 0.526, 0.693], 'image': [u'https://i.scdn.co/image/ab67616d0000b27314d1a203158bed18a4ea7375', u'https://i.scdn.co/image/ab67616d0000b27346f9bf1154c7205b0e8b1667', u'https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f', u'https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f', u'https://i.scdn.co/image/ab67616d0000b273a90d170c61fb7d063d47161d', u'https://i.scdn.co/image/ab67616d0000b27327ed4f26fa2bfbd714dba7dd', u'https://i.scdn.co/image/ab67616d0000b2730478062bc04df0947d232fcb', u'https://i.scdn.co/image/ab67616d0000b273bb19d97e05228f69f0cbac8a', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9', u'https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2730f2e9f092b4e9c4424afb446'], 'album_name': [u'Lil Boat', u'Doris', u'My Beautiful Dark Twisted Fantasy', u'My Beautiful Dark Twisted Fantasy', u'Nothing Was The Same', u'Blacc Hollywood (Deluxe)', u'Shame, Shame (Deluxe Edition)', u'III', u'Rodeo (Expanded Edition)', u'Yeezus', u'Man On The Moon II: The Legend Of Mr. Rager', u'Rodeo (Expanded Edition)', u'Cherry Bomb'], 'song_name': [u'Minnesota', u'Sunday (feat. Frank Ocean)', u'Runaway', u'Lost In The World', u'Furthest Thing', u'Ass Drop', u"Where'd All the Time Go?", u'American Spirits', u'Pornography', u'Black Skinhead', u'Mr. Rager', u'90210 (feat. Kacy Hill)', u'2SEATER (feat. Aaron Shaw, Samantha Nelson & Austin Feinstein)'], 'artist_name': [u'Lil Yachty', u'Earl Sweatshirt', u'Kanye West', u'Kanye West', u'Drake', u'Wiz Khalifa', u'Dr. Dog', u'Inner Wave', u'Travis Scott', u'Kanye West', u'Kid Cudi', u'Travis Scott', u'Tyler, The Creator'], 'track_id': [u'4XkOcWt0C2JX1s2RXybosk', u'0fAehaneUJdlSlWXYe1KZp', u'3DK6m7It6Pw857FcQftMds', u'2Im64pIz6m0EJKdUe6eZ8r', u'7EdJ8z6IBotTjO50DfzzuV', u'2iDjCLUOGhJtz5cPHljGVd', u'0UV5zxRMz6AO4ZwUOZNIKI', u'01w1oN1WO5aOThHnLBN8eS', u'2QeQNF182V61Im0QpjdVta', u'722tgOgdIbNe3BEyLnejw4', u'393MDhe62s8hbH8ETrlxe5', u'51EC3I1nQXpec4gDk0mQyP', u'6Xw3iWrQKgArwlRhVuU9CK']}
+                                                image  ... energy
+12  https://i.scdn.co/image/ab67616d0000b2730f2e9f...  ...  0.693
+11  https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.526
+10  https://i.scdn.co/image/ab67616d0000b27359e842...  ...  0.726
+9   https://i.scdn.co/image/ab67616d0000b2731dacfb...  ...  0.809
+8   https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.649
+7   https://i.scdn.co/image/ab67616d0000b273bb19d9...  ...  0.824
+6   https://i.scdn.co/image/ab67616d0000b273047806...  ...   0.82
+5   https://i.scdn.co/image/ab67616d0000b27327ed4f...  ...  0.578
+4   https://i.scdn.co/image/ab67616d0000b273a90d17...  ...   0.78
+3   https://i.scdn.co/image/ab67616d0000b273d9194a...  ...  0.746
+2   https://i.scdn.co/image/ab67616d0000b273d9194a...  ...  0.568
+1   https://i.scdn.co/image/ab67616d0000b27346f9bf...  ...  0.568
+0   https://i.scdn.co/image/ab67616d0000b27314d1a2...  ...  0.648
+
+[13 rows x 10 columns]
+('Rows: ', 13)
+Saved!
+
