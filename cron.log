@@ -47148,3 +47148,19 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 7b1ea05] updating daily data 2021-02-10 00:00:03.881238
+ 3 files changed, 16 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2021-02-10.csv
+2021-02-10 00:00:03.252396
+Auth happening...
+Getting songs
+Creating dataframe...
+Are You On?
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
