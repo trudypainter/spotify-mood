@@ -47570,3 +47570,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 2acfbe8] updating daily data 2021-02-10 19:00:11.198789
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-02-10 19:00:09.499286
+Auth happening...
+Getting songs
+Creating dataframe...
+Country Rap Tunes
+ok
+My Blood
+Blame Game
+GOT THESE SONGS
+{'played_at': ['18:55', '18:52', '18:49'], 'valence': [0.519, 0.473, 0.611], 'mood_avg': [0.635, 0.659, 0.569], 'danceability': [0.802, 0.904, 0.564], 'energy': [0.532, 0.542, 0.493], 'image': [u'https://i.scdn.co/image/ab67616d0000b2731c86b6d6f8c6dbe29a666e8d', u'https://i.scdn.co/image/ab67616d0000b2730c5cfafac2a490c56055a357', u'https://i.scdn.co/image/ab67616d0000b273ecb7a21c411eb8671a200ac7'], 'album_name': [u'The Art of Finessin 2', u'ok', u'Wild Heart'], 'song_name': [u'Country Rap Tunes', u'ok', u'My Blood'], 'artist_name': [u'Fendi P', u'warner case', u'Current Joys'], 'track_id': [u'169GeYnJ7bXJOWRXlyXu2c', u'30j17PGHg0vmx4IgKpZsWu', u'2UJHpPKQaqViRHzNIFsMXO']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273ecb7a2...  ...  0.493
+1  https://i.scdn.co/image/ab67616d0000b2730c5cfa...  ...  0.542
+0  https://i.scdn.co/image/ab67616d0000b2731c86b6...  ...  0.532
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
