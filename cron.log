@@ -47748,3 +47748,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 8f46a05] updating daily data 2021-02-11 06:00:04.875014
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-02-11 06:00:03.470722
+Auth happening...
+Getting songs
+Creating dataframe...
+Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix
+4th of july
+GOT THESE SONGS
+{'played_at': ['05:58'], 'valence': [0.582], 'mood_avg': [0.67], 'danceability': [0.81], 'energy': [0.566], 'image': [u'https://i.scdn.co/image/ab67616d0000b2734df9c60aa74fb72c1e07fd1d'], 'album_name': [u'Life Is Good (feat. Drake, DaBaby & Lil Baby) [Remix]'], 'song_name': [u'Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix'], 'artist_name': [u'Future'], 'track_id': [u'4iiWcajF1fEUpwcUewc464']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b2734df9c6...  ...  0.566
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
