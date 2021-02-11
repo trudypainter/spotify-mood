@@ -47765,3 +47765,30 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master e6274ed] updating daily data 2021-02-11 07:00:04.902058
+ 3 files changed, 24 insertions(+), 1 deletion(-)
+2021-02-11 07:00:03.766831
+Auth happening...
+Getting songs
+Creating dataframe...
+What You Know Bout Love
+Numbers (feat. Roddy Ricch, Gunna and London On Da Track)
+Shotta Flow
+EARFQUAKE
+Pull Up (feat. Lil Uzi Vert & YNW Melly)
+Magnolia
+Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix
+GOT THESE SONGS
+{'played_at': ['06:17', '06:14', '06:10', '06:07', '06:04', '06:01'], 'valence': [0.543, 0.455, 0.45, 0.413, 0.585, 0.443], 'mood_avg': [0.61, 0.64, 0.621, 0.486, 0.674, 0.61], 'danceability': [0.709, 0.819, 0.888, 0.554, 0.873, 0.791], 'energy': [0.548, 0.654, 0.43, 0.498, 0.452, 0.582], 'image': [u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369', u'https://i.scdn.co/image/ab67616d0000b2731072a34d8c8d75e9b2545d8a', u'https://i.scdn.co/image/ab67616d0000b273f564e6b6b6b3f4036b876aa4', u'https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57', u'https://i.scdn.co/image/ab67616d0000b27383182cdd2c0661ab4907dfb2', u'https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1'], 'album_name': [u'Shoot For The Stars Aim For The Moon', u'Artist 2.0', u'Shotta Flow', u'IGOR', u'Pull Up (feat. Lil Uzi Vert & YNW Melly)', u'Playboi Carti'], 'song_name': [u'What You Know Bout Love', u'Numbers (feat. Roddy Ricch, Gunna and London On Da Track)', u'Shotta Flow', u'EARFQUAKE', u'Pull Up (feat. Lil Uzi Vert & YNW Melly)', u'Magnolia'], 'artist_name': [u'Pop Smoke', u'A Boogie Wit da Hoodie', u'NLE Choppa', u'Tyler, The Creator', u'Lil Keed', u'Playboi Carti'], 'track_id': [u'1tkg4EHVoqnhR6iFEXb60y', u'733c1CWmIGymoQXdp7Us88', u'4dAMdQ6g4kGmnc1MDHsg77', u'5hVghJ4KaYES3BFUATCYn0', u'7nGJygXx3D1lsSt8aAxRcQ', u'1e1JKLEDKP7hEQzJfNAgPl']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b273e31a27...  ...  0.582
+4  https://i.scdn.co/image/ab67616d0000b27383182c...  ...  0.452
+3  https://i.scdn.co/image/ab67616d0000b273700588...  ...  0.498
+2  https://i.scdn.co/image/ab67616d0000b273f564e6...  ...   0.43
+1  https://i.scdn.co/image/ab67616d0000b2731072a3...  ...  0.654
+0  https://i.scdn.co/image/ab67616d0000b27377ada0...  ...  0.548
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
