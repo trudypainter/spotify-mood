@@ -47591,3 +47591,24 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master 2b47985] updating daily data 2021-02-10 20:00:04.185483
+ 3 files changed, 25 insertions(+), 1 deletion(-)
+2021-02-10 20:00:03.361644
+Auth happening...
+Getting songs
+Creating dataframe...
+I'm Not Daddy
+Paradise (feat. Hannah Diamond)
+Roaring 20s
+Ginseng Strip 2002
+GOT THESE SONGS
+{'played_at': ['19:39', '19:36', '19:25'], 'valence': [0.532, 0.169, 0.786], 'mood_avg': [0.576, 0.381, 0.812], 'danceability': [0.595, 0.438, 0.91], 'energy': [0.628, 0.689, 0.67], 'image': [u'https://i.scdn.co/image/ab67616d0000b273bf51c469125da8dac6de8190', u'https://i.scdn.co/image/ab67616d0000b27345fefe45b11cde997046d567', u'https://i.scdn.co/image/ab67616d0000b2733eee02e04b08d2c415ae63a5'], 'album_name': [u'Big Brain Man', u'Vroom Vroom EP', u'Roaring 20s'], 'song_name': [u"I'm Not Daddy", u'Paradise (feat. Hannah Diamond)', u'Roaring 20s'], 'artist_name': [u'Whu Else', u'Charli XCX', u'Flo Milli'], 'track_id': [u'1j8w4X9aIP06DxTm3rVSe6', u'3SoLRBDWUJ4xtFRDFI1Z6F', u'5N4oNpf3YH76vNhXKc5usy']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b2733eee02...  ...   0.67
+1  https://i.scdn.co/image/ab67616d0000b27345fefe...  ...  0.689
+0  https://i.scdn.co/image/ab67616d0000b273bf51c4...  ...  0.628
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
