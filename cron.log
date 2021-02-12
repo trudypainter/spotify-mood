@@ -48445,3 +48445,51 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master e917abc] updating daily data 2021-02-12 16:00:05.069962
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-02-12 16:00:04.189877
+Auth happening...
+Getting songs
+Creating dataframe...
+Roaring 20s
+Mood Everyday (Intro)
+Next Level Charli
+GOT THESE SONGS
+{'played_at': ['15:59', '15:57'], 'valence': [0.786, 0.813], 'mood_avg': [0.812, 0.741], 'danceability': [0.91, 0.803], 'energy': [0.67, 0.475], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733eee02e04b08d2c415ae63a5', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb'], 'album_name': [u'Roaring 20s', u'Ho, why is you here ?'], 'song_name': [u'Roaring 20s', u'Mood Everyday (Intro)'], 'artist_name': [u'Flo Milli', u'Flo Milli'], 'track_id': [u'5N4oNpf3YH76vNhXKc5usy', u'1ntusbeBPTG0OicSYm5a1e']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b2733ae4c6...  ...  0.475
+0  https://i.scdn.co/image/ab67616d0000b2733eee02...  ...   0.67
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
+2021-02-12 17:00:03.503161
+Auth happening...
+Getting songs
+Creating dataframe...
+Kids Turned Out Fine
+OG Beeper
+Brotha Man (feat. French Montana)
+Gunz N Butter (feat. Juicy J)
+Buck Shots
+CALLDROPS (feat. Kodak Black)
+The New Normal
+Praise The Lord (Da Shine) (feat. Skepta)
+Fukk Sleep (feat. FKA twigs)
+Tony Tone
+A$AP Forever REMIX (feat. Moby, T.I. & Kid Cudi)
+Distorted Records
+Pussycat Doll
+May I
+19
+Send The Addy
+Weak
+Pockets Bigger
+In The Party
+In The Party
+Like That Bitch
+Beef FloMix
+Roaring 20s
+GOT THESE SONGS
+{'played_at': ['16:58', '16:55', '16:53', '16:49', '16:45', '16:43', '16:42', '16:40', '16:37', '16:33', '16:30', '16:25', '16:22', '16:20', '16:17', '16:15', '16:12', '16:10', '16:08', '16:06', '16:05', '16:01'], 'valence': [0.127, 0.313, 0.437, 0.715, 0.58, 0.463, 0.974, 0.294, 0.304, 0.33, 0.394, 0.0818, 0.938, 0.85, 0.421, 0.699, 0.826, 0.823, 0.418, 0.418, 0.76, 0.913], 'mood_avg': [0.305, 0.585, 0.482, 0.753, 0.575, 0.471, 0.746, 0.573, 0.523, 0.493, 0.48, 0.469, 0.884, 0.854, 0.726, 0.709, 0.813, 0.841, 0.657, 0.657, 0.786, 0.863], 'danceability': [0.302, 0.91, 0.57, 0.852, 0.433, 0.514, 0.461, 0.854, 0.798, 0.512, 0.428, 0.655, 0.886, 0.896, 0.962, 0.704, 0.863, 0.93, 0.919, 0.919, 0.782, 0.879], 'energy': [0.669, 0.477, 0.398, 0.632, 0.85, 0.403, 0.86, 0.569, 0.412, 0.783, 0.754, 0.869, 0.772, 0.78, 0.862, 0.74, 0.689, 0.7, 0.609, 0.609, 0.844, 0.733], 'image': [u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b', u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b', u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b', u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b', u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b', u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b', u'https://i.scdn.co/image/ab67616d0000b273e29fab5766887dfc51422d34', u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b', u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b', u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b', u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b', u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb'], 'album_name': [u'TESTING', u'TESTING', u'TESTING', u'TESTING', u'TESTING', u'TESTING', u'Sound Ancestors', u'TESTING', u'TESTING', u'TESTING', u'TESTING', u'TESTING', u'Ho, why is you here ?', u'Ho, why is you here ?', u'Ho, why is you here ?', u'Ho, why is you here ?', u'Ho, why is you here ?', u'Ho, why is you here ?', u'Ho, why is you here ?', u'Ho, why is you here ?', u'Ho, why is you here ?', u'Ho, why is you here ?'], 'song_name': [u'Kids Turned Out Fine', u'OG Beeper', u'Brotha Man (feat. French Montana)', u'Gunz N Butter (feat. Juicy J)', u'Buck Shots', u'CALLDROPS (feat. Kodak Black)', u'The New Normal', u'Praise The Lord (Da Shine) (feat. Skepta)', u'Fukk Sleep (feat. FKA twigs)', u'Tony Tone', u'A$AP Forever REMIX (feat. Moby, T.I. & Kid Cudi)', u'Distorted Records', u'Pussycat Doll', u'May I', u'19', u'Send The Addy', u'Weak', u'Pockets Bigger', u'In The Party', u'In The Party', u'Like That Bitch', u'Beef FloMix'], 'artist_name': [u'A$AP Rocky', u'A$AP Rocky', u'A$AP Rocky', u'A$AP Rocky', u'A$AP Rocky', u'A$AP Rocky', u'Madlib', u'A$AP Rocky', u'A$AP Rocky', u'A$AP Rocky', u'A$AP Rocky', u'A$AP Rocky', u'Flo Milli', u'Flo Milli', u'Flo Milli',
