@@ -48270,3 +48270,30 @@ GOT THESE SONGS
 ('Rows: ', 5)
 Saved!
 
+[master 46a164f] updating daily data 2021-02-12 07:00:04.537041
+ 3 files changed, 32 insertions(+), 1 deletion(-)
+2021-02-12 07:00:03.499708
+Auth happening...
+Getting songs
+Creating dataframe...
+Paradise (feat. Hannah Diamond)
+Don't Worry (Clappers)
+Walked In
+That's It
+Envy Me
+Earned It
+Link Up (feat. Pooh Shiesty)
+GOT THESE SONGS
+{'played_at': ['06:18', '06:14', '06:10', '06:06', '06:03', '06:01'], 'valence': [0.169, 0.211, 0.768, 0.122, 0.584, 0.803], 'mood_avg': [0.381, 0.492, 0.793, 0.44, 0.627, 0.743], 'danceability': [0.438, 0.812, 0.969, 0.671, 0.74, 0.853], 'energy': [0.689, 0.413, 0.491, 0.616, 0.488, 0.401], 'image': [u'https://i.scdn.co/image/ab67616d0000b27345fefe45b11cde997046d567', u'https://i.scdn.co/image/ab67616d0000b27369e55719b3786a2ededb38b8', u'https://i.scdn.co/image/ab67616d0000b27329f3849573d619fd12f4f29a', u'https://i.scdn.co/image/ab67616d0000b273fac090a59ca8c44feca0073d', u'https://i.scdn.co/image/ab67616d0000b2735f75220f317b41171e88209e', u'https://i.scdn.co/image/ab67616d0000b2734ff0223801d44f2dddcad353'], 'album_name': [u'Vroom Vroom EP', u"Don't Worry (Clappers)", u'Life Of A Hot Boy 2 : Real Trapper', u'The Leek (Vol. 3)', u'Wildboy', u'Earned It'], 'song_name': [u'Paradise (feat. Hannah Diamond)', u"Don't Worry (Clappers)", u'Walked In', u"That's It", u'Envy Me', u'Earned It'], 'artist_name': [u'Charli XCX', u'Slimelife Shawty', u'Bankroll Fresh', u'Chief Keef', u'Calboy', u'Chief Keef'], 'track_id': [u'3SoLRBDWUJ4xtFRDFI1Z6F', u'5LRKPn8fgSZT5e4YHDWng3', u'252gJUec2oDsGBPcxZs4nX', u'0v0BxvMVMiNlu938A21c6p', u'7rvyVWja33WG9R97oeJAjx', u'5aSTOtjXKNN45eXbHUYsCM']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b2734ff022...  ...  0.401
+4  https://i.scdn.co/image/ab67616d0000b2735f7522...  ...  0.488
+3  https://i.scdn.co/image/ab67616d0000b273fac090...  ...  0.616
+2  https://i.scdn.co/image/ab67616d0000b27329f384...  ...  0.491
+1  https://i.scdn.co/image/ab67616d0000b27369e557...  ...  0.413
+0  https://i.scdn.co/image/ab67616d0000b27345fefe...  ...  0.689
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
