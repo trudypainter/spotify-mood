@@ -48320,3 +48320,30 @@ GOT THESE SONGS
 ('Rows: ', 4)
 Saved!
 
+[master 47b58cc] updating daily data 2021-02-12 09:00:04.856475
+ 3 files changed, 30 insertions(+), 1 deletion(-)
+2021-02-12 09:00:03.616441
+Auth happening...
+Getting songs
+Creating dataframe...
+Mysterious
+ok
+Oidar
+When It Hurts so Bad
+I Used to Love Him (feat. Mary J. Blige)
+Nothing Even Matters (feat. D'Angelo)
+Ex-Factor
+GOT THESE SONGS
+{'played_at': ['08:55', '08:52', '08:49', '08:14', '08:09', '08:03'], 'valence': [0.817, 0.473, 0.684, 0.825, 0.745, 0.549], 'mood_avg': [0.678, 0.659, 0.744, 0.701, 0.652, 0.508], 'danceability': [0.571, 0.904, 0.891, 0.669, 0.486, 0.539], 'energy': [0.612, 0.542, 0.571, 0.519, 0.797, 0.363], 'image': [u'https://i.scdn.co/image/ab67616d0000b27324a6fe12818b6018c0b1ded7', u'https://i.scdn.co/image/ab67616d0000b2730c5cfafac2a490c56055a357', u'https://i.scdn.co/image/ab67616d0000b273cc8e8e60aab9877d3396852b', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9'], 'album_name': [u'Mysterious', u'ok', u'Sticky Thumb', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill'], 'song_name': [u'Mysterious', u'ok', u'Oidar', u'When It Hurts so Bad', u'I Used to Love Him (feat. Mary J. Blige)', u"Nothing Even Matters (feat. D'Angelo)"], 'artist_name': [u'CHINAH', u'warner case', u'Hether', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill'], 'track_id': [u'46ttgIruREPWtj42XSJ6jN', u'30j17PGHg0vmx4IgKpZsWu', u'6FfbKN3PDxHJMsdr7DX7wh', u'3CNSWn2mISh7Ll3yJQbVEw', u'3IRdgbdqDcmJBIa6TY2mKX', u'1Q0lOGB52skgfzdcq233vs']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.363
+4  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.797
+3  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.519
+2  https://i.scdn.co/image/ab67616d0000b273cc8e8e...  ...  0.571
+1  https://i.scdn.co/image/ab67616d0000b2730c5cfa...  ...  0.542
+0  https://i.scdn.co/image/ab67616d0000b27324a6fe...  ...  0.612
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
