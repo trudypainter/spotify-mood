@@ -48152,3 +48152,21 @@ Topanga
 Seventeen
 R.I.P.
 Forrest Gump
+[master a9002ce] updating daily data 2021-02-12 00:00:06.648608
+ 3 files changed, 36 insertions(+), 2 deletions(-)
+ create mode 100644 daily-data/2021-02-12.csv
+2021-02-12 00:00:05.572789
+Auth happening...
+Getting songs
+Creating dataframe...
+Ramen Waitress
+Sunflower (feat. Steve Lacy)
+GOT THESE SONGS
+{'played_at': ['23:04'], 'valence': [0.668], 'mood_avg': [0.647], 'danceability': [0.544], 'energy': [0.81], 'image': [u'https://i.scdn.co/image/ab67616d0000b273d80350465304247e8b99ea74'], 'album_name': [u'Hopeless Romantic'], 'song_name': [u'Ramen Waitress'], 'artist_name': [u'High Sunn'], 'track_id': [u'2f4AQJ0A6IRWxSxudtzS5k']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273d80350...  ...   0.81
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
