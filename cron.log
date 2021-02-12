@@ -48048,3 +48048,74 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 0ce76ba] updating daily data 2021-02-11 21:00:05.100947
+ 3 files changed, 28 insertions(+), 1 deletion(-)
+2021-02-11 21:00:03.430198
+Auth happening...
+Getting songs
+Creating dataframe...
+Be Yourself
+Young Lion
+Waves
+Early Mornings
+You Bet I Stare
+Goodbye Baby
+Ivy
+Super Rich Kids
+C U Girl
+Provider
+Dear Old Nicki
+34+35
+Gone
+GOT THESE SONGS
+{'played_at': ['20:58', '20:57', '20:55', '20:55', '20:48', '20:46', '20:43', '20:39', '20:34', '20:32', '20:26', '20:20'], 'valence': [0.935, 0.363, 0.0681, 0.267, 0.752, 0.595, 0.452, 0.58, 0.409, 0.39, 0.455, 0.485], 'mood_avg': [0.723, 0.302, 0.367, 0.432, 0.622, 0.621, 0.485, 0.611, 0.424, 0.483, 0.594, 0.643], 'danceability': [0.657, 0.272, 0.557, 0.498, 0.623, 0.747, 0.567, 0.739, 0.414, 0.654, 0.662, 0.83], 'energy': [0.431, 0.238, 0.586, 0.632, 0.362, 0.422, 0.388, 0.419, 0.473, 0.325, 0.737, 0.585], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b27363fcc0d5defd6b6da534b002', u'https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4', u'https://i.scdn.co/image/ab67616d0000b27306c681e8e20b6e29ac160f8f', u'https://i.scdn.co/image/ab67616d0000b2736fc671dabb4e0122db157e20', u'https://i.scdn.co/image/ab67616d0000b273d92c2e984886d605ed5749b2', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5', u'https://i.scdn.co/image/ab67616d0000b273447d52024a6ac588ad418ae5', u'https://i.scdn.co/image/ab67616d0000b273ea6b1f7e51a387da94f51eb9', u'https://i.scdn.co/image/ab67616d0000b273aa7d2641af0fa4c1f76fafbf', u'https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605'], 'album_name': [u'Blonde', u'Modern Vampires of the City', u'The Life Of Pablo', u'Early Mornings', u'Drowsy', u'Goodbye Baby', u'Blonde', u'channel ORANGE', u'C U Girl', u'Provider', u'Pink Friday (Complete Edition)', u'Positions'], 'song_name': [u'Be Yourself', u'Young Lion', u'Waves', u'Early Mornings', u'You Bet I Stare', u'Goodbye Baby', u'Ivy', u'Super Rich Kids', u'C U Girl', u'Provider', u'Dear Old Nicki', u'34+35'], 'artist_name': [u'Frank Ocean', u'Vampire Weekend', u'Kanye West', u'Goth Babe', u'Banes World', u'The Walters', u'Frank Ocean', u'Frank Ocean', u'Steve Lacy', u'Frank Ocean', u'Nicki Minaj', u'Ariana Grande'], 'track_id': [u'1IdZvb2XK8NmsovQlV6CPn', u'1ZcI6ZPRjKhuF2fhxTCRGD', u'3nAq2hCr1oWsIU54tS98pL', u'5xkjwzwHC5nrdOWM2on6w9', u'5OimwnYY2jWdXc3166rJSh', u'70QqoQ3krRFUHfEzit7vjT', u'2ZWlPOoWh0626oTaHrnl2a', u'0725YWm6Z0TpZ6wrNk64Eb', u'6FBzhcfgGacfXF3AmtfEaX', u'6R6ihJhRbgu7JxJKIbW57w', u'2AS0xaRoyo4WiYehA5DaxN', u'6Im9k8u9iIzKMrmV7BWtlF']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b2735ef878...  ...  0.585
+10  https://i.scdn.co/image/ab67616d0000b273aa7d26...  ...  0.737
+9   https://i.scdn.co/image/ab67616d0000b273ea6b1f...  ...  0.325
+8   https://i.scdn.co/image/ab67616d0000b273447d52...  ...  0.473
+7   https://i.scdn.co/image/ab67616d0000b2737aede4...  ...  0.419
+6   https://i.scdn.co/image/ab67616d0000b273c5649a...  ...  0.388
+5   https://i.scdn.co/image/ab67616d0000b273d92c2e...  ...  0.422
+4   https://i.scdn.co/image/ab67616d0000b2736fc671...  ...  0.362
+3   https://i.scdn.co/image/ab67616d0000b27306c681...  ...  0.632
+2   https://i.scdn.co/image/ab67616d0000b2732a7db8...  ...  0.586
+1   https://i.scdn.co/image/ab67616d0000b27363fcc0...  ...  0.238
+0   https://i.scdn.co/image/ab67616d0000b273c5649a...  ...  0.431
+
+[12 rows x 10 columns]
+('Rows: ', 12)
+Saved!
+
+2021-02-11 22:00:03.279447
+Auth happening...
+Getting songs
+Creating dataframe...
+Me and Michael
+Yellow
+Biking
+The Less I Know The Better
+Come Back to Earth
+HOTTIE
+All Your Love
+I Wonder
+Courtside
+Summertime Magic
+Freaking Out the Neighborhood
+Cupid
+Good Life
+Party In The U.S.A.
+Beach Bummer
+Sidelines
+New House
+Be Yourself
+GOT THESE SONGS
+{'played_at': ['21:56', '21:51', '21:48', '21:43', '21:39', '21:37', '21:33', '21:30', '21:26', '21:23', '21:20', '21:17', '21:14', '21:10', '21:07', '21:05', '21:01'], 'valence': [0.706, 0.746, 0.268, 0.785, 0.119, 0.774, 0.491, 0.124, 0.621, 0.125, 0.847, 0.185, 0.487, 0.47, 0.756, 0.809, 0.317], 'mood_avg': [0.702, 0.689, 0.469, 0.718, 0.204, 0.794, 0.541, 0.36, 0.62, 0.47, 0.731, 0.312, 0.532, 0.588, 0.735, 0.71, 0.363], 'danceability': [0.628, 0.56, 0.673, 0.64, 0.272, 0.856, 0.568, 0.542, 0.668, 0.76, 0.565, 0.465, 0.439, 0.652, 0.689, 0.639, 0.402], 'energy': [0.841, 0.831, 0.463, 0.74, 0.238, 0.712, 0.587, 0.466, 0.524, 0.579, 0.832, 0.259, 0.808, 0.698, 0.783, 0.655, 0.378], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b47d309281c66820b7137f5d', u'https://i.scdn.co/image/ab67616d0000b273030b3a60e1041ebec36d2a73', u'https://i.scdn.co/image/ab67616d0000b27369a8328489e5e485514a8667', u'https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79', u'https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534', u'https://i.scdn.co/image/ab67616d0000b273ef51817e6a6563b6f7ce5872', u'https://i.scdn.co/image/ab67616d0000b273b67bf44cab4cba7dd776aa6f', u'https://i.scdn.co/image/ab67616d0000b2739bbd79106e510d13a9a5ec33', u'https://i.scdn.co/image/ab67616d0000b273d42a7bb4e092b8a61b7a4f20', u'https://i.scdn.co/image/ab67616d0000b273602ca5b83fe44b68074a74b2', u'https://i.scdn.co/image/ab67616d0000b2731e07e60dea6e2c877ea3b2b4', u'https://i.scdn.co/image/ab67616d0000b273f5836791fd265b08343034cd', u'https://i.scdn.co/image/ab67616d0000b2739bbd79106e510d13a9a5ec33', u'https://i.scdn.co/image/ab67616d0000b273d6c3ad6a2a27471e1d5e8103', u'https://i.scdn.co/image/ab67616d0000b273e1918cbed620f9f4b40a2a62', u'https://i.scdn.co/image/ab67616d0000b27384feca0133d9a8e6539a8325', u'https://i.scdn.co/image/ab67616d0000b27323b4745d53df870568b45c53'], 'album_name': [u'Little Dark Age', u'American Boyfriend: A Suburban Love Story', u'Biking', u'Currents', u'Swimming', u'SATURATION III', u'All Your Love', u'Graduation', u'Courtside', u'Summer Pack', u'2', u'Boy in Jeans', u'Graduation', u'The Time Of Our Lives', u'Amo XO', u'Nothing Happens', u'New House'], 'song_name': [u'Me and Michael', u'Yellow', u'Biking', u'The Less I Know The Better', u'Come Back to Earth', u'HOTTIE', u'All Your Love', u'I Wonder', u'Courtside', u'Summertime Magic', u'Freaking Out the Neighborhood', u'Cupid', u'Good Life', u'Party In The U.S.A.', u'Beach Bummer', u'Sidelines', u'New House'], 'artist_name': [u'MGMT', u'Kevin Abstract', u'Frank Ocean', u'Tame Impala', u'Mac Miller', u'BROCKHAMPTON', u'Jakob Ogawa', u'Kanye West', u'Triathalon', u'Childish Gambino', u'Mac DeMarco', u'Ryan Beatty', u'Kanye West', u'Miley Cyrus', u'No Vacation', u'Wallows', u'Rex Orange County'], 'track_id': [u'0t4z0WaQomQqPONghWn8c2', u'0vv7loHDXE3dpcJjWqNm7T', u'2q0VexHJirnUPnEOhr2DxK', u'6K4t31amVTZDgR3sKmwUJJ', u'01z2fBGB8Hl3Jd3zXe4IXR', u'5lbCjKgdT9pvYjrtmSiRvL', u'7G7zCzvyqz39BFE7TqPM3O', u'4jQqM4NI79HEcWHUJb8Hvf', u'4QBs03zMdjDtS6ZRAdojDv', u'4j3GWI86JvSaF0BLdmgcfF', u'25SJaCCPiosugnlY53VhRG', u'7d6MywFjsWZuDdpGOa6orT', u'14blxrgE0VWAgv5aF2wWmx', u'5Q0Nhxo0l2bP3pNjpGJwV1', u'4loxhrC7MqARWyHLofmhtW', u'3gar285uWggoxHwOwO7Ng9', u'79yScU3wNnv2yPF3awYqnU']}
+                                                image  ... energy
+16  https://i.scdn.co/image/ab67616d0000b27323b474...  ...  0.378
+15  https://i.scdn.co/image/ab67616d0000b27384feca...  ...  0.655
+14  https://i.scdn.co/image/ab67616d0000b273e1918c...  ...  0.783
+13  https://i.scdn.co/image/ab67616d0000b273d6c3ad...  ...  0.698
+12  https://i.scdn.co/image/ab67616d0000b2739bbd79...  ...  0.808
+11  https://i.scdn.co/image/ab67616d0000b273f58367...  ...  0.259
+10  https://i.scdn.co/image/ab6
