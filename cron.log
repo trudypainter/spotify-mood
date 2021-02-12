@@ -48362,3 +48362,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 379f6f8] updating daily data 2021-02-12 11:00:04.126349
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-02-12 11:00:03.301063
+Auth happening...
+Getting songs
+Creating dataframe...
+Even If It Hurts
+Pain 1993 (with Playboi Carti)
+Mysterious
+GOT THESE SONGS
+{'played_at': ['10:29', '10:19'], 'valence': [0.616, 0.12], 'mood_avg': [0.677, 0.453], 'danceability': [0.738, 0.825], 'energy': [0.675, 0.373], 'image': [u'https://i.scdn.co/image/ab67616d0000b273db5e990274ebb0a38f78e757', u'https://i.scdn.co/image/ab67616d0000b273bba7cfaf7c59ff0898acba1f'], 'album_name': [u'La Linda', u'Dark Lane Demo Tapes'], 'song_name': [u'Even If It Hurts', u'Pain 1993 (with Playboi Carti)'], 'artist_name': [u'Tei Shi', u'Drake'], 'track_id': [u'4CwchvMNlpQSpQGKEK3sAw', u'6Kj17Afjo1OKJYpf5VzCeo']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273bba7cf...  ...  0.373
+0  https://i.scdn.co/image/ab67616d0000b273db5e99...  ...  0.675
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
