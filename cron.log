@@ -48002,3 +48002,34 @@ GOT THESE SONGS
 ('Rows: ', 6)
 Saved!
 
+[master 6e108cb] updating daily data 2021-02-11 19:00:14.157896
+ 3 files changed, 36 insertions(+), 1 deletion(-)
+2021-02-11 19:00:11.111144
+Auth happening...
+Getting songs
+Creating dataframe...
+Gone
+Pretty Girl hi!
+Hockey
+7 rings
+Dark Horse
+Best Friend (feat. Doja Cat)
+Key Lime OG
+Count Contessa
+Like That Bitch
+GOT THESE SONGS
+{'played_at': ['18:58', '18:54', '18:52', '18:50', '18:14', '18:11', '18:08', '18:05'], 'valence': [0.66, 0.441, 0.667, 0.327, 0.353, 0.402, 0.526, 0.453], 'mood_avg': [0.716, 0.585, 0.726, 0.505, 0.516, 0.65, 0.665, 0.611], 'danceability': [0.91, 0.636, 0.734, 0.778, 0.645, 0.84, 0.832, 0.595], 'energy': [0.441, 0.772, 0.826, 0.317, 0.585, 0.766, 0.607, 0.957], 'image': [u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273680f7aff18376de523d7dea5', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8', u'https://i.scdn.co/image/ab67616d0000b27347f930accd8ac01686401fa2', u'https://i.scdn.co/image/ab67616d0000b27351a5b3a493959c834c222ad7', u'https://i.scdn.co/image/ab67616d0000b273c1afdf59bf153954b806daa8', u'https://i.scdn.co/image/ab67616d0000b273e271c649ef92d73d64f0716d'], 'album_name': [u'Charli', u'Introspection', u'Nasty', u'thank u, next', u'PRISM (Deluxe)', u'Best Friend (feat. Doja Cat)', u'Sugar Trap 2', u'Count Contessa'], 'song_name': [u'Gone', u'Pretty Girl hi!', u'Hockey', u'7 rings', u'Dark Horse', u'Best Friend (feat. Doja Cat)', u'Key Lime OG', u'Count Contessa'], 'artist_name': [u'Charli XCX', u'UMI', u'Rico Nasty', u'Ariana Grande', u'Katy Perry', u'Saweetie', u'Rico Nasty', u'Azealia Banks'], 'track_id': [u'1yUJK3qxPiFiPeAG2gLfuW', u'35SJSCkL9h2APOXwiSTPX1', u'1L7rClADTUuFglXj0D8pEb', u'6ocbgoVGwYJhOv1GgI9NsF', u'5jrdCoLpJSvHHorevXBATy', u'2etHQJxIbV0soyPhelVs9Y', u'23bqONDHbIwWZI1hQ75f4n', u'5qc9oEjMRZvdECu3g5vU8P']}
+                                               image  ... energy
+7  https://i.scdn.co/image/ab67616d0000b273e271c6...  ...  0.957
+6  https://i.scdn.co/image/ab67616d0000b273c1afdf...  ...  0.607
+5  https://i.scdn.co/image/ab67616d0000b27351a5b3...  ...  0.766
+4  https://i.scdn.co/image/ab67616d0000b27347f930...  ...  0.585
+3  https://i.scdn.co/image/ab67616d0000b27356ac7b...  ...  0.317
+2  https://i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.826
+1  https://i.scdn.co/image/ab67616d0000b273680f7a...  ...  0.772
+0  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.441
+
+[8 rows x 10 columns]
+('Rows: ', 8)
+Saved!
+
