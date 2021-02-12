@@ -48245,3 +48245,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 6e50b4f] updating daily data 2021-02-12 06:00:04.350886
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-02-12 06:00:03.151561
+Auth happening...
+Getting songs
+Creating dataframe...
+Link Up (feat. Pooh Shiesty)
+Go Stupid
+Roaring 20s
+through the late night
+Stay Flo
+Sorry
+GOT THESE SONGS
+{'played_at': ['05:56', '05:52', '05:49', '05:46', '05:41'], 'valence': [0.343, 0.645, 0.786, 0.242, 0.674], 'mood_avg': [0.587, 0.793, 0.812, 0.512, 0.71], 'danceability': [0.786, 0.92, 0.91, 0.744, 0.823], 'energy': [0.677, 0.833, 0.67, 0.589, 0.558], 'image': [u'https://i.scdn.co/image/ab67616d0000b273744d730c4a958440105c3029', u'https://i.scdn.co/image/ab67616d0000b273339f780dfdbc38558ea0761d', u'https://i.scdn.co/image/ab67616d0000b2733eee02e04b08d2c415ae63a5', u'https://i.scdn.co/image/ab67616d0000b273f54b99bf27cda88f4a7403ce', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc'], 'album_name': [u'CRIPTAPE', u'THE GOAT', u'Roaring 20s', u'Birds In The Trap Sing McKnight', u'When I Get Home'], 'song_name': [u'Link Up (feat. Pooh Shiesty)', u'Go Stupid', u'Roaring 20s', u'through the late night', u'Stay Flo'], 'artist_name': [u'Lil Loaded', u'Polo G', u'Flo Milli', u'Travis Scott', u'Solange'], 'track_id': [u'2HScVhNGt7DltJYrph09Ee', u'4PklAHGXT5ityno3IA8SKd', u'5N4oNpf3YH76vNhXKc5usy', u'1Ci4wASMY4xtKVMeHA6Sd5', u'6GCIYIWUBSLontW6divqsw']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.558
+3  https://i.scdn.co/image/ab67616d0000b273f54b99...  ...  0.589
+2  https://i.scdn.co/image/ab67616d0000b2733eee02...  ...   0.67
+1  https://i.scdn.co/image/ab67616d0000b273339f78...  ...  0.833
+0  https://i.scdn.co/image/ab67616d0000b273744d73...  ...  0.677
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
