@@ -48170,3 +48170,18 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 091d351] updating daily data 2021-02-12 01:00:03.734677
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+2021-02-12 01:00:02.988884
+Auth happening...
+Getting songs
+Creating dataframe...
+Ramen Waitress
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
