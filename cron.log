@@ -48411,3 +48411,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 013f99d] updating daily data 2021-02-12 14:00:04.495168
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-02-12 14:00:03.414418
+Auth happening...
+Getting songs
+Creating dataframe...
+Praise The Lord (Da Shine) (feat. Skepta)
+Ginseng Strip 2002
+Even If It Hurts
+GOT THESE SONGS
+{'played_at': ['13:16', '13:13'], 'valence': [0.294, 0.386], 'mood_avg': [0.573, 0.537], 'danceability': [0.854, 0.601], 'energy': [0.569, 0.712], 'image': [u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b', u'https://i.scdn.co/image/ab67616d0000b273fd5d145e815d352e195c02e7'], 'album_name': [u'TESTING', u'Lavender'], 'song_name': [u'Praise The Lord (Da Shine) (feat. Skepta)', u'Ginseng Strip 2002'], 'artist_name': [u'A$AP Rocky', u'Yung Lean'], 'track_id': [u'7ycWLEP1GsNjVvcjawXz3z', u'79nEEoEPY2w8EXj9hjn5oc']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273fd5d14...  ...  0.712
+0  https://i.scdn.co/image/ab67616d0000b2739feadc...  ...  0.569
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
