@@ -48297,3 +48297,26 @@ GOT THESE SONGS
 ('Rows: ', 6)
 Saved!
 
+[master 2954b77] updating daily data 2021-02-12 08:00:03.928557
+ 3 files changed, 32 insertions(+), 1 deletion(-)
+2021-02-12 08:00:02.976266
+Auth happening...
+Getting songs
+Creating dataframe...
+Ex-Factor
+Can't Take My Eyes Off of You - (I Love You Baby)
+Everything Is Everything
+I Don't Like
+Paradise (feat. Hannah Diamond)
+GOT THESE SONGS
+{'played_at': ['07:57', '07:52', '07:48', '07:18'], 'valence': [0.668, 0.63, 0.847, 0.416], 'mood_avg': [0.628, 0.683, 0.81, 0.632], 'danceability': [0.593, 0.747, 0.824, 0.742], 'energy': [0.619, 0.662, 0.707, 0.844], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b2732a8cbe9e04db628271fe9558'], 'album_name': [u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'Finally Rich (Deluxe)'], 'song_name': [u'Ex-Factor', u"Can't Take My Eyes Off of You - (I Love You Baby)", u'Everything Is Everything', u"I Don't Like"], 'artist_name': [u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Chief Keef'], 'track_id': [u'2VjXGuPVVxyhMgER3Uz2Fe', u'2GFExyKXf9383tSRSrEHEt', u'7t86fVeDAd63ThaR0ZkxXS', u'2ikkgfIIM9kGKZCXzXnTpj']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b2732a8cbe...  ...  0.844
+2  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.707
+1  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.662
+0  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.619
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
