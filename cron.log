@@ -48628,3 +48628,32 @@ GOT THESE SONGS
 ('Rows: ', 5)
 Saved!
 
+[master d3f8634] updating daily data 2021-02-12 23:00:04.255221
+ 3 files changed, 33 insertions(+), 1 deletion(-)
+2021-02-12 23:00:02.908504
+Auth happening...
+Getting songs
+Creating dataframe...
+Impossible
+Piss On Your Grave (feat. Kanye West)
+Apple Pie
+90210 (feat. Kacy Hill)
+Nightcrawler (feat. Swae Lee & Chief Keef)
+Maria I'm Drunk (feat. Justin Bieber & Young Thug)
+Pornography
+The Knowing
+GOT THESE SONGS
+{'played_at': ['22:59', '22:55', '22:52', '22:49', '22:43', '22:38', '22:32'], 'valence': [0.277, 0.162, 0.28, 0.312, 0.18, 0.142, 0.343], 'mood_avg': [0.406, 0.394, 0.473, 0.391, 0.426, 0.442, 0.508], 'danceability': [0.507, 0.554, 0.655, 0.402, 0.522, 0.648, 0.603], 'energy': [0.464, 0.54, 0.496, 0.526, 0.728, 0.631, 0.649], 'image': [u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f'], 'album_name': [u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)'], 'song_name': [u'Impossible', u'Piss On Your Grave (feat. Kanye West)', u'Apple Pie', u'90210 (feat. Kacy Hill)', u'Nightcrawler (feat. Swae Lee & Chief Keef)', u"Maria I'm Drunk (feat. Justin Bieber & Young Thug)", u'Pornography'], 'artist_name': [u'Travis Scott', u'Travis Scott', u'Travis Scott', u'Travis Scott', u'Travis Scott', u'Travis Scott', u'Travis Scott'], 'track_id': [u'0IabpxMpUV7waD7U4uDIMJ', u'5H25xsIuRWUI8GwcoAoeSG', u'6scpNkWEmUxmKY7nYjVLsX', u'51EC3I1nQXpec4gDk0mQyP', u'3xby7fOyqmeON8jsnom0AT', u'6Yqmv7XJLCrQEauMbPGZSw', u'2QeQNF182V61Im0QpjdVta']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.649
+5  https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.631
+4  https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.728
+3  https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.526
+2  https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.496
+1  https://i.scdn.co/image/ab67616d0000b273743317...  ...   0.54
+0  https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.464
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
