@@ -48879,3 +48879,22 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master c8bfe56] updating daily data 2021-02-13 11:00:05.740246
+ 3 files changed, 22 insertions(+), 1 deletion(-)
+2021-02-13 11:00:03.734830
+Auth happening...
+Getting songs
+Creating dataframe...
+MLS (feat. JPEGMAFIA and CHAI)
+3000 Miles (Baby Baby)
+tell me
+GOT THESE SONGS
+{'played_at': ['10:57', '10:03'], 'valence': [0.68, 0.959], 'mood_avg': [0.701, 0.768], 'danceability': [0.745, 0.643], 'energy': [0.653, 0.638], 'image': [u'https://i.scdn.co/image/ab67616d0000b27305a3c11cb2cb7c60d30316a3', u'https://i.scdn.co/image/ab67616d0000b27306ac715283f8468d1a186234'], 'album_name': [u'Song Machine, Season One: Strange Timez (Deluxe)', u'3000 Miles (Baby Baby)'], 'song_name': [u'MLS (feat. JPEGMAFIA and CHAI)', u'3000 Miles (Baby Baby)'], 'artist_name': [u'Gorillaz', u'Yeek'], 'track_id': [u'1mDbaq398rKyA2g4vv5obQ', u'3Xsmpypmc2DcxQBbmnnrB5']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b27306ac71...  ...  0.638
+0  https://i.scdn.co/image/ab67616d0000b27305a3c1...  ...  0.653
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
