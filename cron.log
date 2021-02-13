@@ -48657,3 +48657,76 @@ GOT THESE SONGS
 ('Rows: ', 7)
 Saved!
 
+[master 2c0b181] updating daily data 2021-02-13 00:00:07.636898
+ 3 files changed, 42 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2021-02-13.csv
+2021-02-13 00:00:06.155896
+Auth happening...
+Getting songs
+Creating dataframe...
+Nightcrawler (feat. Swae Lee & Chief Keef)
+Maria I'm Drunk (feat. Justin Bieber & Young Thug)
+Pornography
+3500 (feat. Future & 2 Chainz)
+Pray 4 Love (feat. The Weeknd)
+Antidote
+Wasted (feat. Juicy J)
+I Can Tell
+Ok Alright (feat. ScHoolboy Q)
+Oh My Dis Side (feat. Quavo)
+Flying High (feat. Toro y Moi)
+Never Catch Me
+Impossible
+GOT THESE SONGS
+{'played_at': ['23:59', '23:53', '23:47', '23:44', '23:36', '23:31', '23:26', '23:22', '23:18', '23:11', '23:06', '23:02'], 'valence': [0.18, 0.142, 0.343, 0.338, 0.211, 0.131, 0.119, 0.0635, 0.149, 0.205, 0.429, 0.127], 'mood_avg': [0.426, 0.442, 0.508, 0.563, 0.452, 0.443, 0.445, 0.464, 0.404, 0.39, 0.588, 0.366], 'danceability': [0.522, 0.648, 0.603, 0.773, 0.629, 0.713, 0.689, 0.696, 0.53, 0.459, 0.628, 0.527], 'energy': [0.728, 0.631, 0.649, 0.595, 0.578, 0.526, 0.61, 0.8, 0.661, 0.623, 0.827, 0.521], 'image': [u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f'], 'album_name': [u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)'], 'song_name': [u'Nightcrawler (feat. Swae Lee & Chief Keef)', u"Maria I'm Drunk (feat. Justin Bieber & Young Thug)", u'Pornography', u'3500 (feat. Future & 2 Chainz)', u'Pray 4 Love (feat. The Weeknd)', u'Antidote', u'Wasted (feat. Juicy J)', u'I Can Tell', u'Ok Alright (feat. ScHoolboy Q)', u'Oh My Dis Side (feat. Quavo)', u'Flying High (feat. Toro y Moi)', u'Never Catch Me'], 'artist_name': [u'Travis Scott', u'Travis Scott', u'Travis Scott', u'Travis Scott', u'Travis Scott', u'Travis Scott', u'Travis Scott', u'Travis Scott', u'Travis Scott', u'Travis Scott', u'Travis Scott', u'Travis Scott'], 'track_id': [u'3xby7fOyqmeON8jsnom0AT', u'6Yqmv7XJLCrQEauMbPGZSw', u'2QeQNF182V61Im0QpjdVta', u'1SGt65i9AnXYdDQt1AtDRH', u'2dJ4rGtsOHOgvTQawsCRtg', u'1wHZx0LgzFHyeIZkUydNXq', u'3dtBVBClM5ms0qCBBrqpUb', u'2hiuiI3ac0I5kJWtkeGHEL', u'0MRZ9nMoLc7qQ8Nhovv8C8', u'2rMFawCg4BW65jzbwztXAV', u'6HszFW6X5wM8DKX1SO0LaK', u'3jg8bevUzKYONDLBBQquif']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.521
+10  https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.827
+9   https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.623
+8   https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.661
+7   https://i.scdn.co/image/ab67616d0000b273743317...  ...    0.8
+6   https://i.scdn.co/image/ab67616d0000b273743317...  ...   0.61
+5   https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.526
+4   https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.578
+3   https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.595
+2   https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.649
+1   https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.631
+0   https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.728
+
+[12 rows x 10 columns]
+('Rows: ', 12)
+Saved!
+
+2021-02-13 01:00:03.851157
+Auth happening...
+Getting songs
+Creating dataframe...
+3500 (feat. Future & 2 Chainz)
+Pray 4 Love (feat. The Weeknd)
+Antidote
+Wasted (feat. Juicy J)
+I Can Tell
+Ok Alright (feat. ScHoolboy Q)
+Oh My Dis Side (feat. Quavo)
+Flying High (feat. Toro y Moi)
+Never Catch Me
+Impossible
+Piss On Your Grave (feat. Kanye West)
+Apple Pie
+90210 (feat. Kacy Hill)
+Nightcrawler (feat. Swae Lee & Chief Keef)
+GOT THESE SONGS
+{'played_at': ['00:59', '00:51', '00:46', '00:42', '00:38', '00:34', '00:27', '00:21', '00:18', '00:15', '00:11', '00:08', '00:04'], 'valence': [0.338, 0.211, 0.131, 0.119, 0.0635, 0.149, 0.205, 0.429, 0.127, 0.277, 0.162, 0.28, 0.312], 'mood_avg': [0.563, 0.452, 0.443, 0.445, 0.464, 0.404, 0.39, 0.588, 0.366, 0.406, 0.394, 0.473, 0.391], 'danceability': [0.773, 0.629, 0.713, 0.689, 0.696, 0.53, 0.459, 0.628, 0.527, 0.507, 0.554, 0.655, 0.402], 'energy': [0.595, 0.578, 0.526, 0.61, 0.8, 0.661, 0.623, 0.827, 0.521, 0.464, 0.54, 0.496, 0.526], 'image': [u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f'], 'album_name': [u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)', u'Rodeo (Expanded Edition)'], 'song_name': [u'3500 (feat. Future & 2 Chainz)', u'Pray 4 Love (feat. The Weeknd)', u'Antidote', u'Wasted (feat. Juicy J)', u'I Can Tell', u'Ok Alright (feat. ScHoolboy Q)', u'Oh My Dis Side (feat. Quavo)', u'Flying High (feat. Toro y Moi)', u'Never Catch Me', u'Impossible', u'Piss On Your Grave (feat. Kanye West)', u'Apple Pie', u'90210 (feat. Kacy Hill)'], 'artist_name': [u'Travis Scott', u'Travis Scott', u'Travis Scott', u'Travis Scott', u'Travis Scott', u'Travis Scott', u'Travis Scott', u'Travis Scott', u'Travis Scott', u'Travis Scott', u'Travis Scott', u'Travis Scott', u'Travis Scott'], 'track_id': [u'1SGt65i9AnXYdDQt1AtDRH', u'2dJ4rGtsOHOgvTQawsCRtg', u'1wHZx0LgzFHyeIZkUydNXq', u'3dtBVBClM5ms0qCBBrqpUb', u'2hiuiI3ac0I5kJWtkeGHEL', u'0MRZ9nMoLc7qQ8Nhovv8C8', u'2rMFawCg4BW65jzbwztXAV', u'6HszFW6X5wM8DKX1SO0LaK', u'3jg8bevUzKYONDLBBQquif', u'0IabpxMpUV7waD7U4uDIMJ', u'5H25xsIuRWUI8GwcoAoeSG', u'6scpNkWEmUxmKY7nYjVLsX', u'51EC3I1nQXpec4gDk0mQyP']}
+                                                image  ... energy
+12  https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.526
+11  https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.496
+10  https://i.scdn.co/image/ab67616d0000b273743317...  ...   0.54
+9   https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.464
+8   https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.521
+7   https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.827
+6   https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.623
+5   https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.661
+4   https://i.scdn.co/image/ab67616d0000b273743317...  ...    0.8
+3   https://i.scdn.co/image/ab67616d0000b273743317...  ...   0.61
+2   https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.526
+1   https://i.scdn.co/image/ab67616d0000b273743317...  ..
