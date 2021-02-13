@@ -48603,3 +48603,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 63c1405] updating daily data 2021-02-12 22:00:04.838705
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-02-12 22:00:03.709184
+Auth happening...
+Getting songs
+Creating dataframe...
+The Knowing
+Loft Music
+Coming Down
+The Party & The After Party
+The Party & The After Party
+Wicked Games
+GOT THESE SONGS
+{'played_at': ['21:45', '21:39', '21:33', '21:28', '21:12'], 'valence': [0.087, 0.0634, 0.25, 0.397, 0.397], 'mood_avg': [0.33, 0.24, 0.488, 0.461, 0.461], 'danceability': [0.451, 0.287, 0.665, 0.438, 0.438], 'energy': [0.573, 0.498, 0.612, 0.634, 0.634], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b298538481c52f7e217ed000', u'https://i.scdn.co/image/ab67616d0000b273b298538481c52f7e217ed000', u'https://i.scdn.co/image/ab67616d0000b273b298538481c52f7e217ed000', u'https://i.scdn.co/image/ab67616d0000b273b298538481c52f7e217ed000', u'https://i.scdn.co/image/ab67616d0000b273b298538481c52f7e217ed000'], 'album_name': [u'Trilogy', u'Trilogy', u'Trilogy', u'Trilogy', u'Trilogy'], 'song_name': [u'The Knowing', u'Loft Music', u'Coming Down', u'The Party & The After Party', u'The Party & The After Party'], 'artist_name': [u'The Weeknd', u'The Weeknd', u'The Weeknd', u'The Weeknd', u'The Weeknd'], 'track_id': [u'6AirEKLAv80bFaIDKpMi7I', u'7xqANDRz8JFxkwfY65WISy', u'3PsS445MHcmtroGTstfTbm', u'0dcf0L6F1LUA1nE2zWH4J2', u'0dcf0L6F1LUA1nE2zWH4J2']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273b29853...  ...  0.634
+3  https://i.scdn.co/image/ab67616d0000b273b29853...  ...  0.634
+2  https://i.scdn.co/image/ab67616d0000b273b29853...  ...  0.612
+1  https://i.scdn.co/image/ab67616d0000b273b29853...  ...  0.498
+0  https://i.scdn.co/image/ab67616d0000b273b29853...  ...  0.573
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
