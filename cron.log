@@ -48860,3 +48860,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master e47a75c] updating daily data 2021-02-13 10:00:04.596132
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-02-13 10:00:03.792728
+Auth happening...
+Getting songs
+Creating dataframe...
+tell me
+Parallel 1
+Pornography
+GOT THESE SONGS
+{'played_at': ['09:53', '09:51'], 'valence': [0.126, 0.151], 'mood_avg': [0.487, 0.23], 'danceability': [0.777, 0.398], 'energy': [0.629, 0.0501], 'image': [u'https://i.scdn.co/image/ab67616d0000b273d6d878c44c304370ac226803', u'https://i.scdn.co/image/ab67616d0000b2738ca7b1e049ed737df8e29d5d'], 'album_name': [u'tell me', u'Parallel'], 'song_name': [u'tell me', u'Parallel 1'], 'artist_name': [u'Yung Kayo', u'Four Tet'], 'track_id': [u'27sZerMRTYOR72CKE1BV8q', u'6XOG65nZN3XKmxevGRHZMC']}
+                                               image  ...  energy
+1  https://i.scdn.co/image/ab67616d0000b2738ca7b1...  ...  0.0501
+0  https://i.scdn.co/image/ab67616d0000b273d6d878...  ...   0.629
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
