@@ -48898,3 +48898,30 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master d838042] updating daily data 2021-02-13 12:00:04.483180
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-02-13 12:00:03.101336
+Auth happening...
+Getting songs
+Creating dataframe...
+Funk U
+For Violet
+tell me
+Paradise (feat. Hannah Diamond)
+A-Men
+Discounts
+For Violet
+GOT THESE SONGS
+{'played_at': ['11:27', '11:20', '11:17', '11:12', '11:09', '11:03'], 'valence': [0.624, 0.114, 0.126, 0.169, 0.506, 0.867], 'mood_avg': [0.669, 0.367, 0.487, 0.381, 0.566, 0.825], 'danceability': [0.723, 0.614, 0.777, 0.438, 0.7, 0.791], 'energy': [0.653, 0.379, 0.629, 0.689, 0.418, 0.81], 'image': [u'https://i.scdn.co/image/ab67616d0000b27377daac07a4988edfd1495679', u'https://i.scdn.co/image/ab67616d0000b2730869a7bb597fe38cb1b98102', u'https://i.scdn.co/image/ab67616d0000b273d6d878c44c304370ac226803', u'https://i.scdn.co/image/ab67616d0000b27345fefe45b11cde997046d567', u'https://i.scdn.co/image/ab67616d0000b2732bb07fe40f5e794d6a5d9ca9', u'https://i.scdn.co/image/ab67616d0000b2731de90928b7e41cc8dfc97c68'], 'album_name': [u'Funk U', u'Collapsed In Sunbeams', u'tell me', u'Vroom Vroom EP', u'On All Fours', u'Discounts'], 'song_name': [u'Funk U', u'For Violet', u'tell me', u'Paradise (feat. Hannah Diamond)', u'A-Men', u'Discounts'], 'artist_name': [u'WEISS', u'Arlo Parks', u'Yung Kayo', u'Charli XCX', u'Goat Girl', u'cupcakKe'], 'track_id': [u'3Nu6och4FpCM0kpLqLGee0', u'2T8OC0ciyqQWxvrHShD6iT', u'27sZerMRTYOR72CKE1BV8q', u'3SoLRBDWUJ4xtFRDFI1Z6F', u'7gjLnTKbKNPeUsZuOBoB7G', u'3NILSt8vgJrRqwWkwB8das']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b2731de909...  ...   0.81
+4  https://i.scdn.co/image/ab67616d0000b2732bb07f...  ...  0.418
+3  https://i.scdn.co/image/ab67616d0000b27345fefe...  ...  0.689
+2  https://i.scdn.co/image/ab67616d0000b273d6d878...  ...  0.629
+1  https://i.scdn.co/image/ab67616d0000b2730869a7...  ...  0.379
+0  https://i.scdn.co/image/ab67616d0000b27377daac...  ...  0.653
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
