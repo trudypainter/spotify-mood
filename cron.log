@@ -48738,3 +48738,20 @@ GOT THESE SONGS
 ('Rows: ', 13)
 Saved!
 
+[master f074f05] updating daily data 2021-02-13 02:00:04.020347
+ 3 files changed, 11 insertions(+), 2 deletions(-)
+2021-02-13 02:00:03.325562
+Auth happening...
+Getting songs
+Creating dataframe...
+Pornography
+3500 (feat. Future & 2 Chainz)
+GOT THESE SONGS
+{'played_at': ['01:03'], 'valence': [0.343], 'mood_avg': [0.508], 'danceability': [0.603], 'energy': [0.649], 'image': [u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f'], 'album_name': [u'Rodeo (Expanded Edition)'], 'song_name': [u'Pornography'], 'artist_name': [u'Travis Scott'], 'track_id': [u'2QeQNF182V61Im0QpjdVta']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.649
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
