@@ -49015,3 +49015,61 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master af241e6] updating daily data 2021-02-13 19:00:12.379558
+ 3 files changed, 29 insertions(+), 1 deletion(-)
+2021-02-13 19:00:10.399050
+Auth happening...
+Getting songs
+Creating dataframe...
+MORE
+III
+never had
+okok/depressing
+Admit It
+MIND FUCK
+Tweakin' Together
+GANGO
+ILOVEUBACK<3
+light
+Dairy Adventure
+Good Morning (feat. Pusha T, Swizz Beatz & Killer Mike)
+Nobody Loves You
+Funk U
+GOT THESE SONGS
+{'played_at': ['18:48', '18:47', '18:37', '18:35', '18:32', '18:30', '18:28', '18:26', '18:22', '18:20', '18:15', '18:11', '18:08'], 'valence': [0.263, 0.264, 0.0419, 0.33, 0.347, 0.13, 0.452, 0.125, 0.119, 0.0818, 0.655, 0.839, 0.745], 'mood_avg': [0.461, 0.347, 0.328, 0.445, 0.47, 0.401, 0.5, 0.429, 0.344, 0.309, 0.772, 0.679, 0.704], 'danceability': [0.482, 0.333, 0.536, 0.597, 0.394, 0.493, 0.595, 0.639, 0.438, 0.423, 0.788, 0.427, 0.589], 'energy': [0.815, 0.542, 0.486, 0.372, 0.87, 0.76, 0.407, 0.615, 0.608, 0.536, 0.972, 0.865, 0.854], 'image': [u'https://i.scdn.co/image/ab67616d0000b273fc68f9bf55f7269c479c1305', u'https://i.scdn.co/image/ab67616d0000b273fc68f9bf55f7269c479c1305', u'https://i.scdn.co/image/ab67616d0000b273fc68f9bf55f7269c479c1305', u'https://i.scdn.co/image/ab67616d0000b273fc68f9bf55f7269c479c1305', u'https://i.scdn.co/image/ab67616d0000b273fc68f9bf55f7269c479c1305', u'https://i.scdn.co/image/ab67616d0000b273fc68f9bf55f7269c479c1305', u'https://i.scdn.co/image/ab67616d0000b2731fb9131c214f208a4d926e23', u'https://i.scdn.co/image/ab67616d0000b273fc68f9bf55f7269c479c1305', u'https://i.scdn.co/image/ab67616d0000b273fc68f9bf55f7269c479c1305', u'https://i.scdn.co/image/ab67616d0000b273fc68f9bf55f7269c479c1305', u'https://i.scdn.co/image/ab67616d0000b2736f9354921ff9ba9713054653', u'https://i.scdn.co/image/ab67616d0000b2737ac4a94f6e4b03ca5bf0fbd9', u'https://i.scdn.co/image/ab67616d0000b2734bd5babc8903b94ec11eeb4b'], 'album_name': [u'Nirvana', u'Nirvana', u'Nirvana', u'Nirvana', u'Nirvana', u'Nirvana', u"Tweakin' Together", u'Nirvana', u'Nirvana', u'Nirvana', u'Dairy Adventure', u'Streams of Thought, Vol. 3: Cane & Able', u'Nobody Loves You'], 'song_name': [u'MORE', u'III', u'never had', u'okok/depressing', u'Admit It', u'MIND FUCK', u"Tweakin' Together", u'GANGO', u'ILOVEUBACK<3', u'light', u'Dairy Adventure', u'Good Morning (feat. Pusha T, Swizz Beatz & Killer Mike)', u'Nobody Loves You'], 'artist_name': [u'Bktherula', u'Bktherula', u'Bktherula', u'Bktherula', u'Bktherula', u'Bktherula', u'Bktherula', u'Bktherula', u'Bktherula', u'Bktherula', u'OTTO', u'Black Thought', u'Similar Kind'], 'track_id': [u'4ubLPLBZs8AGyRMJGGZpmP', u'4GAcDzs2PMpMsSNQrjSd49', u'3FO0zydEZIT7ZDBNBEEYDV', u'00gmQUXQrCQ6GugyjKcwE4', u'1TpgjkBclADPTQkpFODwup', u'2axlhvzQ71ePp2CP8wbocN', u'6r639TM0j9JWM4jWJB1cVR', u'7BMmepF0ntjw6OajGWL50b', u'42cyxei9tmrNo0hNIQyAxA', u'5J2TEG0F34vBPOj5NlUws4', u'63lgEYLPg9eTkxLJ5to2Pl', u'6kkKmXPMYBXUkzH381H7wq', u'4hlQeZJV29wKrTPLmqXkab']}
+                                                image  ... energy
+12  https://i.scdn.co/image/ab67616d0000b2734bd5ba...  ...  0.854
+11  https://i.scdn.co/image/ab67616d0000b2737ac4a9...  ...  0.865
+10  https://i.scdn.co/image/ab67616d0000b2736f9354...  ...  0.972
+9   https://i.scdn.co/image/ab67616d0000b273fc68f9...  ...  0.536
+8   https://i.scdn.co/image/ab67616d0000b273fc68f9...  ...  0.608
+7   https://i.scdn.co/image/ab67616d0000b273fc68f9...  ...  0.615
+6   https://i.scdn.co/image/ab67616d0000b2731fb913...  ...  0.407
+5   https://i.scdn.co/image/ab67616d0000b273fc68f9...  ...   0.76
+4   https://i.scdn.co/image/ab67616d0000b273fc68f9...  ...   0.87
+3   https://i.scdn.co/image/ab67616d0000b273fc68f9...  ...  0.372
+2   https://i.scdn.co/image/ab67616d0000b273fc68f9...  ...  0.486
+1   https://i.scdn.co/image/ab67616d0000b273fc68f9...  ...  0.542
+0   https://i.scdn.co/image/ab67616d0000b273fc68f9...  ...  0.815
+
+[13 rows x 10 columns]
+('Rows: ', 13)
+Saved!
+
+2021-02-13 20:00:03.974909
+Auth happening...
+Getting songs
+Creating dataframe...
+Who I Am (Channel Tres Remix)
+Before
+Diamond Choker
+Count A Million (feat. Lil Uzi Vert)
+2021-02-13 21:00:04.146519
+Auth happening...
+Getting songs
+Creating dataframe...
+Off The Porch
+Walked In
+CAUSEWAY
+Donuts Mind If I Do
+La vita nuova - Logic1000 Remix
