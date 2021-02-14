@@ -49224,3 +49224,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 2245da3] updating daily data 2021-02-14 08:00:04.384518
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-02-14 08:00:03.356584
+Auth happening...
+Getting songs
+Creating dataframe...
+Cleanin' Out My Closet
+Untitled (How Does It Feel)
+Superstition
+B-A-B-Y
+Said Sum
+Off The Porch
+GOT THESE SONGS
+{'played_at': ['07:52', '07:45', '07:35', '07:29', '07:24'], 'valence': [0.87, 0.221, 0.884, 0.669, 0.274], 'mood_avg': [0.863, 0.484, 0.714, 0.624, 0.615], 'danceability': [0.908, 0.838, 0.611, 0.74, 0.929], 'energy': [0.758, 0.304, 0.578, 0.301, 0.667], 'image': [u'https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4', u'https://i.scdn.co/image/ab67616d0000b273963416bf0f5fb7373d412780', u'https://i.scdn.co/image/ab67616d0000b273a14b08b9a6616e121df5e8b0', u'https://i.scdn.co/image/ab67616d0000b2734f7c9d4e6d8651fb031233e6', u'https://i.scdn.co/image/ab67616d0000b273b0c27c2c071c9dbef50ee8d9'], 'album_name': [u'The Eminem Show', u'Voodoo', u'Talking Book', u'Carla', u'Code Red'], 'song_name': [u"Cleanin' Out My Closet", u'Untitled (How Does It Feel)', u'Superstition', u'B-A-B-Y', u'Said Sum'], 'artist_name': [u'Eminem', u"D'Angelo", u'Stevie Wonder', u'Carla Thomas', u'Moneybagg Yo'], 'track_id': [u'7BMO7O7ImjV8HNTH74Tshv', u'4oPNN7syJYSjzDhRerF966', u'4N0TP4Rmj6QQezWV88ARNJ', u'35w6fQ0Wnuv7aIryRx7gTq', u'3sKz6Sd72K0ofPWcJPPk6H']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273b0c27c...  ...  0.667
+3  https://i.scdn.co/image/ab67616d0000b2734f7c9d...  ...  0.301
+2  https://i.scdn.co/image/ab67616d0000b273a14b08...  ...  0.578
+1  https://i.scdn.co/image/ab67616d0000b273963416...  ...  0.304
+0  https://i.scdn.co/image/ab67616d0000b2736ca5c9...  ...  0.758
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
