@@ -49304,3 +49304,18 @@ GOT THESE SONGS
 ('Rows: ', 4)
 Saved!
 
+[master e1670ae] updating daily data 2021-02-14 12:00:03.650591
+ 2 files changed, 24 insertions(+), 1 deletion(-)
+2021-02-14 12:00:03.059024
+Auth happening...
+Getting songs
+Creating dataframe...
+Hope She'll Be Happier
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
