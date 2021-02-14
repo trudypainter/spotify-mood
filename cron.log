@@ -49264,3 +49264,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 8314e6f] updating daily data 2021-02-14 10:00:04.357407
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-02-14 10:00:03.594589
+Auth happening...
+Getting songs
+Creating dataframe...
+Petrol
+Cleanin' Out My Closet
+GOT THESE SONGS
+{'played_at': ['09:57'], 'valence': [0.698], 'mood_avg': [0.744], 'danceability': [0.77], 'energy': [0.783], 'image': [u'https://i.scdn.co/image/ab67616d0000b273d99733fbb98e0b581503b43e'], 'album_name': [u'U Know How We Roll'], 'song_name': [u'Petrol'], 'artist_name': [u'Ward 21'], 'track_id': [u'40bRyPQLP3auI0q2FkHrNa']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273d99733...  ...  0.783
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
