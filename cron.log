@@ -49319,3 +49319,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 9d826f3] updating daily data 2021-02-14 13:00:03.601297
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-02-14 13:00:02.657282
+Auth happening...
+Getting songs
+Creating dataframe...
+Don't Miss It
+Into The Red
+Anytime You Need a Friend
+Waterfalls - Remastered 2011
+Toxic
+Hope She'll Be Happier
+GOT THESE SONGS
+{'played_at': ['12:42', '12:36', '12:31', '12:26', '12:21'], 'valence': [0.052, 0.151, 0.295, 0.108, 0.924], 'mood_avg': [0.297, 0.358, 0.456, 0.215, 0.847], 'danceability': [0.52, 0.508, 0.57, 0.394, 0.774], 'energy': [0.341, 0.47, 0.549, 0.0729, 0.838], 'image': [u'https://i.scdn.co/image/ab67616d0000b2739af56a54edacb6237b49fa2e', u'https://i.scdn.co/image/ab67616d0000b2739af56a54edacb6237b49fa2e', u'https://i.scdn.co/image/ab67616d0000b2730f688fa11af022f0210e21cb', u'https://i.scdn.co/image/ab67616d0000b27394cfe1e9419e0d761eae83ba', u'https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4'], 'album_name': [u'Assume Form', u'Assume Form', u'Music Box', u'Love', u'In The Zone'], 'song_name': [u"Don't Miss It", u'Into The Red', u'Anytime You Need a Friend', u'Waterfalls - Remastered 2011', u'Toxic'], 'artist_name': [u'James Blake', u'James Blake', u'Mariah Carey', u'Paul McCartney', u'Britney Spears'], 'track_id': [u'1p80XDFkNwDaA87sh2C2Xn', u'1qb38ovGv4fTZ1DR0mRfmn', u'0S8xKy1efKy3LvR53qe3Cq', u'39PqKS5D4JGQjjJVoof58e', u'6I9VzXrHxO9rA9A5euc8Ak']}
+                                               image  ...  energy
+4  https://i.scdn.co/image/ab67616d0000b273efc698...  ...   0.838
+3  https://i.scdn.co/image/ab67616d0000b27394cfe1...  ...  0.0729
+2  https://i.scdn.co/image/ab67616d0000b2730f688f...  ...   0.549
+1  https://i.scdn.co/image/ab67616d0000b2739af56a...  ...    0.47
+0  https://i.scdn.co/image/ab67616d0000b2739af56a...  ...   0.341
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
