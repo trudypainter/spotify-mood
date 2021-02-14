@@ -49281,3 +49281,26 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master e163919] updating daily data 2021-02-14 11:00:04.643504
+ 3 files changed, 22 insertions(+), 1 deletion(-)
+2021-02-14 11:00:03.637527
+Auth happening...
+Getting songs
+Creating dataframe...
+Hope She'll Be Happier
+Little Green
+Petrol
+Little Green
+Petrol
+GOT THESE SONGS
+{'played_at': ['10:35', '10:30', '10:26', '10:22'], 'valence': [0.0745, 0.304, 0.698, 0.304], 'mood_avg': [0.203, 0.4, 0.744, 0.4], 'danceability': [0.399, 0.636, 0.77, 0.636], 'energy': [0.066, 0.121, 0.783, 0.121], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e1e350d06ffebd2e19e047ce', u'https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7', u'https://i.scdn.co/image/ab67616d0000b273d99733fbb98e0b581503b43e', u'https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7'], 'album_name': [u'Just As I Am', u'Blue', u'U Know How We Roll', u'Blue'], 'song_name': [u"Hope She'll Be Happier", u'Little Green', u'Petrol', u'Little Green'], 'artist_name': [u'Bill Withers', u'Joni Mitchell', u'Ward 21', u'Joni Mitchell'], 'track_id': [u'5Di9MiY5PnRbhfT9S8NBGW', u'11ZNWD9Xzq9p3n07NbWSZw', u'40bRyPQLP3auI0q2FkHrNa', u'11ZNWD9Xzq9p3n07NbWSZw']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273e9f77b...  ...  0.121
+2  https://i.scdn.co/image/ab67616d0000b273d99733...  ...  0.783
+1  https://i.scdn.co/image/ab67616d0000b273e9f77b...  ...  0.121
+0  https://i.scdn.co/image/ab67616d0000b273e1e350...  ...  0.066
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
