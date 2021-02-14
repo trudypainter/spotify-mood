@@ -49445,3 +49445,42 @@ GOT THESE SONGS
 ('Rows: ', 18)
 Saved!
 
+[master fba6585] updating daily data 2021-02-14 17:00:06.759901
+ 3 files changed, 34 insertions(+), 2 deletions(-)
+2021-02-14 17:00:04.290845
+Auth happening...
+Getting songs
+Creating dataframe...
+Closer To You
+Impossible
+Alewife
+Pilot Jones
+Super Rich Kids
+Not Just Money
+Sweet Life
+Sierra Leone
+Fertilizer
+Thinkin Bout You
+Start
+Futura Free
+Godspeed
+GOT THESE SONGS
+{'played_at': ['16:57', '16:54', '16:50', '16:46', '16:43', '16:38', '16:37', '16:33', '16:31', '16:30', '16:27', '16:08'], 'valence': [0.663, 0.55, 0.264, 0.394, 0.58, 0.103, 0.8, 0.616, 0.96, 0.2, 0.0316, 0.201], 'mood_avg': [0.644, 0.516, 0.345, 0.402, 0.611, 0.349, 0.623, 0.58, 0.78, 0.436, 0.217, 0.322], 'danceability': [0.76, 0.432, 0.433, 0.394, 0.739, 0.357, 0.479, 0.529, 0.706, 0.721, 0.347, 0.266], 'energy': [0.376, 0.615, 0.329, 0.433, 0.419, 0.827, 0.558, 0.608, 0.57, 0.339, 0.33, 0.678], 'image': [u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', u'https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5', u'https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5', u'https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5', u'https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5', u'https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5', u'https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5', u'https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5', u'https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526'], 'album_name': [u'Immunity', u'Immunity', u'Immunity', u'channel ORANGE', u'channel ORANGE', u'channel ORANGE', u'channel ORANGE', u'channel ORANGE', u'channel ORANGE', u'channel ORANGE', u'channel ORANGE', u'Blonde'], 'song_name': [u'Closer To You', u'Impossible', u'Alewife', u'Pilot Jones', u'Super Rich Kids', u'Not Just Money', u'Sweet Life', u'Sierra Leone', u'Fertilizer', u'Thinkin Bout You', u'Start', u'Futura Free'], 'artist_name': [u'Clairo', u'Clairo', u'Clairo', u'Frank Ocean', u'Frank Ocean', u'Frank Ocean', u'Frank Ocean', u'Frank Ocean', u'Frank Ocean', u'Frank Ocean', u'Frank Ocean', u'Frank Ocean'], 'track_id': [u'3r2TFFPynN97CgmzXKal5X', u'71WT6kvVYlGba71B65JrH4', u'3jgrNd3uPU1c2PFBKYsV9d', u'2ohegz9maxzroKBu9YhcCM', u'0725YWm6Z0TpZ6wrNk64Eb', u'3iW3y326xuRpNVXzOMBZy5', u'6MEDfjHxnVNcYmHe3mM6L2', u'1HwbgJAU9PZ7YbzKgVgoIF', u'6jypaMkKsoc5npsVzxhksl', u'7DfFc7a6Rwfi3YQMRbDMau', u'0GAE689kVy7sFT2QWZH1Xa', u'5k8LB57xOq8UUNVaKWSqrf']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b273c5649a...  ...  0.678
+10  https://i.scdn.co/image/ab67616d0000b2737aede4...  ...   0.33
+9   https://i.scdn.co/image/ab67616d0000b2737aede4...  ...  0.339
+8   https://i.scdn.co/image/ab67616d0000b2737aede4...  ...   0.57
+7   https://i.scdn.co/image/ab67616d0000b2737aede4...  ...  0.608
+6   https://i.scdn.co/image/ab67616d0000b2737aede4...  ...  0.558
+5   https://i.scdn.co/image/ab67616d0000b2737aede4...  ...  0.827
+4   https://i.scdn.co/image/ab67616d0000b2737aede4...  ...  0.419
+3   https://i.scdn.co/image/ab67616d0000b2737aede4...  ...  0.433
+2   https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...  0.329
+1   https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...  0.615
+0   https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...  0.376
+
+[12 rows x 10 columns]
+('Rows: ', 12)
+Saved!
+
