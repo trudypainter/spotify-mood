@@ -49956,3 +49956,46 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 042e46d] updating daily data 2021-02-15 17:00:06.159865
+ 3 files changed, 30 insertions(+), 1 deletion(-)
+2021-02-15 17:00:03.574172
+Auth happening...
+Getting songs
+Creating dataframe...
+positions
+BB
+Delete Forever
+Chun Swae (feat. Swae Lee)
+0000 871 0020
+Sugar
+Autumn Sweater
+Calor
+Biscuit Town
+Down With the Clique
+Emulate
+Take Your Time
+Pang
+My Name is Dark - Algorithm Mix
+see me
+GOT THESE SONGS
+{'played_at': ['16:57', '16:54', '16:51', '16:47', '16:38', '16:32', '16:30', '16:22', '16:19', '16:15', '16:11', '16:09', '16:06', '16:02'], 'valence': [0.682, 0.267, 0.389, 0.21, 0.17, 0.139, 0.858, 0.0431, 0.512, 0.356, 0.0978, 0.0628, 0.547, 0.486], 'mood_avg': [0.728, 0.536, 0.527, 0.509, 0.418, 0.332, 0.685, 0.23, 0.617, 0.5, 0.265, 0.19, 0.638, 0.567], 'danceability': [0.737, 0.693, 0.56, 0.851, 0.645, 0.586, 0.628, 0.345, 0.756, 0.664, 0.506, 0.352, 0.707, 0.518], 'energy': [0.802, 0.761, 0.736, 0.421, 0.461, 0.209, 0.455, 0.375, 0.549, 0.459, 0.116, 0.12, 0.681, 0.828], 'image': [u'https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605', u'https://i.scdn.co/image/ab67616d0000b273a7ef0539771ba8bfa0bae81c', u'https://i.scdn.co/image/ab67616d0000b2731a302aafa2ea587960e27951', u'https://i.scdn.co/image/ab67616d0000b273540ab7c149079184e8724dc4', u'https://i.scdn.co/image/ab67616d0000b27372cdd96fef2c42b9d66366c5', u'https://i.scdn.co/image/ab67616d0000b2732c8696d7273aae34bf911007', u'https://i.scdn.co/image/ab67616d0000b2734599fdba5f431f3b419349a0', u'https://i.scdn.co/image/ab67616d0000b2738c894fac3d113f98885d3117', u'https://i.scdn.co/image/ab67616d0000b273c02d78ecd28d80920aa11f1c', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b27337af2ce4e0abffff0045034c', u'https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b2731a302aafa2ea587960e27951'], 'album_name': [u'Positions', u'BB', u'Miss Anthropocene (Deluxe Edition)', u'Queen', u'871', u'Boys by Girls', u'I Can Hear The Heart Beating As One', u'KiCk i', u'The OOZ', u'When I Get Home', u'Both', u'Negro Swan', u'Pang', u'Miss Anthropocene (Deluxe Edition)'], 'song_name': [u'positions', u'BB', u'Delete Forever', u'Chun Swae (feat. Swae Lee)', u'0000 871 0020', u'Sugar', u'Autumn Sweater', u'Calor', u'Biscuit Town', u'Down With the Clique', u'Emulate', u'Take Your Time', u'Pang', u'My Name is Dark - Algorithm Mix'], 'artist_name': [u'Ariana Grande', u'Shygirl', u'Grimes', u'Nicki Minaj', u'00110100 01010100', u'Instupendo', u'Yo La Tengo', u'Arca', u'King Krule', u'Solange', u'Okay Kaya', u'Blood Orange', u'Caroline Polachek', u'Grimes'], 'track_id': [u'35mvY5S1H3J2QZyna3TFe0', u'1oTZfA19b295ZdWdFTzJNj', u'71J2rawCGulCAyTMtNY3Ej', u'03It1uO69CjGWP3yyVe465', u'6weYea2ehCasn4N1O440K9', u'0Zpxnqxeqj7htYK7FHwjVF', u'19Qi2Cymjh7HDQESDrDBzs', u'4dP5qWE1QpJEAMowhyVVLH', u'5650dsaBmvp9FuhCLLyijB', u'3803fF96TYnzkSMA0M0L5H', u'6y4Z8DQKipkL3MNGyl7xYZ', u'2CRe6RkEv44m7aUglQ3tCu', u'5bcJwBywjaz78KTf374PCb', u'437CZPz3PTVkbMONkEcgDX']}
+                                                image  ... energy
+13  https://i.scdn.co/image/ab67616d0000b2731a302a...  ...  0.828
+12  https://i.scdn.co/image/ab67616d0000b2737d983e...  ...  0.681
+11  https://i.scdn.co/image/ab67616d0000b27347dd2c...  ...   0.12
+10  https://i.scdn.co/image/ab67616d0000b27337af2c...  ...  0.116
+9   https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.459
+8   https://i.scdn.co/image/ab67616d0000b273c02d78...  ...  0.549
+7   https://i.scdn.co/image/ab67616d0000b2738c894f...  ...  0.375
+6   https://i.scdn.co/image/ab67616d0000b2734599fd...  ...  0.455
+5   https://i.scdn.co/image/ab67616d0000b2732c8696...  ...  0.209
+4   https://i.scdn.co/image/ab67616d0000b27372cdd9...  ...  0.461
+3   https://i.scdn.co/image/ab67616d0000b273540ab7...  ...  0.421
+2   https://i.scdn.co/image/ab67616d0000b2731a302a...  ...  0.736
+1   https://i.scdn.co/image/ab67616d0000b273a7ef05...  ...  0.761
+0   https://i.scdn.co/image/ab67616d0000b2735ef878...  ...  0.802
+
+[14 rows x 10 columns]
+('Rows: ', 14)
+Saved!
+
