@@ -49697,3 +49697,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master dd1e2e3] updating daily data 2021-02-15 05:00:03.172366
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-02-15 05:00:02.599337
+Auth happening...
+Getting songs
+Creating dataframe...
+NEW MAGIC WAND
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
