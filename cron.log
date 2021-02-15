@@ -49606,3 +49606,18 @@ scdn.co/image/ab67616d0000b27390b4e1...  ...  0.471
 ('Rows: ', 16)
 Saved!
 
+[master c30851a] updating daily data 2021-02-14 23:00:04.145084
+ 2 files changed, 14 insertions(+), 2 deletions(-)
+2021-02-14 23:00:03.063809
+Auth happening...
+Getting songs
+Creating dataframe...
+NEW MAGIC WAND
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
