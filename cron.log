@@ -49484,3 +49484,48 @@ GOT THESE SONGS
 ('Rows: ', 12)
 Saved!
 
+[master ec5e7de] updating daily data 2021-02-14 18:00:05.236643
+ 3 files changed, 52 insertions(+), 1 deletion(-)
+2021-02-14 18:00:03.618713
+Auth happening...
+Getting songs
+Creating dataframe...
+Are You In Love?
+Happy
+Hazel
+Kin
+Give A Little
+Power On
+Softly
+Assume Form
+Alaska
+Empty
+Bags
+North
+Closer To You
+GOT THESE SONGS
+{'played_at': ['17:59', '17:55', '17:52', '17:48', '17:47', '17:44', '17:40', '17:36', '17:31', '17:28', '17:24', '17:05'], 'valence': [0.335, 0.519, 0.53, 0.775, 0.766, 0.618, 0.782, 0.148, 0.178, 0.504, 0.868, 0.54], 'mood_avg': [0.412, 0.6, 0.511, 0.7, 0.693, 0.6, 0.704, 0.294, 0.487, 0.537, 0.753, 0.483], 'danceability': [0.557, 0.798, 0.578, 0.559, 0.618, 0.649, 0.759, 0.413, 0.847, 0.59, 0.742, 0.352], 'energy': [0.278, 0.367, 0.338, 0.832, 0.695, 0.468, 0.436, 0.349, 0.386, 0.498, 0.546, 0.632], 'image': [u'https://i.scdn.co/image/ab67616d0000b273534dc6aebb7cf3c04e410cc6', u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da', u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da', u'https://i.scdn.co/image/ab67616d0000b273030b3a60e1041ebec36d2a73', u'https://i.scdn.co/image/ab67616d0000b273d658a02ba8931985bdc4e0da', u'https://i.scdn.co/image/ab67616d0000b273534dc6aebb7cf3c04e410cc6', u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', u'https://i.scdn.co/image/ab67616d0000b273534dc6aebb7cf3c04e410cc6', u'https://i.scdn.co/image/ab67616d0000b273d658a02ba8931985bdc4e0da', u'https://i.scdn.co/image/ab67616d0000b273030b3a60e1041ebec36d2a73', u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc'], 'album_name': [u'Assume Form', u'Cat Heaven', u'Cat Heaven', u'American Boyfriend: A Suburban Love Story', u'Heard It In A Past Life', u'Assume Form', u'Immunity', u'Assume Form', u'Heard It In A Past Life', u'American Boyfriend: A Suburban Love Story', u'Immunity', u'Immunity'], 'song_name': [u'Are You In Love?', u'Happy', u'Hazel', u'Kin', u'Give A Little', u'Power On', u'Softly', u'Assume Form', u'Alaska', u'Empty', u'Bags', u'North'], 'artist_name': [u'James Blake', u'Roy Blair', u'Roy Blair', u'Kevin Abstract', u'Maggie Rogers', u'James Blake', u'Clairo', u'James Blake', u'Maggie Rogers', u'Kevin Abstract', u'Clairo', u'Clairo'], 'track_id': [u'48TwC1IPK9g9r6xYMseKZ0', u'6aHTqCC2qHHs5H0rjgJVbc', u'6olfAuiqOGpkQLo4i5A7nd', u'1WiA6ics95lhncvzFIFFEC', u'3D4uUFRoYDFHbkQlTKL2Om', u'2qNUaGPyb4HhCutBS0Z0hF', u'4PvbbMYL4fkToni5BLaYRb', u'2zUYg51Df8nLuymwI67mzk', u'4HfLQJtVT1KiX1eVedDyTm', u'6gSw5vz7dcafda23VqMrnl', u'6UFivO2zqqPFPoQYsEMuCc', u'0zzz9l8ZX5vDBJmNHnWOom']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...  0.632
+10  https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...  0.546
+9   https://i.scdn.co/image/ab67616d0000b273030b3a...  ...  0.498
+8   https://i.scdn.co/image/ab67616d0000b273d658a0...  ...  0.386
+7   https://i.scdn.co/image/ab67616d0000b273534dc6...  ...  0.349
+6   https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...  0.436
+5   https://i.scdn.co/image/ab67616d0000b273534dc6...  ...  0.468
+4   https://i.scdn.co/image/ab67616d0000b273d658a0...  ...  0.695
+3   https://i.scdn.co/image/ab67616d0000b273030b3a...  ...  0.832
+2   https://i.scdn.co/image/ab67616d0000b273de3c33...  ...  0.338
+1   https://i.scdn.co/image/ab67616d0000b273de3c33...  ...  0.367
+0   https://i.scdn.co/image/ab67616d0000b273534dc6...  ...  0.278
+
+[12 rows x 10 columns]
+('Rows: ', 12)
+Saved!
+
+2021-02-14 19:00:04.895913
+Auth happening...
+Getting songs
+Creating dataframe...
+Alewife
+Lilo
