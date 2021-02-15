@@ -49729,3 +49729,30 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 4196fef] updating daily data 2021-02-15 07:00:04.132694
+ 3 files changed, 24 insertions(+), 1 deletion(-)
+2021-02-15 07:00:03.085486
+Auth happening...
+Getting songs
+Creating dataframe...
+Plug Walk
+I Get the Bag (feat. Migos)
+Nasty Freestyle - The Replay
+Nuketown (feat. Juice WRLD)
+Buy U a Drank (Shawty Snappin') (feat. Yung Joc)
+Narcos
+I Don't Wanna Know
+GOT THESE SONGS
+{'played_at': ['06:20', '06:17', '06:13', '06:11', '06:08', '06:04'], 'valence': [0.158, 0.425, 0.541, 0.632, 0.594, 0.242], 'mood_avg': [0.517, 0.653, 0.653, 0.699, 0.528, 0.588], 'danceability': [0.876, 0.89, 0.891, 0.808, 0.451, 0.936], 'energy': [0.519, 0.633, 0.403, 0.617, 0.55, 0.585], 'image': [u'https://i.scdn.co/image/ab67616d0000b27364353426de6dfe0206f6d1d3', u'https://i.scdn.co/image/ab67616d0000b273af7525e55333b110ff0f4e95', u'https://i.scdn.co/image/ab67616d0000b27357da8e53f034bd06ecb25446', u'https://i.scdn.co/image/ab67616d0000b273e62c8561e3b1bd9ad952ce01', u'https://i.scdn.co/image/ab67616d0000b273aad32187513cd6916ddd3c87', u'https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890'], 'album_name': [u'The World Is Yours', u'Mr. Davis', u'Nasty Freestyle (The Replay)', u'STOKELEY', u'Epiphany', u'Culture II'], 'song_name': [u'Plug Walk', u'I Get the Bag (feat. Migos)', u'Nasty Freestyle - The Replay', u'Nuketown (feat. Juice WRLD)', u"Buy U a Drank (Shawty Snappin') (feat. Yung Joc)", u'Narcos'], 'artist_name': [u'Rich The Kid', u'Gucci Mane', u'T-Wayne', u'Ski Mask The Slump God', u'T-Pain', u'Migos'], 'track_id': [u'1ZAyjvIk9YiD76yYy0TEG6', u'1XRgIKC5TPwo7nWGyKqgG0', u'0FRDRVD3PCsp5EwroPcXxi', u'74lnM5V6ecvoTPV0fvptx9', u'2aIdVb8v9KTpEZnftkz2mD', u'0wbnC9AUenxp613TYaJsGK']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b2739c188c...  ...  0.585
+4  https://i.scdn.co/image/ab67616d0000b273aad321...  ...   0.55
+3  https://i.scdn.co/image/ab67616d0000b273e62c85...  ...  0.617
+2  https://i.scdn.co/image/ab67616d0000b27357da8e...  ...  0.403
+1  https://i.scdn.co/image/ab67616d0000b273af7525...  ...  0.633
+0  https://i.scdn.co/image/ab67616d0000b273643534...  ...  0.519
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
