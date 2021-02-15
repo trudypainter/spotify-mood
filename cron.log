@@ -49756,3 +49756,104 @@ GOT THESE SONGS
 ('Rows: ', 6)
 Saved!
 
+[master 1de33ed] updating daily data 2021-02-15 08:00:04.374927
+ 2 files changed, 28 insertions(+), 1 deletion(-)
+2021-02-15 08:00:03.607810
+Auth happening...
+Getting songs
+Creating dataframe...
+Plug Walk
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-02-15 09:00:03.493284
+Auth happening...
+Getting songs
+Creating dataframe...
+My Name is Dark - Algorithm Mix
+FUBT
+WAKING UP DOWN
+With Him
+I Just Spoke to Mama
+That Ain't No Dang Cat!
+Look At Me Now
+Squash Squash
+Obvs
+Stoned Again
+Plug Walk
+GOT THESE SONGS
+{'played_at': ['08:59', '08:55', '08:52', '08:48', '08:47', '08:43', '08:42', '08:19', '08:15', '08:11'], 'valence': [0.486, 0.287, 0.41, 0.215, 0.694, 0.827, 0.2, 0.2, 0.407, 0.0795], 'mood_avg': [0.567, 0.458, 0.586, 0.332, 0.513, 0.827, 0.392, 0.429, 0.502, 0.313], 'danceability': [0.518, 0.63, 0.825, 0.413, 0.517, 0.807, 0.564, 0.613, 0.652, 0.399], 'energy': [0.828, 0.455, 0.458, 0.406, 0.145, 0.867, 0.43, 0.521, 0.392, 0.606], 'image': [u'https://i.scdn.co/image/ab67616d0000b2731a302aafa2ea587960e27951', u'https://i.scdn.co/image/ab67616d0000b273d2631fe4c90aae7dec8fb0df', u'https://i.scdn.co/image/ab67616d0000b2738ed9099f0643b99f85fa442e', u'https://i.scdn.co/image/ab67616d0000b273706a733634175d413dedfe54', u'https://i.scdn.co/image/ab67616d0000b273af071325c295f71b0d320a90', u'https://i.scdn.co/image/ab67616d0000b273b80f8eb7cd3776e665e77477', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b273706a733634175d413dedfe54', u'https://i.scdn.co/image/ab67616d0000b273e8ac8f5ea7877d823e5df3ea', u'https://i.scdn.co/image/ab67616d0000b27328916ffa16f5473ac57ffe84'], 'album_name': [u'Miss Anthropocene (Deluxe Edition)', u'Women In Music Pt. III', u'WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358', u'Freetown Sound', u'Cannonball!', u'Only Diamonds Cut Diamonds', u'Pang', u'Freetown Sound', u'In Colour', u'Man Alive!'], 'song_name': [u'My Name is Dark - Algorithm Mix', u'FUBT', u'WAKING UP DOWN', u'With Him', u'I Just Spoke to Mama', u"That Ain't No Dang Cat!", u'Look At Me Now', u'Squash Squash', u'Obvs', u'Stoned Again'], 'artist_name': [u'Grimes', u'HAIM', u'Yaeji', u'Blood Orange', u'Sen Morimoto', u'Vegyn', u'Caroline Polachek', u'Blood Orange', u'Jamie xx', u'King Krule'], 'track_id': [u'437CZPz3PTVkbMONkEcgDX', u'1jEOPu0DE6FXyFP40R4Zdt', u'1Q8Mq7nWsRPkOfYJze7SMi', u'07vkqVkprUh8XL7Kz1CJ5Z', u'1VhvguVcu75eDzhDlRj4Sc', u'2rktSGjo4b3QPFQKXAGpD9', u'1z7Pc2fpIffOtXQh1XHMn9', u'4YpWlvxGkGMq55rJUlsWNx', u'7HTnBZgjsp1T9uF286kQ7o', u'1jk6tbx0xFuEq1eHGTDMv3']}
+                                               image  ... energy
+9  https://i.scdn.co/image/ab67616d0000b27328916f...  ...  0.606
+8  https://i.scdn.co/image/ab67616d0000b273e8ac8f...  ...  0.392
+7  https://i.scdn.co/image/ab67616d0000b273706a73...  ...  0.521
+6  https://i.scdn.co/image/ab67616d0000b2737d983e...  ...   0.43
+5  https://i.scdn.co/image/ab67616d0000b273b80f8e...  ...  0.867
+4  https://i.scdn.co/image/ab67616d0000b273af0713...  ...  0.145
+3  https://i.scdn.co/image/ab67616d0000b273706a73...  ...  0.406
+2  https://i.scdn.co/image/ab67616d0000b2738ed909...  ...  0.458
+1  https://i.scdn.co/image/ab67616d0000b273d2631f...  ...  0.455
+0  https://i.scdn.co/image/ab67616d0000b2731a302a...  ...  0.828
+
+[10 rows x 10 columns]
+2021-02-15 10:00:03.116995
+Auth happening...
+Getting songs
+Creating dataframe...
+Givenupitis
+DROPPED OUTTA COLLEGE
+Drunk With My Friends
+Miss Me (feat. ABRA)
+Comet Face
+Borderline
+Weary
+Entrance
+Faceshopping
+Borderline - Blood Orange Remix
+insula
+(Don't Let The Dragon) Draag On
+My Name is Dark - Algorithm Mix
+GOT THESE SONGS
+{'played_at': ['09:41', '09:33', '09:31', '09:29', '09:26', '09:22', '09:18', '09:15', '09:14', '09:10', '09:02', '09:02'], 'valence': [0.582, 0.191, 0.399, 0.227, 0.292, 0.873, 0.11, 0.295, 0.304, 0.315, 0.626, 0.159], 'mood_avg': [0.589, 0.517, 0.607, 0.445, 0.522, 0.772, 0.34, 0.257, 0.464, 0.404, 0.437, 0.385], 'danceability': [0.677, 0.911, 0.83, 0.659, 0.588, 0.621, 0.507, 0.274, 0.636, 0.48, 0.2, 0.699], 'energy': [0.425, 0.379, 0.578, 0.454, 0.85, 0.873, 0.466, 0.146, 0.441, 0.429, 0.534, 0.21], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b273574d6b3636e7ed59705a0e56', u'https://i.scdn.co/image/ab67616d0000b27311b63834a1a557cc77403458', u'https://i.scdn.co/image/ab67616d0000b273e6afa3b111faa03806f7d257', u'https://i.scdn.co/image/ab67616d0000b27328916ffa16f5473ac57ffe84', u'https://i.scdn.co/image/ab67616d0000b273eeb811f27fc8b8d6d6b845d7', u'https://i.scdn.co/image/ab67616d0000b2731c4540d0ecafaa45305aa5a0', u'https://i.scdn.co/image/ab67616d0000b2732c8696d7273aae34bf911007', u'https://i.scdn.co/image/ab67616d0000b273fa3158c935aa3c01865f7150', u'https://i.scdn.co/image/ab67616d0000b273eeb811f27fc8b8d6d6b845d7', u'https://i.scdn.co/image/ab67616d0000b2738b40e0ef79069fb9bcc560d9', u'https://i.scdn.co/image/ab67616d0000b27328916ffa16f5473ac57ffe84'], 'album_name': [u'Watch This Liquid Pour Itself', u'DROPPED OUTTA COLLEGE', u'DEMIDEVIL', u'Outer Peace', u'Man Alive!', u'Borderline (Blood Orange Remix)', u'A Seat at the Table', u'Boys by Girls', u"OIL OF EVERY PEARL'S UN-INSIDES", u'Borderline (Blood Orange Remix)', u'gr\xe6', u'Man Alive!'], 'song_name': [u'Givenupitis', u'DROPPED OUTTA COLLEGE', u'Drunk With My Friends', u'Miss Me (feat. ABRA)', u'Comet Face', u'Borderline', u'Weary', u'Entrance', u'Faceshopping', u'Borderline - Blood Orange Remix', u'insula', u"(Don't Let The Dragon) Draag On"], 'artist_name': [u'Okay Kaya', u'24kGoldn', u'Ashnikko', u'Toro y Moi', u'King Krule', u'Tame Impala', u'Solange', u'Instupendo', u'SOPHIE', u'Tame Impala', u'Moses Sumney', u'King Krule'], 'track_id': [u'3ybDkB8fzekULheBxONaA0', u'5j8fi3IRcWH1B0RyPIPKl1', u'2YBN2v1sRizy1bQQFMlDEI', u'2e2ODYnQs9b5WHzAfx7fmz', u'37NhTqdEWadpZ6tdYOtI6w', u'4ubae7aWoUq25ctjDcBu3L', u'7zbX1txfcs42K2PlhFJNNE', u'5q2ZHFAXCNCYQR0MffKiRs', u'0y4YmA9UGpQnWdIFbWBHu0', u'7IbGa7PhnXHvUOvhELtGgL', u'5zNIVsxQGQYq3WAu13tkmn', u'1Dvqeu0U8P5tuPSIraHlQI']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b27328916f...  ...   0.21
+10  https://i.scdn.co/image/ab67616d0000b2738b40e0...  ...  0.534
+9   https://i.scdn.co/image/ab67616d0000b273eeb811...  ...  0.429
+8   https://i.scdn.co/image/ab67616d0000b273fa3158...  ...  0.441
+7   https://i.scdn.co/image/ab67616d0000b2732c8696...  ...  0.146
+6   https://i.scdn.co/image/ab67616d0000b2731c4540...  ...  0.466
+5   https://i.scdn.co/image/ab67616d0000b273eeb811...  ...  0.873
+4   https://i.scdn.co/image/ab67616d0000b27328916f...  ...   0.85
+3   https://i.scdn.co/image/ab67616d0000b273e6afa3...  ...  0.454
+2   https://i.scdn.co/image/ab67616d0000b27311b638...  ...  0.578
+1   https://i.scdn.co/image/ab67616d0000b273574d6b...  ...  0.379
+0   https://i.scdn.co/image/ab67616d0000b2733d3652...  ...  0.425
+
+[12 rows x 10 columns]
+2021-02-15 11:00:03.318625
+Auth happening...
+Getting songs
+Creating dataframe...
+Gosh
+Post Panic!
+The Song
+Me in 20 Years
+Two Dogs
+Swing Lo Magellan - Acoustic Version
+Givenupitis
+GOT THESE SONGS
+{'played_at': ['10:46', '10:41', '10:38', '10:37', '10:33', '10:29'], 'valence': [0.38, 0.518, 0.953, 0.0543, 0.264, 0.357], 'mood_avg': [0.545, 0.486, 0.871, 0.237, 0.251, 0.451], 'danceability': [0.752, 0.39, 0.859, 0.35, 0.221, 0.734], 'energy': [0.459, 0.613, 0.73, 0.376, 0.285, 0.0738], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e8ac8f5ea7877d823e5df3ea', u'https://i.scdn.co/image/ab67616d0000b2735a973167d72dfaaedf82a654', u'https://i.scdn.co/image/ab67616d0000b273c3545bbe806b845c2b52bc20', u'https://i.scdn.co/image/ab67616d0000b2738b40e0ef79069fb9bcc560d9', u'https://i.scdn.co/image/ab67616d0000b2738b40e0ef79069fb9bcc560d9', u'https://i.scdn.co/image/ab67616d0000b2736d7e970464fcaae1379ac0f8'], 'album_name': [u'In Colour', u'Song of Sage: Post Panic!', u'The Lo-Fis', u'gr\xe6', u'gr\xe6', u'II (Deluxe Edition)'], 'song_name': [u'Gosh', u'Post Panic!', u'The Song', u'Me in 20 Years', u'Two Dogs', u'Swing Lo Magellan - Acoustic Version'], 'artist_name': [u'Jamie xx', u'Navy Blue', u'Steve Lacy', u'Moses Sumney', u'Moses Sumney', u'Unknown Mortal Orchestra'], 'track_id': [u'4mlZurguzNJior9siewA8C', u'6uMqJQvja5YpIWqcGOLRoj', u'3REOvSCJjr1Tt9UmJ63rsf', u'0KnvToS92AMDTaB0f0FIwf', u'385VQNxMmADWlAS0YBcIsI', u'6bDoisDjjFHgvvzwq37lZf']}
+                                               image  ...  energy
+5  https://i.scdn.co/image/ab67616d0000b2736d7e97...  ...  0.0738
+4  https://i.scdn.co/image/ab67616d0000b2738b40e0...  ...   0.285
+3  https://i.scdn.co/image/ab67616d0000b2738b40e0...  ...   0.376
+2  https://i.scdn.co/image/ab67616d0000b273c3545b...  ...    0.73
+1  https://i.scdn.co/image/ab67616d0000b2735a9731...  ...   0.613
+0  https://i.scdn.co/image/ab67616d0000b273e8ac8f...  ...   0.459
+
+[6 rows x 10 columns]
