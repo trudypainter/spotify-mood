@@ -49857,3 +49857,30 @@ GOT THESE SONGS
 0  https://i.scdn.co/image/ab67616d0000b273e8ac8f...  ...   0.459
 
 [6 rows x 10 columns]
+[master 3f56778] updating daily data 2021-02-15 12:00:04.505486
+ 3 files changed, 126 insertions(+), 1 deletion(-)
+2021-02-15 12:00:02.933438
+Auth happening...
+Getting songs
+Creating dataframe...
+We Will Always Love You
+4th of july
+Peppers and Onions
+Paradise (feat. Hannah Diamond)
+Gasoline
+Look At Me Now
+Gosh
+GOT THESE SONGS
+{'played_at': ['11:57', '11:54', '11:51', '11:48', '11:44', '11:08'], 'valence': [0.176, 0.31, 0.881, 0.169, 0.561, 0.2], 'mood_avg': [0.41, 0.42, 0.817, 0.381, 0.639, 0.392], 'danceability': [0.535, 0.592, 0.946, 0.438, 0.68, 0.564], 'energy': [0.626, 0.296, 0.43, 0.689, 0.714, 0.43], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273c674871d5154e94966de4ae0', u'https://i.scdn.co/image/ab67616d0000b2730b7a46e23267273eecbe4230', u'https://i.scdn.co/image/ab67616d0000b27345fefe45b11cde997046d567', u'https://i.scdn.co/image/ab67616d0000b273d2631fe4c90aae7dec8fb0df', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759'], 'album_name': [u'We Will Always Love You', u'4th of july', u'Peppers and Onions', u'Vroom Vroom EP', u'Women In Music Pt. III', u'Pang'], 'song_name': [u'We Will Always Love You', u'4th of july', u'Peppers and Onions', u'Paradise (feat. Hannah Diamond)', u'Gasoline', u'Look At Me Now'], 'artist_name': [u'The Avalanches', u'Hand Habits', u'Tierra Whack', u'Charli XCX', u'HAIM', u'Caroline Polachek'], 'track_id': [u'51wxtCuipwjvvT99wsSmCc', u'1jRhmp69z3clRhNjev6P6f', u'3EXtXbj00nX9aCHDz1yEJF', u'3SoLRBDWUJ4xtFRDFI1Z6F', u'49Nvfaxj7ZbGkMov8odLmW', u'1z7Pc2fpIffOtXQh1XHMn9']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b2737d983e...  ...   0.43
+4  https://i.scdn.co/image/ab67616d0000b273d2631f...  ...  0.714
+3  https://i.scdn.co/image/ab67616d0000b27345fefe...  ...  0.689
+2  https://i.scdn.co/image/ab67616d0000b2730b7a46...  ...   0.43
+1  https://i.scdn.co/image/ab67616d0000b273c67487...  ...  0.296
+0  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.626
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
