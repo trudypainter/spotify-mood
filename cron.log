@@ -49884,3 +49884,30 @@ GOT THESE SONGS
 ('Rows: ', 6)
 Saved!
 
+[master 72f86bc] updating daily data 2021-02-15 13:00:04.928835
+ 3 files changed, 34 insertions(+), 1 deletion(-)
+2021-02-15 13:00:03.767414
+Auth happening...
+Getting songs
+Creating dataframe...
+see me
+A-Men
+Late Night Calls
+Kacey Talk
+Country Rap Tunes
+Friday 13th (feat. Octavian)
+We Will Always Love You
+GOT THESE SONGS
+{'played_at': ['12:18', '12:16', '12:10', '12:07', '12:05', '12:01'], 'valence': [0.467, 0.506, 0.0979, 0.773, 0.519, 0.484], 'mood_avg': [0.642, 0.566, 0.459, 0.781, 0.635, 0.577], 'danceability': [0.709, 0.7, 0.784, 0.877, 0.802, 0.753], 'energy': [0.858, 0.418, 0.533, 0.607, 0.532, 0.411], 'image': [u'https://i.scdn.co/image/ab67616d0000b273a826caf3c0a605ab03b1e2a7', u'https://i.scdn.co/image/ab67616d0000b2732bb07fe40f5e794d6a5d9ca9', u'https://i.scdn.co/image/ab67616d0000b2731ab0f3e14f604ca8f49492f9', u'https://i.scdn.co/image/ab67616d0000b2738bd6e34012a7ab6311050d0c', u'https://i.scdn.co/image/ab67616d0000b2731c86b6d6f8c6dbe29a666e8d', u'https://i.scdn.co/image/ab67616d0000b2735566386805cf4f9ce5054b20'], 'album_name': [u'see me', u'On All Fours', u'Late Night Calls', u'Top', u'The Art of Finessin 2', u'Song Machine Episode 4'], 'song_name': [u'see me', u'A-Men', u'Late Night Calls', u'Kacey Talk', u'Country Rap Tunes', u'Friday 13th (feat. Octavian)'], 'artist_name': [u'2hollis', u'Goat Girl', u'Tee Grizzley', u'YoungBoy Never Broke Again', u'Fendi P', u'Gorillaz'], 'track_id': [u'4NYwJNFMAJXenSwnlM7Nui', u'7gjLnTKbKNPeUsZuOBoB7G', u'7gVseEuINTNzR31IiG1aUe', u'1SF8piqsZWn86DajVKih8F', u'169GeYnJ7bXJOWRXlyXu2c', u'6szrrh2IL7cgu4q6D5ryW0']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b273556638...  ...  0.411
+4  https://i.scdn.co/image/ab67616d0000b2731c86b6...  ...  0.532
+3  https://i.scdn.co/image/ab67616d0000b2738bd6e3...  ...  0.607
+2  https://i.scdn.co/image/ab67616d0000b2731ab0f3...  ...  0.533
+1  https://i.scdn.co/image/ab67616d0000b2732bb07f...  ...  0.418
+0  https://i.scdn.co/image/ab67616d0000b273a826ca...  ...  0.858
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
