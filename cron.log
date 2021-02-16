@@ -50024,3 +50024,50 @@ GOT THESE SONGS
 ('Rows: ', 5)
 Saved!
 
+[master 82bd08e] updating daily data 2021-02-15 19:00:07.907110
+ 2 files changed, 26 insertions(+), 1 deletion(-)
+2021-02-15 19:00:07.132611
+Auth happening...
+Getting songs
+Creating dataframe...
+OHFR?
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-02-15 20:00:04.570476
+Auth happening...
+Getting songs
+Creating dataframe...
+Said Sum
+Beat Box
+Envy Me
+Whoopty
+The Code (feat. Polo G)
+Opp Stoppa
+Transportin'
+ZEZE (feat. Travis Scott & Offset)
+101 FM
+34+35
+Shake That
+Babyface Savage (feat. Tory Lanez)
+Want Some More
+In The Party
+Spooky Mutha Mansion
+Discounts
+sweetener
+OHFR?
+GOT THESE SONGS
+{'played_at': ['19:58', '19:56', '19:54', '19:52', '19:50', '19:46', '19:45', '19:42', '19:38', '19:35', '19:32', '19:29', '19:26', '19:23', '19:20', '19:17', '19:14'], 'valence': [0.274, 0.201, 0.584, 0.66, 0.568, 0.216, 0.257, 0.504, 0.969, 0.485, 0.497, 0.425, 0.214, 0.418, 0.604, 0.867, 0.46], 'mood_avg': [0.615, 0.494, 0.627, 0.681, 0.684, 0.475, 0.556, 0.667, 0.813, 0.643, 0.736, 0.644, 0.516, 0.657, 0.676, 0.825, 0.564], 'danceability': [0.929, 0.762, 0.74, 0.719, 0.831, 0.82, 0.804, 0.861, 0.79, 0.83, 0.949, 0.907, 0.842, 0.919, 0.707, 0.791, 0.721], 'energy': [0.667, 0.542, 0.488, 0.648, 0.62, 0.302, 0.66, 0.603, 0.547, 0.585, 0.786, 0.557, 0.466, 0.609, 0.759, 0.81, 0.459], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b0c27c2c071c9dbef50ee8d9', u'https://i.scdn.co/image/ab67616d0000b273cf18f0df84b3032b01c4371f', u'https://i.scdn.co/image/ab67616d0000b2735f75220f317b41171e88209e', u'https://i.scdn.co/image/ab67616d0000b2735038c2513329a3123b62923d', u'https://i.scdn.co/image/ab67616d0000b2738b72d834eb50dd04a83b349f', u'https://i.scdn.co/image/ab67616d0000b273cfb8e3c33792c27b31dd2f4d', u'https://i.scdn.co/image/ab67616d0000b273583ce93dc89d84218f233ea7', u'https://i.scdn.co/image/ab67616d0000b273f9508eb3070b95ceeb82788b', u'https://i.scdn.co/image/ab67616d0000b2731c54fc953531d5da04232deb', u'https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605', u'https://i.scdn.co/image/ab67616d0000b2738fdfd969c0b6375ca22c3fa3', u'https://i.scdn.co/image/ab67616d0000b273afd59b8f7df2be1b94bee052', u'https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b2735d7844b7ae4505fa170b6f6d', u'https://i.scdn.co/image/ab67616d0000b2731de90928b7e41cc8dfc97c68', u'https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394'], 'album_name': [u'Code Red', u'Beat Box', u'Wildboy', u'Whoopty', u"Welcome to O'Block", u'Opp Stoppa', u'Project Baby 2: All Grown Up', u'Dying to Live', u'GREY Area', u'Positions', u'Fever', u'Babyface Savage (feat. Tory Lanez)', u'The Pinkprint (Deluxe)', u'Ho, why is you here ?', u'Muthaland', u'Discounts', u'Sweetener'], 'song_name': [u'Said Sum', u'Beat Box', u'Envy Me', u'Whoopty', u'The Code (feat. Polo G)', u'Opp Stoppa', u"Transportin'", u'ZEZE (feat. Travis Scott & Offset)', u'101 FM', u'34+35', u'Shake That', u'Babyface Savage (feat. Tory Lanez)', u'Want Some More', u'In The Party', u'Spooky Mutha Mansion', u'Discounts', u'sweetener'], 'artist_name': [u'Moneybagg Yo', u'SpotemGottem', u'Calboy', u'CJ', u'King Von', u'YBN Nahmir', u'Kodak Black', u'Kodak Black', u'Little Simz', u'Ariana Grande', u'Megan Thee Stallion', u'Bhad Bhabie', u'Nicki Minaj', u'Flo Milli', u'BbyMutha', u'cupcakKe', u'Ariana Grande'], 'track_id': [u'3sKz6Sd72K0ofPWcJPPk6H', u'3wCx8pwK7J1LVe13dFXjPm', u'7rvyVWja33WG9R97oeJAjx', u'5vGLcdRuSbUhD8ScwsGSdA', u'5NOUjBikzECEJyZMTxtErD', u'1ogvLGGpa958nRTH1W9p2v', u'1WIZiOuNO3woKfdlSK2gNn', u'0FZ4Dmg8jJJAPJnvBIzD9z', u'4Vk4Yf7pDmB1dxLFSTjBUH', u'6Im9k8u9iIzKMrmV7BWtlF', u'0nWDgFps67oDM01swzHCcC', u'2xB64x7pRS8Qa9uuZktOnA', u'6cJ7CoT1gJ89Xy7NJXIInt', u'52BJrldggFQyTiW8XrILhO', u'0VItfrF8eIQ9jue7ry3WMC', u'3NILSt8vgJrRqwWkwB8das', u'70khXICDeTTxgYtw3EysKH']}
+                                                image  ... energy
+16  https://i.scdn.co/image/ab67616d0000b273c3af0c...  ...  0.459
+15  https://i.scdn.co/image/ab67616d0000b2731de909...  ...   0.81
+14  https://i.scdn.co/image/ab67616d0000b2735d7844...  ...  0.759
+13  https://i.scdn.co/image/ab67616d0000b2733ae4c6...  ...  0.609
+12  https://i.scdn.co/image/ab67616d0000b2730f79d1...  ...  0.466
+11  https://i.scdn.co/image/ab67616d0000b273afd59b...  ...  0.557
+10  
