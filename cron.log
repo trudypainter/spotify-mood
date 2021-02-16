@@ -50271,3 +50271,48 @@ GOT THESE SONGS
 0  https://i.scdn.co/image/ab67616d0000b273a52fb6...  ...  0.342
 
 [6 rows x 10 columns]
+[master 42fdcdb] updating daily data 2021-02-16 08:00:03.335129
+ 3 files changed, 53 insertions(+), 1 deletion(-)
+2021-02-16 08:00:02.640655
+Auth happening...
+Getting songs
+Creating dataframe...
+Palace/Curse (feat. Steve Lacy, feat. Tyler, The Creator, feat. Tyler, The Creator & Steve Lacy)
+REEL IT IN
+GOT THESE SONGS
+{'played_at': ['07:29'], 'valence': [0.261], 'mood_avg': [0.408], 'danceability': [0.447], 'energy': [0.625], 'image': [u'https://i.scdn.co/image/ab67616d0000b2731c1c33c63cdbcb5788975a93'], 'album_name': [u'Ego Death'], 'song_name': [u'Palace/Curse (feat. Steve Lacy, feat. Tyler, The Creator, feat. Tyler, The Creator & Steve Lacy)'], 'artist_name': [u'The Internet'], 'track_id': [u'300DUx4tdtCdGEUXR032jA']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b2731c1c33...  ...  0.625
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
+2021-02-16 09:00:04.762744
+Auth happening...
+Getting songs
+Creating dataframe...
+Set Piece
+How Was Your Day?
+Weekend at Santa Cruz
+Sunshine Girl - Pt. 2
+I Don't Know You
+Fry Queen
+Headfucked
+ABQ
+Seven
+Palace/Curse (feat. Steve Lacy, feat. Tyler, The Creator, feat. Tyler, The Creator & Steve Lacy)
+GOT THESE SONGS
+{'played_at': ['08:57', '08:54', '08:51', '08:48', '08:46', '08:43', '08:39', '08:37', '08:32'], 'valence': [0.641, 0.776, 0.655, 0.444, 0.587, 0.44, 0.417, 0.175, 0.832], 'mood_avg': [0.569, 0.578, 0.605, 0.596, 0.655, 0.603, 0.568, 0.347, 0.694], 'danceability': [0.541, 0.447, 0.618, 0.861, 0.884, 0.846, 0.849, 0.54, 0.692], 'energy': [0.483, 0.442, 0.48, 0.369, 0.333, 0.442, 0.31, 0.307, 0.421], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c556c8613499c8e465d3ba3c', u'https://i.scdn.co/image/ab67616d0000b2735f911b0b3d1ec137a76cffc8', u'https://i.scdn.co/image/ab67616d0000b27301bfd9cea452f6c27eaea4cb', u'https://i.scdn.co/image/ab67616d0000b2730ec2a5cf3decbd8f787b5bca', u'https://i.scdn.co/image/ab67616d0000b273b8cca972978cb4f2f7be74ad', u'https://i.scdn.co/image/ab67616d0000b27386dc71c002042b92efbbd200', u'https://i.scdn.co/image/ab67616d0000b2739a9b0fdf930d173a59a24e40', u'https://i.scdn.co/image/ab67616d0000b273a64b06c0eb30ce15c3e6edc1', u'https://i.scdn.co/image/ab67616d0000b273591fa5bb8ab3ec41455d6279'], 'album_name': [u'Angel Youth', u'How Was Your Day?', u'Bad Bonez', u'Sunshine Girl', u"I Don't Know You", u'Bossa Loser', u'Bird On The Wing', u'Superclean, Vol. II', u'Seven'], 'song_name': [u'Set Piece', u'How Was Your Day?', u'Weekend at Santa Cruz', u'Sunshine Girl - Pt. 2', u"I Don't Know You", u'Fry Queen', u'Headfucked', u'ABQ', u'Seven'], 'artist_name': [u'Vansire', u'Mellow Fellow', u'Michael Seyer', u'Jakob Ogawa', u'The Mar\xedas', u'Pinstripe Sunny', u'Shy Girls', u'The Mar\xedas', u'Men I Trust'], 'track_id': [u'3ishRxjsqYVk6FdAGeeUAP', u'2E01rRrzaz6TuwCdm27m4m', u'7mUpYTyfLQtu0LOZ8q0oK4', u'1NSxZttWPsEW2Oj428p42s', u'4cJOLN346rtOty3UPACsao', u'3CScCdfOMppcovFhc91DBC', u'3jPa5O1AnkunXPuT0n9XKm', u'5P9PQR7CM5YPEU2I3EypWM', u'2dwvxOHnQjndZLowIR6PiS']}
+                                               image  ... energy
+8  https://i.scdn.co/image/ab67616d0000b273591fa5...  ...  0.421
+7  https://i.scdn.co/image/ab67616d0000b273a64b06...  ...  0.307
+6  https://i.scdn.co/image/ab67616d0000b2739a9b0f...  ...   0.31
+5  https://i.scdn.co/image/ab67616d0000b27386dc71...  ...  0.442
+4  https://i.scdn.co/image/ab67616d0000b273b8cca9...  ...  0.333
+3  https://i.scdn.co/image/ab67616d0000b2730ec2a5...  ...  0.369
+2  https://i.scdn.co/image/ab67616d0000b27301bfd9...  ...   0.48
+1  https://i.scdn.co/image/ab67616d0000b2735f911b...  ...  0.442
+0  https://i.scdn.co/image/ab67616d0000b273c556c8...  ...  0.483
+
+[9 rows x 10 columns]
