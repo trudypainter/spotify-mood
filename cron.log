@@ -50421,3 +50421,28 @@ GFU (feat. Yung Kayo)
 Light It Up
 I'm Not Daddy
 Heels
+[master 15b8a91] updating daily data 2021-02-16 17:00:04.149911
+ 3 files changed, 29 insertions(+), 1 deletion(-)
+2021-02-16 17:00:03.037471
+Auth happening...
+Getting songs
+Creating dataframe...
+Ginseng Strip 2002
+Don't Judge Me
+ACTION
+Lapdance from Asia
+Tweety
+GFU (feat. Yung Kayo)
+GOT THESE SONGS
+{'played_at': ['16:16', '16:13', '16:09', '16:06', '16:02'], 'valence': [0.386, 0.236, 0.592, 0.449, 0.538], 'mood_avg': [0.537, 0.463, 0.698, 0.584, 0.663], 'danceability': [0.601, 0.61, 0.864, 0.807, 0.848], 'energy': [0.712, 0.625, 0.577, 0.408, 0.542], 'image': [u'https://i.scdn.co/image/ab67616d0000b273fd5d145e815d352e195c02e7', u'https://i.scdn.co/image/ab67616d0000b273be53db0d1e09575772c04d07', u'https://i.scdn.co/image/ab67616d0000b273f968dff8b3e1ddd2d79da79a', u'https://i.scdn.co/image/ab67616d0000b273259103f522763e34a379a796', u'https://i.scdn.co/image/ab67616d0000b273d5fbc0957493ae1e0a34aa2c'], 'album_name': [u'Lavender', u"Don't Judge Me", u'ACTION', u'Lapdance from Asia', u'Tweety'], 'song_name': [u'Ginseng Strip 2002', u"Don't Judge Me", u'ACTION', u'Lapdance from Asia', u'Tweety'], 'artist_name': [u'Yung Lean', u'FKA twigs', u'CHAI', u'Cosha', u'Raveena'], 'track_id': [u'79nEEoEPY2w8EXj9hjn5oc', u'2ixabSVbccs9np9r5CpbWW', u'0lDnKDpsfCzfp6SCiiqHvN', u'70Tn7Qn1LyVCTTd8EyyXGW', u'2NDMLu8ZNrAsAsPAoW5VOx']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273d5fbc0...  ...  0.542
+3  https://i.scdn.co/image/ab67616d0000b273259103...  ...  0.408
+2  https://i.scdn.co/image/ab67616d0000b273f968df...  ...  0.577
+1  https://i.scdn.co/image/ab67616d0000b273be53db...  ...  0.625
+0  https://i.scdn.co/image/ab67616d0000b273fd5d14...  ...  0.712
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
