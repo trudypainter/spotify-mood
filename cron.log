@@ -50354,3 +50354,32 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master a6d5f5e] updating daily data 2021-02-16 12:00:03.888547
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-02-16 12:00:02.993460
+Auth happening...
+Getting songs
+Creating dataframe...
+Roaring 20s
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-02-16 13:00:03.974289
+Auth happening...
+Getting songs
+Creating dataframe...
+Toilet Boy
+Basta Ya
+Roaring 20s
+GOT THESE SONGS
+{'played_at': ['12:33', '12:30'], 'valence': [0.614, 0.44], 'mood_avg': [0.667, 0.542], 'danceability': [0.741, 0.766], 'energy': [0.627, 0.3], 'image': [u'https://i.scdn.co/image/ab67616d0000b27386dc71c002042b92efbbd200', u'https://i.scdn.co/image/ab67616d0000b2730924b9c6232d2348d4efa0dc'], 'album_name': [u'Bossa Loser', u'Superclean, Vol. I'], 'song_name': [u'Toilet Boy', u'Basta Ya'], 'artist_name': [u'Pinstripe Sunny', u'The Mar\xedas'], 'track_id': [u'0PXz5BRPYCzwIeFKDlSY1m', u'4CUTUsBGjHslu2Bd3AOXGg']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b2730924b9...  ...    0.3
+0  https://i.scdn.co/image/ab67616d0000b27386dc71...  ...  0.627
+
+[2 rows x 10 columns]
