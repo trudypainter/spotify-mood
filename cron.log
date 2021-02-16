@@ -50088,3 +50088,24 @@ https://i.scdn.co/image/ab67616d0000b2738fdfd9...  ...  0.786
 ('Rows: ', 17)
 Saved!
 
+[master d63b1f0] updating daily data 2021-02-15 21:00:05.914942
+ 3 files changed, 22 insertions(+), 2 deletions(-)
+2021-02-15 21:00:04.943336
+Auth happening...
+Getting songs
+Creating dataframe...
+Faneto
+Proud Of Me Now
+Walk (feat. Lil Baby & 42 Dugg)
+Said Sum
+GOT THESE SONGS
+{'played_at': ['20:08', '20:05', '20:03'], 'valence': [0.393, 0.732, 0.239], 'mood_avg': [0.648, 0.73, 0.491], 'danceability': [0.849, 0.837, 0.788], 'energy': [0.755, 0.51, 0.403], 'image': [u'https://i.scdn.co/image/ab67616d0000b2732b78b0c234859a99498d8367', u'https://i.scdn.co/image/ab67616d0000b273375ecc2d4e8282fb186695e3', u'https://i.scdn.co/image/ab67616d0000b273f5aebf727e4b42e0799a2145'], 'album_name': [u'Back From The Dead 2', u'Proud Of Me Now', u'G.I.H.F.'], 'song_name': [u'Faneto', u'Proud Of Me Now', u'Walk (feat. Lil Baby & 42 Dugg)'], 'artist_name': [u'Chief Keef', u'Sheff G', u'Rylo Rodriguez'], 'track_id': [u'6J1SjVyNDzkZ3sF85Ndd3B', u'0DNOrkMQjmB0W99PU2LlDe', u'1qDLTUxg7xyylgtyNleurw']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273f5aebf...  ...  0.403
+1  https://i.scdn.co/image/ab67616d0000b273375ecc...  ...   0.51
+0  https://i.scdn.co/image/ab67616d0000b2732b78b0...  ...  0.755
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
