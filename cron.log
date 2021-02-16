@@ -50230,3 +50230,44 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 6a5c778] updating daily data 2021-02-16 06:00:05.187155
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-02-16 06:00:02.909922
+Auth happening...
+Getting songs
+Creating dataframe...
+Broccoli
+Said Sum (feat. City Girls & DaBaby) - Remix
+Faneto
+GOT THESE SONGS
+{'played_at': ['05:58', '05:25'], 'valence': [0.708, 0.298], 'mood_avg': [0.743, 0.609], 'danceability': [0.886, 0.913], 'energy': [0.525, 0.625], 'image': [u'https://i.scdn.co/image/ab67616d0000b273040f399c7f5ad56a29ec9dd0', u'https://i.scdn.co/image/ab67616d0000b273b0c27c2c071c9dbef50ee8d9'], 'album_name': [u'Big Baby DRAM', u'Code Red'], 'song_name': [u'Broccoli', u'Said Sum (feat. City Girls & DaBaby) - Remix'], 'artist_name': [u'Shelley FKA DRAM', u'Moneybagg Yo'], 'track_id': [u'3rZhRBdVQ2fTEM2ULOAwUL', u'13VXVxePp4NUiXwtmQ0viz']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273b0c27c...  ...  0.625
+0  https://i.scdn.co/image/ab67616d0000b273040f39...  ...  0.525
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
+2021-02-16 07:00:03.103870
+Auth happening...
+Getting songs
+Creating dataframe...
+REEL IT IN
+Sky
+dirty laundry (slowed)
+Dubai Shit
+I Am (feat. Flo Milli)
+3005
+Broccoli
+GOT THESE SONGS
+{'played_at': ['06:21', '06:17', '06:14', '06:11', '06:05', '06:02'], 'valence': [0.423, 0.565, 0.516, 0.227, 0.92, 0.636], 'mood_avg': [0.539, 0.721, 0.655, 0.506, 0.907, 0.533], 'danceability': [0.754, 0.785, 0.79, 0.774, 0.929, 0.472], 'energy': [0.342, 0.903, 0.665, 0.529, 0.837, 0.448], 'image': [u'https://i.scdn.co/image/ab67616d0000b273a52fb68f00620e45ed7467c5', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b273e4238282c83fad01c46e2cd0', u'https://i.scdn.co/image/ab67616d0000b273631973893e94d01cfcdf0e5e', u'https://i.scdn.co/image/ab67616d0000b2731ff2aa48a95e0410d5fb4288', u'https://i.scdn.co/image/ab67616d0000b273fce23dadb51975ebf2e9d75c'], 'album_name': [u'ONEPOINTFIVE', u'Whole Lotta Red', u'dirty laundry (slowed)', u'Huncho Jack, Jack Huncho', u'I Am (feat. Flo Milli)', u'Because the Internet'], 'song_name': [u'REEL IT IN', u'Sky', u'dirty laundry (slowed)', u'Dubai Shit', u'I Am (feat. Flo Milli)', u'3005'], 'artist_name': [u'Amin\xe9', u'Playboi Carti', u'blackbear', u'Huncho Jack', u'Yung Baby Tate', u'Childish Gambino'], 'track_id': [u'5qHirGR7M9tdm6C17DlzSY', u'29TPjc8wxfz4XMn21O7VsZ', u'4hgn8VbLCTXFGJnHFIMHas', u'6urLjX35oXXRYtcH1b3dCh', u'0y22KKdjAYJIWywFAH4UPU', u'2ZltjIqztEpZtafc8w0I9t']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b273fce23d...  ...  0.448
+4  https://i.scdn.co/image/ab67616d0000b2731ff2aa...  ...  0.837
+3  https://i.scdn.co/image/ab67616d0000b273631973...  ...  0.529
+2  https://i.scdn.co/image/ab67616d0000b273e42382...  ...  0.665
+1  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.903
+0  https://i.scdn.co/image/ab67616d0000b273a52fb6...  ...  0.342
+
+[6 rows x 10 columns]
