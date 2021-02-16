@@ -50383,3 +50383,18 @@ GOT THESE SONGS
 0  https://i.scdn.co/image/ab67616d0000b27386dc71...  ...  0.627
 
 [2 rows x 10 columns]
+[master 29e482e] updating daily data 2021-02-16 14:00:04.476785
+ 2 files changed, 30 insertions(+), 1 deletion(-)
+2021-02-16 14:00:02.899290
+Auth happening...
+Getting songs
+Creating dataframe...
+Toilet Boy
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
