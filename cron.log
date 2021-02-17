@@ -50648,3 +50648,26 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master 4d077de] updating daily data 2021-02-17 07:00:04.700978
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-02-17 07:00:03.676568
+Auth happening...
+Getting songs
+Creating dataframe...
+Kim (with Yung Baby Tate)
+dirty laundry (slowed)
+For Me
+Tuesday (feat. Drake)
+Mile High (feat. Travis Scott & Metro Boomin)
+GOT THESE SONGS
+{'played_at': ['06:15', '06:13', '06:09', '06:06'], 'valence': [0.592, 0.516, 0.145, 0.472], 'mood_avg': [0.762, 0.655, 0.519, 0.63], 'danceability': [0.939, 0.79, 0.904, 0.77], 'energy': [0.747, 0.665, 0.498, 0.664], 'image': [u'https://i.scdn.co/image/ab67616d0000b27362a10bf0936a22755d0e19e0', u'https://i.scdn.co/image/ab67616d0000b273e4238282c83fad01c46e2cd0', u'https://i.scdn.co/image/ab67616d0000b273f07053a5993823b6a7eea591', u'https://i.scdn.co/image/ab67616d0000b273c492d9a7512139d5bb4b610a'], 'album_name': [u'Kim (with Yung Baby Tate)', u'dirty laundry (slowed)', u'For Me', u'I LOVE MAKONNEN'], 'song_name': [u'Kim (with Yung Baby Tate)', u'dirty laundry (slowed)', u'For Me', u'Tuesday (feat. Drake)'], 'artist_name': [u'Tkay Maidza', u'blackbear', u'CHASE B', u'ILOVEMAKONNEN'], 'track_id': [u'7ctUZZrE8nIerrGeC52Vkt', u'4hgn8VbLCTXFGJnHFIMHas', u'5XMhppJhtgjkd2SYDklhR9', u'4PWY72AubTjoZrohQt0pWn']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273c492d9...  ...  0.664
+2  https://i.scdn.co/image/ab67616d0000b273f07053...  ...  0.498
+1  https://i.scdn.co/image/ab67616d0000b273e42382...  ...  0.665
+0  https://i.scdn.co/image/ab67616d0000b27362a10b...  ...  0.747
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
