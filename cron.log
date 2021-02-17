@@ -50446,3 +50446,18 @@ GOT THESE SONGS
 ('Rows: ', 5)
 Saved!
 
+[master 3ca5ffb] updating daily data 2021-02-16 18:00:04.899162
+ 2 files changed, 26 insertions(+), 1 deletion(-)
+2021-02-16 18:00:04.177184
+Auth happening...
+Getting songs
+Creating dataframe...
+Ginseng Strip 2002
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
