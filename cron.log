@@ -50784,3 +50784,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 84f130e] updating daily data 2021-02-17 15:00:04.141572
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-02-17 15:00:03.285259
+Auth happening...
+Getting songs
+Creating dataframe...
+Nightmares (feat. Bilal & Pharrell Williams)
+Shark In The Water
+Badibaba
+GOT THESE SONGS
+{'played_at': ['14:59', '14:56'], 'valence': [0.633, 0.697], 'mood_avg': [0.622, 0.661], 'danceability': [0.619, 0.554], 'energy': [0.608, 0.805], 'image': [u'https://i.scdn.co/image/ab67616d0000b2731533f5dd895bb03556473485', u'https://i.scdn.co/image/ab67616d0000b273703e55d5e562ef129a01532e'], 'album_name': [u'Hell Hath No Fury', u'Travelling Like The Light'], 'song_name': [u'Nightmares (feat. Bilal & Pharrell Williams)', u'Shark In The Water'], 'artist_name': [u'Clipse', u'V V Brown'], 'track_id': [u'37HUD7Mr1zOIDW1QuOgaZH', u'0BLPuaA32HDg6AJTUT4WMl']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273703e55...  ...  0.805
+0  https://i.scdn.co/image/ab67616d0000b2731533f5...  ...  0.608
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
