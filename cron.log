@@ -50627,3 +50627,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 4f57c70] updating daily data 2021-02-17 06:00:06.414465
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-02-17 06:00:04.057820
+Auth happening...
+Getting songs
+Creating dataframe...
+Mile High (feat. Travis Scott & Metro Boomin)
+APESHIT
+You Make Me Feel (Mighty Real)
+Ginseng Strip 2002
+GOT THESE SONGS
+{'played_at': ['05:57', '05:54', '05:23'], 'valence': [0.228, 0.377, 0.961], 'mood_avg': [0.467, 0.59, 0.806], 'danceability': [0.754, 0.705, 0.629], 'energy': [0.37, 0.784, 0.851], 'image': [u'https://i.scdn.co/image/ab67616d0000b2739af56a54edacb6237b49fa2e', u'https://i.scdn.co/image/ab67616d0000b273c9ef08879350a57e5f1d7ca2', u'https://i.scdn.co/image/ab67616d0000b273c6619148196a323b2e41d6d4'], 'album_name': [u'Assume Form', u'EVERYTHING IS LOVE', u'Step II'], 'song_name': [u'Mile High (feat. Travis Scott & Metro Boomin)', u'APESHIT', u'You Make Me Feel (Mighty Real)'], 'artist_name': [u'James Blake', u'The Carters', u'Sylvester'], 'track_id': [u'4cQrSREMqBSvJ8ZzBZjVb8', u'0E6PsO3ymCfUh7pJQjBgkj', u'0RnCUYXa7jhgTXtiMXF2PQ']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273c66191...  ...  0.851
+1  https://i.scdn.co/image/ab67616d0000b273c9ef08...  ...  0.784
+0  https://i.scdn.co/image/ab67616d0000b2739af56a...  ...   0.37
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
