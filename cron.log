@@ -50686,3 +50686,26 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 183941c] updating daily data 2021-02-17 09:00:06.700529
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+2021-02-17 09:00:05.638192
+Auth happening...
+Getting songs
+Creating dataframe...
+Badibaba
+Love Somebody
+Might Not
+Driver
+Devil In A New Dress
+GOT THESE SONGS
+{'played_at': ['08:59', '08:55', '08:53', '08:49'], 'valence': [0.363, 0.755, 0.321, 0.722], 'mood_avg': [0.489, 0.648, 0.558, 0.733], 'danceability': [0.452, 0.631, 0.792, 0.721], 'energy': [0.817, 0.47, 0.563, 0.781], 'image': [u'https://i.scdn.co/image/ab67616d0000b2732bb07fe40f5e794d6a5d9ca9', u'https://i.scdn.co/image/ab67616d0000b27302552c0863448f3fec61f0f6', u'https://i.scdn.co/image/ab67616d0000b27308764105cf360a25dd40b53c', u'https://i.scdn.co/image/ab67616d0000b273df10a189df78de747b4d5037'], 'album_name': [u'On All Fours', u'Love Somebody', u'Up For Days', u'Driver'], 'song_name': [u'Badibaba', u'Love Somebody', u'Might Not', u'Driver'], 'artist_name': [u'Goat Girl', u'Ovrkast.', u'Belly', u'Chuck Inglish'], 'track_id': [u'7xvyZEJnDNC2IS92g6aUR1', u'7n8xkPjesRM5Y4ZjSRlU0p', u'5e9aFSdnkQUrm5y8Dhw0qN', u'5ncrJqf75SxBxqKjkoEpta']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273df10a1...  ...  0.781
+2  https://i.scdn.co/image/ab67616d0000b273087641...  ...  0.563
+1  https://i.scdn.co/image/ab67616d0000b27302552c...  ...   0.47
+0  https://i.scdn.co/image/ab67616d0000b2732bb07f...  ...  0.817
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
