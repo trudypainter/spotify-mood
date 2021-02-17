@@ -50803,3 +50803,24 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master bba6bea] updating daily data 2021-02-17 16:00:03.609611
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-02-17 16:00:02.743775
+Auth happening...
+Getting songs
+Creating dataframe...
+tell me
+Keep Her Happy
+Lapdance from Asia
+Nightmares (feat. Bilal & Pharrell Williams)
+GOT THESE SONGS
+{'played_at': ['15:57', '15:48', '15:43'], 'valence': [0.126, 0.965, 0.449], 'mood_avg': [0.487, 0.849, 0.584], 'danceability': [0.777, 0.7, 0.807], 'energy': [0.629, 0.914, 0.408], 'image': [u'https://i.scdn.co/image/ab67616d0000b273d6d878c44c304370ac226803', u'https://i.scdn.co/image/ab67616d0000b2732e3676fea262cec1bde0861a', u'https://i.scdn.co/image/ab67616d0000b273259103f522763e34a379a796'], 'album_name': [u'tell me', u"Henry Stone's Miami Sound - The Record Man's Finest 45s", u'Lapdance from Asia'], 'song_name': [u'tell me', u'Keep Her Happy', u'Lapdance from Asia'], 'artist_name': [u'Yung Kayo', u'Phillip Wright', u'Cosha'], 'track_id': [u'27sZerMRTYOR72CKE1BV8q', u'1CLSRrFaaW9BTVFA6c3PqD', u'70Tn7Qn1LyVCTTd8EyyXGW']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273259103...  ...  0.408
+1  https://i.scdn.co/image/ab67616d0000b2732e3676...  ...  0.914
+0  https://i.scdn.co/image/ab67616d0000b273d6d878...  ...  0.629
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
