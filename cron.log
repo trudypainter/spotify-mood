@@ -51029,3 +51029,18 @@ Saved!
 2021-02-18 02:00:04.099018
 Auth happening...
 Getting songs
+[master 597d955] updating daily data 2021-02-18 03:00:03.326552
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+2021-02-18 03:00:02.624904
+Auth happening...
+Getting songs
+Creating dataframe...
+Miami
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
