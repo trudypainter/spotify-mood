@@ -50874,3 +50874,38 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 32c5887] updating daily data 2021-02-17 19:00:12.198738
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-02-17 19:00:06.348037
+Auth happening...
+Getting songs
+Creating dataframe...
+BasicBitchTearGas
+Free The Frail
+1539 N. Calvert
+Life Back
+In The Air (feat. BlocBoy JB)
+Rage
+Why Oh Why
+Countin' Up
+Cyber Stockholm Syndrome
+Dark Horse
+Even If It Hurts
+GOT THESE SONGS
+{'played_at': ['18:47', '18:45', '18:41', '18:39', '18:36', '18:33', '18:31', '18:21', '18:18', '18:14'], 'valence': [0.366, 0.264, 0.357, 0.535, 0.849, 0.728, 0.492, 0.757, 0.259, 0.353], 'mood_avg': [0.477, 0.429, 0.631, 0.688, 0.863, 0.806, 0.646, 0.829, 0.449, 0.516], 'danceability': [0.505, 0.553, 0.863, 0.823, 0.844, 0.836, 0.712, 0.891, 0.527, 0.645], 'energy': [0.644, 0.509, 0.717, 0.723, 0.931, 0.901, 0.822, 0.851, 0.672, 0.585], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c0f5083c53e881de8dec3d70', u'https://i.scdn.co/image/ab67616d0000b273c0f5083c53e881de8dec3d70', u'https://i.scdn.co/image/ab67616d0000b273f8aaeba5e6dee1745371e822', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b2730e44ad85723d06e1ecd65712', u'https://i.scdn.co/image/ab67616d0000b27347f930accd8ac01686401fa2'], 'album_name': [u'All My Heroes Are Cornballs', u'All My Heroes Are Cornballs', u'Veteran', u'Nasty', u'Nasty', u'Nasty', u'Nasty', u'Nasty', u'RINA', u'PRISM (Deluxe)'], 'song_name': [u'BasicBitchTearGas', u'Free The Frail', u'1539 N. Calvert', u'Life Back', u'In The Air (feat. BlocBoy JB)', u'Rage', u'Why Oh Why', u"Countin' Up", u'Cyber Stockholm Syndrome', u'Dark Horse'], 'artist_name': [u'JPEGMAFIA', u'JPEGMAFIA', u'JPEGMAFIA', u'Rico Nasty', u'Rico Nasty', u'Rico Nasty', u'Rico Nasty', u'Rico Nasty', u'Rina Sawayama', u'Katy Perry'], 'track_id': [u'2XEdf7cprB6FSURwzFdxMp', u'5r7OKhOQl2vM8SZnCXSQk1', u'6XyxCBp6x3jvtxXvMN5sAA', u'5lqzQQ75CDYUZDhG21oFKE', u'4rNcajJ4guG6OnbMp7TkgK', u'0d3pSVPhCfuzAJLyMUZYjT', u'70LCyCmpKbhlyoiGmAqv9E', u'6UFG7GbMAeeMijEyrp6f1D', u'7I9bSsqqIA0cV1nL0igGLm', u'5jrdCoLpJSvHHorevXBATy']}
+                                               image  ... energy
+9  https://i.scdn.co/image/ab67616d0000b27347f930...  ...  0.585
+8  https://i.scdn.co/image/ab67616d0000b2730e44ad...  ...  0.672
+7  https://i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.851
+6  https://i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.822
+5  https://i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.901
+4  https://i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.931
+3  https://i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.723
+2  https://i.scdn.co/image/ab67616d0000b273f8aaeb...  ...  0.717
+1  https://i.scdn.co/image/ab67616d0000b273c0f508...  ...  0.509
+0  https://i.scdn.co/image/ab67616d0000b273c0f508...  ...  0.644
+
+[10 rows x 10 columns]
+('Rows: ', 10)
+Saved!
+
