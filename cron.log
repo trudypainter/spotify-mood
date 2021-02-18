@@ -51095,3 +51095,26 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master 653b105] updating daily data 2021-02-18 07:00:05.502544
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-02-18 07:00:03.368893
+Auth happening...
+Getting songs
+Creating dataframe...
+Ric Flair Drip (& Metro Boomin)
+The Box
+After Party
+Myron
+Go Stupid
+GOT THESE SONGS
+{'played_at': ['06:15', '06:12', '06:07', '06:04'], 'valence': [0.333, 0.642, 0.453, 0.573], 'mood_avg': [0.571, 0.732, 0.571, 0.668], 'danceability': [0.88, 0.896, 0.629, 0.771], 'energy': [0.428, 0.586, 0.692, 0.654], 'image': [u'https://i.scdn.co/image/ab67616d0000b2730f206fe737d46f2f2d826d83', u'https://i.scdn.co/image/ab67616d0000b273600adbc750285ea1a8da249f', u'https://i.scdn.co/image/ab67616d0000b27345190a074bef3e8ce868b60c', u'https://i.scdn.co/image/ab67616d0000b273dea510881ec1e506485303e4'], 'album_name': [u'Without Warning', u'Please Excuse Me For Being Antisocial', u'Heaven Or Hell', u'Eternal Atake (Deluxe) - LUV vs. The World 2'], 'song_name': [u'Ric Flair Drip (& Metro Boomin)', u'The Box', u'After Party', u'Myron'], 'artist_name': [u'Offset', u'Roddy Ricch', u'Don Toliver', u'Lil Uzi Vert'], 'track_id': [u'7sO5G9EABYOXQKNPNiE9NR', u'0nbXyq5TXYPCO7pr3N8S4I', u'527k23H0A4Q0UJN3vGs0Da', u'56uXDJRCuoS7abX3SkzHKQ']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273dea510...  ...  0.654
+2  https://i.scdn.co/image/ab67616d0000b27345190a...  ...  0.692
+1  https://i.scdn.co/image/ab67616d0000b273600adb...  ...  0.586
+0  https://i.scdn.co/image/ab67616d0000b2730f206f...  ...  0.428
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
