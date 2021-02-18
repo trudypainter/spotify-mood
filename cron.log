@@ -51074,3 +51074,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master d4f02f4] updating daily data 2021-02-18 06:00:03.708267
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-02-18 06:00:02.784530
+Auth happening...
+Getting songs
+Creating dataframe...
+Go Stupid
+Tap (feat. Meek Mill)
+Yes Indeed
+I Wouldn't Ask You
+GOT THESE SONGS
+{'played_at': ['05:57', '05:54', '05:49'], 'valence': [0.645, 0.452, 0.562], 'mood_avg': [0.793, 0.676, 0.679], 'danceability': [0.92, 0.901, 0.963], 'energy': [0.833, 0.676, 0.346], 'image': [u'https://i.scdn.co/image/ab67616d0000b273339f780dfdbc38558ea0761d', u'https://i.scdn.co/image/ab67616d0000b273a4aaecb02b51550635d7c1b1', u'https://i.scdn.co/image/ab67616d0000b2736cab41f8c84d6164976400d4'], 'album_name': [u'THE GOAT', u'Bad Habits (Deluxe)', u'Harder Than Ever'], 'song_name': [u'Go Stupid', u'Tap (feat. Meek Mill)', u'Yes Indeed'], 'artist_name': [u'Polo G', u'NAV', u'Lil Baby'], 'track_id': [u'4PklAHGXT5ityno3IA8SKd', u'5rU6kDNXZLXIinFezpbWbO', u'6vN77lE9LK6HP2DewaN6HZ']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b2736cab41...  ...  0.346
+1  https://i.scdn.co/image/ab67616d0000b273a4aaec...  ...  0.676
+0  https://i.scdn.co/image/ab67616d0000b273339f78...  ...  0.833
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
