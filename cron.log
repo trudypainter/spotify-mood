@@ -51260,3 +51260,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 00c25c8] updating daily data 2021-02-18 17:00:03.792145
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-02-18 17:00:02.925046
+Auth happening...
+Getting songs
+Creating dataframe...
+GATTI
+If Only
+The Song
+GOT THESE SONGS
+{'played_at': ['16:54', '16:49'], 'valence': [0.472, 0.581], 'mood_avg': [0.562, 0.617], 'danceability': [0.594, 0.759], 'energy': [0.676, 0.404], 'image': [u'https://i.scdn.co/image/ab67616d0000b273dfc2f59568272de50a257f2f', u'https://i.scdn.co/image/ab67616d0000b27368582163ae89019231e872d2'], 'album_name': [u'JACKBOYS', u'If Only'], 'song_name': [u'GATTI', u'If Only'], 'artist_name': [u'JACKBOYS', u'Raveena'], 'track_id': [u'40mjsnRjCpycdUw3xhS20g', u'4jyU03J2YOhRxgOHit2auK']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273685821...  ...  0.404
+0  https://i.scdn.co/image/ab67616d0000b273dfc2f5...  ...  0.676
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
