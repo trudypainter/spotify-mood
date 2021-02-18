@@ -51184,3 +51184,19 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 590ce82] updating daily data 2021-02-18 12:00:04.761804
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+ rewrite .cache-trudypaintet (100%)
+2021-02-18 12:00:04.125193
+Auth happening...
+Getting songs
+Creating dataframe...
+The Song
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
