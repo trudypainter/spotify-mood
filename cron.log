@@ -50924,3 +50924,44 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master dfe7c23] updating daily data 2021-02-17 21:00:05.266053
+ 3 files changed, 29 insertions(+), 1 deletion(-)
+2021-02-17 21:00:03.623254
+Auth happening...
+Getting songs
+Creating dataframe...
+Miami
+Pound The Alarm
+Super Bass
+Right By My Side
+Fly
+Make Love
+Automatic
+No Frauds
+Sigurd
+Six Days of Spring
+Nuish (103.181 BPM)
+Cool
+Irish Winds
+Best Wishes for Summer
+GOT THESE SONGS
+{'played_at': ['20:48', '20:45', '20:41', '20:38', '20:33', '20:30', '20:30', '20:26', '20:21', '20:19', '20:15', '20:12', '20:07'], 'valence': [0.729, 0.591, 0.667, 0.495, 0.196, 0.183, 0.685, 0.432, 0.0389, 0.263, 0.0892, 0.132, 0.0957], 'mood_avg': [0.751, 0.699, 0.728, 0.597, 0.514, 0.571, 0.722, 0.631, 0.171, 0.27, 0.527, 0.189, 0.201], 'danceability': [0.878, 0.728, 0.723, 0.569, 0.665, 0.971, 0.738, 0.867, 0.286, 0.341, 0.774, 0.199, 0.254], 'energy': [0.54, 0.858, 0.86, 0.858, 0.848, 0.548, 0.764, 0.558, 0.204, 0.143, 0.907, 0.281, 0.305], 'image': [u'https://i.scdn.co/image/ab67616d0000b273540ab7c149079184e8724dc4', u'https://i.scdn.co/image/ab67616d0000b27385235715597dcd07bb9e0f84', u'https://i.scdn.co/image/ab67616d0000b273aa7d2641af0fa4c1f76fafbf', u'https://i.scdn.co/image/ab67616d0000b273fa2a62fe48c2c929c834c084', u'https://i.scdn.co/image/ab67616d0000b273c17570626959bfa6c2435925', u'https://i.scdn.co/image/ab67616d0000b273deedcf4bc503f7ed91f8a767', u'https://i.scdn.co/image/ab67616d0000b27385235715597dcd07bb9e0f84', u'https://i.scdn.co/image/ab67616d0000b2738222051128ef2edccf1e83d8', u'https://i.scdn.co/image/ab67616d0000b27344f9329511e6e0bec011dc7b', u'https://i.scdn.co/image/ab67616d0000b27344f9329511e6e0bec011dc7b', u'https://i.scdn.co/image/ab67616d0000b273680a31871f1e3267e0e9e01b', u'https://i.scdn.co/image/ab67616d0000b27344f9329511e6e0bec011dc7b', u'https://i.scdn.co/image/ab67616d0000b27344f9329511e6e0bec011dc7b'], 'album_name': [u'Queen', u'Pink Friday ... Roman Reloaded', u'Pink Friday (Complete Edition)', u'Pink Friday: Roman Reloaded The Re-Up', u'Pink Friday', u'Make Love', u'Pink Friday ... Roman Reloaded', u'No Frauds', u'Six Days of Spring', u'Six Days of Spring', u'Text While Driving If You Want to Meet God!', u'Six Days of Spring', u'Six Days of Spring'], 'song_name': [u'Miami', u'Pound The Alarm', u'Super Bass', u'Right By My Side', u'Fly', u'Make Love', u'Automatic', u'No Frauds', u'Sigurd', u'Six Days of Spring', u'Nuish (103.181 BPM)', u'Cool', u'Irish Winds'], 'artist_name': [u'Nicki Minaj', u'Nicki Minaj', u'Nicki Minaj', u'Nicki Minaj', u'Nicki Minaj', u'Gucci Mane', u'Nicki Minaj', u'Nicki Minaj', u'Olga Glazova Gusli', u'Olga Glazova Gusli', u'Vegyn', u'Olga Glazova Gusli', u'Olga Glazova Gusli'], 'track_id': [u'1DfASEEKVByFKTgCArlkS5', u'0LohatbcUXRauoeMlR1jnS', u'3hlksXnvbKogFdPbpO9vel', u'341X7aQ8sEOQqfoHHVq0vh', u'2E1RGgFtr1X4H6glXOtABo', u'2KlDzyTJVmOlH1sVTuPcSF', u'4XK4rTlGw1i9z0rAPPyCjA', u'7KcGEssn7BnJdTgildK5y0', u'3KjyzoMx1faTxIIC4IsnY1', u'3aeXCujspZP4Dj37qdHZWk', u'74bUjcHKvfutE5GoEOmrZ3', u'0iFNaHk0goE5zLUpRa9b64', u'5pwPl4Eo9xoAZdMR7dK7Wc']}
+                                                image  ... energy
+12  https://i.scdn.co/image/ab67616d0000b27344f932...  ...  0.305
+11  https://i.scdn.co/image/ab67616d0000b27344f932...  ...  0.281
+10  https://i.scdn.co/image/ab67616d0000b273680a31...  ...  0.907
+9   https://i.scdn.co/image/ab67616d0000b27344f932...  ...  0.143
+8   https://i.scdn.co/image/ab67616d0000b27344f932...  ...  0.204
+7   https://i.scdn.co/image/ab67616d0000b273822205...  ...  0.558
+6   https://i.scdn.co/image/ab67616d0000b273852357...  ...  0.764
+5   https://i.scdn.co/image/ab67616d0000b273deedcf...  ...  0.548
+4   https://i.scdn.co/image/ab67616d0000b273c17570...  ...  0.848
+3   https://i.scdn.co/image/ab67616d0000b273fa2a62...  ...  0.858
+2   https://i.scdn.co/image/ab67616d0000b273aa7d26...  ...   0.86
+1   https://i.scdn.co/image/ab67616d0000b273852357...  ...  0.858
+0   https://i.scdn.co/image/ab67616d0000b273540ab7...  ...   0.54
+
+[13 rows x 10 columns]
+('Rows: ', 13)
+Saved!
+
