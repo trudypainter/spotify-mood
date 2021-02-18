@@ -51135,3 +51135,22 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 2193483] updating daily data 2021-02-18 09:00:05.192713
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+2021-02-18 09:00:04.275381
+Auth happening...
+Getting songs
+Creating dataframe...
+The Song
+Nothing Without Intention (interlude)
+Ballin' (with Roddy Ricch)
+GOT THESE SONGS
+{'played_at': ['08:23', '08:10'], 'valence': [0.953, 0.623], 'mood_avg': [0.871, 0.622], 'danceability': [0.859, 0.678], 'energy': [0.73, 0.506], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c3545bbe806b845c2b52bc20', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc'], 'album_name': [u'The Lo-Fis', u'When I Get Home'], 'song_name': [u'The Song', u'Nothing Without Intention (interlude)'], 'artist_name': [u'Steve Lacy', u'Solange'], 'track_id': [u'3REOvSCJjr1Tt9UmJ63rsf', u'0uKYWr9wbXWXfQtyWGMItp']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.506
+0  https://i.scdn.co/image/ab67616d0000b273c3545b...  ...   0.73
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
