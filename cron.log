@@ -51323,3 +51323,36 @@ GOT THESE SONGS
 ('Rows: ', 7)
 Saved!
 
+[master 1fb5a8b] updating daily data 2021-02-18 20:00:05.160034
+ 3 files changed, 39 insertions(+), 1 deletion(-)
+2021-02-18 20:00:03.408038
+Auth happening...
+Getting songs
+Creating dataframe...
+You Gotta Shake (feat. Supa)
+Yikes
+Pretty Girl hi!
+Delete Forever
+Kill V. Maim
+What You Know Bout Love
+Don't Leave the Light On
+Winona
+Milk
+Want U Around (feat. Ruel)
+GOT THESE SONGS
+{'played_at': ['19:54', '19:51', '19:48', '19:46', '19:42', '19:38', '19:35', '19:04', '19:01'], 'valence': [0.468, 0.66, 0.441, 0.389, 0.456, 0.543, 0.321, 0.76, 0.259], 'mood_avg': [0.739, 0.756, 0.585, 0.527, 0.603, 0.61, 0.463, 0.688, 0.317], 'danceability': [0.898, 0.911, 0.636, 0.56, 0.578, 0.709, 0.649, 0.65, 0.336], 'energy': [0.964, 0.637, 0.772, 0.736, 0.947, 0.548, 0.376, 0.621, 0.397], 'image': [u'https://i.scdn.co/image/ab67616d0000b2730c4e4658e5a7e7c1f76a925d', u'https://i.scdn.co/image/ab67616d0000b27398441652fc8a6b7ebf395ba9', u'https://i.scdn.co/image/ab67616d0000b273680f7aff18376de523d7dea5', u'https://i.scdn.co/image/ab67616d0000b2731a302aafa2ea587960e27951', u'https://i.scdn.co/image/ab67616d0000b2734f1235383b41920e64b00a78', u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369', u'https://i.scdn.co/image/ab67616d0000b273f6ad715a9caac0ccf9af0a4a', u'https://i.scdn.co/image/ab67616d0000b273246809ecaedc67457959e781', u'https://i.scdn.co/image/ab67616d0000b273399d18f30888ad38dc053de9'], 'album_name': [u'You Gotta Shake (feat. Supa)', u'Yikes', u'Introspection', u'Miss Anthropocene (Deluxe Edition)', u'Art Angels', u'Shoot For The Stars Aim For The Moon', u"Don't Leave the Light On", u'Winona', u'You Will Never Know Why'], 'song_name': [u'You Gotta Shake (feat. Supa)', u'Yikes', u'Pretty Girl hi!', u'Delete Forever', u'Kill V. Maim', u'What You Know Bout Love', u"Don't Leave the Light On", u'Winona', u'Milk'], 'artist_name': [u'Briki Fa President', u'Nicki Minaj', u'UMI', u'Grimes', u'Grimes', u'Pop Smoke', u'Cosmo Pyke', u'Miloe', u'Sweet Trip'], 'track_id': [u'1eiylvr7YokF7vN2yg0Wy9', u'75dLEqanQTupF3dtP9exT5', u'35SJSCkL9h2APOXwiSTPX1', u'71J2rawCGulCAyTMtNY3Ej', u'3WXhshrs1fzwF3rQE399Gq', u'1tkg4EHVoqnhR6iFEXb60y', u'5xHAoFwgOas1nOZofh8hw8', u'50CrMqvVH178XRNNhhXfTy', u'62ocXa3rr5qUWI3GAhWnaH']}
+                                               image  ... energy
+8  https://i.scdn.co/image/ab67616d0000b273399d18...  ...  0.397
+7  https://i.scdn.co/image/ab67616d0000b273246809...  ...  0.621
+6  https://i.scdn.co/image/ab67616d0000b273f6ad71...  ...  0.376
+5  https://i.scdn.co/image/ab67616d0000b27377ada0...  ...  0.548
+4  https://i.scdn.co/image/ab67616d0000b2734f1235...  ...  0.947
+3  https://i.scdn.co/image/ab67616d0000b2731a302a...  ...  0.736
+2  https://i.scdn.co/image/ab67616d0000b273680f7a...  ...  0.772
+1  https://i.scdn.co/image/ab67616d0000b273984416...  ...  0.637
+0  https://i.scdn.co/image/ab67616d0000b2730c4e46...  ...  0.964
+
+[9 rows x 10 columns]
+('Rows: ', 9)
+Saved!
+
