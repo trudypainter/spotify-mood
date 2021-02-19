@@ -51356,3 +51356,38 @@ GOT THESE SONGS
 ('Rows: ', 9)
 Saved!
 
+[master f0d1e40] updating daily data 2021-02-18 21:00:05.990598
+ 3 files changed, 44 insertions(+), 1 deletion(-)
+2021-02-18 21:00:04.432699
+Auth happening...
+Getting songs
+Creating dataframe...
+Cry (feat. Grimes)
+Want Some More
+OHFR?
+Bitch I'm Nasty
+Time Flies
+Hello Kitty
+Chun Swae (feat. Swae Lee)
+BB
+Like That Bitch
+Shake That
+Not Friendly
+GOT THESE SONGS
+{'played_at': ['20:43', '20:41', '20:37', '20:24', '20:22', '20:19', '20:16', '20:10', '20:07', '20:03'], 'valence': [0.843, 0.214, 0.812, 0.342, 0.91, 0.591, 0.21, 0.267, 0.76, 0.497], 'mood_avg': [0.77, 0.516, 0.812, 0.645, 0.789, 0.655, 0.509, 0.536, 0.786, 0.736], 'danceability': [0.667, 0.842, 0.86, 0.953, 0.596, 0.725, 0.851, 0.693, 0.782, 0.949], 'energy': [0.828, 0.466, 0.717, 0.636, 0.933, 0.641, 0.421, 0.761, 0.844, 0.786], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b92c8caf2c7b8f35c2b3ff00', u'https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458', u'https://i.scdn.co/image/ab67616d0000b273b254cff03b053d4bca9100ef', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b2733943a3a1fc6dd6b1df92398b', u'https://i.scdn.co/image/ab67616d0000b27385e1a4e3692d910ddb8416e6', u'https://i.scdn.co/image/ab67616d0000b273540ab7c149079184e8724dc4', u'https://i.scdn.co/image/ab67616d0000b273a7ef0539771ba8bfa0bae81c', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b2738fdfd969c0b6375ca22c3fa3'], 'album_name': [u'Cry (feat. Grimes)', u'The Pinkprint (Deluxe)', u'Nightmare Vacation', u'Nasty', u'Time Flies', u'Hello Kitty', u'Queen', u'BB', u'Ho, why is you here ?', u'Fever'], 'song_name': [u'Cry (feat. Grimes)', u'Want Some More', u'OHFR?', u"Bitch I'm Nasty", u'Time Flies', u'Hello Kitty', u'Chun Swae (feat. Swae Lee)', u'BB', u'Like That Bitch', u'Shake That'], 'artist_name': [u'Ashnikko', u'Nicki Minaj', u'Rico Nasty', u'Rico Nasty', u'Rico Nasty', u'Slayyyter', u'Nicki Minaj', u'Shygirl', u'Flo Milli', u'Megan Thee Stallion'], 'track_id': [u'0w1Wd17IygSVDMOZtKm4hi', u'6cJ7CoT1gJ89Xy7NJXIInt', u'0MJ6Ci5Up2ZQsXXygcVCQ3', u'2xXNa4tR2CronQsZ6OKQtP', u'2QXB9GugNcZqXrDXYowISU', u'2EZHO9OoxZoaBs669GtWZv', u'03It1uO69CjGWP3yyVe465', u'1oTZfA19b295ZdWdFTzJNj', u'7zoZd2MuTaQEdF1rlq6Vv1', u'0nWDgFps67oDM01swzHCcC']}
+                                               image  ... energy
+9  https://i.scdn.co/image/ab67616d0000b2738fdfd9...  ...  0.786
+8  https://i.scdn.co/image/ab67616d0000b2733ae4c6...  ...  0.844
+7  https://i.scdn.co/image/ab67616d0000b273a7ef05...  ...  0.761
+6  https://i.scdn.co/image/ab67616d0000b273540ab7...  ...  0.421
+5  https://i.scdn.co/image/ab67616d0000b27385e1a4...  ...  0.641
+4  https://i.scdn.co/image/ab67616d0000b2733943a3...  ...  0.933
+3  https://i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.636
+2  https://i.scdn.co/image/ab67616d0000b273b254cf...  ...  0.717
+1  https://i.scdn.co/image/ab67616d0000b2730f79d1...  ...  0.466
+0  https://i.scdn.co/image/ab67616d0000b273b92c8c...  ...  0.828
+
+[10 rows x 10 columns]
+('Rows: ', 10)
+Saved!
+
