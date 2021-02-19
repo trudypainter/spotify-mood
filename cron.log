@@ -51535,3 +51535,28 @@ GOT THESE SONGS
 ('Rows: ', 4)
 Saved!
 
+[master 41a04b2] updating daily data 2021-02-19 07:00:05.629733
+ 3 files changed, 29 insertions(+), 1 deletion(-)
+2021-02-19 07:00:03.928774
+Auth happening...
+Getting songs
+Creating dataframe...
+Bands
+beibs in the trap
+No Type
+Money Longer
+Don't Touch Me (feat. KEY)
+Woah
+GOT THESE SONGS
+{'played_at': ['06:14', '06:12', '06:09', '06:05', '06:02'], 'valence': [0.533, 0.495, 0.239, 0.478, 0.484], 'mood_avg': [0.638, 0.609, 0.549, 0.623, 0.659], 'danceability': [0.834, 0.743, 0.891, 0.795, 0.714], 'energy': [0.457, 0.571, 0.486, 0.568, 0.897], 'image': [u'https://i.scdn.co/image/ab67616d0000b273fc22b0ce07f38f096102c1a7', u'https://i.scdn.co/image/ab67616d0000b273f54b99bf27cda88f4a7403ce', u'https://i.scdn.co/image/ab67616d0000b2734ca3fb4517ff722918877460', u'https://i.scdn.co/image/ab67616d0000b2738be07181aa935225a6f25d56', u'https://i.scdn.co/image/ab67616d0000b2739151691fbd8b30675e5bb315'], 'album_name': [u'Bawskee', u'Birds In The Trap Sing McKnight', u'SremmLife', u'Lil Uzi Vert vs. The World', u'Ethernet'], 'song_name': [u'Bands', u'beibs in the trap', u'No Type', u'Money Longer', u"Don't Touch Me (feat. KEY)"], 'artist_name': [u'Comethazine', u'Travis Scott', u'Rae Sremmurd', u'Lil Uzi Vert', u'Wifisfuneral'], 'track_id': [u'0AphwbfFSlGgGDlXGeiEpu', u'0ESJlaM8CE1jRWaNtwSNj8', u'4scpF6J5uMBvoh6sFB7EL1', u'0B8QzDH7YWih85V5SEMnyJ', u'5hCjqEyTxhzc4ApKchwIgU']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273915169...  ...  0.897
+3  https://i.scdn.co/image/ab67616d0000b2738be071...  ...  0.568
+2  https://i.scdn.co/image/ab67616d0000b2734ca3fb...  ...  0.486
+1  https://i.scdn.co/image/ab67616d0000b273f54b99...  ...  0.571
+0  https://i.scdn.co/image/ab67616d0000b273fc22b0...  ...  0.457
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
