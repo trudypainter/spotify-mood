@@ -51683,3 +51683,36 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master d8e786e] updating daily data 2021-02-19 17:00:04.071695
+ 3 files changed, 25 insertions(+), 1 deletion(-)
+2021-02-19 17:00:02.412191
+Auth happening...
+Getting songs
+Creating dataframe...
+GATTI
+Discounts
+BB
+Pretty Girl hi!
+Alewife
+Roaring 20s
+through the late night
+Praise The Lord (Da Shine) (feat. Skepta)
+La Lune
+Bands
+GOT THESE SONGS
+{'played_at': ['16:51', '16:51', '16:48', '16:45', '16:43', '16:40', '16:37', '16:33', '16:29'], 'valence': [0.472, 0.867, 0.267, 0.441, 0.264, 0.786, 0.242, 0.294, 0.33], 'mood_avg': [0.562, 0.825, 0.536, 0.585, 0.345, 0.812, 0.512, 0.573, 0.312], 'danceability': [0.594, 0.791, 0.693, 0.636, 0.433, 0.91, 0.744, 0.854, 0.302], 'energy': [0.676, 0.81, 0.761, 0.772, 0.329, 0.67, 0.589, 0.569, 0.295], 'image': [u'https://i.scdn.co/image/ab67616d0000b273dfc2f59568272de50a257f2f', u'https://i.scdn.co/image/ab67616d0000b2731de90928b7e41cc8dfc97c68', u'https://i.scdn.co/image/ab67616d0000b273a7ef0539771ba8bfa0bae81c', u'https://i.scdn.co/image/ab67616d0000b273680f7aff18376de523d7dea5', u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', u'https://i.scdn.co/image/ab67616d0000b2733eee02e04b08d2c415ae63a5', u'https://i.scdn.co/image/ab67616d0000b273f54b99bf27cda88f4a7403ce', u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b', u'https://i.scdn.co/image/ab67616d0000b273c02d78ecd28d80920aa11f1c'], 'album_name': [u'JACKBOYS', u'Discounts', u'BB', u'Introspection', u'Immunity', u'Roaring 20s', u'Birds In The Trap Sing McKnight', u'TESTING', u'The OOZ'], 'song_name': [u'GATTI', u'Discounts', u'BB', u'Pretty Girl hi!', u'Alewife', u'Roaring 20s', u'through the late night', u'Praise The Lord (Da Shine) (feat. Skepta)', u'La Lune'], 'artist_name': [u'JACKBOYS', u'cupcakKe', u'Shygirl', u'UMI', u'Clairo', u'Flo Milli', u'Travis Scott', u'A$AP Rocky', u'King Krule'], 'track_id': [u'40mjsnRjCpycdUw3xhS20g', u'3NILSt8vgJrRqwWkwB8das', u'1oTZfA19b295ZdWdFTzJNj', u'35SJSCkL9h2APOXwiSTPX1', u'3jgrNd3uPU1c2PFBKYsV9d', u'5N4oNpf3YH76vNhXKc5usy', u'1Ci4wASMY4xtKVMeHA6Sd5', u'7ycWLEP1GsNjVvcjawXz3z', u'7z41WUzSJJvvNfw3BO7GMZ']}
+                                               image  ... energy
+8  https://i.scdn.co/image/ab67616d0000b273c02d78...  ...  0.295
+7  https://i.scdn.co/image/ab67616d0000b2739feadc...  ...  0.569
+6  https://i.scdn.co/image/ab67616d0000b273f54b99...  ...  0.589
+5  https://i.scdn.co/image/ab67616d0000b2733eee02...  ...   0.67
+4  https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...  0.329
+3  https://i.scdn.co/image/ab67616d0000b273680f7a...  ...  0.772
+2  https://i.scdn.co/image/ab67616d0000b273a7ef05...  ...  0.761
+1  https://i.scdn.co/image/ab67616d0000b2731de909...  ...   0.81
+0  https://i.scdn.co/image/ab67616d0000b273dfc2f5...  ...  0.676
+
+[9 rows x 10 columns]
+('Rows: ', 9)
+Saved!
+
