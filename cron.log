@@ -51512,3 +51512,26 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master cc3fa05] updating daily data 2021-02-19 06:00:04.926673
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+2021-02-19 06:00:03.734745
+Auth happening...
+Getting songs
+Creating dataframe...
+Woah
+ROCKSTAR (feat. Roddy Ricch)
+Powerglide (feat. Juicy J) - From SR3MM
+HOLIDAY
+No Frauds
+GOT THESE SONGS
+{'played_at': ['05:57', '05:54', '05:51', '05:45'], 'valence': [0.43, 0.497, 0.584, 0.837], 'mood_avg': [0.645, 0.635, 0.685, 0.761], 'danceability': [0.882, 0.746, 0.713, 0.81], 'energy': [0.602, 0.69, 0.831, 0.511], 'image': [u'https://i.scdn.co/image/ab67616d0000b2732444bc008adcac2fa15b0e2a', u'https://i.scdn.co/image/ab67616d0000b27320e08c8cc23f404d723b5647', u'https://i.scdn.co/image/ab67616d0000b273ba9015f4504a9dfd7560bfa9', u'https://i.scdn.co/image/ab67616d0000b2736771a05f34d77e5fc2bde64c'], 'album_name': [u'Woah', u'BLAME IT ON BABY', u'SR3MM', u'HOLIDAY'], 'song_name': [u'Woah', u'ROCKSTAR (feat. Roddy Ricch)', u'Powerglide (feat. Juicy J) - From SR3MM', u'HOLIDAY'], 'artist_name': [u'Lil Baby', u'DaBaby', u'Rae Sremmurd', u'Lil Nas X'], 'track_id': [u'598yNsG1JFrGd4n2kMoz7F', u'7ytR5pFWmSjzHJIeQkgog4', u'1BuZAIO8WZpavWVbbq3Lci', u'6zFMeegAMYQo0mt8rXtrli']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b2736771a0...  ...  0.511
+2  https://i.scdn.co/image/ab67616d0000b273ba9015...  ...  0.831
+1  https://i.scdn.co/image/ab67616d0000b27320e08c...  ...   0.69
+0  https://i.scdn.co/image/ab67616d0000b2732444bc...  ...  0.602
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
