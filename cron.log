@@ -51406,3 +51406,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 10936d6] updating daily data 2021-02-18 23:00:03.792945
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-02-18 23:00:03.196998
+Auth happening...
+Getting songs
+Creating dataframe...
+Cry (feat. Grimes)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
