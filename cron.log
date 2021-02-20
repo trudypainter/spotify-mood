@@ -51776,3 +51776,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master bb1bc11] updating daily data 2021-02-19 22:00:05.971186
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-02-19 22:00:04.821414
+Auth happening...
+Getting songs
+Creating dataframe...
+friday the 13th
+friday the 13th
+GATTI
+GOT THESE SONGS
+{'played_at': ['21:05', '21:04'], 'valence': [0.308, 0.308], 'mood_avg': [0.428, 0.428], 'danceability': [0.515, 0.515], 'energy': [0.493, 0.493], 'image': [u'https://i.scdn.co/image/ab67616d0000b273ea811f8d9a2fda98e77f2231', u'https://i.scdn.co/image/ab67616d0000b273ea811f8d9a2fda98e77f2231'], 'album_name': [u'Poison Ivy', u'Poison Ivy'], 'song_name': [u'friday the 13th', u'friday the 13th'], 'artist_name': [u'Yung Lean', u'Yung Lean'], 'track_id': [u'6b64wfFRjHTwmVJDp3IV9X', u'6b64wfFRjHTwmVJDp3IV9X']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273ea811f...  ...  0.493
+0  https://i.scdn.co/image/ab67616d0000b273ea811f...  ...  0.493
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
