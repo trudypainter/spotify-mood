@@ -51948,3 +51948,44 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 526f0fb] updating daily data 2021-02-20 10:00:04.720182
+ 3 files changed, 29 insertions(+), 1 deletion(-)
+2021-02-20 10:00:03.263105
+Auth happening...
+Getting songs
+Creating dataframe...
+french hotel
+Hennessy & Sailor Moon
+King Cobra
+Pikachu
+Hocus Pocus
+Smirnoff Ice
+Metallic Intuition
+Opium Dreams
+Gotham City
+Ice Cold Smoke
+bender++girlfriend
+Blue Plastic
+Hurt
+friday the 13th
+GOT THESE SONGS
+{'played_at': ['09:54', '09:51', '09:47', '09:44', '09:41', '09:38', '09:36', '09:33', '09:30', '09:27', '09:26', '09:21', '09:18'], 'valence': [0.45, 0.218, 0.0719, 0.359, 0.208, 0.0993, 0.165, 0.521, 0.347, 0.297, 0.109, 0.263, 0.194], 'mood_avg': [0.499, 0.455, 0.42, 0.517, 0.506, 0.443, 0.359, 0.623, 0.561, 0.39, 0.221, 0.47, 0.492], 'danceability': [0.509, 0.676, 0.684, 0.701, 0.649, 0.604, 0.554, 0.722, 0.72, 0.36, 0.286, 0.603, 0.813], 'energy': [0.578, 0.486, 0.59, 0.464, 0.818, 0.809, 0.356, 0.628, 0.669, 0.636, 0.314, 0.617, 0.445], 'image': [u'https://i.scdn.co/image/ab67616d0000b273ea811f8d9a2fda98e77f2231', u'https://i.scdn.co/image/ab67616d0000b27358e207adc42fc9363d61b815', u'https://i.scdn.co/image/ab67616d0000b273d1c3a8ef26e2a42435839309', u'https://i.scdn.co/image/ab67616d0000b2734fbf52b8c98e5c6fbaeb504b', u'https://i.scdn.co/image/ab67616d0000b273eede620ac37065eaa0aec23a', u'https://i.scdn.co/image/ab67616d0000b273ef3d7487204c85c155a8ffff', u'https://i.scdn.co/image/ab67616d0000b273fe81407d98ef67144560b96d', u'https://i.scdn.co/image/ab67616d0000b273ed51c535080cf7ec3112eab0', u'https://i.scdn.co/image/ab67616d0000b273e7af8e892bae25defd3a12b7', u'https://i.scdn.co/image/ab67616d0000b2735635b14b0f233b060ce28946', u'https://i.scdn.co/image/ab67616d0000b273ea811f8d9a2fda98e77f2231', u'https://i.scdn.co/image/ab67616d0000b2733fbc290f4aa38de91a21fc87', u'https://i.scdn.co/image/ab67616d0000b273a0c05ffaaf8e36cf86059e78'], 'album_name': [u'Poison Ivy', u'Frost God', u'King Cobra', u'Starz', u'Warlord (Deluxe)', u'Total Eclipse', u'Stranger', u'Opium Dreams', u'Gotham City', u'Unknown Memory', u'Poison Ivy', u'Blue Plastic', u'Unknown Death 2002'], 'song_name': [u'french hotel', u'Hennessy & Sailor Moon', u'King Cobra', u'Pikachu', u'Hocus Pocus', u'Smirnoff Ice', u'Metallic Intuition', u'Opium Dreams', u'Gotham City', u'Ice Cold Smoke', u'bender++girlfriend', u'Blue Plastic', u'Hurt'], 'artist_name': [u'Yung Lean', u'Yung Lean', u'Yung Lean', u'Yung Lean', u'Yung Lean', u'Yung Lean', u'Yung Lean', u'Yung Lean', u'Bladee', u'Yung Lean', u'Yung Lean', u'Yung Lean', u'Yung Lean'], 'track_id': [u'0HWVRydRGq8V49WVXW9Pn5', u'1Tx9d3LttUbrogmblhfQKY', u'4AkRFLTj7VMQE5f9QvqhBB', u'2tasUxhSR4DFdwcclUwnel', u'108IEI9pc04fBMp5CQaUFo', u'5Bm38kZRQd7dB7OKYYQ0Ct', u'6iRQw60t2V3l5iRq29Ueti', u'29SyMlAOX4EkFtPSxya8TQ', u'2whKOvkZ8mNLbinpYsKt3X', u'1GbdR1yztiES0VcbRuJtpA', u'4rMlrTKpibfiaVkEJz0Y70', u'3oXtfvECvS9fJPhLisiJ0A', u'0Ga7kQpBhl6hcFFLDIKKJx']}
+                                                image  ... energy
+12  https://i.scdn.co/image/ab67616d0000b273a0c05f...  ...  0.445
+11  https://i.scdn.co/image/ab67616d0000b2733fbc29...  ...  0.617
+10  https://i.scdn.co/image/ab67616d0000b273ea811f...  ...  0.314
+9   https://i.scdn.co/image/ab67616d0000b2735635b1...  ...  0.636
+8   https://i.scdn.co/image/ab67616d0000b273e7af8e...  ...  0.669
+7   https://i.scdn.co/image/ab67616d0000b273ed51c5...  ...  0.628
+6   https://i.scdn.co/image/ab67616d0000b273fe8140...  ...  0.356
+5   https://i.scdn.co/image/ab67616d0000b273ef3d74...  ...  0.809
+4   https://i.scdn.co/image/ab67616d0000b273eede62...  ...  0.818
+3   https://i.scdn.co/image/ab67616d0000b2734fbf52...  ...  0.464
+2   https://i.scdn.co/image/ab67616d0000b273d1c3a8...  ...   0.59
+1   https://i.scdn.co/image/ab67616d0000b27358e207...  ...  0.486
+0   https://i.scdn.co/image/ab67616d0000b273ea811f...  ...  0.578
+
+[13 rows x 10 columns]
+('Rows: ', 13)
+Saved!
+
