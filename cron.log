@@ -52051,3 +52051,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 06fade8] updating daily data 2021-02-20 15:00:03.954898
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-02-20 15:00:03.138818
+Auth happening...
+Getting songs
+Creating dataframe...
+Ever Again
+might bang, might not
+For Violet
+GOT THESE SONGS
+{'played_at': ['14:56', '14:51'], 'valence': [0.727, 0.644], 'mood_avg': [0.775, 0.576], 'danceability': [0.942, 0.431], 'energy': [0.539, 0.731], 'image': [u'https://i.scdn.co/image/ab67616d0000b273fbf9a966181d8e527f34077f', u'https://i.scdn.co/image/ab67616d0000b273d0bb66e4667e13d4fdc739d6'], 'album_name': [u'Honey', u'Drop 6'], 'song_name': [u'Ever Again', u'might bang, might not'], 'artist_name': [u'Robyn', u'Little Simz'], 'track_id': [u'2E5e4J3nm1LMHkqTS21Dlq', u'0lAenyfo765pFS0irWQ0sG']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273d0bb66...  ...  0.731
+0  https://i.scdn.co/image/ab67616d0000b273fbf9a9...  ...  0.539
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
