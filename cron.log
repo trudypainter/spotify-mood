@@ -52093,3 +52093,26 @@ GOT THESE SONGS
 ('Rows: ', 4)
 Saved!
 
+[master c5d0e03] updating daily data 2021-02-20 17:00:05.354009
+ 3 files changed, 28 insertions(+), 1 deletion(-)
+2021-02-20 17:00:02.985833
+Auth happening...
+Getting songs
+Creating dataframe...
+In The Party
+Ocean of Tears
+Daisy
+Underwater (feat. Dillon Francis)
+Gone
+GOT THESE SONGS
+{'played_at': ['16:10', '16:08', '16:04', '16:01'], 'valence': [0.418, 0.132, 0.774, 0.411], 'mood_avg': [0.657, 0.37, 0.776, 0.631], 'danceability': [0.919, 0.572, 0.834, 0.751], 'energy': [0.609, 0.442, 0.663, 0.829], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b27311b63834a1a557cc77403458', u'https://i.scdn.co/image/ab67616d0000b273d9590f46097050a5f7c4c77d'], 'album_name': [u'Ho, why is you here ?', u'Pang', u'DEMIDEVIL', u'TREAT MYSELF (DELUXE)'], 'song_name': [u'In The Party', u'Ocean of Tears', u'Daisy', u'Underwater (feat. Dillon Francis)'], 'artist_name': [u'Flo Milli', u'Caroline Polachek', u'Ashnikko', u'Meghan Trainor'], 'track_id': [u'52BJrldggFQyTiW8XrILhO', u'4RqBss578GNj4u9VYZK5u0', u'2g1KggY9PKvsoEAOaiz4xx', u'7uGQCsecZDhMCWBJmQvs1A']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273d9590f...  ...  0.829
+2  https://i.scdn.co/image/ab67616d0000b27311b638...  ...  0.663
+1  https://i.scdn.co/image/ab67616d0000b2737d983e...  ...  0.442
+0  https://i.scdn.co/image/ab67616d0000b2733ae4c6...  ...  0.609
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
