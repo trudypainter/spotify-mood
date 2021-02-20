@@ -52070,3 +52070,26 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master f91d74b] updating daily data 2021-02-20 16:00:04.984061
+ 3 files changed, 24 insertions(+), 1 deletion(-)
+2021-02-20 16:00:03.578569
+Auth happening...
+Getting songs
+Creating dataframe...
+Gone
+Devil I Know
+Blame It on Your Love (feat. Lizzo)
+Shark In The Water
+You, at the End
+GOT THESE SONGS
+{'played_at': ['15:58', '15:09', '15:06', '15:03'], 'valence': [0.64, 0.384, 0.598, 0.697], 'mood_avg': [0.706, 0.465, 0.677, 0.661], 'danceability': [0.906, 0.51, 0.717, 0.554], 'energy': [0.438, 0.536, 0.755, 0.805], 'image': [u'https://i.scdn.co/image/ab67616d0000b2730c40f0ad4ff7e8d13553cd88', u'https://i.scdn.co/image/ab67616d0000b27332ef63bcb552e1e9c1ecf475', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273703e55d5e562ef129a01532e'], 'album_name': [u'Gone', u'Cape God', u'Charli', u'Travelling Like The Light'], 'song_name': [u'Gone', u'Devil I Know', u'Blame It on Your Love (feat. Lizzo)', u'Shark In The Water'], 'artist_name': [u'Charli XCX', u'Allie X', u'Charli XCX', u'V V Brown'], 'track_id': [u'4UQeq4HUvC5uPEA9pWTgPW', u'4GSqiK9YdVNhilXMFtCiQB', u'2RCUr24WkEe2r5Vv4oDKlN', u'0BLPuaA32HDg6AJTUT4WMl']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273703e55...  ...  0.805
+2  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.755
+1  https://i.scdn.co/image/ab67616d0000b27332ef63...  ...  0.536
+0  https://i.scdn.co/image/ab67616d0000b2730c40f0...  ...  0.438
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
