@@ -52419,3 +52419,45 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 151f1ed] updating daily data 2021-02-21 12:00:03.956841
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-02-21 12:00:03.338158
+Auth happening...
+Getting songs
+Creating dataframe...
+Kiss Me Thru The Phone
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-02-21 13:00:03.066054
+Auth happening...
+Getting songs
+Creating dataframe...
+Jackie Chan
+Thunder
+Young Dumb & Broke
+Money Longer
+Move Your Feet
+GOT THESE SONGS
+{'played_at': ['12:56', '12:53', '12:47', '12:44'], 'valence': [0.687, 0.156, 0.394, 0.478], 'mood_avg': [0.74, 0.392, 0.585, 0.623], 'danceability': [0.747, 0.667, 0.798, 0.795], 'energy': [0.834, 0.316, 0.539, 0.568], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738c5e26c45a7703cf16f509f7', u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da', u'https://i.scdn.co/image/ab67616d0000b273988ede5e1276e758b5f9e577', u'https://i.scdn.co/image/ab67616d0000b2738be07181aa935225a6f25d56'], 'album_name': [u'Jackie Chan', u'Cat Heaven', u'American Teen', u'Lil Uzi Vert vs. The World'], 'song_name': [u'Jackie Chan', u'Thunder', u'Young Dumb & Broke', u'Money Longer'], 'artist_name': [u'Ti\xebsto', u'Roy Blair', u'Khalid', u'Lil Uzi Vert'], 'track_id': [u'4kWO6O1BUXcZmaxitpVUwp', u'0afGLa6wcYiLLXFZ48ZQpY', u'5Z3GHaZ6ec9bsiI5BenrbY', u'0B8QzDH7YWih85V5SEMnyJ']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b2738be071...  ...  0.568
+2  https://i.scdn.co/image/ab67616d0000b273988ede...  ...  0.539
+1  https://i.scdn.co/image/ab67616d0000b273de3c33...  ...  0.316
+0  https://i.scdn.co/image/ab67616d0000b2738c5e26...  ...  0.834
+
+[4 rows x 10 columns]
+2021-02-21 14:00:03.347338
+Auth happening...
+Getting songs
+Creating dataframe...
+Bound 2
+Say A'
+Say A'
+SWISH
+Hey Ya!
