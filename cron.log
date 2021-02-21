@@ -52476,3 +52476,34 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 20aa62b] updating daily data 2021-02-21 16:00:04.785233
+ 3 files changed, 24 insertions(+), 1 deletion(-)
+2021-02-21 16:00:03.312053
+Auth happening...
+Getting songs
+Creating dataframe...
+Bite Our Style (Interlude)
+Hit 'Em wit da Hee (feat. Lil' Kim)
+Izzy Izzy Ahh
+Missy's Finale - Spoken Word
+Best Friends (feat. Aaliyah)
+The Rain (Supa Dupa Fly)
+Friendly Skies (feat. Ginuwine)
+Busta's Intro (feat. Busta Rhymes)
+Bound 2
+GOT THESE SONGS
+{'played_at': ['15:58', '15:58', '15:53', '15:49', '15:49', '15:45', '15:41', '15:36'], 'valence': [0.969, 0.77, 0.63, 0.643, 0.941, 0.762, 0.497, 0.767], 'mood_avg': [0.854, 0.753, 0.715, 0.574, 0.807, 0.758, 0.557, 0.728], 'danceability': [0.889, 0.805, 0.909, 0.748, 0.887, 0.836, 0.75, 0.759], 'energy': [0.556, 0.615, 0.496, 0.0887, 0.378, 0.595, 0.291, 0.589], 'image': [u'https://i.scdn.co/image/ab67616d0000b273f27571e59cac2e7a4624c9c4', u'https://i.scdn.co/image/ab67616d0000b273f27571e59cac2e7a4624c9c4', u'https://i.scdn.co/image/ab67616d0000b273f27571e59cac2e7a4624c9c4', u'https://i.scdn.co/image/ab67616d0000b273f27571e59cac2e7a4624c9c4', u'https://i.scdn.co/image/ab67616d0000b273f27571e59cac2e7a4624c9c4', u'https://i.scdn.co/image/ab67616d0000b273f27571e59cac2e7a4624c9c4', u'https://i.scdn.co/image/ab67616d0000b273f27571e59cac2e7a4624c9c4', u'https://i.scdn.co/image/ab67616d0000b273f27571e59cac2e7a4624c9c4'], 'album_name': [u'Supa Dupa Fly', u'Supa Dupa Fly', u'Supa Dupa Fly', u'Supa Dupa Fly', u'Supa Dupa Fly', u'Supa Dupa Fly', u'Supa Dupa Fly', u'Supa Dupa Fly'], 'song_name': [u'Bite Our Style (Interlude)', u"Hit 'Em wit da Hee (feat. Lil' Kim)", u'Izzy Izzy Ahh', u"Missy's Finale - Spoken Word", u'Best Friends (feat. Aaliyah)', u'The Rain (Supa Dupa Fly)', u'Friendly Skies (feat. Ginuwine)', u"Busta's Intro (feat. Busta Rhymes)"], 'artist_name': [u'Missy Elliott', u'Missy Elliott', u'Missy Elliott', u'Missy Elliott', u'Missy Elliott', u'Missy Elliott', u'Missy Elliott', u'Missy Elliott'], 'track_id': [u'6y1HxKKNY5iNqie88XiWl4', u'1lrfo8etNC1iZ9LA81XNpd', u'26pX4pxghPHep5qGjI5xk1', u'3BgwOI1jT8l6dFeAiESJVM', u'0hq4njfuLWfjlfinVFCXhA', u'2WRzpLD8qDRrxMXc63E5WJ', u'580qfiaOR7n9PuKbRUi7qx', u'0eNGzSqI1Icrq7GfwRS1FI']}
+                                               image  ...  energy
+7  https://i.scdn.co/image/ab67616d0000b273f27571...  ...   0.589
+6  https://i.scdn.co/image/ab67616d0000b273f27571...  ...   0.291
+5  https://i.scdn.co/image/ab67616d0000b273f27571...  ...   0.595
+4  https://i.scdn.co/image/ab67616d0000b273f27571...  ...   0.378
+3  https://i.scdn.co/image/ab67616d0000b273f27571...  ...  0.0887
+2  https://i.scdn.co/image/ab67616d0000b273f27571...  ...   0.496
+1  https://i.scdn.co/image/ab67616d0000b273f27571...  ...   0.615
+0  https://i.scdn.co/image/ab67616d0000b273f27571...  ...   0.556
+
+[8 rows x 10 columns]
+('Rows: ', 8)
+Saved!
+
