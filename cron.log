@@ -52507,3 +52507,38 @@ GOT THESE SONGS
 ('Rows: ', 8)
 Saved!
 
+[master c170cf4] updating daily data 2021-02-21 17:00:04.597742
+ 3 files changed, 42 insertions(+), 1 deletion(-)
+2021-02-21 17:00:03.163417
+Auth happening...
+Getting songs
+Creating dataframe...
+Sock It 2 Me (feat. Da Brat)
+Don't Be Comin' (In My Face)
+They Don't Wanna Fuck wit Me (feat. Timbaland)
+Busta's Outro (feat. Busta Rhymes)
+Beep Me 911 (feat. 702 & Magoo)
+I'm Talkin'
+I'm Talkin'
+Gettaway (feat. Space & Nicole)
+Pass da Blunt (feat. Timbaland)
+Why You Hurt Me
+Bite Our Style (Interlude)
+GOT THESE SONGS
+{'played_at': ['16:59', '16:57', '16:52', '16:49', '16:47', '16:42', '16:40', '16:11', '16:06', '16:03'], 'valence': [0.599, 0.952, 0.832, 0.557, 0.788, 0.742, 0.742, 0.808, 0.966, 0.797], 'mood_avg': [0.689, 0.832, 0.817, 0.668, 0.799, 0.708, 0.708, 0.772, 0.871, 0.759], 'danceability': [0.874, 0.847, 0.847, 0.828, 0.856, 0.819, 0.819, 0.783, 0.883, 0.848], 'energy': [0.498, 0.563, 0.729, 0.572, 0.707, 0.418, 0.418, 0.679, 0.659, 0.503], 'image': [u'https://i.scdn.co/image/ab67616d0000b273f27571e59cac2e7a4624c9c4', u'https://i.scdn.co/image/ab67616d0000b273f27571e59cac2e7a4624c9c4', u'https://i.scdn.co/image/ab67616d0000b273f27571e59cac2e7a4624c9c4', u'https://i.scdn.co/image/ab67616d0000b273f27571e59cac2e7a4624c9c4', u'https://i.scdn.co/image/ab67616d0000b273f27571e59cac2e7a4624c9c4', u'https://i.scdn.co/image/ab67616d0000b273f27571e59cac2e7a4624c9c4', u'https://i.scdn.co/image/ab67616d0000b273f27571e59cac2e7a4624c9c4', u'https://i.scdn.co/image/ab67616d0000b273f27571e59cac2e7a4624c9c4', u'https://i.scdn.co/image/ab67616d0000b273f27571e59cac2e7a4624c9c4', u'https://i.scdn.co/image/ab67616d0000b273f27571e59cac2e7a4624c9c4'], 'album_name': [u'Supa Dupa Fly', u'Supa Dupa Fly', u'Supa Dupa Fly', u'Supa Dupa Fly', u'Supa Dupa Fly', u'Supa Dupa Fly', u'Supa Dupa Fly', u'Supa Dupa Fly', u'Supa Dupa Fly', u'Supa Dupa Fly'], 'song_name': [u'Sock It 2 Me (feat. Da Brat)', u"Don't Be Comin' (In My Face)", u"They Don't Wanna Fuck wit Me (feat. Timbaland)", u"Busta's Outro (feat. Busta Rhymes)", u'Beep Me 911 (feat. 702 & Magoo)', u"I'm Talkin'", u"I'm Talkin'", u'Gettaway (feat. Space & Nicole)', u'Pass da Blunt (feat. Timbaland)', u'Why You Hurt Me'], 'artist_name': [u'Missy Elliott', u'Missy Elliott', u'Missy Elliott', u'Missy Elliott', u'Missy Elliott', u'Missy Elliott', u'Missy Elliott', u'Missy Elliott', u'Missy Elliott', u'Missy Elliott'], 'track_id': [u'08bn759cPYICtUPoYx29P0', u'01HjNE8gtRH10YwxdXRAzX', u'2VlFVARpC0DB5qmntc0pOI', u'6Bzib3O2Tw7mWdCylAmTUZ', u'75rHwPWN95Aklvn2xNul9q', u'5Ey8dGEX8LL0XiVqvzUNC5', u'5Ey8dGEX8LL0XiVqvzUNC5', u'4fWK7zJp17fuhDfQ9YnAei', u'2KOiFW6fVTnBMwP6kIG7Yz', u'5K5hkU749S0cJEfqIw0Rxk']}
+                                               image  ... energy
+9  https://i.scdn.co/image/ab67616d0000b273f27571...  ...  0.503
+8  https://i.scdn.co/image/ab67616d0000b273f27571...  ...  0.659
+7  https://i.scdn.co/image/ab67616d0000b273f27571...  ...  0.679
+6  https://i.scdn.co/image/ab67616d0000b273f27571...  ...  0.418
+5  https://i.scdn.co/image/ab67616d0000b273f27571...  ...  0.418
+4  https://i.scdn.co/image/ab67616d0000b273f27571...  ...  0.707
+3  https://i.scdn.co/image/ab67616d0000b273f27571...  ...  0.572
+2  https://i.scdn.co/image/ab67616d0000b273f27571...  ...  0.729
+1  https://i.scdn.co/image/ab67616d0000b273f27571...  ...  0.563
+0  https://i.scdn.co/image/ab67616d0000b273f27571...  ...  0.498
+
+[10 rows x 10 columns]
+('Rows: ', 10)
+Saved!
+
