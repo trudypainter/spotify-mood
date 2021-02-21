@@ -52461,3 +52461,18 @@ Say A'
 Say A'
 SWISH
 Hey Ya!
+[master d6f4c57] updating daily data 2021-02-21 15:00:04.427781
+ 3 files changed, 49 insertions(+), 1 deletion(-)
+2021-02-21 15:00:03.728451
+Auth happening...
+Getting songs
+Creating dataframe...
+Bound 2
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
