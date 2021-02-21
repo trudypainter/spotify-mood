@@ -52387,3 +52387,20 @@ GOT THESE SONGS
 ('Rows: ', 4)
 Saved!
 
+[master f4b6087] updating daily data 2021-02-21 10:00:08.096554
+ 3 files changed, 25 insertions(+), 1 deletion(-)
+2021-02-21 10:00:07.188829
+Auth happening...
+Getting songs
+Creating dataframe...
+Kiss Me Thru The Phone
+Happy
+GOT THESE SONGS
+{'played_at': ['09:03'], 'valence': [0.795], 'mood_avg': [0.764], 'danceability': [0.758], 'energy': [0.712], 'image': [u'https://i.scdn.co/image/ab67616d0000b2736aef62bd0a60aac7df9a9e37'], 'album_name': [u'iSouljaBoyTellem'], 'song_name': [u'Kiss Me Thru The Phone'], 'artist_name': [u'Soulja Boy'], 'track_id': [u'2q4rjDy9WhaN3o9MvDbO21']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b2736aef62...  ...  0.712
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
