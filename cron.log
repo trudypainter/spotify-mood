@@ -52116,3 +52116,28 @@ GOT THESE SONGS
 ('Rows: ', 4)
 Saved!
 
+[master 8876ebd] updating daily data 2021-02-20 18:00:03.488704
+ 3 files changed, 29 insertions(+), 1 deletion(-)
+2021-02-20 18:00:02.529687
+Auth happening...
+Getting songs
+Creating dataframe...
+Telephone Calls (feat. A$AP Rocky, Tyler, The Creator, Playboi Carti & Yung Gleesh)
+Of Course We Ghetto Flowers (feat. Playboi Carti & Offset)
+Sky
+Notice Me
+Castaway
+In The Party
+GOT THESE SONGS
+{'played_at': ['17:50', '17:37', '17:32', '17:29', '17:25'], 'valence': [0.493, 0.337, 0.565, 0.45, 0.456], 'mood_avg': [0.644, 0.573, 0.721, 0.566, 0.584], 'danceability': [0.732, 0.81, 0.785, 0.793, 0.623], 'energy': [0.772, 0.57, 0.903, 0.344, 0.761], 'image': [u'https://i.scdn.co/image/ab67616d0000b27330eaf29813f551d9188ad35a', u'https://i.scdn.co/image/ab67616d0000b2732143db1c88358d70dd898aa3', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890', u'https://i.scdn.co/image/ab67616d0000b27323f6814ba461a087edc030e9'], 'album_name': [u'Cozy Tapes: Vol. 1 Friends -', u'The Perfect LUV Tape', u'Whole Lotta Red', u'Culture II', u'Rouge'], 'song_name': [u'Telephone Calls (feat. A$AP Rocky, Tyler, The Creator, Playboi Carti & Yung Gleesh)', u'Of Course We Ghetto Flowers (feat. Playboi Carti & Offset)', u'Sky', u'Notice Me', u'Castaway'], 'artist_name': [u'A$AP Mob', u'Lil Uzi Vert', u'Playboi Carti', u'Migos', u'Yuna'], 'track_id': [u'5VnpYqIzm02X9gOhVElQo3', u'0gqfvyewE2Sh8TwKBFajCF', u'29TPjc8wxfz4XMn21O7VsZ', u'3OnOomd79OjqSYHchCQ6ht', u'19zPT36WogsfBd8HIaUnt4']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b27323f681...  ...  0.761
+3  https://i.scdn.co/image/ab67616d0000b2739c188c...  ...  0.344
+2  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.903
+1  https://i.scdn.co/image/ab67616d0000b2732143db...  ...   0.57
+0  https://i.scdn.co/image/ab67616d0000b27330eaf2...  ...  0.772
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
