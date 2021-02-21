@@ -52364,3 +52364,26 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 9c9280d] updating daily data 2021-02-21 09:00:04.890492
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+2021-02-21 09:00:04.014120
+Auth happening...
+Getting songs
+Creating dataframe...
+Happy
+Stronger
+FEFE
+Sky
+Digits
+GOT THESE SONGS
+{'played_at': ['08:57', '08:54', '08:48', '08:43'], 'valence': [0.519, 0.49, 0.376, 0.565], 'mood_avg': [0.6, 0.586, 0.6, 0.721], 'danceability': [0.798, 0.617, 0.931, 0.785], 'energy': [0.367, 0.717, 0.387, 0.903], 'image': [u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da', u'https://i.scdn.co/image/ab67616d0000b2739bbd79106e510d13a9a5ec33', u'https://i.scdn.co/image/ab67616d0000b2737b4d2b0d46fc5ed7f771329b', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb'], 'album_name': [u'Cat Heaven', u'Graduation', u'DUMMY BOY', u'Whole Lotta Red'], 'song_name': [u'Happy', u'Stronger', u'FEFE', u'Sky'], 'artist_name': [u'Roy Blair', u'Kanye West', u'6ix9ine', u'Playboi Carti'], 'track_id': [u'6aHTqCC2qHHs5H0rjgJVbc', u'4fzsfWzRhPawzqhX8Qt9F3', u'2l8nEO0vsTRCRnGqQty6qx', u'29TPjc8wxfz4XMn21O7VsZ']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.903
+2  https://i.scdn.co/image/ab67616d0000b2737b4d2b...  ...  0.387
+1  https://i.scdn.co/image/ab67616d0000b2739bbd79...  ...  0.717
+0  https://i.scdn.co/image/ab67616d0000b273de3c33...  ...  0.367
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
