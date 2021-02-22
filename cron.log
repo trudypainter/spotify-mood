@@ -52898,3 +52898,24 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master dc01ce8] updating daily data 2021-02-22 09:00:21.357739
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-02-22 09:00:18.775601
+Auth happening...
+Getting songs
+Creating dataframe...
+Run Away With Me
+10x Stronger
+CHILL
+Big Rings
+GOT THESE SONGS
+{'played_at': ['08:24', '08:20', '08:19'], 'valence': [0.146, 0.132, 0.41], 'mood_avg': [0.348, 0.299, 0.46], 'danceability': [0.504, 0.42, 0.431], 'energy': [0.442, 0.391, 0.617], 'image': [u'https://i.scdn.co/image/ab67616d0000b273952ec8dea0826c2be14ca0ac', u'https://i.scdn.co/image/ab67616d0000b273967651d505c3f7d23154f42b', u'https://i.scdn.co/image/ab67616d0000b2734661bff760b42afdf86d4632'], 'album_name': [u'The Ascension', u'What Could Possibly Go Wrong', u'FIXTAPE'], 'song_name': [u'Run Away With Me', u'10x Stronger', u'CHILL'], 'artist_name': [u'Sufjan Stevens', u'Dominic Fike', u'Popcaan'], 'track_id': [u'76KAUp0X4bt8APttco8Zb0', u'0BFhjOlQizlU5I7XyzEeiv', u'6TeqR3cIdhBSKY531p4zEi']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b2734661bf...  ...  0.617
+1  https://i.scdn.co/image/ab67616d0000b273967651...  ...  0.391
+0  https://i.scdn.co/image/ab67616d0000b273952ec8...  ...  0.442
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
