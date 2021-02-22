@@ -52676,4 +52676,57 @@ GOT THESE SONGS
 14  https://i.scdn.co/image/ab67616d0000b27338af97...  ...  0.428
 13  https://i.scdn.co/image/ab67616d0000b27338af97...  ...  0.405
 12  https://i.scdn.co/image/ab67616d0000b2734bf3b4...  ...  0.503
-11  https://i.scdn.co/image
+11  https://i.scdn.co/image[master 0403577] updating daily data 2021-02-21 22:00:21.843632
+ 3 files changed, 70 insertions(+), 1 deletion(-)
+/ab67616d0000b273ce6386...  ...  0.331
+10  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.312
+9   https://i.scdn.co/image/ab67616d0000b273ce6386...  ...  0.515
+8   https://i.scdn.co/image/ab67616d0000b273706815...  ...   0.45
+7   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.349
+6   https://i.scdn.co/image/ab67616d0000b273730d03...  ...  0.386
+5   https://i.scdn.co/image/ab67616d0000b27340faef...  ...  0.267
+4   https://i.scdn.co/image/ab67616d0000b27312720d...  ...  0.316
+3   https://i.scdn.co/image/ab67616d0000b273ce6386...  ...  0.325
+2   https://i.scdn.co/image/ab67616d0000b27338af97...  ...  0.326
+1   https://i.scdn.co/image/ab67616d0000b273dc6d95...  ...  0.303
+0   https://i.scdn.co/image/ab67616d0000b273591fa5...  ...  0.421
+
+[17 rows x 10 columns]
+('Rows: ', 17)
+Saved!
+
+2021-02-21 23:00:14.014657
+Auth happening...
+Getting songs
+Creating dataframe...
+Hang On
+Dude
+Doesn't Even Matter Now
+Baby Don't Leave Me Alone With My Thoughts
+You Are Free
+Good Kisser
+Shame, Shame, Shame
+I Can Change
+Opus
+I Hope to Around (Live Solo)
+All Night
+You Deserve This
+A Prayer (feat. Odile)
+Tailwhip
+I Hope to Be Around
+GOT THESE SONGS
+{'played_at': ['22:56', '22:51', '22:46', '22:41', '22:38', '22:34', '22:30', '22:26', '22:22', '22:19', '22:15', '22:12', '22:09', '22:04'], 'valence': [0.331, 0.549, 0.78, 0.586, 0.737, 0.636, 0.653, 0.311, 0.849, 0.252, 0.608, 0.264, 0.276, 0.598], 'mood_avg': [0.529, 0.627, 0.663, 0.651, 0.712, 0.567, 0.701, 0.381, 0.763, 0.34, 0.603, 0.414, 0.44, 0.69], 'danceability': [0.667, 0.594, 0.53, 0.673, 0.658, 0.485, 0.737, 0.546, 0.8, 0.567, 0.795, 0.559, 0.729, 0.8], 'energy': [0.648, 0.85, 0.697, 0.737, 0.768, 0.591, 0.723, 0.193, 0.519, 0.064, 0.208, 0.422, 0.191, 0.655], 'image': [u'https://i.scdn.co/image/ab67616d0000b2737563abd8344a283666509e75', u'https://i.scdn.co/image/ab67616d0000b2737563abd8344a283666509e75', u'https://i.scdn.co/image/ab67616d0000b2737563abd8344a283666509e75', u'https://i.scdn.co/image/ab67616d0000b2737563abd8344a283666509e75', u'https://i.scdn.co/image/ab67616d0000b2737563abd8344a283666509e75', u'https://i.scdn.co/image/ab67616d0000b2737563abd8344a283666509e75', u'https://i.scdn.co/image/ab67616d0000b2737563abd8344a283666509e75', u'https://i.scdn.co/image/ab67616d0000b2737563abd8344a283666509e75', u'https://i.scdn.co/image/ab67616d0000b273ce63864a608e9dec28caca1b', u'https://i.scdn.co/image/ab67616d0000b273ce96d8c3a9df2bf2e5eefae6', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b2739cf1ebba67a6ef744c66577d', u'https://i.scdn.co/image/ab67616d0000b273ce63864a608e9dec28caca1b', u'https://i.scdn.co/image/ab67616d0000b273b5d2a7e29794ff7e91305aa8'], 'album_name': [u'Free Yourself Up', u'Free Yourself Up', u'Free Yourself Up', u'Free Yourself Up', u'Free Yourself Up', u'Free Yourself Up', u'Free Yourself Up', u'Free Yourself Up', u'Men I Trust', u'Forever Live Sessions', u'Oncle Jazz', u'You Deserve This', u'Men I Trust', u'Tailwhip'], 'song_name': [u'Hang On', u'Dude', u"Doesn't Even Matter Now", u"Baby Don't Leave Me Alone With My Thoughts", u'You Are Free', u'Good Kisser', u'Shame, Shame, Shame', u'I Can Change', u'Opus', u'I Hope to Around (Live Solo)', u'All Night', u'You Deserve This', u'A Prayer (feat. Odile)', u'Tailwhip'], 'artist_name': [u'Lake Street Dive', u'Lake Street Dive', u'Lake Street Dive', u'Lake Street Dive', u'Lake Street Dive', u'Lake Street Dive', u'Lake Street Dive', u'Lake Street Dive', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust'], 'track_id': [u'7iOCDCLO5AhoKq1jOB9b0H', u'0OrjRTPLw6tA90mLpst5ba', u'0tikaKxZtn7dK9PzeZs6hs', u'6pro0cjgB0tU0V1tifYA2i', u'5qEy66P8yO0qwf3FnLbYza', u'7BDbyDs5FUmnh955RABFd7', u'6vSNvssxO543E3fD9hwzvu', u'0jCe45cYIc6NXedmbIKy0Q', u'0jGRuL0o2JrAJ5gKrByd1W', u'0iaJbuXq2O0ZBo6ANRrN8f', u'0XvoMOI25j4wODyk8nuANS', u'254ybNwQUpo3zbyBb41KMk', u'08cMODBUeCYMOH5X7gBD4i', u'2DoO0sn4SbUrz7Uay9ACTM']}
+                                                image  ... energy
+13  https://i.scdn.co/image/ab67616d0000b273b5d2a7...  ...  0.655
+12  https://i.scdn.co/image/ab67616d0000b273ce6386...  ...  0.191
+11  https://i.scdn.co/image/ab67616d0000b2739cf1eb...  ...  0.422
+10  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.208
+9   https://i.scdn.co/image/ab67616d0000b273ce96d8...  ...  0.064
+8   https://i.scdn.co/image/ab67616d0000b273ce6386...  ...  0.519
+7   https://i.scdn.co/image/ab67616d0000b2737563ab...  ...  0.193
+6   https://i.scdn.co/image/ab67616d0000b2737563ab...  ...  0.723
+5   https://i.scdn.co/image/ab67616d0000b2737563ab...  ...  0.591
+4   https://i.scdn.co/image/ab67616d0000b2737563ab...  ...  0.768
+3   https://i.scdn.co/image/ab67616d0000b2737563ab...  ...  0.737
+2   https://i.scdn.co/image/ab67616d0000b2737563ab...  ...  0.697
+1   https://i.scdn.co/image/ab67616d0000b2737563ab...  ...   0.85
