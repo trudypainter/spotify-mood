@@ -52777,3 +52777,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 434e71f] updating daily data 2021-02-22 02:00:13.467724
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-02-22 02:00:12.536463
+Auth happening...
+Getting songs
+Creating dataframe...
+Good Kisser
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
