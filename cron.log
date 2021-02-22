@@ -52837,3 +52837,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master c02dbb8] updating daily data 2021-02-22 06:00:17.632142
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-02-22 06:00:14.708101
+Auth happening...
+Getting songs
+Creating dataframe...
+Location
+MAMA
+You Are Free
+Good Kisser
+GOT THESE SONGS
+{'played_at': ['06:00', '05:57', '05:21'], 'valence': [0.371, 0.437, 0.737], 'mood_avg': [0.593, 0.614, 0.712], 'danceability': [0.717, 0.761, 0.658], 'energy': [0.79, 0.672, 0.768], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1', u'https://i.scdn.co/image/ab67616d0000b2737b4d2b0d46fc5ed7f771329b', u'https://i.scdn.co/image/ab67616d0000b2737563abd8344a283666509e75'], 'album_name': [u'Playboi Carti', u'DUMMY BOY', u'Free Yourself Up'], 'song_name': [u'Location', u'MAMA', u'You Are Free'], 'artist_name': [u'Playboi Carti', u'6ix9ine', u'Lake Street Dive'], 'track_id': [u'3yk7PJnryiJ8mAPqsrujzf', u'5FlmoOiXokZHJvESrFbsyg', u'5qEy66P8yO0qwf3FnLbYza']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b2737563ab...  ...  0.768
+1  https://i.scdn.co/image/ab67616d0000b2737b4d2b...  ...  0.672
+0  https://i.scdn.co/image/ab67616d0000b273e31a27...  ...   0.79
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
