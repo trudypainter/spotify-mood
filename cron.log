@@ -53009,3 +53009,26 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 36a04a0] updating daily data 2021-02-22 16:00:23.324586
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+2021-02-22 16:00:19.258483
+Auth happening...
+Getting songs
+Creating dataframe...
+Pollen
+Borderline - Blood Orange Remix
+All My Friends (feat. Tinashe & Chance the Rapper)
+Hurt - A COLORS SHOW
+Run Away With Me
+GOT THESE SONGS
+{'played_at': ['15:46', '15:42', '15:35', '15:31'], 'valence': [0.505, 0.315, 0.178, 0.578], 'mood_avg': [0.45, 0.404, 0.451, 0.596], 'danceability': [0.578, 0.48, 0.689, 0.753], 'energy': [0.0855, 0.429, 0.521, 0.32], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e1fd7cdcfe23f86b4c7acd2f', u'https://i.scdn.co/image/ab67616d0000b273eeb811f27fc8b8d6d6b845d7', u'https://i.scdn.co/image/ab67616d0000b273813300e61b70247a43f54c53', u'https://i.scdn.co/image/ab67616d0000b27366ce35dc55d86d9dac3422ef'], 'album_name': [u'Pollen', u'Borderline (Blood Orange Remix)', u'All My Friends - EP', u'Hurt - A COLORS SHOW'], 'song_name': [u'Pollen', u'Borderline - Blood Orange Remix', u'All My Friends (feat. Tinashe & Chance the Rapper)', u'Hurt - A COLORS SHOW'], 'artist_name': [u'Ecco2k', u'Tame Impala', u'Snakehips', u'Arlo Parks'], 'track_id': [u'2QJzLEscinqP3hrqbDL5Ao', u'7IbGa7PhnXHvUOvhELtGgL', u'3gr6q0Q8R1EjeXRAQYmX9l', u'580YxztoPGe9bYuuNHIKuT']}
+                                               image  ...  energy
+3  https://i.scdn.co/image/ab67616d0000b27366ce35...  ...    0.32
+2  https://i.scdn.co/image/ab67616d0000b273813300...  ...   0.521
+1  https://i.scdn.co/image/ab67616d0000b273eeb811...  ...   0.429
+0  https://i.scdn.co/image/ab67616d0000b273e1fd7c...  ...  0.0855
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
