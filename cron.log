@@ -52881,3 +52881,20 @@ GOT THESE SONGS
 ('Rows: ', 4)
 Saved!
 
+[master ae6ff06] updating daily data 2021-02-22 08:00:17.337883
+ 3 files changed, 25 insertions(+), 1 deletion(-)
+2021-02-22 08:00:14.690028
+Auth happening...
+Getting songs
+Creating dataframe...
+Big Rings
+Money Longer
+GOT THESE SONGS
+{'played_at': ['07:19'], 'valence': [0.27], 'mood_avg': [0.553], 'danceability': [0.776], 'energy': [0.675], 'image': [u'https://i.scdn.co/image/ab67616d0000b273d6adfbd3f091d6f2b9af6507'], 'album_name': [u'What A Time To Be Alive'], 'song_name': [u'Big Rings'], 'artist_name': [u'Drake'], 'track_id': [u'7jslhIiELQkgW9IHeYNOWE']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273d6adfb...  ...  0.675
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
