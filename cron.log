@@ -52542,3 +52542,49 @@ GOT THESE SONGS
 ('Rows: ', 10)
 Saved!
 
+[master f9cf0fb] updating daily data 2021-02-21 18:00:03.823990
+ 3 files changed, 38 insertions(+), 1 deletion(-)
+2021-02-21 18:00:03.052724
+Auth happening...
+Getting songs
+Creating dataframe...
+Hit 'Em wit da Hee (feat. Lil' Kim)
+Sock It 2 Me (feat. Da Brat)
+Sock It 2 Me (feat. Da Brat)
+GOT THESE SONGS
+{'played_at': ['17:08', '17:03'], 'valence': [0.77, 0.599], 'mood_avg': [0.753, 0.689], 'danceability': [0.805, 0.874], 'energy': [0.615, 0.498], 'image': [u'https://i.scdn.co/image/ab67616d0000b273f27571e59cac2e7a4624c9c4', u'https://i.scdn.co/image/ab67616d0000b273f27571e59cac2e7a4624c9c4'], 'album_name': [u'Supa Dupa Fly', u'Supa Dupa Fly'], 'song_name': [u"Hit 'Em wit da Hee (feat. Lil' Kim)", u'Sock It 2 Me (feat. Da Brat)'], 'artist_name': [u'Missy Elliott', u'Missy Elliott'], 'track_id': [u'1lrfo8etNC1iZ9LA81XNpd', u'08bn759cPYICtUPoYx29P0']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273f27571...  ...  0.498
+0  https://i.scdn.co/image/ab67616d0000b273f27571...  ...  0.615
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
+2021-02-21 19:00:18.163261
+Auth happening...
+Getting songs
+Creating dataframe...
+Imperfections (Interlude)
+Gangstas
+Enjoy Yourself (feat. Burna Boy) - Remix
+Be Clearr
+Tunnel Vision (Outro)
+What You Know Bout Love
+The Woo (feat. 50 Cent & Roddy Ricch)
+West Coast Shit (feat. Tyga & Quavo)
+Aim For The Moon (feat. Quavo)
+Showin Off Pt.2 (feat. Fivio Foreign)
+I Wanna Get Better
+Walk It Talk It
+pick up the phone
+Dan Bilzerian (feat. Lil Yachty)
+Hit 'Em wit da Hee (feat. Lil' Kim)
+GOT THESE SONGS
+{'played_at': ['18:59', '18:58', '18:55', '18:52', '18:46', '18:43', '18:41', '18:37', '18:34', '18:31', '18:25', '18:22', '18:15', '18:11'], 'valence': [0.324, 0.557, 0.441, 0.57, 0.659, 0.543, 0.286, 0.495, 0.432, 0.611, 0.385, 0.395, 0.459, 0.606], 'mood_avg': [0.542, 0.543, 0.623, 0.66, 0.683, 0.61, 0.434, 0.683, 0.579, 0.661, 0.515, 0.647, 0.609, 0.717], 'danceability': [0.774, 0.548, 0.773, 0.703, 0.718, 0.709, 0.49, 0.831, 0.713, 0.658, 0.456, 0.907, 0.706, 0.793], 'energy': [0.513, 0.506, 0.688, 0.754, 0.66, 0.548, 0.618, 0.762, 0.605, 0.769, 0.891, 0.633, 0.716, 0.789], 'image': [u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03', u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03', u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03', u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03', u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03', u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03', u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03', u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03', u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03', u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03', u'https://i.scdn.co/image/ab67616d0000b273d9c7516258eb58d793d49e2e', u'https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890', u'https://i.scdn.co/image/ab67616d0000b2736f90c4dc2e8599829dae3848', u'https://i.scdn.co/image/ab67616d0000b2732297916248b478c926a9df49'], 'album_name': [u'Shoot For The Stars Aim For The Moon (Deluxe)', u'Shoot For The Stars Aim For The Moon (Deluxe)', u'Shoot For The Stars Aim For The Moon (Deluxe)', u'Shoot For The Stars Aim For The Moon (Deluxe)', u'Shoot For The Stars Aim For The Moon (Deluxe)', u'Shoot For The Stars Aim For The Moon (Deluxe)', u'Shoot For The Stars Aim For The Moon (Deluxe)', u'Shoot For The Stars Aim For The Moon (Deluxe)', u'Shoot For The Stars Aim For The Moon (Deluxe)', u'Shoot For The Stars Aim For The Moon (Deluxe)', u'I Wanna Get Better', u'Culture II', u'pick up the phone', u'Dan Bilzerian (feat. Lil Yachty)'], 'song_name': [u'Imperfections (Interlude)', u'Gangstas', u'Enjoy Yourself (feat. Burna Boy) - Remix', u'Be Clearr', u'Tunnel Vision (Outro)', u'What You Know Bout Love', u'The Woo (feat. 50 Cent & Roddy Ricch)', u'West Coast Shit (feat. Tyga & Quavo)', u'Aim For The Moon (feat. Quavo)', u'Showin Off Pt.2 (feat. Fivio Foreign)', u'I Wanna Get Better', u'Walk It Talk It', u'pick up the phone', u'Dan Bilzerian (feat. Lil Yachty)'], 'artist_name': [u'Pop Smoke', u'Pop Smoke', u'Pop Smoke', u'Pop Smoke', u'Pop Smoke', u'Pop Smoke', u'Pop Smoke', u'Pop Smoke', u'Pop Smoke', u'Pop Smoke', u'Bleachers', u'Migos', u'Young Thug', u'T-Pain'], 'track_id': [u'42er1na9BHF1ERol51wg8M', u'47k25JWFG1aLiaDjkIH10g', u'6QzkbRRLWTEcFE0NyOX1Dt', u'2SojLecJPW9zlNiwzDWmPv', u'7bTSZA64kmmd2biBbcsCUk', u'2tDDQv6havDcaAEizQAwap', u'1EI5fPYwbCLDaxFHe7nFM2', u'1wYbhJBsA8CiqKvtJUFf1L', u'25Wq1OwZyKLMjVNXIhzVlV', u'6JzyJgeHSRS4aYiK5gt02M', u'1RwwmiVtLAtPmxAqKVfwgG', u'6n4U3TlzUGhdSFbUUhTvLP', u'4GXl8l1MfZPf2GvpyRPJBf', u'5QfQKhvdcxPgp68O0S39FV']}
+                                                image  ... energy
+13  https://i.scdn.co/image/ab67616d0000b273229791...  ...  0.789
+12  https://i.scdn.co/image/ab67616d0000b2736f90c4...  ...  0.716
+11  https://i.scdn.co/image/ab67616d0000b2739c188c...  ...  0.633
+10  https://i.scdn.co/image/ab67616d0000b273d9c751...  ...  0.891
+9   https://i.scdn.co/image/ab67616d0000b27346e130...  ...  0.7
