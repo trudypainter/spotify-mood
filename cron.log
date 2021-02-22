@@ -52604,3 +52604,24 @@ GOT THESE SONGS
 ('Rows: ', 14)
 Saved!
 
+[master e3afc68] updating daily data 2021-02-21 20:00:21.193361
+ 3 files changed, 21 insertions(+), 2 deletions(-)
+2021-02-21 20:00:17.965838
+Auth happening...
+Getting songs
+Creating dataframe...
+For The Night (feat. Lil Baby & DaBaby)
+Tsunami (feat. Davido)
+Paranoia (feat. Gunna & Young Thug)
+Imperfections (Interlude)
+GOT THESE SONGS
+{'played_at': ['19:41', '19:38', '19:34'], 'valence': [0.347, 0.812, 0.24], 'mood_avg': [0.585, 0.727, 0.452], 'danceability': [0.823, 0.696, 0.568], 'energy': [0.586, 0.618, 0.646], 'image': [u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03', u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03', u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03'], 'album_name': [u'Shoot For The Stars Aim For The Moon (Deluxe)', u'Shoot For The Stars Aim For The Moon (Deluxe)', u'Shoot For The Stars Aim For The Moon (Deluxe)'], 'song_name': [u'For The Night (feat. Lil Baby & DaBaby)', u'Tsunami (feat. Davido)', u'Paranoia (feat. Gunna & Young Thug)'], 'artist_name': [u'Pop Smoke', u'Pop Smoke', u'Pop Smoke'], 'track_id': [u'6IParsannfwoLCcNSfxQPh', u'434baZo99jvOx6y6oFeQZQ', u'3QqJ44HiM84iyZS0G2IKIP']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b27346e130...  ...  0.646
+1  https://i.scdn.co/image/ab67616d0000b27346e130...  ...  0.618
+0  https://i.scdn.co/image/ab67616d0000b27346e130...  ...  0.586
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
