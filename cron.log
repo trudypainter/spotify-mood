@@ -52625,3 +52625,55 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master bd83267] updating daily data 2021-02-21 21:00:17.703644
+ 3 files changed, 25 insertions(+), 1 deletion(-)
+2021-02-21 21:00:15.530576
+Auth happening...
+Getting songs
+Creating dataframe...
+Again (feat. Ghostly Kisses)
+Lucky Sue
+Porcelain
+For The Night (feat. Lil Baby & DaBaby)
+GOT THESE SONGS
+{'played_at': ['20:57', '20:54', '20:50'], 'valence': [0.245, 0.503, 0.579], 'mood_avg': [0.498, 0.583, 0.611], 'danceability': [0.822, 0.818, 0.801], 'energy': [0.358, 0.272, 0.294], 'image': [u'https://i.scdn.co/image/ab67616d0000b27338af97753b8b89cbd1d05096', u'https://i.scdn.co/image/ab67616d0000b273bbd9d69797a07ddff1579bfc', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d'], 'album_name': [u'Headroom', u'Lucky Sue', u'Oncle Jazz'], 'song_name': [u'Again (feat. Ghostly Kisses)', u'Lucky Sue', u'Porcelain'], 'artist_name': [u'Men I Trust', u'Men I Trust', u'Men I Trust'], 'track_id': [u'74SiMxFuGC4SYuIGRBIIcZ', u'4lAfXpZKFDEudiEzLB9uHm', u'2ngVZZGrIYAxyxaA2QcWTB']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.294
+1  https://i.scdn.co/image/ab67616d0000b273bbd9d6...  ...  0.272
+0  https://i.scdn.co/image/ab67616d0000b27338af97...  ...  0.358
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
+2021-02-21 22:00:16.604723
+Auth happening...
+Getting songs
+Creating dataframe...
+Seven
+Numb
+Break for Lovers (feat. Helena)
+Stay True (feat. Helena)
+Norton Commander (All We Need)
+Show Me How
+Tides
+Pines
+Humming Man
+Extatic Memoirs (feat. James)
+Days Go By
+Dazed (feat. Gabrielle & Geoffroy)
+Lauren
+Space Is the Place
+Quiet (feat. Odile)
+Dorian
+Plain View
+Again (feat. Ghostly Kisses)
+GOT THESE SONGS
+{'played_at': ['21:57', '21:53', '21:50', '21:47', '21:41', '21:38', '21:34', '21:31', '21:27', '21:24', '21:21', '21:18', '21:14', '21:10', '21:07', '21:04', '21:01'], 'valence': [0.832, 0.65, 0.813, 0.419, 0.545, 0.544, 0.577, 0.277, 0.377, 0.932, 0.292, 0.85, 0.558, 0.0346, 0.77, 0.583, 0.308], 'mood_avg': [0.694, 0.634, 0.734, 0.599, 0.554, 0.587, 0.565, 0.439, 0.493, 0.746, 0.492, 0.741, 0.629, 0.419, 0.707, 0.527, 0.445], 'danceability': [0.692, 0.783, 0.858, 0.917, 0.682, 0.791, 0.643, 0.645, 0.63, 0.676, 0.783, 0.837, 0.762, 0.811, 0.783, 0.607, 0.563], 'energy': [0.421, 0.303, 0.326, 0.325, 0.316, 0.267, 0.386, 0.349, 0.45, 0.515, 0.312, 0.331, 0.503, 0.405, 0.428, 0.257, 0.483], 'image': [u'https://i.scdn.co/image/ab67616d0000b273591fa5bb8ab3ec41455d6279', u'https://i.scdn.co/image/ab67616d0000b273dc6d950cc4e0346270892b2a', u'https://i.scdn.co/image/ab67616d0000b27338af97753b8b89cbd1d05096', u'https://i.scdn.co/image/ab67616d0000b273ce63864a608e9dec28caca1b', u'https://i.scdn.co/image/ab67616d0000b27312720dbca7de20e4d48f7df6', u'https://i.scdn.co/image/ab67616d0000b27340faefaf8ebe0e1564c60faa', u'https://i.scdn.co/image/ab67616d0000b273730d0358af9027743bac0c57', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b2737068155298f07ebf3749e379', u'https://i.scdn.co/image/ab67616d0000b273ce63864a608e9dec28caca1b', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273ce63864a608e9dec28caca1b', u'https://i.scdn.co/image/ab67616d0000b2734bf3b48e615335264b9fcb22', u'https://i.scdn.co/image/ab67616d0000b27338af97753b8b89cbd1d05096', u'https://i.scdn.co/image/ab67616d0000b27338af97753b8b89cbd1d05096', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273d6bce55403de7a8fadaa455d'], 'album_name': [u'Seven', u'Numb', u'Headroom', u'Men I Trust', u'Norton Commander (All We Need)', u'Show Me How', u'Tides', u'Oncle Jazz', u'Humming Man', u'Men I Trust', u'Oncle Jazz', u'Men I Trust', u'Lauren', u'Headroom', u'Headroom', u'Oncle Jazz', u'Plain View'], 'song_name': [u'Seven', u'Numb', u'Break for Lovers (feat. Helena)', u'Stay True (feat. Helena)', u'Norton Commander (All We Need)', u'Show Me How', u'Tides', u'Pines', u'Humming Man', u'Extatic Memoirs (feat. James)', u'Days Go By', u'Dazed (feat. Gabrielle & Geoffroy)', u'Lauren', u'Space Is the Place', u'Quiet (feat. Odile)', u'Dorian', u'Plain View'], 'artist_name': [u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust'], 'track_id': [u'2dwvxOHnQjndZLowIR6PiS', u'6Ijmj8Z0L31hCp5pLZnT5U', u'1mXE3amJxqLBPBUBYQi55e', u'3o5RYmMtwJHYHU0NnZF4uS', u'5KZiiK8dvTgXaVnegsvvBz', u'01TyFEZu6mHbffsVfxgrFn', u'4M7XuOexX6DotCYbEVsDf9', u'7qFLFQOYcytDd4hejiREzk', u'7HVxy3Kr59FJ70NhhzEo2a', u'422Wuyjjb2nSE2PrkK0Mzt', u'1SyJuJfFyoAxuZMaTbwHJW', u'7BaZ7WlAdhOaGjIUYWsUWy', u'7vptmeNwSEVkcwDdqk7UQO', u'1ln7EnR5W9Twtw1G7Mkz51', u'2p132CMDRBL3m7M52NV2o5', u'50Qh4Ef1Wyi3qZghIibXmR', u'3XkxqQ02BchQiJvC99GuDR']}
+                                                image  ... energy
+16  https://i.scdn.co/image/ab67616d0000b273d6bce5...  ...  0.483
+15  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.257
+14  https://i.scdn.co/image/ab67616d0000b27338af97...  ...  0.428
+13  https://i.scdn.co/image/ab67616d0000b27338af97...  ...  0.405
+12  https://i.scdn.co/image/ab67616d0000b2734bf3b4...  ...  0.503
+11  https://i.scdn.co/image
