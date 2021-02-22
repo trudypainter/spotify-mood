@@ -52858,3 +52858,26 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master b8ef511] updating daily data 2021-02-22 07:00:14.050266
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-02-22 07:00:12.422243
+Auth happening...
+Getting songs
+Creating dataframe...
+Money Longer
+Telephone Calls (feat. A$AP Rocky, Tyler, The Creator, Playboi Carti & Yung Gleesh)
+Flex
+RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)
+Location
+GOT THESE SONGS
+{'played_at': ['06:15', '06:12', '06:08', '06:04'], 'valence': [0.478, 0.493, 0.27, 0.333], 'mood_avg': [0.623, 0.644, 0.527, 0.605], 'danceability': [0.795, 0.732, 0.75, 0.848], 'energy': [0.568, 0.772, 0.596, 0.663], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738be07181aa935225a6f25d56', u'https://i.scdn.co/image/ab67616d0000b27330eaf29813f551d9188ad35a', u'https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1', u'https://i.scdn.co/image/ab67616d0000b2731b1ea8257496228138609eb6'], 'album_name': [u'Lil Uzi Vert vs. The World', u'Cozy Tapes: Vol. 1 Friends -', u'Playboi Carti', u'RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)'], 'song_name': [u'Money Longer', u'Telephone Calls (feat. A$AP Rocky, Tyler, The Creator, Playboi Carti & Yung Gleesh)', u'Flex', u'RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)'], 'artist_name': [u'Lil Uzi Vert', u'A$AP Mob', u'Playboi Carti', u'A$AP Mob'], 'track_id': [u'0B8QzDH7YWih85V5SEMnyJ', u'5VnpYqIzm02X9gOhVElQo3', u'2xyBvir9n474qfsOkxXMgx', u'6kl1qtQXQsFiIWRBK24Cfp']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b2731b1ea8...  ...  0.663
+2  https://i.scdn.co/image/ab67616d0000b273e31a27...  ...  0.596
+1  https://i.scdn.co/image/ab67616d0000b27330eaf2...  ...  0.772
+0  https://i.scdn.co/image/ab67616d0000b2738be071...  ...  0.568
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
