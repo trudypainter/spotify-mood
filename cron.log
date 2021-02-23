@@ -53066,3 +53066,22 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master a819e9c] updating daily data 2021-02-22 19:00:17.020862
+ 3 files changed, 22 insertions(+), 1 deletion(-)
+2021-02-22 19:00:15.485066
+Auth happening...
+Getting songs
+Creating dataframe...
+Slippery (feat. Gucci Mane)
+Low Life (feat. The Weeknd)
+Slippery (feat. Gucci Mane)
+GOT THESE SONGS
+{'played_at': ['18:54', '18:54'], 'valence': [0.741, 0.102], 'mood_avg': [0.799, 0.396], 'danceability': [0.92, 0.722], 'energy': [0.674, 0.331], 'image': [u'https://i.scdn.co/image/ab67616d0000b27399a8ab6da9d593939302828a', u'https://i.scdn.co/image/ab67616d0000b273626745b3aa04899001a924ad'], 'album_name': [u'Culture', u'EVOL'], 'song_name': [u'Slippery (feat. Gucci Mane)', u'Low Life (feat. The Weeknd)'], 'artist_name': [u'Migos', u'Future'], 'track_id': [u'6p8NuHm8uCGnn2Dtbtf7zE', u'7EiZI6JVHllARrX9PUvAdX']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273626745...  ...  0.331
+0  https://i.scdn.co/image/ab67616d0000b27399a8ab...  ...  0.674
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
