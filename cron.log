@@ -53149,3 +53149,24 @@ GOT THESE SONGS
 ('Rows: ', 11)
 Saved!
 
+[master 6a55a3a] updating daily data 2021-02-22 22:00:03.702631
+ 3 files changed, 41 insertions(+), 1 deletion(-)
+2021-02-22 22:00:02.791892
+Auth happening...
+Getting songs
+Creating dataframe...
+Open Letter
+Flowers (feat. Father)
+It Was Not Natural
+Insert Generic Name
+GOT THESE SONGS
+{'played_at': ['21:09', '21:06', '21:02'], 'valence': [0.801, 0.0551, 0.581], 'mood_avg': [0.683, 0.334, 0.507], 'danceability': [0.603, 0.675, 0.32], 'energy': [0.606, 0.21, 0.734], 'image': [u'https://i.scdn.co/image/ab67616d0000b2730a2b5def27b87d12050b144c', u'https://i.scdn.co/image/ab67616d0000b273863a30c04dd17e33a627fd31', u'https://i.scdn.co/image/ab67616d0000b273de0c7f270176e4f0365b442a'], 'album_name': [u'Open Letter', u'Atlanta Millionaires Club', u'The Louder I Call, the Faster It Runs'], 'song_name': [u'Open Letter', u'Flowers (feat. Father)', u'It Was Not Natural'], 'artist_name': [u'TEMPOREX', u'Faye Webster', u'Wye Oak'], 'track_id': [u'1QxjiU1YABpfHZukbGSWrV', u'0MJSvmvNu0IGFMmYtW8KNH', u'3Nv2y43XxgSjqChhuhL9In']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273de0c7f...  ...  0.734
+1  https://i.scdn.co/image/ab67616d0000b273863a30...  ...   0.21
+0  https://i.scdn.co/image/ab67616d0000b2730a2b5d...  ...  0.606
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
