@@ -53085,3 +53085,30 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master d5bb0d9] updating daily data 2021-02-22 20:00:07.544751
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-02-22 20:00:06.265651
+Auth happening...
+Getting songs
+Creating dataframe...
+F33l Lik3 Dyin
+iMi
+Noise Above Our Heads
+Futile Devices (Doveman Remix)
+Multi-Love
+Habitual Love
+Jason
+GOT THESE SONGS
+{'played_at': ['19:57', '19:53', '19:50', '19:45', '19:43', '19:39'], 'valence': [0.0966, 0.523, 0.399, 0.252, 0.545, 0.458], 'mood_avg': [0.472, 0.484, 0.519, 0.323, 0.633, 0.559], 'danceability': [0.733, 0.489, 0.748, 0.462, 0.784, 0.775], 'energy': [0.703, 0.396, 0.3, 0.187, 0.506, 0.327], 'image': [u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b2735cc90d375ab1e4423615654c', u'https://i.scdn.co/image/ab67616d0000b273559bd53b0292ed01f789a0d8', u'https://i.scdn.co/image/ab67616d0000b273066d0a5c0b2603ac06da7fea', u'https://i.scdn.co/image/ab67616d0000b273ee70875d2ac4c16bdeba0191', u'https://i.scdn.co/image/ab67616d0000b27337af2ce4e0abffff0045034c'], 'album_name': [u'Whole Lotta Red', u'i,i', u'The Colour In Anything', u'Call Me by Your Name (Original Motion Picture Soundtrack)', u'Multi-Love', u'Both'], 'song_name': [u'F33l Lik3 Dyin', u'iMi', u'Noise Above Our Heads', u'Futile Devices (Doveman Remix)', u'Multi-Love', u'Habitual Love'], 'artist_name': [u'Playboi Carti', u'Bon Iver', u'James Blake', u'Sufjan Stevens', u'Unknown Mortal Orchestra', u'Okay Kaya'], 'track_id': [u'1xVVYE1ahLotRpppJViVzs', u'5p2vqFW6PVyE38GJlCVIHv', u'3mUGTZQ7SctWdmDMukT6tJ', u'5iR8v6fTc33LDo2t4w3342', u'0PEXp5yk0sx9dJ8JzwvjJb', u'5JOnQCQ9OGn7hY23aCkdlL']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b27337af2c...  ...  0.327
+4  https://i.scdn.co/image/ab67616d0000b273ee7087...  ...  0.506
+3  https://i.scdn.co/image/ab67616d0000b273066d0a...  ...  0.187
+2  https://i.scdn.co/image/ab67616d0000b273559bd5...  ...    0.3
+1  https://i.scdn.co/image/ab67616d0000b2735cc90d...  ...  0.396
+0  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.703
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
