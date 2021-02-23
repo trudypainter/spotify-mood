@@ -53301,3 +53301,34 @@ GOT THESE SONGS
 ('Rows: ', 5)
 Saved!
 
+[master 2b9b311] updating daily data 2021-02-23 07:00:04.266568
+ 3 files changed, 34 insertions(+), 1 deletion(-)
+2021-02-23 07:00:02.985370
+Auth happening...
+Getting songs
+Creating dataframe...
+Kacey Talk
+ALMOST
+VOLT
+Rodeo
+INVENTED IT
+Nun Major
+Strawberry Peels (feat. Young Thug & Gunna)
+Say A'
+Worth It
+GOT THESE SONGS
+{'played_at': ['06:18', '06:15', '06:13', '06:10', '06:07', '06:06', '06:03', '06:01'], 'valence': [0.773, 0.769, 0.744, 0.657, 0.482, 0.487, 0.658, 0.846], 'mood_avg': [0.781, 0.747, 0.796, 0.681, 0.669, 0.614, 0.738, 0.834], 'danceability': [0.877, 0.868, 0.831, 0.706, 0.86, 0.79, 0.862, 0.831], 'energy': [0.607, 0.463, 0.832, 0.679, 0.662, 0.518, 0.65, 0.814], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738bd6e34012a7ab6311050d0c', u'https://i.scdn.co/image/ab67616d0000b27394f60de3e7520addebf23641', u'https://i.scdn.co/image/ab67616d0000b27359712025ca5eaadc5de4ed0e', u'https://i.scdn.co/image/ab67616d0000b273c0e7bf5cdd630f314f20586a', u'https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1', u'https://i.scdn.co/image/ab67616d0000b273b31f6adf0da5659911b05c9b', u'https://i.scdn.co/image/ab67616d0000b273dea510881ec1e506485303e4', u'https://i.scdn.co/image/ab67616d0000b273cdba7ee22968991250725ce1'], 'album_name': [u'Top', u'VALEDICTORIAN', u'VOLT', u'7 EP', u'DIE FOR MY BITCH', u'ShorelineDoThatShit', u'Eternal Atake (Deluxe) - LUV vs. The World 2', u'The Bigger Artist'], 'song_name': [u'Kacey Talk', u'ALMOST', u'VOLT', u'Rodeo', u'INVENTED IT', u'Nun Major', u'Strawberry Peels (feat. Young Thug & Gunna)', u"Say A'"], 'artist_name': [u'YoungBoy Never Broke Again', u'DDG', u'Sad Frosty', u'Lil Nas X', u'Baby Keem', u'Shoreline Mafia', u'Lil Uzi Vert', u'A Boogie Wit da Hoodie'], 'track_id': [u'1SF8piqsZWn86DajVKih8F', u'4UJdEn1sYTNyerQei1fBSA', u'4yCXpXWgxGhv36Q39CgQCp', u'4ak7xjvBeBOcJGWFDX9w5n', u'6xxvhqxfBAhAOsf8OJ5shT', u'18pwD0HrweX8oCgIkayRb4', u'4lAQfuREAHG8IC0PiiigBt', u'3AMnOVxEHUgVrythGgqPhI']}
+                                               image  ... energy
+7  https://i.scdn.co/image/ab67616d0000b273cdba7e...  ...  0.814
+6  https://i.scdn.co/image/ab67616d0000b273dea510...  ...   0.65
+5  https://i.scdn.co/image/ab67616d0000b273b31f6a...  ...  0.518
+4  https://i.scdn.co/image/ab67616d0000b273683757...  ...  0.662
+3  https://i.scdn.co/image/ab67616d0000b273c0e7bf...  ...  0.679
+2  https://i.scdn.co/image/ab67616d0000b273597120...  ...  0.832
+1  https://i.scdn.co/image/ab67616d0000b27394f60d...  ...  0.463
+0  https://i.scdn.co/image/ab67616d0000b2738bd6e3...  ...  0.607
+
+[8 rows x 10 columns]
+('Rows: ', 8)
+Saved!
+
