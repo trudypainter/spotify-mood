@@ -53047,3 +53047,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 5b98f36] updating daily data 2021-02-22 18:00:34.259747
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-02-22 18:00:30.711023
+Auth happening...
+Getting songs
+Creating dataframe...
+Slippery (feat. Gucci Mane)
+Hit Different
+Pollen
+GOT THESE SONGS
+{'played_at': ['17:42', '17:37'], 'valence': [0.741, 0.716], 'mood_avg': [0.799, 0.661], 'danceability': [0.92, 0.679], 'energy': [0.674, 0.516], 'image': [u'https://i.scdn.co/image/ab67616d0000b27399a8ab6da9d593939302828a', u'https://i.scdn.co/image/ab67616d0000b273a135dd969dce9f38ed32ef98'], 'album_name': [u'Culture', u'Hit Different'], 'song_name': [u'Slippery (feat. Gucci Mane)', u'Hit Different'], 'artist_name': [u'Migos', u'SZA'], 'track_id': [u'6p8NuHm8uCGnn2Dtbtf7zE', u'7Bar1kLTmsRmH6FCKKMEyU']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273a135dd...  ...  0.516
+0  https://i.scdn.co/image/ab67616d0000b27399a8ab...  ...  0.674
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
