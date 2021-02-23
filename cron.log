@@ -53112,3 +53112,40 @@ GOT THESE SONGS
 ('Rows: ', 6)
 Saved!
 
+[master d298f66] updating daily data 2021-02-22 21:00:05.395396
+ 3 files changed, 39 insertions(+), 1 deletion(-)
+2021-02-22 21:00:03.976968
+Auth happening...
+Getting songs
+Creating dataframe...
+Insert Generic Name
+Those Girls
+Dead Man Walking
+Ladies
+anything
+Campus
+Those Girls
+Lucky
+17
+Feels Like We Only Go Backwards
+Borderline - Blood Orange Remix
+F33l Lik3 Dyin
+GOT THESE SONGS
+{'played_at': ['20:58', '20:55', '20:34', '20:29', '20:24', '20:20', '20:17', '20:14', '20:11', '20:07', '20:04'], 'valence': [0.346, 0.161, 0.439, 0.28, 0.533, 0.645, 0.161, 0.302, 0.12, 0.491, 0.315], 'mood_avg': [0.468, 0.341, 0.431, 0.398, 0.436, 0.654, 0.341, 0.52, 0.24, 0.498, 0.404], 'danceability': [0.611, 0.579, 0.505, 0.562, 0.412, 0.639, 0.579, 0.637, 0.348, 0.303, 0.48], 'energy': [0.424, 0.225, 0.267, 0.307, 0.289, 0.704, 0.225, 0.722, 0.263, 0.9, 0.429], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b273703934c48722bfe1ebfc7f4f', u'https://i.scdn.co/image/ab67616d0000b273fa40d26659b33036efcfd43f', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b27393bfd4341f250a680c357dae', u'https://i.scdn.co/image/ab67616d0000b273f5b71e540a025bb1bdecfae8', u'https://i.scdn.co/image/ab67616d0000b273703934c48722bfe1ebfc7f4f', u'https://i.scdn.co/image/ab67616d0000b273347e279afa16f264c0d48699', u'https://i.scdn.co/image/ab67616d0000b2733ef1207895b314d646f6a3b7', u'https://i.scdn.co/image/ab67616d0000b273370c12f82872c9cfaee80193', u'https://i.scdn.co/image/ab67616d0000b273eeb811f27fc8b8d6d6b845d7'], 'album_name': [u'Watch This Liquid Pour Itself', u'Two Hands', u'Dead Man Walking', u'Fetch The Bolt Cutters', u'songs', u'Vampire Weekend', u'Two Hands', u'Water', u'The Year of Hibernation', u'Lonerism', u'Borderline (Blood Orange Remix)'], 'song_name': [u'Insert Generic Name', u'Those Girls', u'Dead Man Walking', u'Ladies', u'anything', u'Campus', u'Those Girls', u'Lucky', u'17', u'Feels Like We Only Go Backwards', u'Borderline - Blood Orange Remix'], 'artist_name': [u'Okay Kaya', u'Big Thief', u'Brent Faiyaz', u'Fiona Apple', u'Adrianne Lenker', u'Vampire Weekend', u'Big Thief', u'Dehd', u'Youth Lagoon', u'Tame Impala', u'Tame Impala'], 'track_id': [u'58llsMQ3PfvaGNZD8WNn2f', u'7jpyzblcTVwcPWk31GwUmL', u'5VlTQnZO89Ioku8ssdbqJk', u'0jH0IsCBGackT3RmHBbSUI', u'4PwWESSlTwzvw9B7bmtTLS', u'1eNrlXlW7Cj1QB1YUcZmpb', u'7jpyzblcTVwcPWk31GwUmL', u'7KkaLfkFpMErkarBZivJbP', u'5UVBumEwdUnzvqxrXOYLFA', u'0LtOwyZoSNZKJWHqjzADpW', u'7IbGa7PhnXHvUOvhELtGgL']}
+                                                image  ... energy
+10  https://i.scdn.co/image/ab67616d0000b273eeb811...  ...  0.429
+9   https://i.scdn.co/image/ab67616d0000b273370c12...  ...    0.9
+8   https://i.scdn.co/image/ab67616d0000b2733ef120...  ...  0.263
+7   https://i.scdn.co/image/ab67616d0000b273347e27...  ...  0.722
+6   https://i.scdn.co/image/ab67616d0000b273703934...  ...  0.225
+5   https://i.scdn.co/image/ab67616d0000b273f5b71e...  ...  0.704
+4   https://i.scdn.co/image/ab67616d0000b27393bfd4...  ...  0.289
+3   https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.307
+2   https://i.scdn.co/image/ab67616d0000b273fa40d2...  ...  0.267
+1   https://i.scdn.co/image/ab67616d0000b273703934...  ...  0.225
+0   https://i.scdn.co/image/ab67616d0000b2733d3652...  ...  0.424
+
+[11 rows x 10 columns]
+('Rows: ', 11)
+Saved!
+
