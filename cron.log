@@ -53276,3 +53276,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 5ffa7bd] updating daily data 2021-02-23 06:00:04.522898
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-02-23 06:00:03.531143
+Auth happening...
+Getting songs
+Creating dataframe...
+Worth It
+Taking It Out
+GUSHER GUTS
+ZAZA
+The Barrel
+Open Letter
+GOT THESE SONGS
+{'played_at': ['05:57', '05:54', '05:52', '05:50', '05:20'], 'valence': [0.112, 0.484, 0.653, 0.698, 0.663], 'mood_avg': [0.373, 0.662, 0.705, 0.73, 0.64], 'danceability': [0.604, 0.802, 0.708, 0.764, 0.732], 'energy': [0.435, 0.738, 0.802, 0.725, 0.408], 'image': [u'https://i.scdn.co/image/ab67616d0000b273a875c3ec944b4f164ab5c350', u'https://i.scdn.co/image/ab67616d0000b27374d72ebd51dd5781d5f83ffd', u'https://i.scdn.co/image/ab67616d0000b273c477cd93b7d209ede3980f20', u'https://i.scdn.co/image/ab67616d0000b27317ec0d37ecc6e529b3e21c00', u'https://i.scdn.co/image/ab67616d0000b273cec8ea886031880d97114b27'], 'album_name': [u'Slime Season 3', u'Baby On Baby', u'Bawskee 2', u'ZAZA', u'Designer'], 'song_name': [u'Worth It', u'Taking It Out', u'GUSHER GUTS', u'ZAZA', u'The Barrel'], 'artist_name': [u'Young Thug', u'DaBaby', u'Comethazine', u'6ix9ine', u'Aldous Harding'], 'track_id': [u'5QCr1xFufKJOTkpcR9ih24', u'6B4KWBeFdHrpVezjTqggWr', u'7HIykrQ0wE27oS9fmU0zTw', u'5cMoYjSCddCVVRUiVRv88q', u'06lw2dBFqdXhAErz7Xz9Zs']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273cec8ea...  ...  0.408
+3  https://i.scdn.co/image/ab67616d0000b27317ec0d...  ...  0.725
+2  https://i.scdn.co/image/ab67616d0000b273c477cd...  ...  0.802
+1  https://i.scdn.co/image/ab67616d0000b27374d72e...  ...  0.738
+0  https://i.scdn.co/image/ab67616d0000b273a875c3...  ...  0.435
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
