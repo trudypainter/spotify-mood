@@ -53780,3 +53780,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 31997a0] updating daily data 2021-02-24 12:00:06.054724
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-02-24 12:00:04.969352
+Auth happening...
+Getting songs
+Creating dataframe...
+Forrest Gump
+Throw Sum Mo
+GOT THESE SONGS
+{'played_at': ['11:56'], 'valence': [0.186], 'mood_avg': [0.438], 'danceability': [0.701], 'energy': [0.417], 'image': [u'https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5'], 'album_name': [u'channel ORANGE'], 'song_name': [u'Forrest Gump'], 'artist_name': [u'Frank Ocean'], 'track_id': [u'4YZbVct8l9MnAVIROnLQdx']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b2737aede4...  ...  0.417
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
