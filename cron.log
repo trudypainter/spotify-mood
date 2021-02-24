@@ -53714,3 +53714,20 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master 81ed1d5] updating daily data 2021-02-24 08:00:04.324069
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-02-24 08:00:03.614306
+Auth happening...
+Getting songs
+Creating dataframe...
+Young, Wild & Free (feat. Bruno Mars)
+What Makes You Beautiful
+GOT THESE SONGS
+{'played_at': ['07:49'], 'valence': [0.551], 'mood_avg': [0.572], 'danceability': [0.553], 'energy': [0.652], 'image': [u'https://i.scdn.co/image/ab67616d0000b273f8fa110661ccdfb74cbcb447'], 'album_name': [u'Mac and Devin Go to High School (Music from and Inspired by the Movie)'], 'song_name': [u'Young, Wild & Free (feat. Bruno Mars)'], 'artist_name': [u'Snoop Dogg'], 'track_id': [u'6YbhspuOar1D9WSSnfe7ds']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273f8fa11...  ...  0.652
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
