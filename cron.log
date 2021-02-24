@@ -53668,3 +53668,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master fdb112e] updating daily data 2021-02-24 06:00:04.626749
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-02-24 06:00:03.346271
+Auth happening...
+Getting songs
+Creating dataframe...
+Oblivion
+7AM
+Feeling Myself
+FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett & Kali Uchis)
+Slow
+a song
+GOT THESE SONGS
+{'played_at': ['05:57', '05:53', '05:49', '05:45', '05:21'], 'valence': [0.486, 0.301, 0.477, 0.195, 0.35], 'mood_avg': [0.579, 0.481, 0.557, 0.375, 0.44], 'danceability': [0.697, 0.638, 0.564, 0.53, 0.687], 'energy': [0.529, 0.526, 0.703, 0.427, 0.126], 'image': [u'https://i.scdn.co/image/ab67616d0000b273550133f6d334ed152d75aa56', u'https://i.scdn.co/image/ab67616d0000b273dc7fa10440eb5ddd8d90a8aa', u'https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458', u'https://i.scdn.co/image/ab67616d0000b2730f2e9f092b4e9c4424afb446', u'https://i.scdn.co/image/ab67616d0000b273a0cb0c268c5219a93f3dca3a'], 'album_name': [u'Visions', u'Luv Is Rage', u'The Pinkprint (Deluxe)', u'Cherry Bomb', u'Cassa Nova'], 'song_name': [u'Oblivion', u'7AM', u'Feeling Myself', u'FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett & Kali Uchis)', u'Slow'], 'artist_name': [u'Grimes', u'Lil Uzi Vert', u'Nicki Minaj', u'Tyler, The Creator', u'Sunset Rollercoaster'], 'track_id': [u'3LGsgpx4TfxhXbr07OFKqs', u'4v1P7JCjehbg5TmLQo2mFy', u'5fyIGoaaKelzdyW8ELhYJZ', u'7er0EUMY653mxZ1NVD9mwQ', u'3mi3qijtGEUZyjp1FhGzqh']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273a0cb0c...  ...  0.126
+3  https://i.scdn.co/image/ab67616d0000b2730f2e9f...  ...  0.427
+2  https://i.scdn.co/image/ab67616d0000b2730f79d1...  ...  0.703
+1  https://i.scdn.co/image/ab67616d0000b273dc7fa1...  ...  0.526
+0  https://i.scdn.co/image/ab67616d0000b273550133...  ...  0.529
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
