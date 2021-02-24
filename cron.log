@@ -53693,3 +53693,24 @@ GOT THESE SONGS
 ('Rows: ', 5)
 Saved!
 
+[master 1263f76] updating daily data 2021-02-24 07:00:03.959962
+ 3 files changed, 29 insertions(+), 1 deletion(-)
+2021-02-24 07:00:03.038582
+Auth happening...
+Getting songs
+Creating dataframe...
+What Makes You Beautiful
+Super Rich Kids
+What You Know
+Get Got
+GOT THESE SONGS
+{'played_at': ['06:13', '06:09', '06:04'], 'valence': [0.888, 0.58, 0.776], 'mood_avg': [0.803, 0.611, 0.683], 'danceability': [0.726, 0.739, 0.561], 'energy': [0.787, 0.419, 0.741], 'image': [u'https://i.scdn.co/image/ab67616d0000b2734a5584795dc73860653a9a3e', u'https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5', u'https://i.scdn.co/image/ab67616d0000b2731d579563f814da8508cafad2'], 'album_name': [u'Up All Night', u'channel ORANGE', u'Tourist History'], 'song_name': [u'What Makes You Beautiful', u'Super Rich Kids', u'What You Know'], 'artist_name': [u'One Direction', u'Frank Ocean', u'Two Door Cinema Club'], 'track_id': [u'4cluDES4hQEUhmXj6TXkSo', u'0725YWm6Z0TpZ6wrNk64Eb', u'3UjtIALeg72qmJiKPWBvM3']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b2731d5795...  ...  0.741
+1  https://i.scdn.co/image/ab67616d0000b2737aede4...  ...  0.419
+0  https://i.scdn.co/image/ab67616d0000b2734a5584...  ...  0.787
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
