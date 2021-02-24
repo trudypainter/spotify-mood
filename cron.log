@@ -53511,3 +53511,24 @@ I Love Sloane
 I'm so Groovy
 GOSHA
 DD Form 214
+[master 9d4b461] updating daily data 2021-02-23 20:00:08.321833
+ 3 files changed, 33 insertions(+), 1 deletion(-)
+2021-02-23 20:00:05.578347
+Auth happening...
+Getting songs
+Creating dataframe...
+a song
+T P O
+Daunt
+why u look mad
+GOT THESE SONGS
+{'played_at': ['19:53', '19:50', '19:47'], 'valence': [0.396, 0.787, 0.416], 'mood_avg': [0.539, 0.79, 0.504], 'danceability': [0.563, 0.867, 0.648], 'energy': [0.778, 0.641, 0.392], 'image': [u'https://i.scdn.co/image/ab67616d0000b273212efa3ba51f24facacd350a', u'https://i.scdn.co/image/ab67616d0000b273d6a42152bb68f22580714f71', u'https://i.scdn.co/image/ab67616d0000b273a3d096047aaa3d30081295f1'], 'album_name': [u'Bringing the backline', u'Los Angeles Is Not for Sale, Vol. 1', u'Daunt'], 'song_name': [u'a song', u'T P O', u'Daunt'], 'artist_name': [u'Trust Fund', u'Dom Kennedy', u'Jelani Aryeh'], 'track_id': [u'7dgsqNzRVGBj2nXT0ApJBk', u'5akxCqTVeMOyyGIDg7fe9j', u'08uVt0ax6g380Yti4KeHaE']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273a3d096...  ...  0.392
+1  https://i.scdn.co/image/ab67616d0000b273d6a421...  ...  0.641
+0  https://i.scdn.co/image/ab67616d0000b273212efa...  ...  0.778
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
