@@ -53797,3 +53797,18 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master bb0952f] updating daily data 2021-02-24 13:00:03.885851
+ 2 files changed, 18 insertions(+), 1 deletion(-)
+2021-02-24 13:00:03.299177
+Auth happening...
+Getting songs
+Creating dataframe...
+Forrest Gump
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
