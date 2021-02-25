@@ -53937,3 +53937,34 @@ GOT THESE SONGS
 ('Rows: ', 7)
 Saved!
 
+[master eefb377] updating daily data 2021-02-24 21:00:04.346375
+ 3 files changed, 38 insertions(+), 1 deletion(-)
+2021-02-24 21:00:03.027293
+Auth happening...
+Getting songs
+Creating dataframe...
+Institution
+Answer
+Problem
+Stay - Album Version (Edited)
+Brazil
+High You Are
+Girl With The Tattoo Enter.lewd
+Pyramids
+Piss On Your Grave (feat. Kanye West)
+GOT THESE SONGS
+{'played_at': ['20:44', '20:41', '20:37', '20:34', '20:30', '20:26', '20:22', '20:20'], 'valence': [0.596, 0.477, 0.625, 0.125, 0.665, 0.409, 0.126, 0.15], 'mood_avg': [0.599, 0.506, 0.675, 0.36, 0.664, 0.611, 0.237, 0.35], 'danceability': [0.672, 0.368, 0.66, 0.621, 0.687, 0.69, 0.347, 0.4], 'energy': [0.457, 0.838, 0.805, 0.31, 0.617, 0.857, 0.239, 0.65], 'image': [u'https://i.scdn.co/image/ab67616d0000b27325dc1c32dbdd14b8049a3b3f', u'https://i.scdn.co/image/ab67616d0000b2734893508eb6495df8ddb015e0', u'https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa', u'https://i.scdn.co/image/ab67616d0000b273e24cbbd5cef05ca77ec67df6', u'https://i.scdn.co/image/ab67616d0000b273ec8be21d32e663885fbb244e', u'https://i.scdn.co/image/ab67616d0000b2734c6214c61e3f98e5cbe3913a', u'https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c', u'https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5'], 'album_name': [u'Institution', u'Wolf', u'My Everything (Deluxe)', u'Unapologetic (Edited Version)', u'What Do You Think About the Car?', u'High You Are (Remixes)', u'All I Want Is You', u'channel ORANGE'], 'song_name': [u'Institution', u'Answer', u'Problem', u'Stay - Album Version (Edited)', u'Brazil', u'High You Are', u'Girl With The Tattoo Enter.lewd', u'Pyramids'], 'artist_name': [u'Kodak Black', u'Tyler, The Creator', u'Ariana Grande', u'Rihanna', u'Declan McKenna', u'What So Not', u'Miguel', u'Frank Ocean'], 'track_id': [u'2G6PeWL4JanUge47LNdFtJ', u'6rqj2zeKhLy3exkuFi6mSz', u'7vS3Y0IKjde7Xg85LWIEdP', u'789CxjEOtO76BVD1A9yJQH', u'4sNG6zQBmtq7M8aeeKJRMQ', u'6zpCJDhdpHPZCcFCJZDqX5', u'1eUGmzzvahJjOSWgDHuRlv', u'4QhWbupniDd44EDtnh2bFJ']}
+                                               image  ... energy
+7  https://i.scdn.co/image/ab67616d0000b2737aede4...  ...   0.65
+6  https://i.scdn.co/image/ab67616d0000b273d5a839...  ...  0.239
+5  https://i.scdn.co/image/ab67616d0000b2734c6214...  ...  0.857
+4  https://i.scdn.co/image/ab67616d0000b273ec8be2...  ...  0.617
+3  https://i.scdn.co/image/ab67616d0000b273e24cbb...  ...   0.31
+2  https://i.scdn.co/image/ab67616d0000b273deec12...  ...  0.805
+1  https://i.scdn.co/image/ab67616d0000b273489350...  ...  0.838
+0  https://i.scdn.co/image/ab67616d0000b27325dc1c...  ...  0.457
+
+[8 rows x 10 columns]
+('Rows: ', 8)
+Saved!
+
