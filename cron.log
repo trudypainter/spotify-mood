@@ -53887,3 +53887,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 342a6fb] updating daily data 2021-02-24 19:00:04.476945
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-02-24 19:00:03.461150
+Auth happening...
+Getting songs
+Creating dataframe...
+Purple Swag
+Impossible
+Forrest Gump
+Forrest Gump
+GOT THESE SONGS
+{'played_at': ['18:58', '18:56', '18:52'], 'valence': [0.35, 0.277, 0.186], 'mood_avg': [0.499, 0.406, 0.438], 'danceability': [0.611, 0.507, 0.701], 'energy': [0.571, 0.464, 0.417], 'image': [u'https://i.scdn.co/image/ab67616d0000b273814ee60fc7cd620ccb699fe0', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5'], 'album_name': [u'Purple Swag', u'Rodeo (Expanded Edition)', u'channel ORANGE'], 'song_name': [u'Purple Swag', u'Impossible', u'Forrest Gump'], 'artist_name': [u'A$AP Rocky', u'Travis Scott', u'Frank Ocean'], 'track_id': [u'51cqtusY2TwC6mbN8Vz8iA', u'0IabpxMpUV7waD7U4uDIMJ', u'4YZbVct8l9MnAVIROnLQdx']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b2737aede4...  ...  0.417
+1  https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.464
+0  https://i.scdn.co/image/ab67616d0000b273814ee6...  ...  0.571
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
