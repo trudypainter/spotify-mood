@@ -54089,3 +54089,26 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 8da8da4] updating daily data 2021-02-25 06:00:04.754409
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+2021-02-25 06:00:03.763392
+Auth happening...
+Getting songs
+Creating dataframe...
+Dubai Shit
+Mileage (feat. Chief Keef)
+Ps & Qs
+Last Friday Night (T.G.I.F.)
+Institution
+GOT THESE SONGS
+{'played_at': ['05:59', '05:55', '05:53', '05:15'], 'valence': [0.227, 0.4, 0.399, 0.72], 'mood_avg': [0.506, 0.58, 0.454, 0.711], 'danceability': [0.774, 0.743, 0.522, 0.652], 'energy': [0.529, 0.616, 0.428, 0.812], 'image': [u'https://i.scdn.co/image/ab67616d0000b273631973893e94d01cfcdf0e5e', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194', u'https://i.scdn.co/image/ab67616d0000b2738be07181aa935225a6f25d56', u'https://i.scdn.co/image/ab67616d0000b273d20c38f295039520d688a888'], 'album_name': [u'Huncho Jack, Jack Huncho', u'Die Lit', u'Lil Uzi Vert vs. The World', u'Teenage Dream'], 'song_name': [u'Dubai Shit', u'Mileage (feat. Chief Keef)', u'Ps & Qs', u'Last Friday Night (T.G.I.F.)'], 'artist_name': [u'Huncho Jack', u'Playboi Carti', u'Lil Uzi Vert', u'Katy Perry'], 'track_id': [u'6urLjX35oXXRYtcH1b3dCh', u'1oNcc2isuz7d3hc1fMoHqj', u'1gGsNNUfvVMOv4llVMg8Vg', u'3avYqdwHKEq8beXbeWCKqJ']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273d20c38...  ...  0.812
+2  https://i.scdn.co/image/ab67616d0000b2738be071...  ...  0.428
+1  https://i.scdn.co/image/ab67616d0000b273a1e867...  ...  0.616
+0  https://i.scdn.co/image/ab67616d0000b273631973...  ...  0.529
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
