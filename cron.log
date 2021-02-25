@@ -54153,3 +54153,24 @@ GOT THESE SONGS
 0  https://i.scdn.co/image/ab67616d0000b273240c45...  ...  0.0687
 
 [5 rows x 10 columns]
+[master f8425d6] updating daily data 2021-02-25 09:00:04.487692
+ 3 files changed, 47 insertions(+), 1 deletion(-)
+2021-02-25 09:00:03.415797
+Auth happening...
+Getting songs
+Creating dataframe...
+Music Is The Light
+Dark & Handsome
+Chamakay
+Glad to Be Unhappy
+GOT THESE SONGS
+{'played_at': ['08:07', '08:04', '08:01'], 'valence': [0.257, 0.288, 0.339], 'mood_avg': [0.42, 0.427, 0.566], 'danceability': [0.603, 0.584, 0.762], 'energy': [0.379, 0.389, 0.627], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273c705e4061a1de1139ced6554', u'https://i.scdn.co/image/ab67616d0000b2739d6bd2afa2987a69b7b55f72'], 'album_name': [u'We Will Always Love You', u"Angel's Pulse", u'Cupid Deluxe'], 'song_name': [u'Music Is The Light', u'Dark & Handsome', u'Chamakay'], 'artist_name': [u'The Avalanches', u'Blood Orange', u'Blood Orange'], 'track_id': [u'5eDLEMBoefYrDbhAycL5LK', u'0Zgcv1wy4bRWpfsM27uPGK', u'2iR4oHXi5qsb17b0KHVpon']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b2739d6bd2...  ...  0.627
+1  https://i.scdn.co/image/ab67616d0000b273c705e4...  ...  0.389
+0  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.379
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
