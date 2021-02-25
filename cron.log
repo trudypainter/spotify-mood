@@ -54204,3 +54204,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master feb9f41] updating daily data 2021-02-25 12:00:04.164707
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-02-25 12:00:03.295308
+Auth happening...
+Getting songs
+Creating dataframe...
+Song For Barbara Payton
+Ghost Story
+Anak Ko
+GOT THESE SONGS
+{'played_at': ['11:59', '11:56'], 'valence': [0.22, 0.228], 'mood_avg': [0.302, 0.259], 'danceability': [0.355, 0.261], 'energy': [0.358, 0.317], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1'], 'album_name': [u'We Will Always Love You', u'We Will Always Love You'], 'song_name': [u'Song For Barbara Payton', u'Ghost Story'], 'artist_name': [u'The Avalanches', u'The Avalanches'], 'track_id': [u'5ImMXrczU0jwRgEuWBJDqz', u'4K462KpNKJKaqo4Nw4v0Xm']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.317
+0  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.358
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
