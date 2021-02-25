@@ -54223,3 +54223,40 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master 50abda0] updating daily data 2021-02-25 13:00:05.266251
+ 3 files changed, 31 insertions(+), 1 deletion(-)
+2021-02-25 13:00:03.937211
+Auth happening...
+Getting songs
+Creating dataframe...
+Until Daylight Comes
+Star Song.IMG
+We Go On
+Oh The Sunn!
+Carrier Waves
+Reflecting Light
+Ghost Story Pt. 2
+Interstellar Love
+Solitary Ceremonies
+The Divine Chord
+We Will Always Love You
+Song For Barbara Payton
+GOT THESE SONGS
+{'played_at': ['12:25', '12:23', '12:23', '12:19', '12:16', '12:15', '12:11', '12:10', '12:06', '12:05', '12:02'], 'valence': [0.584, 0.0, 0.641, 0.124, 0.0775, 0.404, 0.152, 0.27, 0.193, 0.373, 0.176], 'mood_avg': [0.639, 0.064, 0.677, 0.462, 0.247, 0.401, 0.253, 0.453, 0.237, 0.545, 0.41], 'danceability': [0.675, 0.0, 0.63, 0.708, 0.3, 0.247, 0.302, 0.448, 0.267, 0.557, 0.535], 'energy': [0.678, 0.319, 0.841, 0.644, 0.481, 0.701, 0.356, 0.83, 0.267, 0.863, 0.626], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1'], 'album_name': [u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You'], 'song_name': [u'Until Daylight Comes', u'Star Song.IMG', u'We Go On', u'Oh The Sunn!', u'Carrier Waves', u'Reflecting Light', u'Ghost Story Pt. 2', u'Interstellar Love', u'Solitary Ceremonies', u'The Divine Chord', u'We Will Always Love You'], 'artist_name': [u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches'], 'track_id': [u'7gwBRAx69q9pBzfmC8AbKP', u'7gL9qC82hXoHwTzstNWYXi', u'4k65ndzxH3tHYZSnYurgM7', u'1Qth3TmxzsBYDpCRCffdZk', u'501InEJ0WT4PTkvr7EVXvl', u'3mkr5TrEjhi5RhVSjvg0nM', u'37qkB4DJj0M1qjYqg5EUlK', u'4PUGAmAvt5VxbbefkhV0x5', u'4ITwUwPgYYl9QF2k9dyH9r', u'3A0cAzFKPefBCz7Z02UnnO', u'51wxtCuipwjvvT99wsSmCc']}
+                                                image  ... energy
+10  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.626
+9   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.863
+8   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.267
+7   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...   0.83
+6   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.356
+5   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.701
+4   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.481
+3   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.644
+2   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.841
+1   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.319
+0   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.678
+
+[11 rows x 10 columns]
+('Rows: ', 11)
+Saved!
+
