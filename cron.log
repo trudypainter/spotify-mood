@@ -54112,3 +54112,44 @@ GOT THESE SONGS
 ('Rows: ', 4)
 Saved!
 
+[master a363802] updating daily data 2021-02-25 07:00:04.317960
+ 3 files changed, 27 insertions(+), 1 deletion(-)
+2021-02-25 07:00:03.544426
+Auth happening...
+Getting songs
+Creating dataframe...
+Topanga
+Canadian Goose
+Up in Here
+Dubai Shit
+GOT THESE SONGS
+{'played_at': ['06:12', '06:09', '06:05'], 'valence': [0.039, 0.238, 0.409], 'mood_avg': [0.441, 0.513, 0.604], 'danceability': [0.755, 0.776, 0.772], 'energy': [0.615, 0.537, 0.659], 'image': [u'https://i.scdn.co/image/ab67616d0000b27392bb8047753d97ff274b2f5f', u'https://i.scdn.co/image/ab67616d0000b2738be07181aa935225a6f25d56', u'https://i.scdn.co/image/ab67616d0000b2731541a676423805fc68ff3e66'], 'album_name': [u'A Love Letter To You 3', u'Lil Uzi Vert vs. The World', u'Painting Pictures'], 'song_name': [u'Topanga', u'Canadian Goose', u'Up in Here'], 'artist_name': [u'Trippie Redd', u'Lil Uzi Vert', u'Kodak Black'], 'track_id': [u'5aXgz1oKK8Q9z9xvTmSnrO', u'1MNdfH2KC5LdEde3JPJ513', u'4rcDP7pcJ9TN3LDeFSfUav']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b2731541a6...  ...  0.659
+1  https://i.scdn.co/image/ab67616d0000b2738be071...  ...  0.537
+0  https://i.scdn.co/image/ab67616d0000b27392bb80...  ...  0.615
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
+2021-02-25 08:00:03.723522
+Auth happening...
+Getting songs
+Creating dataframe...
+Glad to Be Unhappy
+Hallelujah - Bonus Track
+Give Me My Month
+Virile
+XS - Bree Runway Remix
+Topanga
+GOT THESE SONGS
+{'played_at': ['07:55', '07:51', '07:48', '07:46', '07:42'], 'valence': [0.0361, 0.531, 0.335, 0.189, 0.735], 'mood_avg': [0.147, 0.391, 0.354, 0.297, 0.732], 'danceability': [0.297, 0.258, 0.512, 0.187, 0.629], 'energy': [0.0687, 0.376, 0.075, 0.735, 0.932], 'image': [u'https://i.scdn.co/image/ab67616d0000b273240c453ba41b82735fa1c233', u'https://i.scdn.co/image/ab67616d0000b273d2631fe4c90aae7dec8fb0df', u'https://i.scdn.co/image/ab67616d0000b273a6b49ca72312383b72a8d9b4', u'https://i.scdn.co/image/ab67616d0000b2738b40e0ef79069fb9bcc560d9', u'https://i.scdn.co/image/ab67616d0000b273db0a368a7ede184a67a51b95'], 'album_name': [u'Manhattan Special', u'Women In Music Pt. III', u'James Blake', u'gr\xe6', u'SAWAYAMA (Deluxe Edition)'], 'song_name': [u'Glad to Be Unhappy', u'Hallelujah - Bonus Track', u'Give Me My Month', u'Virile', u'XS - Bree Runway Remix'], 'artist_name': [u'Onyx Collective', u'HAIM', u'James Blake', u'Moses Sumney', u'Rina Sawayama'], 'track_id': [u'3hURLhMPGrLZJj9YgblA0H', u'41z7PF8ArX3uilknQIg3nU', u'0wXiC2Qisd4DeehG8u6qqa', u'0pR6PNm69ejQHbeDcLLf57', u'6s5uwOWkYK20spzICXQPNm']}
+                                               image  ...  energy
+4  https://i.scdn.co/image/ab67616d0000b273db0a36...  ...   0.932
+3  https://i.scdn.co/image/ab67616d0000b2738b40e0...  ...   0.735
+2  https://i.scdn.co/image/ab67616d0000b273a6b49c...  ...   0.075
+1  https://i.scdn.co/image/ab67616d0000b273d2631f...  ...   0.376
+0  https://i.scdn.co/image/ab67616d0000b273240c45...  ...  0.0687
+
+[5 rows x 10 columns]
