@@ -53908,3 +53908,32 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master 7f4368a] updating daily data 2021-02-24 20:00:06.281724
+ 3 files changed, 29 insertions(+), 1 deletion(-)
+2021-02-24 20:00:04.648237
+Auth happening...
+Getting songs
+Creating dataframe...
+Piss On Your Grave (feat. Kanye West)
+III. Telegraph Ave. ("Oakland" by Lloyd)
+Novacane
+Mr. Rager
+Let It Happen
+Poetic Justice
+Chamber Of Reflection
+Purple Swag
+GOT THESE SONGS
+{'played_at': ['19:31', '19:28', '19:24', '19:19', '19:14', '19:07', '19:02'], 'valence': [0.162, 0.597, 0.37, 0.581, 0.577, 0.647, 0.505], 'mood_avg': [0.394, 0.576, 0.554, 0.646, 0.648, 0.685, 0.528], 'danceability': [0.554, 0.496, 0.762, 0.671, 0.602, 0.779, 0.537], 'energy': [0.54, 0.693, 0.508, 0.726, 0.881, 0.572, 0.558], 'image': [u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b273fce23dadb51975ebf2e9d75c', u'https://i.scdn.co/image/ab67616d0000b27359a428dc7ef8e0c12b0fe18a', u'https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815', u'https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79', u'https://i.scdn.co/image/ab67616d0000b273d58e537cea05c2156792c53d', u'https://i.scdn.co/image/ab67616d0000b2737da53b49b2eb7b7a695d9cca'], 'album_name': [u'Rodeo (Expanded Edition)', u'Because the Internet', u'Novacane', u'Man On The Moon II: The Legend Of Mr. Rager', u'Currents', u'good kid, m.A.A.d city (Deluxe)', u'Salad Days'], 'song_name': [u'Piss On Your Grave (feat. Kanye West)', u'III. Telegraph Ave. ("Oakland" by Lloyd)', u'Novacane', u'Mr. Rager', u'Let It Happen', u'Poetic Justice', u'Chamber Of Reflection'], 'artist_name': [u'Travis Scott', u'Childish Gambino', u'Frank Ocean', u'Kid Cudi', u'Tame Impala', u'Kendrick Lamar', u'Mac DeMarco'], 'track_id': [u'5H25xsIuRWUI8GwcoAoeSG', u'0VXfZi7XhfJnuBvF6XiypU', u'4osgfFTICMkcGbbigdsa53', u'393MDhe62s8hbH8ETrlxe5', u'2X485T9Z5Ly0xyaghN73ed', u'2P3SLxeQHPqh8qKB6gtJY2', u'1MJ5f5EYBC92ADD6xcz7nb']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b2737da53b...  ...  0.558
+5  https://i.scdn.co/image/ab67616d0000b273d58e53...  ...  0.572
+4  https://i.scdn.co/image/ab67616d0000b2739e1cfc...  ...  0.881
+3  https://i.scdn.co/image/ab67616d0000b27359e842...  ...  0.726
+2  https://i.scdn.co/image/ab67616d0000b27359a428...  ...  0.508
+1  https://i.scdn.co/image/ab67616d0000b273fce23d...  ...  0.693
+0  https://i.scdn.co/image/ab67616d0000b273743317...  ...   0.54
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
