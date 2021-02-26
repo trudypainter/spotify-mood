@@ -54541,3 +54541,26 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master d859754] updating daily data 2021-02-26 07:00:03.136943
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-02-26 07:00:02.313772
+Auth happening...
+Getting songs
+Creating dataframe...
+Ryd
+Super Rich Kids
+Fukk Sleep (feat. FKA twigs)
+Happy
+Poke It Out (with Nicki Minaj)
+GOT THESE SONGS
+{'played_at': ['06:14', '06:11', '06:06', '06:03'], 'valence': [0.979, 0.58, 0.304, 0.519], 'mood_avg': [0.893, 0.611, 0.523, 0.6], 'danceability': [0.784, 0.739, 0.798, 0.798], 'energy': [0.94, 0.419, 0.412, 0.367], 'image': [u'https://i.scdn.co/image/ab67616d0000b273a31dd5d96b9df819e331fdcb', u'https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5', u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b', u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da'], 'album_name': [u"Steve Lacy's Demo", u'channel ORANGE', u'TESTING', u'Cat Heaven'], 'song_name': [u'Ryd', u'Super Rich Kids', u'Fukk Sleep (feat. FKA twigs)', u'Happy'], 'artist_name': [u'Steve Lacy', u'Frank Ocean', u'A$AP Rocky', u'Roy Blair'], 'track_id': [u'3I8yVFjvJoOBM9tX4ZpxEL', u'0725YWm6Z0TpZ6wrNk64Eb', u'1AqemxWsT0iGg5Lvkm16Bt', u'6aHTqCC2qHHs5H0rjgJVbc']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273de3c33...  ...  0.367
+2  https://i.scdn.co/image/ab67616d0000b2739feadc...  ...  0.412
+1  https://i.scdn.co/image/ab67616d0000b2737aede4...  ...  0.419
+0  https://i.scdn.co/image/ab67616d0000b273a31dd5...  ...   0.94
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
