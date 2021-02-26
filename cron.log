@@ -54667,3 +54667,52 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master 1711236] updating daily data 2021-02-26 13:00:04.181556
+ 2 files changed, 20 insertions(+), 1 deletion(-)
+2021-02-26 13:00:03.567594
+Auth happening...
+Getting songs
+Creating dataframe...
+Until Daylight Comes
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-02-26 14:00:03.089117
+Auth happening...
+Getting songs
+Creating dataframe...
+Goodie Bag
+Praise The Lord (Da Shine) (feat. Skepta)
+Weightless
+Music Is The Light
+Born To Lose
+Running Red Lights
+Dial D For Devotion
+Always Black
+Gold Sky
+Overcome
+Take Care In Your Dreaming
+Pink Champagne
+Music Makes Me High
+Wherever You Go
+Wherever You Go
+GOT THESE SONGS
+{'played_at': ['13:56', '13:53', '13:45', '13:42', '13:39', '13:34', '13:30', '13:29', '13:26', '13:21', '13:18', '13:13', '13:12', '13:09'], 'valence': [0.619, 0.294, 0.028, 0.257, 0.36, 0.625, 0.338, 0.204, 0.361, 0.566, 0.329, 0.0, 0.76, 0.258], 'mood_avg': [0.648, 0.573, 0.233, 0.42, 0.516, 0.657, 0.392, 0.342, 0.419, 0.648, 0.54, 0.126, 0.729, 0.447], 'danceability': [0.739, 0.854, 0.373, 0.603, 0.545, 0.674, 0.512, 0.358, 0.343, 0.662, 0.611, 0.0, 0.607, 0.46], 'energy': [0.522, 0.569, 0.363, 0.379, 0.768, 0.686, 0.26, 0.584, 0.688, 0.786, 0.822, 0.632, 0.911, 0.798], 'image': [u'https://i.scdn.co/image/ab67616d0000b2735ddbd61ea4a6dab213cc97af', u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1'], 'album_name': [u'Goodie Bag', u'TESTING', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You'], 'song_name': [u'Goodie Bag', u'Praise The Lord (Da Shine) (feat. Skepta)', u'Weightless', u'Music Is The Light', u'Born To Lose', u'Running Red Lights', u'Dial D For Devotion', u'Always Black', u'Gold Sky', u'Overcome', u'Take Care In Your Dreaming', u'Pink Champagne', u'Music Makes Me High', u'Wherever You Go'], 'artist_name': [u'Still Woozy', u'A$AP Rocky', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches'], 'track_id': [u'4vHNeBWDQpVCmGbaccrRzi', u'7ycWLEP1GsNjVvcjawXz3z', u'383d4fIERp2dnWr54kpiJu', u'5eDLEMBoefYrDbhAycL5LK', u'5FI0R5JDimbYBMbMCGhWYV', u'3BjcCLvgi6anh2xcRnBerE', u'4bj1A0G4EZpVGeEuqm6J4e', u'5rrZt4Zk2XCaJsjjgQXzpm', u'3XlOL0qIITmNBKBcZTqS9n', u'2CwjJUzjEYq6CbIYTytZTe', u'1t0YL0DwYHhbW5P4BvV7j1', u'6tb5a2c3pW31Iqk4viVs4I', u'4o8ssGZ37z8S93zHTNfDlD', u'0J3FsLl9oyGWBU3cHqQpCo']}
+                                                image  ... energy
+13  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.798
+12  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.911
+11  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.632
+10  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.822
+9   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.786
+8   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.688
+7   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.584
+6   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...   0.26
+5   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.686
+4   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.768
+3   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.379
+2   https://i.scdn.co/image
