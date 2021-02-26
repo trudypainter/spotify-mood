@@ -54725,3 +54725,60 @@ GOT THESE SONGS
 ('Rows: ', 14)
 Saved!
 
+[master 49cc980] updating daily data 2021-02-26 15:00:04.123528
+ 2 files changed, 11 insertions(+), 2 deletions(-)
+2021-02-26 15:00:03.326835
+Auth happening...
+Getting songs
+Creating dataframe...
+Happy & Sad
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-02-26 16:00:03.896210
+Auth happening...
+Getting songs
+Creating dataframe...
+Family Don't Matter (feat. Millie Go Lightly)
+Cosmic Freeway
+Hazel
+Georgia
+Reminiscing
+Weekend at Santa Cruz
+Revvin' My Cj7
+Slippery (feat. Gucci Mane)
+See You Again (feat. Kali Uchis)
+Only Child
+Ryd
+2021-02-26 17:00:03.739795
+Auth happening...
+Getting songs
+Creating dataframe...
+Courtside
+Puff Daddy
+Can't Be // How U Feel
+Magdalena
+If I Got To
+Moon River
+RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)
+XO Tour Llif3
+Mixed Personalities (feat. Kanye West)
+Habit
+Sweet to Me
+Happy & Sad
+Scrawny
+Every Single Thing
+10 Freaky Girls (with 21 Savage)
+Happy
+Sanguine Paradise
+Climax (feat. 6lack)
+Swervin (feat. 6ix9ine)
+Slayerr
+Family Don't Matter (feat. Millie Go Lightly)
+GOT THESE SONGS
+{'played_at': ['16:56', '16:53', '16:51', '16:49', '16:46', '16:44', '16:44', '16:41', '16:38', '16:34', '16:31', '16:28', '16:24', '16:21', '16:19', '16:15', '16:12', '16:08', '16:05', '16:02'], 'valence': [0.621, 0.691, 0.526, 0.0424, 0.322, 0.0937, 0.333, 0.401, 0.352, 0.48, 0.501, 0.658, 0.802, 0.323, 0.0727, 0.519, 0.207, 0.369, 0.434, 0.68], 'mood_avg': [0.62, 0.788, 0.627, 0.277, 0.621, 0.157, 0.605, 0.603, 0.493, 0.577, 0.528, 0.651, 0.74, 0.507, 0.424, 0.6, 0.495, 0.552, 0.538, 0.691], 'danceability': [0.668, 0.876, 0.632, 0.501, 0.964, 0.24, 0.848, 0.732, 0.661, 0.767, 0.563, 0.642, 0.639, 0.816, 0.81, 0.798, 0.729, 0.829, 0.581, 0.709], 'energy': [0.524, 0.807, 0.821, 0.298, 0.531, 0.116, 0.663, 0.75, 0.44, 0.392, 0.51, 0.657, 0.816, 0.255, 0.353, 0.367, 0.603, 0.362, 0.662, 0.676], 'image': [u'https://i.scdn.co/image/ab67616d0000b273d42a7bb4e092b8a61b7a4f20', u'https://i.scdn.co/image/ab67616d0000b273657d97146452ebfb9cd7f297', u'https://i.scdn.co/image/ab67616d0000b2735215d10c00e2cd296a772bb7', u'https://i.scdn.co/image/ab67616d0000b27337e744667c098ff2669b4d4f', u'https://i.scdn.co/image/ab67616d0000b273fc22b0ce07f38f096102c1a7', u'https://i.scdn.co/image/ab67616d0000b2736566b46cd24c5f2d0561ee7a', u'https://i.scdn.co/image/ab67616d0000b273ce9a92efb0c3ad4c2fb33072', u'https://i.scdn.co/image/ab67616d0000b27341b41e6f7924e530a9b00f9c', u'https://i.scdn.co/image/ab67616d0000b27318fe5f786c4a429f47b1b253', u'https://i.scdn.co/image/ab67616d0000b27388a4a43acf0d1901da9d2975', u'https://i.scdn.co/image/ab67616d0000b273c4c9ca67b07423071204c0b1', u'https://i.scdn.co/image/ab67616d0000b2732e35d25eb7288830d5540484', u'https://i.scdn.co/image/ab67616d0000b27384feca0133d9a8e6539a8325', u'https://i.scdn.co/image/ab67616d0000b273cd7c3cba379ae624e118ebcb', u'https://i.scdn.co/image/ab67616d0000b2732887f8c05b5a9f1cb105be29', u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da', u'https://i.scdn.co/image/ab67616d0000b27334bf16d92ae11f8d3eadf295', u'https://i.scdn.co/image/ab67616d0000b273ba2f79a5a79bbad7da3ec387', u'https://i.scdn.co/image/ab67616d0000b273dcfadea246002a5c0fd7b1b8', u'https://i.scdn.co/image/ab67616d0000b273d64e16e79f29debbb2690d62'], 'album_name': [u'Courtside', u'Puff Daddy', u'Self', u'direct line to My Creator', u'Bawskee', u'Moon River', u'Cozy Tapes Vol. 2: Too Cozy', u'Luv Is Rage 2', u'We All Shine', u'Habit', u'Driving to Hawaii', u'Golden Hour', u'Nothing Happens', u'Fresh Air', u'NOT ALL HEROES WEAR CAPES (Deluxe)', u'Cat Heaven', u'Sanguine Paradise', u'On the Run', u'Hoodie SZN', u'Slayerr'], 'song_name': [u'Courtside', u'Puff Daddy', u"Can't Be // How U Feel", u'Magdalena', u'If I Got To', u'Moon River', u'RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)', u'XO Tour Llif3', u'Mixed Personalities (feat. Kanye West)', u'Habit', u'Sweet to Me', u'Happy & Sad', u'Scrawny', u'Every Single Thing', u'10 Freaky Girls (with 21 Savage)', u'Happy', u'Sanguine Paradise', u'Climax (feat. 6lack)', u'Swervin (feat. 6ix9ine)', u'Slayerr'], 'artist_name': [u'Triathalon', u'JPEGMAFIA', u'Billy Lemos', u'duendita', u'Comethazine', u'Frank Ocean', u'A$AP Mob', u'Lil Uzi Vert', u'YNW Melly', u'Still Woozy', u'Summer Salt', u'Kacey Musgraves', u'Wallows', u'HOMESHAKE', u'Metro Boomin', u'Roy Blair', u'Lil Uzi Vert', u'Young Thug', u'A Boogie Wit da Hoodie', u'Tm88'], 'track_id': [u'4QBs03zMdjDtS6ZRAdojDv', u'33omqR79fIXhaqdO4kQFAz', u'1sqkc7AFo4UgmoaINBovNd', u'5TfCb9HOSGpLu2e4yy65xq', u'68E2etz4RG2W3G42kEbneS', u'41cpvQ2GyGb2BRdIRSsTqK', u'4pdgV8qr9Oytcv6thCdiIZ', u'7GX5flRQZVHR
