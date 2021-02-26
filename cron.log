@@ -54290,3 +54290,112 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 1938438] updating daily data 2021-02-25 16:00:05.839265
+ 3 files changed, 22 insertions(+), 1 deletion(-)
+2021-02-25 16:00:03.787737
+Auth happening...
+Getting songs
+Creating dataframe...
+I Want You To Love Me
+223 Remix
+IPHONE
+sweetener
+Dear Old Nicki
+Babyface Savage (feat. Tory Lanez)
+Until Daylight Comes
+GOT THESE SONGS
+{'played_at': ['15:59', '15:28', '15:20', '15:17', '15:13', '15:10'], 'valence': [0.712, 0.442, 0.39, 0.46, 0.455, 0.425], 'mood_avg': [0.597, 0.665, 0.57, 0.564, 0.594, 0.644], 'danceability': [0.528, 0.921, 0.636, 0.721, 0.662, 0.907], 'energy': [0.504, 0.598, 0.799, 0.459, 0.737, 0.557], 'image': [u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b273d7445441ad80d77b1d15a666', u'https://i.scdn.co/image/ab67616d0000b273b254cff03b053d4bca9100ef', u'https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394', u'https://i.scdn.co/image/ab67616d0000b273aa7d2641af0fa4c1f76fafbf', u'https://i.scdn.co/image/ab67616d0000b273afd59b8f7df2be1b94bee052'], 'album_name': [u'Fetch The Bolt Cutters', u'Dumb Shit: The Album', u'Nightmare Vacation', u'Sweetener', u'Pink Friday (Complete Edition)', u'Babyface Savage (feat. Tory Lanez)'], 'song_name': [u'I Want You To Love Me', u'223 Remix', u'IPHONE', u'sweetener', u'Dear Old Nicki', u'Babyface Savage (feat. Tory Lanez)'], 'artist_name': [u'Fiona Apple', u'S3nsi Molly', u'Rico Nasty', u'Ariana Grande', u'Nicki Minaj', u'Bhad Bhabie'], 'track_id': [u'73SBAGI4fPFm4VkB3NjXq8', u'0BhjjRVSL5LWwmlz72rfgY', u'721DqX2YMrtKcjcydyrjwq', u'70khXICDeTTxgYtw3EysKH', u'2AS0xaRoyo4WiYehA5DaxN', u'2xB64x7pRS8Qa9uuZktOnA']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b273afd59b...  ...  0.557
+4  https://i.scdn.co/image/ab67616d0000b273aa7d26...  ...  0.737
+3  https://i.scdn.co/image/ab67616d0000b273c3af0c...  ...  0.459
+2  https://i.scdn.co/image/ab67616d0000b273b254cf...  ...  0.799
+1  https://i.scdn.co/image/ab67616d0000b273d74454...  ...  0.598
+0  https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.504
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
+2021-02-25 17:00:03.651546
+Auth happening...
+Getting songs
+Creating dataframe...
+Chlorine
+Take Your Time
+2021-02-25 18:00:03.852415
+Auth happening...
+Getting songs
+Creating dataframe...
+Stoned Again
+Valentine
+Thank You
+Madonna
+Fake It
+Delete Forever
+Rubbin off the Paint
+All The Love We Have Now
+I Miss You
+Chlorine
+GOT THESE SONGS
+{'played_at': ['17:59', '17:56', '17:53', '17:21', '17:18', '17:11', '17:07', '17:04', '17:01'], 'valence': [0.0795, 0.455, 0.435, 0.626, 0.206, 0.389, 0.56, 0.505, 0.102], 'mood_avg': [0.313, 0.597, 0.568, 0.633, 0.4, 0.527, 0.668, 0.517, 0.448], 'danceability': [0.399, 0.767, 0.746, 0.545, 0.696, 0.56, 0.734, 0.389, 0.637], 'energy': [0.606, 0.54, 0.476, 0.821, 0.195, 0.736, 0.751, 0.798, 0.761], 'image': [u'https://i.scdn.co/image/ab67616d0000b27328916ffa16f5473ac57ffe84', u'https://i.scdn.co/image/ab67616d0000b2730c0b9bba977d63617c4957e3', u'https://i.scdn.co/image/ab67616d0000b273706a733634175d413dedfe54', u'https://i.scdn.co/image/ab67616d0000b273b8c3e04fb7b927e5ce0da89e', u'https://i.scdn.co/image/ab67616d0000b27337af2ce4e0abffff0045034c', u'https://i.scdn.co/image/ab67616d0000b2731a302aafa2ea587960e27951', u'https://i.scdn.co/image/ab67616d0000b273cdd6b4660945702c5573035b', u'https://i.scdn.co/image/ab67616d0000b273f5533d680fa116232aa10cbc', u'https://i.scdn.co/image/ab67616d0000b2736aba91ac61162caeeef14460'], 'album_name': [u'Man Alive!', u'The Golden Child', u'Freetown Sound', u'Ricky Music', u'Both', u'Miss Anthropocene (Deluxe Edition)', u'YBN: The Mixtape', u'Safe In The Hands of Love', u'Post'], 'song_name': [u'Stoned Again', u'Valentine', u'Thank You', u'Madonna', u'Fake It', u'Delete Forever', u'Rubbin off the Paint', u'All The Love We Have Now', u'I Miss You'], 'artist_name': [u'King Krule', u'YK Osiris', u'Blood Orange', u'Porches', u'Okay Kaya', u'Grimes', u'YBN Nahmir', u'Yves Tumor', u'Bj\xf6rk'], 'track_id': [u'1jk6tbx0xFuEq1eHGTDMv3', u'4JRK0vJYbQGUswxlsiGeSt', u'1kAcUQO9bBz5c4zwIXIGMO', u'46KwKKlKlYtBfET0LPGfI4', u'4FmgEzMcoKvcn6zlXg7ZYv', u'71J2rawCGulCAyTMtNY3Ej', u'6V4KHt9xu4TPEnDFoBeacT', u'5Gcv66Guk5nVIJtSoIXhFU', u'3MWqudu2oIERgRqu5MOMbB']}
+                                               image  ... energy
+8  https://i.scdn.co/image/ab67616d0000b2736aba91...  ...  0.761
+7  https://i.scdn.co/image/ab67616d0000b273f5533d...  ...  0.798
+6  https://i.scdn.co/image/ab67616d0000b273cdd6b4...  ...  0.751
+5  https://i.scdn.co/image/ab67616d0000b2731a302a...  ...  0.736
+4  https://i.scdn.co/image/ab67616d0000b27337af2c...  ...  0.195
+3  https://i.scdn.co/image/ab67616d0000b273b8c3e0...  ...  0.821
+2  https://i.scdn.co/image/ab67616d0000b273706a73...  ...  0.476
+1  https://i.scdn.co/image/ab67616d0000b2730c0b9b...  ...   0.54
+0  https://i.scdn.co/image/ab67616d0000b27328916f...  ...  0.606
+
+[9 rows x 10 columns]
+2021-02-25 19:00:03.320584
+Auth happening...
+Getting songs
+Creating dataframe...
+MONEY CAN'T BUY
+Dream Palette
+Interlude: Pedestals
+Flirted With You All My Life
+Affection
+Deal With It (feat. Kelis)
+Czech One
+Stoned Again
+GOT THESE SONGS
+{'played_at': ['18:59', '18:56', '18:53', '18:52', '18:11', '18:07', '18:04'], 'valence': [0.506, 0.603, 0.885, 0.241, 0.28, 0.49, 0.171], 'mood_avg': [0.64, 0.645, 0.706, 0.366, 0.312, 0.619, 0.332], 'danceability': [0.892, 0.55, 0.721, 0.408, 0.48, 0.712, 0.555], 'energy': [0.402, 0.917, 0.318, 0.532, 0.0404, 0.689, 0.21], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738ed9099f0643b99f85fa442e', u'https://i.scdn.co/image/ab67616d0000b273043864250fbec5f57c7076a7', u'https://i.scdn.co/image/ab67616d0000b2731c4540d0ecafaa45305aa5a0', u'https://i.scdn.co/image/ab67616d0000b273d43ff95249388bb8e40af13e', u'https://i.scdn.co/image/ab67616d0000b273281b57bfec5391971863c05a', u'https://i.scdn.co/image/ab67616d0000b27311b63834a1a557cc77403458', u'https://i.scdn.co/image/ab67616d0000b273c02d78ecd28d80920aa11f1c'], 'album_name': [u'WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358', u'Heaven To A Tortured Mind', u'A Seat at the Table', u'Flirted With You All My Life', u'Devotion', u'DEMIDEVIL', u'The OOZ'], 'song_name': [u"MONEY CAN'T BUY", u'Dream Palette', u'Interlude: Pedestals', u'Flirted With You All My Life', u'Affection', u'Deal With It (feat. Kelis)', u'Czech One'], 'artist_name': [u'Yaeji', u'Yves Tumor', u'Solange', u'Bright Eyes', u'Tirzah', u'Ashnikko', u'King Krule'], 'track_id': [u'2DxxlaZRW1ShN0B4fthZJ5', u'1oE8RTvgqMEQWXo28rqu7s', u'1BvomQcVidSDKCndZdBEv3', u'0OCR6svTjSIkZj1Sb1Nd8y', u'6vZ4nvnvSWGTGCgzywkpwt', u'1S85LGnDPKKOkfuFaK6vFu', u'3z6ocW0ewr4ji7cqRDtDgq']}
+                                               image  ...  energy
+6  https://i.scdn.co/image/ab67616d0000b273c02d78...  ...    0.21
+5  https://i.scdn.co/image/ab67616d0000b27311b638...  ...   0.689
+4  https://i.scdn.co/image/ab67616d0000b273281b57...  ...  0.0404
+3  https://i.scdn.co/image/ab67616d0000b273d43ff9...  ...   0.532
+2  https://i.scdn.co/image/ab67616d0000b2731c4540...  ...   0.318
+1  https://i.scdn.co/image/ab67616d0000b273043864...  ...   0.917
+0  https://i.scdn.co/image/ab67616d0000b2738ed909...  ...   0.402
+
+[7 rows x 10 columns]
+2021-02-25 20:00:03.746563
+Auth happening...
+Getting songs
+Creating dataframe...
+2021-02-25 21:00:03.847487
+Auth happening...
+Getting songs
+Creating dataframe...
+Even If It Hurts
+ok
+Lapdance from Asia
+Country Rap Tunes
+Clout Chasin'
+Do My Thang
+That's What I Said
+Captain Hook
+Spend It
+Super Bass
+Bad Decisions
+stupkid
+7/11
+We Can't Stop
+No Panties
+Fancy
