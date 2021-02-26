@@ -54520,3 +54520,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 295ada4] updating daily data 2021-02-26 06:00:03.895787
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-02-26 06:00:02.101107
+Auth happening...
+Getting songs
+Creating dataframe...
+Baby Boy
+R.I.P.
+ACTION
+Even If It Hurts
+GOT THESE SONGS
+{'played_at': ['05:55', '05:52', '05:17'], 'valence': [0.433, 0.515, 0.592], 'mood_avg': [0.419, 0.641, 0.698], 'danceability': [0.372, 0.725, 0.864], 'energy': [0.485, 0.725, 0.577], 'image': [u'https://i.scdn.co/image/ab67616d0000b273595101c281d7e229e1f0e6c4', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194', u'https://i.scdn.co/image/ab67616d0000b273f968dff8b3e1ddd2d79da79a'], 'album_name': [u'ARIZONA BABY', u'Die Lit', u'ACTION'], 'song_name': [u'Baby Boy', u'R.I.P.', u'ACTION'], 'artist_name': [u'Kevin Abstract', u'Playboi Carti', u'CHAI'], 'track_id': [u'5K7dEG6yDQ981HO7kFMVqm', u'3L0IKstjUgDFVQAbQIRZRv', u'0lDnKDpsfCzfp6SCiiqHvN']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273f968df...  ...  0.577
+1  https://i.scdn.co/image/ab67616d0000b273a1e867...  ...  0.725
+0  https://i.scdn.co/image/ab67616d0000b273595101...  ...  0.485
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
