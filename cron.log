@@ -54564,3 +54564,24 @@ GOT THESE SONGS
 ('Rows: ', 4)
 Saved!
 
+[master 33caad8] updating daily data 2021-02-26 08:00:05.133385
+ 3 files changed, 27 insertions(+), 1 deletion(-)
+2021-02-26 08:00:04.240769
+Auth happening...
+Getting songs
+Creating dataframe...
+We Will Always Love You
+Song For Barbara Payton
+Ghost Story
+Revvin' My Cj7
+GOT THESE SONGS
+{'played_at': ['07:59', '07:56', '07:54'], 'valence': [0.176, 0.22, 0.228], 'mood_avg': [0.41, 0.302, 0.259], 'danceability': [0.535, 0.355, 0.261], 'energy': [0.626, 0.358, 0.317], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1'], 'album_name': [u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You'], 'song_name': [u'We Will Always Love You', u'Song For Barbara Payton', u'Ghost Story'], 'artist_name': [u'The Avalanches', u'The Avalanches', u'The Avalanches'], 'track_id': [u'51wxtCuipwjvvT99wsSmCc', u'5ImMXrczU0jwRgEuWBJDqz', u'4K462KpNKJKaqo4Nw4v0Xm']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.317
+1  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.358
+0  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.626
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
