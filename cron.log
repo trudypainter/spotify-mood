@@ -54648,3 +54648,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 86fe0c4] updating daily data 2021-02-26 12:00:03.417866
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-02-26 12:00:02.624499
+Auth happening...
+Getting songs
+Creating dataframe...
+Until Daylight Comes
+Until Daylight Comes
+Until Daylight Comes
+GOT THESE SONGS
+{'played_at': ['11:55', '11:55'], 'valence': [0.584, 0.584], 'mood_avg': [0.639, 0.639], 'danceability': [0.675, 0.675], 'energy': [0.678, 0.678], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1'], 'album_name': [u'We Will Always Love You', u'We Will Always Love You'], 'song_name': [u'Until Daylight Comes', u'Until Daylight Comes'], 'artist_name': [u'The Avalanches', u'The Avalanches'], 'track_id': [u'7gwBRAx69q9pBzfmC8AbKP', u'7gwBRAx69q9pBzfmC8AbKP']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.678
+0  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.678
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
