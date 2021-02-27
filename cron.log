@@ -55043,3 +55043,32 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master 6088455] updating daily data 2021-02-27 08:00:05.479781
+ 3 files changed, 27 insertions(+), 1 deletion(-)
+2021-02-27 08:00:03.974359
+Auth happening...
+Getting songs
+Creating dataframe...
+To Zion (feat. Carlos Santana)
+To Zion (feat. Carlos Santana)
+Ex-Factor
+Lost Ones
+Intro
+Dark Horse
+Key Lime OG
+positions
+GOT THESE SONGS
+{'played_at': ['07:47', '07:41', '07:19', '07:13', '07:08', '07:04', '07:01'], 'valence': [0.516, 0.516, 0.668, 0.65, 0.566, 0.353, 0.526], 'mood_avg': [0.491, 0.491, 0.628, 0.743, 0.445, 0.516, 0.665], 'danceability': [0.41, 0.41, 0.593, 0.832, 0.373, 0.645, 0.832], 'energy': [0.601, 0.601, 0.619, 0.749, 0.349, 0.585, 0.607], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b27347f930accd8ac01686401fa2', u'https://i.scdn.co/image/ab67616d0000b273c1afdf59bf153954b806daa8'], 'album_name': [u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'PRISM (Deluxe)', u'Sugar Trap 2'], 'song_name': [u'To Zion (feat. Carlos Santana)', u'To Zion (feat. Carlos Santana)', u'Ex-Factor', u'Lost Ones', u'Intro', u'Dark Horse', u'Key Lime OG'], 'artist_name': [u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Katy Perry', u'Rico Nasty'], 'track_id': [u'7x6hO9VMAee9x1iWaeNkL6', u'7x6hO9VMAee9x1iWaeNkL6', u'2VjXGuPVVxyhMgER3Uz2Fe', u'71XhXay6rKPZCVAaDtFlSR', u'34QTgJPSf9Nvpw3NrlX8pu', u'5jrdCoLpJSvHHorevXBATy', u'23bqONDHbIwWZI1hQ75f4n']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b273c1afdf...  ...  0.607
+5  https://i.scdn.co/image/ab67616d0000b27347f930...  ...  0.585
+4  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.349
+3  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.749
+2  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.619
+1  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.601
+0  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.601
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
