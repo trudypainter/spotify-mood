@@ -54810,3 +54810,36 @@ AGd6B4TmDO', u'6vWEAOUSxohKxhp0K1BsxL', u'4BsLwvaJOTOHDNg7xMpvrL', u'3qqeDnTGXgR
 ('Rows: ', 20)
 Saved!
 
+[master 8554240] updating daily data 2021-02-26 18:00:04.738238
+ 3 files changed, 39 insertions(+), 2 deletions(-)
+2021-02-26 18:00:03.471353
+Auth happening...
+Getting songs
+Creating dataframe...
+Early Mornings
+Demi
+Empty
+pick up the phone
+Never
+Grand Theft Auto
+Thunder
+Love Hurts (feat. Travis Scott)
+You Seemed so Happy
+Too Fast
+GOT THESE SONGS
+{'played_at': ['17:31', '17:27', '17:26', '17:22', '17:18', '17:14', '17:11', '17:06', '17:03'], 'valence': [0.267, 0.309, 0.504, 0.459, 0.255, 0.289, 0.156, 0.464, 0.416], 'mood_avg': [0.432, 0.569, 0.537, 0.609, 0.32, 0.463, 0.392, 0.565, 0.552], 'danceability': [0.498, 0.81, 0.59, 0.706, 0.341, 0.7, 0.667, 0.724, 0.519], 'energy': [0.632, 0.608, 0.498, 0.716, 0.408, 0.336, 0.316, 0.45, 0.888], 'image': [u'https://i.scdn.co/image/ab67616d0000b27306c681e8e20b6e29ac160f8f', u'https://i.scdn.co/image/ab67616d0000b273fc22b0ce07f38f096102c1a7', u'https://i.scdn.co/image/ab67616d0000b273030b3a60e1041ebec36d2a73', u'https://i.scdn.co/image/ab67616d0000b2736f90c4dc2e8599829dae3848', u'https://i.scdn.co/image/ab67616d0000b2739ab54fad2923c83913a2935c', u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da', u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194', u'https://i.scdn.co/image/ab67616d0000b2731e7432b0c27279e2540fdf28'], 'album_name': [u'Early Mornings', u'Bawskee', u'American Boyfriend: A Suburban Love Story', u'pick up the phone', u'Trilogy', u'Cat Heaven', u'Cat Heaven', u'Die Lit', u'Good At Falling'], 'song_name': [u'Early Mornings', u'Demi', u'Empty', u'pick up the phone', u'Never', u'Grand Theft Auto', u'Thunder', u'Love Hurts (feat. Travis Scott)', u'You Seemed so Happy'], 'artist_name': [u'Goth Babe', u'Comethazine', u'Kevin Abstract', u'Young Thug', u'Christian Leave', u'Roy Blair', u'Roy Blair', u'Playboi Carti', u'The Japanese House'], 'track_id': [u'5xkjwzwHC5nrdOWM2on6w9', u'3FrRge0Vuju2vRiZOHEPGo', u'6gSw5vz7dcafda23VqMrnl', u'4GXl8l1MfZPf2GvpyRPJBf', u'2YQ0a7U1FMEUjK0GGa3XE5', u'6TvVM0uHHFbMtr3uhgDXyu', u'0afGLa6wcYiLLXFZ48ZQpY', u'3K6U7TamNyVSWcFH8pCQHX', u'0NuIfPuBhUAt4aA4HP0rUu']}
+                                               image  ... energy
+8  https://i.scdn.co/image/ab67616d0000b2731e7432...  ...  0.888
+7  https://i.scdn.co/image/ab67616d0000b273a1e867...  ...   0.45
+6  https://i.scdn.co/image/ab67616d0000b273de3c33...  ...  0.316
+5  https://i.scdn.co/image/ab67616d0000b273de3c33...  ...  0.336
+4  https://i.scdn.co/image/ab67616d0000b2739ab54f...  ...  0.408
+3  https://i.scdn.co/image/ab67616d0000b2736f90c4...  ...  0.716
+2  https://i.scdn.co/image/ab67616d0000b273030b3a...  ...  0.498
+1  https://i.scdn.co/image/ab67616d0000b273fc22b0...  ...  0.608
+0  https://i.scdn.co/image/ab67616d0000b27306c681...  ...  0.632
+
+[9 rows x 10 columns]
+('Rows: ', 9)
+Saved!
+
