@@ -55024,3 +55024,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 525654c] updating daily data 2021-02-27 07:00:05.352199
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-02-27 07:00:04.046123
+Auth happening...
+Getting songs
+Creating dataframe...
+positions
+FlatBed Freestyle
+Early Mornings
+GOT THESE SONGS
+{'played_at': ['06:58', '06:28'], 'valence': [0.682, 0.402], 'mood_avg': [0.728, 0.573], 'danceability': [0.737, 0.755], 'energy': [0.802, 0.552], 'image': [u'https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194'], 'album_name': [u'Positions', u'Die Lit'], 'song_name': [u'positions', u'FlatBed Freestyle'], 'artist_name': [u'Ariana Grande', u'Playboi Carti'], 'track_id': [u'35mvY5S1H3J2QZyna3TFe0', u'5nayhWICkQGMTkisxVMbRw']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273a1e867...  ...  0.552
+0  https://i.scdn.co/image/ab67616d0000b2735ef878...  ...  0.802
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
