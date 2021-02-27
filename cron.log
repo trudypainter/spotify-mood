@@ -55072,3 +55072,38 @@ GOT THESE SONGS
 ('Rows: ', 7)
 Saved!
 
+[master 37967bd] updating daily data 2021-02-27 09:00:07.221023
+ 3 files changed, 40 insertions(+), 1 deletion(-)
+2021-02-27 09:00:05.223080
+Auth happening...
+Getting songs
+Creating dataframe...
+Punisher
+Kyoto
+Garden Song
+DVD Menu
+Nothing Even Matters (feat. D'Angelo)
+Every Ghetto, Every City
+Forgive Them Father
+I Used to Love Him (feat. Mary J. Blige)
+When It Hurts so Bad
+Final Hour
+Superstar
+GOT THESE SONGS
+{'played_at': ['08:57', '08:54', '08:51', '08:47', '08:45', '08:40', '08:37', '08:31', '08:26', '08:20'], 'valence': [0.212, 0.493, 0.158, 0.111, 0.549, 0.498, 0.691, 0.745, 0.825, 0.61], 'mood_avg': [0.301, 0.585, 0.329, 0.147, 0.508, 0.566, 0.72, 0.652, 0.701, 0.721], 'danceability': [0.428, 0.599, 0.528, 0.213, 0.539, 0.613, 0.808, 0.486, 0.669, 0.847], 'energy': [0.226, 0.742, 0.273, 0.0864, 0.363, 0.61, 0.6, 0.797, 0.519, 0.689], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9'], 'album_name': [u'Punisher', u'Punisher', u'Punisher', u'Punisher', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill'], 'song_name': [u'Punisher', u'Kyoto', u'Garden Song', u'DVD Menu', u"Nothing Even Matters (feat. D'Angelo)", u'Every Ghetto, Every City', u'Forgive Them Father', u'I Used to Love Him (feat. Mary J. Blige)', u'When It Hurts so Bad', u'Final Hour'], 'artist_name': [u'Phoebe Bridgers', u'Phoebe Bridgers', u'Phoebe Bridgers', u'Phoebe Bridgers', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill'], 'track_id': [u'7yR6GEJsPI6kmNRvFkPuN3', u'49UDOG8DoBajXTJSTqfRMg', u'5uQRmdIqyMmKPWJcot4UmV', u'6Tz8qANEIf4aCGEEjcxgKg', u'1Q0lOGB52skgfzdcq233vs', u'6ioEEcJzOpLyIO6Dgn1RYS', u'2RPhXg9D4JOkryUznL0aaB', u'3IRdgbdqDcmJBIa6TY2mKX', u'3CNSWn2mISh7Ll3yJQbVEw', u'7nY3NA1AvORewLU3BU7GNX']}
+                                               image  ...  energy
+9  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...   0.689
+8  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...   0.519
+7  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...   0.797
+6  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...     0.6
+5  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...    0.61
+4  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...   0.363
+3  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...  0.0864
+2  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.273
+1  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.742
+0  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.226
+
+[10 rows x 10 columns]
+('Rows: ', 10)
+Saved!
+
