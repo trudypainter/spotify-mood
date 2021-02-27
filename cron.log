@@ -55150,3 +55150,20 @@ GOT THESE SONGS
 ('Rows: ', 14)
 Saved!
 
+[master 7b738ce] updating daily data 2021-02-27 11:00:04.228068
+ 3 files changed, 45 insertions(+), 1 deletion(-)
+2021-02-27 11:00:03.527970
+Auth happening...
+Getting songs
+Creating dataframe...
+Savior Complex
+Moon Song
+GOT THESE SONGS
+{'played_at': ['10:26'], 'valence': [0.218], 'mood_avg': [0.323], 'danceability': [0.369], 'energy': [0.441], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add'], 'album_name': [u'Punisher'], 'song_name': [u'Savior Complex'], 'artist_name': [u'Phoebe Bridgers'], 'track_id': [u'4BNew3AqFCvABdFsYMRiyB']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...  0.441
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
