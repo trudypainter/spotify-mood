@@ -55107,3 +55107,46 @@ GOT THESE SONGS
 ('Rows: ', 10)
 Saved!
 
+[master ca07c46] updating daily data 2021-02-27 10:00:06.339091
+ 3 files changed, 50 insertions(+), 1 deletion(-)
+2021-02-27 10:00:04.616545
+Auth happening...
+Getting songs
+Creating dataframe...
+Moon Song
+Chinese Satellite
+Halloween
+Punisher
+Kyoto
+Garden Song
+DVD Menu
+I Know The End
+Graceland Too
+ICU
+Savior Complex
+Moon Song
+Chinese Satellite
+Halloween
+Punisher
+GOT THESE SONGS
+{'played_at': ['09:57', '09:52', '09:49', '09:44', '09:41', '09:32', '09:28', '09:27', '09:21', '09:17', '09:14', '09:10', '09:05', '09:02'], 'valence': [0.172, 0.379, 0.373, 0.212, 0.493, 0.158, 0.111, 0.259, 0.361, 0.429, 0.218, 0.172, 0.379, 0.373], 'mood_avg': [0.269, 0.361, 0.374, 0.301, 0.585, 0.329, 0.147, 0.299, 0.388, 0.506, 0.323, 0.269, 0.361, 0.374], 'danceability': [0.38, 0.302, 0.483, 0.428, 0.599, 0.528, 0.213, 0.328, 0.44, 0.507, 0.369, 0.38, 0.302, 0.483], 'energy': [0.24, 0.444, 0.156, 0.226, 0.742, 0.273, 0.0864, 0.32, 0.34, 0.658, 0.441, 0.24, 0.444, 0.156], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add'], 'album_name': [u'Punisher', u'Punisher', u'Punisher', u'Punisher', u'Punisher', u'Punisher', u'Punisher', u'Punisher', u'Punisher', u'Punisher', u'Punisher', u'Punisher', u'Punisher', u'Punisher'], 'song_name': [u'Moon Song', u'Chinese Satellite', u'Halloween', u'Punisher', u'Kyoto', u'Garden Song', u'DVD Menu', u'I Know The End', u'Graceland Too', u'ICU', u'Savior Complex', u'Moon Song', u'Chinese Satellite', u'Halloween'], 'artist_name': [u'Phoebe Bridgers', u'Phoebe Bridgers', u'Phoebe Bridgers', u'Phoebe Bridgers', u'Phoebe Bridgers', u'Phoebe Bridgers', u'Phoebe Bridgers', u'Phoebe Bridgers', u'Phoebe Bridgers', u'Phoebe Bridgers', u'Phoebe Bridgers', u'Phoebe Bridgers', u'Phoebe Bridgers', u'Phoebe Bridgers'], 'track_id': [u'6sALLrBPX30ptG1HWH6vmW', u'60zlkOrTCHjpRTd1g6PI5y', u'7FQ2JgfdkBcBb3BEbu8Axf', u'7yR6GEJsPI6kmNRvFkPuN3', u'49UDOG8DoBajXTJSTqfRMg', u'5uQRmdIqyMmKPWJcot4UmV', u'6Tz8qANEIf4aCGEEjcxgKg', u'3cr3oAP4bQFNjZBV7ElKaB', u'44spdItKKM7rOtKswbBG0U', u'38KCyQcBswyAd7xSQnDIU4', u'4BNew3AqFCvABdFsYMRiyB', u'6sALLrBPX30ptG1HWH6vmW', u'60zlkOrTCHjpRTd1g6PI5y', u'7FQ2JgfdkBcBb3BEbu8Axf']}
+                                                image  ...  energy
+13  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.156
+12  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.444
+11  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...    0.24
+10  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.441
+9   https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.658
+8   https://i.scdn.co/image/ab67616d0000b2733040ca...  ...    0.34
+7   https://i.scdn.co/image/ab67616d0000b2733040ca...  ...    0.32
+6   https://i.scdn.co/image/ab67616d0000b2733040ca...  ...  0.0864
+5   https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.273
+4   https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.742
+3   https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.226
+2   https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.156
+1   https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.444
+0   https://i.scdn.co/image/ab67616d0000b2733040ca...  ...    0.24
+
+[14 rows x 10 columns]
+('Rows: ', 14)
+Saved!
+
