@@ -55300,3 +55300,28 @@ GOT THESE SONGS
 ('Rows: ', 17)
 Saved!
 
+[master 3791375] updating daily data 2021-02-27 17:00:05.168649
+ 3 files changed, 26 insertions(+), 2 deletions(-)
+2021-02-27 17:00:04.141364
+Auth happening...
+Getting songs
+Creating dataframe...
+F33l Lik3 Dyin
+Oprah's Bank Account (Lil Yachty & DaBaby feat. Drake)
+RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)
+Money Longer
+Don't Touch Me (feat. KEY)
+Zaddy
+GOT THESE SONGS
+{'played_at': ['16:47', '16:43', '16:08', '16:04', '16:01'], 'valence': [0.0966, 0.884, 0.333, 0.478, 0.484], 'mood_avg': [0.472, 0.811, 0.605, 0.623, 0.659], 'danceability': [0.733, 0.83, 0.848, 0.795, 0.714], 'energy': [0.703, 0.625, 0.663, 0.568, 0.897], 'image': [u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b2735ee839f6415e0d02fc4f2b49', u'https://i.scdn.co/image/ab67616d0000b2731b1ea8257496228138609eb6', u'https://i.scdn.co/image/ab67616d0000b2738be07181aa935225a6f25d56', u'https://i.scdn.co/image/ab67616d0000b2739151691fbd8b30675e5bb315'], 'album_name': [u'Whole Lotta Red', u'Lil Boat 3', u'RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)', u'Lil Uzi Vert vs. The World', u'Ethernet'], 'song_name': [u'F33l Lik3 Dyin', u"Oprah's Bank Account (Lil Yachty & DaBaby feat. Drake)", u'RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)', u'Money Longer', u"Don't Touch Me (feat. KEY)"], 'artist_name': [u'Playboi Carti', u'Lil Yachty', u'A$AP Mob', u'Lil Uzi Vert', u'Wifisfuneral'], 'track_id': [u'1xVVYE1ahLotRpppJViVzs', u'0LEFmgIj8ABU7CelzGh5Bs', u'6kl1qtQXQsFiIWRBK24Cfp', u'0B8QzDH7YWih85V5SEMnyJ', u'5hCjqEyTxhzc4ApKchwIgU']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273915169...  ...  0.897
+3  https://i.scdn.co/image/ab67616d0000b2738be071...  ...  0.568
+2  https://i.scdn.co/image/ab67616d0000b2731b1ea8...  ...  0.663
+1  https://i.scdn.co/image/ab67616d0000b2735ee839...  ...  0.625
+0  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.703
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
