@@ -55404,4 +55404,54 @@ GOT THESE SONGS
 15  https://i.scdn.co/image/ab67616d0000b273eec9bf...  ...  0.662
 14  https://i.scdn.co/image/ab67616d0000b2739af56a...  ...   0.37
 13  https://i.scdn.co/image/ab67616d0000b27390b4e1...  ...  0.659
-12  ht
+12  ht[master f93148f] updating daily data 2021-02-27 20:00:05.967448
+ 3 files changed, 81 insertions(+), 1 deletion(-)
+tps://i.scdn.co/image/ab67616d0000b273683757...  ...  0.564
+11  https://i.scdn.co/image/ab67616d0000b27347dd2c...  ...   0.46
+10  https://i.scdn.co/image/ab67616d0000b273ef5181...  ...  0.657
+9   https://i.scdn.co/image/ab67616d0000b2739039c7...  ...   0.47
+8   https://i.scdn.co/image/ab67616d0000b273aa839b...  ...  0.373
+7   https://i.scdn.co/image/ab67616d0000b27346f07f...  ...  0.538
+6   https://i.scdn.co/image/ab67616d0000b273453210...  ...  0.448
+5   https://i.scdn.co/image/ab67616d0000b273e31a27...  ...  0.582
+4   https://i.scdn.co/image/ab67616d0000b273552aff...  ...  0.676
+3   https://i.scdn.co/image/ab67616d0000b273ba5783...  ...   0.59
+2   https://i.scdn.co/image/ab67616d0000b2737ba7b4...  ...  0.547
+1   https://i.scdn.co/image/ab67616d0000b273435002...  ...  0.696
+0   https://i.scdn.co/image/ab67616d0000b273215cac...  ...  0.612
+
+[17 rows x 10 columns]
+('Rows: ', 17)
+Saved!
+
+2021-02-27 21:00:04.901373
+Auth happening...
+Getting songs
+Creating dataframe...
+Better - SG Lewis x Clairo
+SWEET
+LOVE. FEAT. ZACARI.
+Big Shot (with Travis Scott)
+BOOGIE
+Yamborghini High (feat. Juicy J)
+It's A Vibe
+3005
+ZIPPER
+YEAH RIGHT
+Pristine
+EARFQUAKE
+King's Dead (with Kendrick Lamar, Future & James Blake)
+Beef FloMix
+Jet Black
+Pretty Girl
+Locket
+GOT THESE SONGS
+{'played_at': ['20:59', '20:55', '20:51', '20:47', '20:43', '20:40', '20:35', '20:32', '20:28', '20:24', '20:21', '20:17', '20:13', '20:09', '20:07', '20:03'], 'valence': [0.484, 0.722, 0.779, 0.284, 0.28, 0.635, 0.525, 0.636, 0.687, 0.204, 0.292, 0.413, 0.376, 0.901, 0.348, 0.695], 'mood_avg': [0.59, 0.702, 0.749, 0.551, 0.54, 0.742, 0.639, 0.533, 0.745, 0.468, 0.448, 0.486, 0.549, 0.818, 0.607, 0.772], 'danceability': [0.699, 0.718, 0.8, 0.855, 0.604, 0.838, 0.822, 0.472, 0.835, 0.672, 0.483, 0.554, 0.645, 0.857, 0.879, 0.93], 'energy': [0.583, 0.628, 0.585, 0.478, 0.933, 0.765, 0.502, 0.448, 0.681, 0.588, 0.688, 0.498, 0.705, 0.575, 0.58, 0.611], 'image': [u'https://i.scdn.co/image/ab67616d0000b273944367a82df1f6fe247587dd', u'https://i.scdn.co/image/ab67616d0000b2737d15fb20303a589acc1ab98b', u'https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699', u'https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888', u'https://i.scdn.co/image/ab67616d0000b2732a6ab832be2553023e5ac37a', u'https://i.scdn.co/image/ab67616d0000b273a4b5ed5f5b9d3445eac62bad', u'https://i.scdn.co/image/ab67616d0000b273c0c05243a846dda6c84607f9', u'https://i.scdn.co/image/ab67616d0000b273fce23dadb51975ebf2e9d75c', u'https://i.scdn.co/image/ab67616d0000b273ef51817e6a6563b6f7ce5872', u'https://i.scdn.co/image/ab67616d0000b27360ba1d6104d0475c7555a6b2', u'https://i.scdn.co/image/ab67616d0000b273d6c9b06173aa0faf1edbae66', u'https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57', u'https://i.scdn.co/image/ab67616d0000b2739edc391d911405ea9f5c320e', u'https://i.scdn.co/image/ab67616d0000b27382936d3825648c336881418d', u'https://i.scdn.co/image/ab67616d0000b273ead1edb78e83e3ca42a0ffa0', u'https://i.scdn.co/image/ab67616d0000b273efe812ae54f0698a32ccae14'], 'album_name': [u'Better (SG Lewis x Clairo)', u'SATURATION II', u'DAMN.', u'Black Panther The Album Music From And Inspired By', u'BOOGIE', u'Yamborghini High (feat. Juicy J)', u'Pretty Girls Like Trap Music', u'Because the Internet', u'SATURATION III', u'BALLADS 1', u'Lush', u'IGOR', u"King's Dead (with Kendrick Lamar, Future & James Blake)", u'Beef FloMix', u'Jet Black', u'Pretty Girl'], 'song_name': [u'Better - SG Lewis x Clairo', u'SWEET', u'LOVE. FEAT. ZACARI.', u'Big Shot (with Travis Scott)', u'BOOGIE', u'Yamborghini High (feat. Juicy J)', u"It's A Vibe", u'3005', u'ZIPPER', u'YEAH RIGHT', u'Pristine', u'EARFQUAKE', u"King's Dead (with Kendrick Lamar, Future & James Blake)", u'Beef FloMix', u'Jet Black', u'Pretty Girl'], 'artist_name': [u'SG Lewis', u'BROCKHAMPTON', u'Kendrick Lamar', u'Kendrick Lamar', u'BROCKHAMPTON', u'A$AP Mob', u'2 Chainz', u'Childish Gambino', u'BROCKHAMPTON', u'Joji', u'Snail Mail', u'Tyler, The Creator', u'Jay Rock', u'Flo Milli', u'Channel Tres', u'Clairo'], 'track_id': [u'32T61xmNSIXhGkEszzs0t8', u'2DgMxFMUQRPthW4ROhjen1', u'6PGoSes0D9eUDeeAafB2As', u'5cXg9IQS34FzLVdHhp7hu7', u'7s5ML7zaUSxb5UsvsqQTSd', u'2rqUblDWJKlMVwh9uJc0Vv', u'6H0AwSQ20mo62jGlPGB8S6', u'2ZltjIqztEpZtafc8w0I9t', u'1m4C9zlV89rXTfXStluvec', u'1VGzxJnVQND7Cg5H5wGj14', u'5JX6gZ5mOASumPrU1JbfbV', u'5hVghJ4KaYES3BFUATCYn0', u'51rXHuKN8Loc4sUlKPODgH', u'4J2NxCNqehE0MiZhbu97Jx', u'6t7FyHs0LNq2XqeRDyx9BD', u'0KyAGiNGUytG5JLxJu4F6l']}
+                                                image  ... energy
+15  https://i.scdn.co/image/ab67616d0000b273efe812...  ...  0.611
+14  https://i.scdn.co/image/ab67616d0000b273ead1ed...  ...   0.58
+13  https://i.scdn.co/image/ab67616d0000b27382936d...  ...  0.575
+12  https://i.scdn.co/image/ab67616d0000b2739edc39...  ...  0.705
+11  https://i.scdn.co/image/ab67616d0000b273700588...  ...  0.498
+10  https://i.scdn.co/image/ab67616d0000b273d6c9b0...  ...  0.688
+9   https://i.scdn.co/image/ab67616d000
