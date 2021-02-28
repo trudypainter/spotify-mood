@@ -55624,3 +55624,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master e43acf1] updating daily data 2021-02-28 06:00:05.024565
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-02-28 06:00:04.260658
+Auth happening...
+Getting songs
+Creating dataframe...
+Love It If We Made It
+The Less I Know The Better
+GOT THESE SONGS
+{'played_at': ['05:34'], 'valence': [0.0631], 'mood_avg': [0.363], 'danceability': [0.472], 'energy': [0.745], 'image': [u'https://i.scdn.co/image/ab67616d0000b2736c582022e90b11f0da287a9a'], 'album_name': [u'A Brief Inquiry Into Online Relationships'], 'song_name': [u'Love It If We Made It'], 'artist_name': [u'The 1975'], 'track_id': [u'6WmIyn2fx1PKQ0XDpYj4VR']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b2736c5820...  ...  0.745
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
