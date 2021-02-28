@@ -55518,3 +55518,18 @@ ge/ab67616d0000b2735e9dff...  ...  0.506
 ('Rows: ', 16)
 Saved!
 
+[master 298bf61] updating daily data 2021-02-27 23:00:04.876146
+ 2 files changed, 22 insertions(+), 2 deletions(-)
+2021-02-27 23:00:04.157037
+Auth happening...
+Getting songs
+Creating dataframe...
+The Less I Know The Better
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
