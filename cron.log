@@ -55549,3 +55549,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 1f2a2f1] updating daily data 2021-02-28 01:00:04.176903
+ 2 files changed, 17 insertions(+), 1 deletion(-)
+2021-02-28 01:00:03.479747
+Auth happening...
+Getting songs
+Creating dataframe...
+The Less I Know The Better
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
