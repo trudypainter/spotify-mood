@@ -55454,4 +55454,47 @@ GOT THESE SONGS
 12  https://i.scdn.co/image/ab67616d0000b2739edc39...  ...  0.705
 11  https://i.scdn.co/image/ab67616d0000b273700588...  ...  0.498
 10  https://i.scdn.co/image/ab67616d0000b273d6c9b0...  ...  0.688
-9   https://i.scdn.co/image/ab67616d000
+9   https://i.scdn.co/image/ab67616d000[master b4a0bad] updating daily data 2021-02-27 21:00:06.997673
+ 3 files changed, 68 insertions(+), 2 deletions(-)
+0b27360ba1d...  ...  0.588
+8   https://i.scdn.co/image/ab67616d0000b273ef5181...  ...  0.681
+7   https://i.scdn.co/image/ab67616d0000b273fce23d...  ...  0.448
+6   https://i.scdn.co/image/ab67616d0000b273c0c052...  ...  0.502
+5   https://i.scdn.co/image/ab67616d0000b273a4b5ed...  ...  0.765
+4   https://i.scdn.co/image/ab67616d0000b2732a6ab8...  ...  0.933
+3   https://i.scdn.co/image/ab67616d0000b273c027ad...  ...  0.478
+2   https://i.scdn.co/image/ab67616d0000b2738b52c6...  ...  0.585
+1   https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...  0.628
+0   https://i.scdn.co/image/ab67616d0000b273944367...  ...  0.583
+
+[16 rows x 10 columns]
+('Rows: ', 16)
+Saved!
+
+2021-02-27 22:00:04.809930
+Auth happening...
+Getting songs
+Creating dataframe...
+The Less I Know The Better
+Bedroom
+Futsal Shuffle 2020
+Costa Rica (with Bas & JID feat. Guapdad 4000, Reese LAFLARE, Jace, Mez, Smokepurpp, Buddy & Ski Mask The Slump God)
+No Idea
+Crew (feat. Brent Faiyaz & Shy Glizzy)
+Childs Play
+ELEMENT.
+Space Cadet (feat. Gunna)
+On My Mind (Jorja Smith X Preditah)
+Suede
+The Way Life Goes (feat. Oh Wonder)
+Hungry Hippo
+Sky Walker (feat. Travis Scott)
+A$AP Forever (feat. Moby)
+Waves
+Better - SG Lewis x Clairo
+GOT THESE SONGS
+{'played_at': ['21:51', '21:47', '21:44', '21:41', '21:37', '21:34', '21:31', '21:27', '21:24', '21:20', '21:17', '21:15', '21:11', '21:10', '21:05', '21:02'], 'valence': [0.785, 0.623, 0.296, 0.664, 0.35, 0.445, 0.292, 0.483, 0.638, 0.755, 0.723, 0.696, 0.778, 0.183, 0.444, 0.0681], 'mood_avg': [0.718, 0.616, 0.562, 0.652, 0.527, 0.591, 0.51, 0.633, 0.708, 0.718, 0.704, 0.711, 0.79, 0.444, 0.521, 0.367], 'danceability': [0.64, 0.692, 0.881, 0.642, 0.652, 0.728, 0.746, 0.748, 0.901, 0.71, 0.669, 0.703, 0.893, 0.674, 0.469, 0.557], 'energy': [0.74, 0.452, 0.457, 0.647, 0.631, 0.607, 0.475, 0.705, 0.464, 0.662, 0.735, 0.757, 0.61, 0.506, 0.78, 0.586], 'image': [u'https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79', u'https://i.scdn.co/image/ab67616d0000b2736b7517a142479ef7e6be12d4', u'https://i.scdn.co/image/ab67616d0000b27395de6ae7ce5c16ce03274453', u'https://i.scdn.co/image/ab67616d0000b273c0ae820e3b64854de4642101', u'https://i.scdn.co/image/ab67616d0000b27345190a074bef3e8ce868b60c', u'https://i.scdn.co/image/ab67616d0000b2737bcd3cd54e8399ae38cc6e64', u'https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c', u'https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699', u'https://i.scdn.co/image/ab67616d0000b2732887f8c05b5a9f1cb105be29', u'https://i.scdn.co/image/ab67616d0000b27390903f4da3ed84c57701ca13', u'https://i.scdn.co/image/ab67616d0000b27313160a2de88c7be0adebb043', u'https://i.scdn.co/image/ab67616d0000b27341b41e6f7924e530a9b00f9c', u'https://i.scdn.co/image/ab67616d0000b273fb22c7162d3867dc3c2af466', u'https://i.scdn.co/image/ab67616d0000b2735e9dff10c31ac14c6c6c920d', u'https://i.scdn.co/image/ab67616d0000b2739ef69f2cf1038634bd541509', u'https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4'], 'album_name': [u'Currents', u'4 Track EP', u'Futsal Shuffle 2020', u'Revenge Of The Dreamers III', u'Heaven Or Hell', u'At What Cost', u'Views', u'DAMN.', u'NOT ALL HEROES WEAR CAPES (Deluxe)', u'On My Mind (Jorja Smith X Preditah)', u'Yes Lawd!', u'Luv Is Rage 2', u'Whack World', u'War & Leisure', u'A$AP Forever (feat. Moby)', u'The Life Of Pablo'], 'song_name': [u'The Less I Know The Better', u'Bedroom', u'Futsal Shuffle 2020', u'Costa Rica (with Bas & JID feat. Guapdad 4000, Reese LAFLARE, Jace, Mez, Smokepurpp, Buddy & Ski Mask The Slump God)', u'No Idea', u'Crew (feat. Brent Faiyaz & Shy Glizzy)', u'Childs Play', u'ELEMENT.', u'Space Cadet (feat. Gunna)', u'On My Mind (Jorja Smith X Preditah)', u'Suede', u'The Way Life Goes (feat. Oh Wonder)', u'Hungry Hippo', u'Sky Walker (feat. Travis Scott)', u'A$AP Forever (feat. Moby)', u'Waves'], 'artist_name': [u'Tame Impala', u'Litany', u'Lil Uzi Vert', u'Dreamville', u'Don Toliver', u'GoldLink', u'Drake', u'Kendrick Lamar', u'Metro Boomin', u'Jorja Smith', u'NxWorries', u'Lil Uzi Vert', u'Tierra Whack', u'Miguel', u'A$AP Rocky', u'Kanye West'], 'track_id': [u'6K4t31amVTZDgR3sKmwUJJ', u'3LH6EfPCeySeuymuK2gWAO', u'2Ec33AVlkTTq8BHFgBTdQs', u'5WnfnSpuNEGXyEt78PBA6d', u'7AzlLxHn24DxjgQX73F9fU', u'15EPc80XuFrb2LmOzGjuRg', u'3NxAG2ni1lLa8RKL6a0INc', u'1EaKU4dMbesXXd3BrLCtYG', u'1fewSx2d5KIZ04wsooEBOz', u'1OxL1FWSEd7QmJoWLRP2NO', u'4F07ku5lMBIoybFPStM2j4', u'2eAZfqOm4EnOF9VvN50Tyc', u'0WpDeBJ22LcwF4QoERQOTv', u'5WoaF1B5XIEnWfmb5NZikf', u'1YmF9PvLhIISIANoMLIYGq', u'3nAq2hCr1oWsIU54tS98pL']}
+                                                image  ... energy
+15  https://i.scdn.co/image/ab67616d0000b2732a7db8...  ...  0.586
+14  https://i.scdn.co/image/ab67616d0000b2739ef69f...  ...   0.78
+13  https://i.scdn.co/ima
