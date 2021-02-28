@@ -55750,3 +55750,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 09d8394] updating daily data 2021-02-28 14:00:04.251763
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-02-28 14:00:03.388329
+Auth happening...
+Getting songs
+Creating dataframe...
+I Wouldn't Ask You
+White Flag
+North
+GOT THESE SONGS
+{'played_at': ['13:24', '13:17'], 'valence': [0.242, 0.0613], 'mood_avg': [0.317, 0.269], 'danceability': [0.363, 0.375], 'energy': [0.376, 0.473], 'image': [u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc'], 'album_name': [u'Immunity', u'Immunity'], 'song_name': [u"I Wouldn't Ask You", u'White Flag'], 'artist_name': [u'Clairo', u'Clairo'], 'track_id': [u'6YTUGuz1IzqKFpNm0yGQws', u'08IFMDAxF7Se7X8RNyoQWF']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...  0.473
+0  https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...  0.376
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
