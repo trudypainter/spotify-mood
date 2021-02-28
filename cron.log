@@ -55641,3 +55641,22 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 09e4dfe] updating daily data 2021-02-28 07:00:04.478313
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+2021-02-28 07:00:03.599476
+Auth happening...
+Getting songs
+Creating dataframe...
+North
+Bags
+Love It If We Made It
+GOT THESE SONGS
+{'played_at': ['06:29', '06:26'], 'valence': [0.54, 0.868], 'mood_avg': [0.483, 0.753], 'danceability': [0.352, 0.742], 'energy': [0.632, 0.546], 'image': [u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc'], 'album_name': [u'Immunity', u'Immunity'], 'song_name': [u'North', u'Bags'], 'artist_name': [u'Clairo', u'Clairo'], 'track_id': [u'0zzz9l8ZX5vDBJmNHnWOom', u'6UFivO2zqqPFPoQYsEMuCc']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...  0.546
+0  https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...  0.632
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
