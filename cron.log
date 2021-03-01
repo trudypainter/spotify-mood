@@ -56041,3 +56041,36 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 253a432] updating daily data 2021-03-01 06:00:05.355074
+ 3 files changed, 22 insertions(+), 1 deletion(-)
+2021-03-01 06:00:04.206341
+Auth happening...
+Getting songs
+Creating dataframe...
+Futsal Shuffle 2020
+Obedient
+Realer N Realer
+Good Form
+Send The Addy
+On I Go
+Drumset
+GOT THESE SONGS
+{'played_at': ['05:54', '05:51', '05:48', '05:42', '05:39', '05:11'], 'valence': [0.296, 0.517, 0.367, 0.284, 0.699, 0.617], 'mood_avg': [0.562, 0.667, 0.532, 0.621, 0.709, 0.575], 'danceability': [0.881, 0.798, 0.73, 0.88, 0.704, 0.516], 'energy': [0.457, 0.703, 0.465, 0.775, 0.74, 0.609], 'image': [u'https://i.scdn.co/image/ab67616d0000b27395de6ae7ce5c16ce03274453', u'https://i.scdn.co/image/ab67616d0000b273044128ab156930cd23562992', u'https://i.scdn.co/image/ab67616d0000b273644c510e8d4c02ae69028297', u'https://i.scdn.co/image/ab67616d0000b273540ab7c149079184e8724dc4', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9'], 'album_name': [u'Futsal Shuffle 2020', u'Red Light', u'Future & Juice WRLD Present... WRLD ON DRUGS', u'Queen', u'Ho, why is you here ?', u'Fetch The Bolt Cutters'], 'song_name': [u'Futsal Shuffle 2020', u'Obedient', u'Realer N Realer', u'Good Form', u'Send The Addy', u'On I Go'], 'artist_name': [u'Lil Uzi Vert', u'Bladee', u'Future', u'Nicki Minaj', u'Flo Milli', u'Fiona Apple'], 'track_id': [u'2Ec33AVlkTTq8BHFgBTdQs', u'0ZCWaBh3XOTcuwy032ZKCl', u'4VMiNOpnjRwSCwmHaUfOMM', u'19Fcrc0nJiwMKom00gS9SW', u'3MGajKUU5qcEkGU9AQ2e2u', u'6VU4Ys4rbbbwJ84g1ZuYA5']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.609
+4  https://i.scdn.co/image/ab67616d0000b2733ae4c6...  ...   0.74
+3  https://i.scdn.co/image/ab67616d0000b273540ab7...  ...  0.775
+2  https://i.scdn.co/image/ab67616d0000b273644c51...  ...  0.465
+1  https://i.scdn.co/image/ab67616d0000b273044128...  ...  0.703
+0  https://i.scdn.co/image/ab67616d0000b27395de6a...  ...  0.457
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
+2021-03-01 07:00:03.535193
+Auth happening...
+Getting songs
+2021-03-01 08:00:03.760227
+Auth happening...
+Getting songs
