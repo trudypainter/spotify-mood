@@ -55814,3 +55814,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master d7e14bc] updating daily data 2021-02-28 18:00:04.342917
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-02-28 18:00:03.508534
+Auth happening...
+Getting songs
+Creating dataframe...
+Stay Another Season
+Since I Left You
+I Wouldn't Ask You
+GOT THESE SONGS
+{'played_at': ['17:39', '17:37'], 'valence': [0.372, 0.478], 'mood_avg': [0.583, 0.581], 'danceability': [0.613, 0.516], 'energy': [0.947, 0.916], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e7cdd0cb1c3e6419c637549d', u'https://i.scdn.co/image/ab67616d0000b273e7cdd0cb1c3e6419c637549d'], 'album_name': [u'Since I Left You', u'Since I Left You'], 'song_name': [u'Stay Another Season', u'Since I Left You'], 'artist_name': [u'The Avalanches', u'The Avalanches'], 'track_id': [u'7kp0pGc7BjSe6aTyWUUQvT', u'516V4vS25xnGdVgkBWO6Wf']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273e7cdd0...  ...  0.916
+0  https://i.scdn.co/image/ab67616d0000b273e7cdd0...  ...  0.947
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
