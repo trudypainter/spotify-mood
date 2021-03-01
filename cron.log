@@ -56133,3 +56133,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 8373855] updating daily data 2021-03-01 12:00:03.959208
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-03-01 12:00:03.008339
+Auth happening...
+Getting songs
+Creating dataframe...
+Cosmonauts
+Heavy Balloon
+Ladies
+Am I High
+GOT THESE SONGS
+{'played_at': ['11:47', '11:44', '11:40'], 'valence': [0.537, 0.17, 0.28], 'mood_avg': [0.528, 0.456, 0.398], 'danceability': [0.547, 0.635, 0.562], 'energy': [0.472, 0.67, 0.307], 'image': [u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9'], 'album_name': [u'Fetch The Bolt Cutters', u'Fetch The Bolt Cutters', u'Fetch The Bolt Cutters'], 'song_name': [u'Cosmonauts', u'Heavy Balloon', u'Ladies'], 'artist_name': [u'Fiona Apple', u'Fiona Apple', u'Fiona Apple'], 'track_id': [u'7eGoc6UmwiRAVnilTZajNC', u'2OQpQTRogZ1AhnUHJiT9Nb', u'0jH0IsCBGackT3RmHBbSUI']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.307
+1  https://i.scdn.co/image/ab67616d0000b273841292...  ...   0.67
+0  https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.472
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
