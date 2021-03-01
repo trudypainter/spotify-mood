@@ -55833,3 +55833,28 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master b822deb] updating daily data 2021-02-28 19:00:05.896691
+ 3 files changed, 25 insertions(+), 1 deletion(-)
+2021-02-28 19:00:03.992417
+Auth happening...
+Getting songs
+Creating dataframe...
+Close To You
+Flight Tonight
+Avalanche Rock
+Two Hearts In 3/4 Time
+Radio
+Stay Another Season
+GOT THESE SONGS
+{'played_at': ['18:58', '18:54', '18:50', '18:50', '18:46'], 'valence': [0.554, 0.455, 0.158, 0.573, 0.501], 'mood_avg': [0.676, 0.636, 0.516, 0.596, 0.634], 'danceability': [0.681, 0.664, 0.642, 0.535, 0.595], 'energy': [0.909, 0.941, 0.98, 0.762, 0.979], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e7cdd0cb1c3e6419c637549d', u'https://i.scdn.co/image/ab67616d0000b273e7cdd0cb1c3e6419c637549d', u'https://i.scdn.co/image/ab67616d0000b273e7cdd0cb1c3e6419c637549d', u'https://i.scdn.co/image/ab67616d0000b273e7cdd0cb1c3e6419c637549d', u'https://i.scdn.co/image/ab67616d0000b273e7cdd0cb1c3e6419c637549d'], 'album_name': [u'Since I Left You', u'Since I Left You', u'Since I Left You', u'Since I Left You', u'Since I Left You'], 'song_name': [u'Close To You', u'Flight Tonight', u'Avalanche Rock', u'Two Hearts In 3/4 Time', u'Radio'], 'artist_name': [u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches'], 'track_id': [u'7bCmSFlmcCBXeLWgfFP02W', u'3OgzinZ8bjv07duHLrYgmV', u'1pbGbkTAJQTO5tjANIH8xd', u'7obAv6wop4HzavH2eNU6SH', u'027CQkZSId1SGW3h7xeOTC']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273e7cdd0...  ...  0.979
+3  https://i.scdn.co/image/ab67616d0000b273e7cdd0...  ...  0.762
+2  https://i.scdn.co/image/ab67616d0000b273e7cdd0...  ...   0.98
+1  https://i.scdn.co/image/ab67616d0000b273e7cdd0...  ...  0.941
+0  https://i.scdn.co/image/ab67616d0000b273e7cdd0...  ...  0.909
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
