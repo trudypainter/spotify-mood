@@ -56074,3 +56074,32 @@ Getting songs
 2021-03-01 08:00:03.760227
 Auth happening...
 Getting songs
+[master 19d05be] updating daily data 2021-03-01 09:00:04.715829
+ 3 files changed, 41 insertions(+), 1 deletion(-)
+2021-03-01 09:00:03.468937
+Auth happening...
+Getting songs
+Creating dataframe...
+Am I High
+Dr. Miami
+ALMOST
+Hell Bound - Ad 01
+Vetements Socks
+Whiplash'd
+UCLA
+Let Me Know (I Wonder Why Freestyle)
+GOT THESE SONGS
+{'played_at': ['08:16', '08:15', '08:13', '08:10', '08:08', '08:04', '08:02'], 'valence': [0.928, 0.466, 0.769, 0.845, 0.326, 0.557, 0.334], 'mood_avg': [0.805, 0.674, 0.747, 0.835, 0.579, 0.729, 0.524], 'danceability': [0.71, 0.942, 0.868, 0.882, 0.758, 0.923, 0.536], 'energy': [0.748, 0.552, 0.463, 0.721, 0.729, 0.686, 0.879], 'image': [u'https://i.scdn.co/image/ab67616d0000b273fdab242b02783baa895a5a70', u'https://i.scdn.co/image/ab67616d0000b27304ac270bded20462887ede7b', u'https://i.scdn.co/image/ab67616d0000b27394f60de3e7520addebf23641', u'https://i.scdn.co/image/ab67616d0000b27330fb0212d9cd8e0a939aa16c', u'https://i.scdn.co/image/ab67616d0000b27359cd47039c5b10ed919fbaa8', u'https://i.scdn.co/image/ab67616d0000b273596bc146e98800e210653859', u'https://i.scdn.co/image/ab67616d0000b273eded2e9bae0cba9092424797'], 'album_name': [u'In Search Of...', u'Dr. Miami', u'VALEDICTORIAN', u'Hell Bound (Ad 01)', u'MUDBOY', u"Whiplash'd", u'NOVA'], 'song_name': [u'Am I High', u'Dr. Miami', u'ALMOST', u'Hell Bound - Ad 01', u'Vetements Socks', u"Whiplash'd", u'UCLA'], 'artist_name': [u'N.E.R.D', u'Lil Saint', u'DDG', u'Vince Staples', u'Sheck Wes', u'Xavier Wulf', u'RL Grime'], 'track_id': [u'3zkmQhBVMUTcGcTx6HdwhP', u'6WaaeggMSHNbxQiAAQQ00b', u'4UJdEn1sYTNyerQei1fBSA', u'6tTy7jzu0pDDn6bE5NaaEJ', u'05qIDU9cr1qoJIz46wveLe', u'4dlsntjrHwjQlDPCFHfqgW', u'3OaunNUlXXs5e2PXtNAzzG']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b273eded2e...  ...  0.879
+5  https://i.scdn.co/image/ab67616d0000b273596bc1...  ...  0.686
+4  https://i.scdn.co/image/ab67616d0000b27359cd47...  ...  0.729
+3  https://i.scdn.co/image/ab67616d0000b27330fb02...  ...  0.721
+2  https://i.scdn.co/image/ab67616d0000b27394f60d...  ...  0.463
+1  https://i.scdn.co/image/ab67616d0000b27304ac27...  ...  0.552
+0  https://i.scdn.co/image/ab67616d0000b273fdab24...  ...  0.748
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
