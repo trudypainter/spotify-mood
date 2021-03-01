@@ -55885,3 +55885,38 @@ GOT THESE SONGS
 ('Rows: ', 6)
 Saved!
 
+[master 037efc0] updating daily data 2021-02-28 21:00:04.805886
+ 3 files changed, 38 insertions(+), 1 deletion(-)
+2021-02-28 21:00:03.421393
+Auth happening...
+Getting songs
+Creating dataframe...
+Drumset
+For Her
+Cosmonauts
+Heavy Balloon
+Ladies
+Newspaper
+Rack of His
+Relay
+Under The Table
+Fetch The Bolt Cutters
+Shameika
+GOT THESE SONGS
+{'played_at': ['20:39', '20:37', '20:34', '20:30', '20:26', '20:21', '20:14', '20:10', '20:05', '20:02'], 'valence': [0.822, 0.447, 0.537, 0.17, 0.28, 0.576, 0.552, 0.474, 0.547, 0.339], 'mood_avg': [0.761, 0.456, 0.528, 0.456, 0.398, 0.576, 0.521, 0.505, 0.574, 0.427], 'danceability': [0.75, 0.431, 0.547, 0.635, 0.562, 0.502, 0.44, 0.502, 0.64, 0.485], 'energy': [0.661, 0.522, 0.472, 0.67, 0.307, 0.724, 0.619, 0.574, 0.494, 0.488], 'image': [u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9'], 'album_name': [u'Fetch The Bolt Cutters', u'Fetch The Bolt Cutters', u'Fetch The Bolt Cutters', u'Fetch The Bolt Cutters', u'Fetch The Bolt Cutters', u'Fetch The Bolt Cutters', u'Fetch The Bolt Cutters', u'Fetch The Bolt Cutters', u'Fetch The Bolt Cutters', u'Fetch The Bolt Cutters'], 'song_name': [u'Drumset', u'For Her', u'Cosmonauts', u'Heavy Balloon', u'Ladies', u'Newspaper', u'Rack of His', u'Relay', u'Under The Table', u'Fetch The Bolt Cutters'], 'artist_name': [u'Fiona Apple', u'Fiona Apple', u'Fiona Apple', u'Fiona Apple', u'Fiona Apple', u'Fiona Apple', u'Fiona Apple', u'Fiona Apple', u'Fiona Apple', u'Fiona Apple'], 'track_id': [u'4baGw8dAfqNl7RrmlMtzb5', u'5BBWr1LUsCH1tECJLAUGnP', u'7eGoc6UmwiRAVnilTZajNC', u'2OQpQTRogZ1AhnUHJiT9Nb', u'0jH0IsCBGackT3RmHBbSUI', u'1YsWyCYqpA8uZaR9SfYAnY', u'17QLp5uadHptxnmq9clK8U', u'5hnOzmFuGltDDAm008jFDh', u'12WhIX6MvI93bS3wPSStSY', u'4SdubskbLiOkpsIjRVVsya']}
+                                               image  ... energy
+9  https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.488
+8  https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.494
+7  https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.574
+6  https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.619
+5  https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.724
+4  https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.307
+3  https://i.scdn.co/image/ab67616d0000b273841292...  ...   0.67
+2  https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.472
+1  https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.522
+0  https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.661
+
+[10 rows x 10 columns]
+('Rows: ', 10)
+Saved!
+
