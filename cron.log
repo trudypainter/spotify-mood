@@ -55858,3 +55858,30 @@ GOT THESE SONGS
 ('Rows: ', 5)
 Saved!
 
+[master df24aa9] updating daily data 2021-02-28 20:00:05.611386
+ 3 files changed, 32 insertions(+), 1 deletion(-)
+2021-02-28 20:00:04.355025
+Auth happening...
+Getting songs
+Creating dataframe...
+Shameika
+Frontier Psychiatrist
+Pablo's Cruise
+Tonight May Have To Last Me All My Life
+Electricity
+A Different Feeling
+Diners Only
+GOT THESE SONGS
+{'played_at': ['19:57', '19:52', '19:16', '19:15', '19:13', '19:09'], 'valence': [0.647, 0.437, 0.106, 0.253, 0.43, 0.343], 'mood_avg': [0.564, 0.64, 0.328, 0.369, 0.538, 0.517], 'danceability': [0.375, 0.711, 0.398, 0.499, 0.53, 0.599], 'energy': [0.776, 0.905, 0.634, 0.341, 0.77, 0.7], 'image': [u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b273e7cdd0cb1c3e6419c637549d', u'https://i.scdn.co/image/ab67616d0000b273e7cdd0cb1c3e6419c637549d', u'https://i.scdn.co/image/ab67616d0000b273e7cdd0cb1c3e6419c637549d', u'https://i.scdn.co/image/ab67616d0000b273e7cdd0cb1c3e6419c637549d', u'https://i.scdn.co/image/ab67616d0000b273e7cdd0cb1c3e6419c637549d'], 'album_name': [u'Fetch The Bolt Cutters', u'Since I Left You', u'Since I Left You', u'Since I Left You', u'Since I Left You', u'Since I Left You'], 'song_name': [u'Shameika', u'Frontier Psychiatrist', u"Pablo's Cruise", u'Tonight May Have To Last Me All My Life', u'Electricity', u'A Different Feeling'], 'artist_name': [u'Fiona Apple', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches'], 'track_id': [u'2pDKE8Q40TDGPl1O11DKKn', u'0E2UdlzNQP9I70MYumYlFo', u'7ckIEFqK5dNlhdu6FWjA2w', u'63grpdfs3XAgbsTiYAGOI8', u'0Mg6Z3OP9fwIEPWHXsnufL', u'0gf5aDrh0wyGy5vQo0HlIK']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b273e7cdd0...  ...    0.7
+4  https://i.scdn.co/image/ab67616d0000b273e7cdd0...  ...   0.77
+3  https://i.scdn.co/image/ab67616d0000b273e7cdd0...  ...  0.341
+2  https://i.scdn.co/image/ab67616d0000b273e7cdd0...  ...  0.634
+1  https://i.scdn.co/image/ab67616d0000b273e7cdd0...  ...  0.905
+0  https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.776
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
