@@ -56634,3 +56634,49 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 2f1dce4] updating daily data 2021-03-02 14:00:06.438577
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-03-02 14:00:05.513063
+Auth happening...
+Getting songs
+Creating dataframe...
+MLS (feat. JPEGMAFIA and CHAI)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-03-02 15:00:03.475602
+Auth happening...
+Getting songs
+Creating dataframe...
+Proud Of Me Now
+All These Niggas (feat. Lil Durk)
+Onna Come Up
+Said Sum (feat. City Girls & DaBaby) - Remix
+Famous Hoes
+Walked In
+Faneto
+Clappers (feat. 42 Dugg)
+Blood Walk
+I Met Tay Keith First (feat. Lil Baby & Moneybagg Yo)
+Martin & Gina
+Narrow Road (feat. Lil Baby)
+What's Da Bizness
+Save That Shit
+Off The Porch
+MLS (feat. JPEGMAFIA and CHAI)
+GOT THESE SONGS
+{'played_at': ['14:59', '14:57', '14:54', '14:52', '14:49', '14:47', '14:44', '14:40', '14:37', '14:34', '14:31', '14:29', '14:25', '14:22', '14:19'], 'valence': [0.732, 0.356, 0.649, 0.298, 0.332, 0.768, 0.393, 0.249, 0.22, 0.618, 0.116, 0.161, 0.547, 0.487, 0.0943], 'mood_avg': [0.73, 0.552, 0.663, 0.609, 0.551, 0.793, 0.648, 0.533, 0.533, 0.646, 0.486, 0.421, 0.672, 0.578, 0.494], 'danceability': [0.837, 0.793, 0.796, 0.913, 0.732, 0.969, 0.849, 0.827, 0.876, 0.709, 0.832, 0.614, 0.87, 0.545, 0.978], 'energy': [0.51, 0.462, 0.426, 0.625, 0.627, 0.491, 0.755, 0.513, 0.475, 0.577, 0.534, 0.553, 0.524, 0.826, 0.325], 'image': [u'https://i.scdn.co/image/ab67616d0000b273375ecc2d4e8282fb186695e3', u'https://i.scdn.co/image/ab67616d0000b2738b72d834eb50dd04a83b349f', u'https://i.scdn.co/image/ab67616d0000b27332399fb986ec8a7f6d8b01e5', u'https://i.scdn.co/image/ab67616d0000b273b0c27c2c071c9dbef50ee8d9', u'https://i.scdn.co/image/ab67616d0000b2733ae711b1307b647a1d59f3e8', u'https://i.scdn.co/image/ab67616d0000b27329f3849573d619fd12f4f29a', u'https://i.scdn.co/image/ab67616d0000b2732b78b0c234859a99498d8367', u'https://i.scdn.co/image/ab67616d0000b27312b970025f0bbc1ff7e7d6ab', u'https://i.scdn.co/image/ab67616d0000b273dabce22a1c4152462ac628b2', u'https://i.scdn.co/image/ab67616d0000b27378c0a3cc84700a979a92bfef', u'https://i.scdn.co/image/ab67616d0000b273339f780dfdbc38558ea0761d', u'https://i.scdn.co/image/ab67616d0000b2732fa34f1cf347e25b10183858', u'https://i.scdn.co/image/ab67616d0000b273d2ac2d5b457bcad2eddef496', u'https://i.scdn.co/image/ab67616d0000b273f4a78915bb0467ed5bf21ff3', u'https://i.scdn.co/image/ab67616d0000b27367beb6ff9ec4c0bf0ef60e79'], 'album_name': [u'Proud Of Me Now', u"Welcome to O'Block", u'Underrated', u'Code Red', u'Famous Hoes', u'Life Of A Hot Boy 2 : Real Trapper', u'Back From The Dead 2', u'Clappers (feat. 42 Dugg)', u'My Life 4Hunnid', u'F*ck Everybody 3', u'THE GOAT', u'Narrow Road (feat. Lil Baby)', u'Rich Slave', u'Back from the Dead', u'Off The Porch'], 'song_name': [u'Proud Of Me Now', u'All These Niggas (feat. Lil Durk)', u'Onna Come Up', u'Said Sum (feat. City Girls & DaBaby) - Remix', u'Famous Hoes', u'Walked In', u'Faneto', u'Clappers (feat. 42 Dugg)', u'Blood Walk', u'I Met Tay Keith First (feat. Lil Baby & Moneybagg Yo)', u'Martin & Gina', u'Narrow Road (feat. Lil Baby)', u"What's Da Bizness", u'Save That Shit', u'Off The Porch'], 'artist_name': [u'Sheff G', u'King Von', u'Lil Eazzyy', u'Moneybagg Yo', u'NLE Choppa', u'Bankroll Fresh', u'Chief Keef', u'Slimelife Shawty', u'YG', u'Blac Youngsta', u'Polo G', u'NLE Choppa', u'Young Dolph', u'Chief Keef', u'Key Glock'], 'track_id': [u'0DNOrkMQjmB0W99PU2LlDe', u'4g27tVPyGHi38dczFoJZZy', u'0e4A9Fak1nJ7RtBD8YpoEo', u'13VXVxePp4NUiXwtmQ0viz', u'35Xf2ABjPzUXKz19akd7Jj', u'252gJUec2oDsGBPcxZs4nX', u'6J1SjVyNDzkZ3sF85Ndd3B', u'2qrcvpJgVaRPeMyXSmCn2s', u'5GzA5A7JD6ZIJSx8HC2PSR', u'1Fo3FHnFYJ2wT0aKtp4n57', u'1VLtjHwRWOVJiE5Py7JxoQ', u'3GZd1aDsgKL71Kt3VIp0hc', u'29tLKguTMysoFejk0qNjap', u'0uATCc7skXRKGBYp4FHdBZ', u'592Yde7NBiO2SozKJDRX8X']}
+                                                image  ... energy
+14  https://i.scdn.co/image/ab67616d0000b27367beb6...  ...  0.325
+13  https://i.scdn.co/image/ab67616d0000b273f4a789...  ...  0.826
+12  https://i.scdn.co/image/ab67616d0000b273d2ac2d...  ...  0.524
+11  https://i.scdn.co/image/ab67616d0000b2732fa34f...  ...  0.553
+10  https://i.scdn.co/image/ab67616d0000b273339f78...  ...  0.534
+9   https://i.scdn.co/image/ab67616d0000b27378c0a3...  ...  0.577
+8   https://i.scdn.co/image/ab67616d0000b273dabce2...  ...  0.475
+7   https://i.scdn.co/image/ab67616d0000b27312b970...  ...  0.
