@@ -56442,3 +56442,58 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 7490409] updating daily data 2021-03-02 06:00:04.750980
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-03-02 06:00:03.795262
+Auth happening...
+Getting songs
+Creating dataframe...
+Kacey Talk
+3000 Miles (Baby Baby)
+Friday 13th (feat. Octavian)
+Driver
+Gone
+Next Level Charli
+GOT THESE SONGS
+{'played_at': ['05:56', '05:53', '05:51', '05:47', '05:18'], 'valence': [0.773, 0.959, 0.484, 0.722, 0.66], 'mood_avg': [0.781, 0.768, 0.577, 0.733, 0.716], 'danceability': [0.877, 0.643, 0.753, 0.721, 0.91], 'energy': [0.607, 0.638, 0.411, 0.781, 0.441], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738bd6e34012a7ab6311050d0c', u'https://i.scdn.co/image/ab67616d0000b27306ac715283f8468d1a186234', u'https://i.scdn.co/image/ab67616d0000b2735566386805cf4f9ce5054b20', u'https://i.scdn.co/image/ab67616d0000b273df10a189df78de747b4d5037', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c'], 'album_name': [u'Top', u'3000 Miles (Baby Baby)', u'Song Machine Episode 4', u'Driver', u'Charli'], 'song_name': [u'Kacey Talk', u'3000 Miles (Baby Baby)', u'Friday 13th (feat. Octavian)', u'Driver', u'Gone'], 'artist_name': [u'YoungBoy Never Broke Again', u'Yeek', u'Gorillaz', u'Chuck Inglish', u'Charli XCX'], 'track_id': [u'1SF8piqsZWn86DajVKih8F', u'3Xsmpypmc2DcxQBbmnnrB5', u'6szrrh2IL7cgu4q6D5ryW0', u'5ncrJqf75SxBxqKjkoEpta', u'1yUJK3qxPiFiPeAG2gLfuW']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.441
+3  https://i.scdn.co/image/ab67616d0000b273df10a1...  ...  0.781
+2  https://i.scdn.co/image/ab67616d0000b273556638...  ...  0.411
+1  https://i.scdn.co/image/ab67616d0000b27306ac71...  ...  0.638
+0  https://i.scdn.co/image/ab67616d0000b2738bd6e3...  ...  0.607
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
+2021-03-02 07:00:03.360104
+Auth happening...
+Getting songs
+Creating dataframe...
+Kacey Talk
+More Like You
+Paradise (feat. Hannah Diamond)
+Heels
+Country Rap Tunes
+Mysterious
+We Will Always Love You
+tell me
+Even If It Hurts
+Love Somebody
+If You Know You Know (feat. Moneybagg Yo)
+Al Sur
+Way Past 12 (feat. Monty)
+4th of july
+4th of july
+Are You On?
+Heels
+Beating Myself Up
+GOT THESE SONGS
+{'played_at': ['06:56', '06:54', '06:49', '06:46', '06:42', '06:39', '06:36', '06:33', '06:31', '06:27', '06:25', '06:21', '06:18', '06:14', '06:11', '06:09', '06:05'], 'valence': [0.773, 0.768, 0.169, 0.688, 0.519, 0.817, 0.176, 0.126, 0.616, 0.755, 0.77, 0.961, 0.419, 0.31, 0.31, 0.207, 0.688], 'mood_avg': [0.781, 0.747, 0.381, 0.697, 0.635, 0.678, 0.41, 0.487, 0.677, 0.648, 0.814, 0.827, 0.624, 0.42, 0.42, 0.452, 0.697], 'danceability': [0.877, 0.883, 0.438, 0.716, 0.802, 0.571, 0.535, 0.777, 0.738, 0.631, 0.888, 0.669, 0.9, 0.592, 0.592, 0.639, 0.716], 'energy': [0.607, 0.431, 0.689, 0.676, 0.532, 0.612, 0.626, 0.629, 0.675, 0.47, 0.754, 0.877, 0.483, 0.296, 0.296, 0.568, 0.676], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738bd6e34012a7ab6311050d0c', u'https://i.scdn.co/image/ab67616d0000b2739a67b7023b53435c0aeac841', u'https://i.scdn.co/image/ab67616d0000b27345fefe45b11cde997046d567', u'https://i.scdn.co/image/ab67616d0000b2733446bcfb4cfb194c4103e9af', u'https://i.scdn.co/image/ab67616d0000b2731c86b6d6f8c6dbe29a666e8d', u'https://i.scdn.co/image/ab67616d0000b27324a6fe12818b6018c0b1ded7', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273d6d878c44c304370ac226803', u'https://i.scdn.co/image/ab67616d0000b273db5e990274ebb0a38f78e757', u'https://i.scdn.co/image/ab67616d0000b27302552c0863448f3fec61f0f6', u'https://i.scdn.co/image/ab67616d0000b27314445e6dfa77ccf140fe41cd', u'https://i.scdn.co/image/ab67616d0000b273568ea51da0564f98897faf23', u'https://i.scdn.co/image/ab67616d0000b2733fd7c017bbf03fc718d93052', u'https://i.scdn.co/image/ab67616d0000b273c674871d5154e94966de4ae0', u'https://i.scdn.co/image/ab67616d0000b273c674871d5154e94966de4ae0', u'https://i.scdn.co/image/ab67616d0000b273fd4c7605968ec2ed2a104b96', u'https://i.scdn.co/image/ab67616d0000b2733446bcfb4cfb194c4103e9af'], 'album_name': [u'Top', u'More Like You', u'Vroom Vroom EP', u'Heels', u'The Art of Finessin 2', u'Mysterious', u'We Will Always Love You', u'tell me', u'La Linda', u'Love Somebody', u'If You Know You Know (feat. Moneybagg Yo)', u'Al Sur', u'You Know The Vibes', u'4th of july', u'4th of july', u'Are You On?', u'Heels'], 'song_name': [u'Kacey Talk', u'More Like You', u'Paradise (feat. Hannah Diamond)', u'Heels', u'Country Rap Tunes', u'Mysterious', u'We Will Always Love You', u'tell me', u'Even If It Hurts', u'Love Somebody', u'If You Know You Know (feat. Moneybagg Yo)', u'Al Sur', u'Way Past 12 (feat. Monty)', u'4th of july', u'4th of july', u'Are You On?', u'Heels'], 'artist_name': [u'YoungBoy Never Broke Again', u'Orla Gartland', u'Charli XCX', u'Billy Nomates', u'Fendi P', u'CHINAH', u'The Avalanches', u'Yung Kayo', u'Tei Shi', u'Ovrkast.', u'Babyface Ray', u'The Notwist', u'Fetty Wap', u'Hand Habits', u'Hand Habits', u'KAM-BU', u'Billy Nomates'], 'track_id': [u'1SF8piqsZWn86DajVKih8F', u'1UpFb9izAOYlcxWTOQzGf6', u'3SoLRBDWUJ4xtFRDFI1Z6F', u'67TDZk2YPok4lALjD54Btt', u'169GeYnJ7bXJOWRXlyXu2c', u'46ttgIruREPWtj42XSJ6jN', u'51wxtCuipwjvvT99wsSmCc', u'27sZerMRTYOR72CKE1BV8q', u'4CwchvMNlpQSpQGKEK3sAw', u'7n8xkPjesRM5Y4ZjSRlU0p', u'5EyWKWvCaM8n66bmv0sWo7', u'6mrxKzfu4L3AcDxPwYPjUs', u'5jOQciaYrQnTOX5e4Xi681', u'1jRhmp69z3clRhNjev6P6f', u'1jRhmp69z3clRhNjev6P6f', u'7vtTDys6AamkfeQkYdlZ8q', u'67TDZk2YPok4lALjD54Btt']}
+                                                image  ... energy
+16  https://i.scdn.co/image/ab67616d0000b2733446bc...  ...  0.676
+15  https://i.scdn.co/image/ab67616d0000b273fd4c76...  ...  0.568
+14  https://i.scdn.co/image/ab67616d0000b273c67487...  ...  0.296
+13  https://i.scdn.co/image/ab67616d0000b273c67487...  ...  0.296
+12  https://i.scdn.co/image/ab67616d0000b2733fd7c0...  ...  0.483
