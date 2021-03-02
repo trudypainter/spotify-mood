@@ -56574,3 +56574,18 @@ a7...  ...  0.379
 ('Rows: ', 18)
 Saved!
 
+[master 268a514] updating daily data 2021-03-02 10:00:07.432855
+ 2 files changed, 26 insertions(+), 2 deletions(-)
+2021-03-02 10:00:06.254581
+Auth happening...
+Getting songs
+Creating dataframe...
+MLS (feat. JPEGMAFIA and CHAI)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
