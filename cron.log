@@ -56336,3 +56336,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master c8767ff] updating daily data 2021-03-01 23:00:03.423836
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-03-01 23:00:02.794665
+Auth happening...
+Getting songs
+Creating dataframe...
+Next Level Charli
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
