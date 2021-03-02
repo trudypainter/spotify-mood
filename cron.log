@@ -56694,3 +56694,26 @@ GOT THESE SONGS
 ('Rows: ', 15)
 Saved!
 
+[master 265f0db] updating daily data 2021-03-02 16:00:04.076803
+ 3 files changed, 20 insertions(+), 2 deletions(-)
+2021-03-02 16:00:03.008211
+Auth happening...
+Getting songs
+Creating dataframe...
+Havin My Way (feat. Lil Durk)
+Free Woo
+Solid (feat. 42 Dugg)
+White Girl
+Proud Of Me Now
+GOT THESE SONGS
+{'played_at': ['15:13', '15:09', '15:07', '15:03'], 'valence': [0.712, 0.777, 0.762, 0.454], 'mood_avg': [0.753, 0.765, 0.871, 0.619], 'danceability': [0.802, 0.768, 0.975, 0.698], 'energy': [0.737, 0.735, 0.881, 0.793], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733f0bd1cb407beb4cfb66aa69', u'https://i.scdn.co/image/ab67616d0000b273cbde07dc55ce9547e19eab65', u'https://i.scdn.co/image/ab67616d0000b273f3d46a2d42cbea75e9cbe252', u'https://i.scdn.co/image/ab67616d0000b273b567db041ee1a619ebe1ff04'], 'album_name': [u'Unbothered', u'Free Woo', u'Solid (feat. 42 Dugg)', u'Young Jefe'], 'song_name': [u'Havin My Way (feat. Lil Durk)', u'Free Woo', u'Solid (feat. 42 Dugg)', u'White Girl'], 'artist_name': [u'Lil Skies', u'42 Dugg', u'Yella Beezy', u'Shy Glizzy'], 'track_id': [u'3TcKJZF01kCz0yyadk3gsI', u'6yVaKzGChFb7px4rHFm04T', u'5OVElo6Ms6ZG5UjhoNi6qJ', u'5yJzkdwbrQCwua2dIC3K6A']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273b567db...  ...  0.793
+2  https://i.scdn.co/image/ab67616d0000b273f3d46a...  ...  0.881
+1  https://i.scdn.co/image/ab67616d0000b273cbde07...  ...  0.735
+0  https://i.scdn.co/image/ab67616d0000b2733f0bd1...  ...  0.737
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
