@@ -56946,3 +56946,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master ba5a495] updating daily data 2021-03-03 17:00:05.573412
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-03-03 17:00:04.267063
+Auth happening...
+Getting songs
+Creating dataframe...
+Painless 2 (with NAV feat. Lil Durk)
+Neon Guts (feat. Pharrell Williams)
+Yes Man
+Long Time - Intro
+Hope
+Alignment
+GOT THESE SONGS
+{'played_at': ['16:35', '16:31', '16:20', '16:17', '16:13'], 'valence': [0.535, 0.412, 0.309, 0.358, 0.354], 'mood_avg': [0.587, 0.621, 0.516, 0.504, 0.352], 'danceability': [0.714, 0.859, 0.581, 0.472, 0.413], 'energy': [0.436, 0.563, 0.799, 0.861, 0.227], 'image': [u'https://i.scdn.co/image/ab67616d0000b273bcd51777aaec605cad0b3091', u'https://i.scdn.co/image/ab67616d0000b27341b41e6f7924e530a9b00f9c', u'https://i.scdn.co/image/ab67616d0000b273310da38ac56811d719e6fd07', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194', u'https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6'], 'album_name': [u'Painless 2 (with NAV feat. Lil Durk)', u'Luv Is Rage 2', u'Crashed My Car', u'Die Lit', u'Negro Swan'], 'song_name': [u'Painless 2 (with NAV feat. Lil Durk)', u'Neon Guts (feat. Pharrell Williams)', u'Yes Man', u'Long Time - Intro', u'Hope'], 'artist_name': [u'J.I the Prince of N.Y', u'Lil Uzi Vert', u'Hook', u'Playboi Carti', u'Blood Orange'], 'track_id': [u'71Ih7wOeWd2EJxKi77Yiqi', u'1MJErNPIQUoEMu4YUUmecm', u'3h5snZEWiYMTMLzm9y7m2a', u'4IO2X2YoXoUMv0M2rwomLC', u'2QLNDKL7hZyh2OZ8UL9WrV']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b27347dd2c...  ...  0.227
+3  https://i.scdn.co/image/ab67616d0000b273a1e867...  ...  0.861
+2  https://i.scdn.co/image/ab67616d0000b273310da3...  ...  0.799
+1  https://i.scdn.co/image/ab67616d0000b27341b41e...  ...  0.563
+0  https://i.scdn.co/image/ab67616d0000b273bcd517...  ...  0.436
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
