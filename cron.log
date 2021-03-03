@@ -56828,3 +56828,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master d15bdbd] updating daily data 2021-03-03 09:00:04.526138
+ 3 files changed, 22 insertions(+), 1 deletion(-)
+2021-03-03 09:00:03.364234
+Auth happening...
+Getting songs
+Creating dataframe...
+Serious
+Where Do We Go
+Stoned Again
+Divorce
+Tip Toes (feat. Quavo)
+Twerk (feat. Cardi B)
+GOT THESE SONGS
+{'played_at': ['08:51', '08:48', '08:43', '08:39', '08:35'], 'valence': [0.506, 0.412, 0.0795, 0.0398, 0.431], 'mood_avg': [0.571, 0.575, 0.313, 0.26, 0.664], 'danceability': [0.684, 0.85, 0.399, 0.406, 0.911], 'energy': [0.475, 0.351, 0.606, 0.41, 0.636], 'image': [u'https://i.scdn.co/image/ab67616d0000b273cd7c3cba379ae624e118ebcb', u'https://i.scdn.co/image/ab67616d0000b2731c4540d0ecafaa45305aa5a0', u'https://i.scdn.co/image/ab67616d0000b27328916ffa16f5473ac57ffe84', u'https://i.scdn.co/image/ab67616d0000b27320921767dd81e8f90ef9fc71', u'https://i.scdn.co/image/ab67616d0000b27359dc6229be2836d4d432b2f0'], 'album_name': [u'Fresh Air', u'A Seat at the Table', u'Man Alive!', u'Modus Vivendi', u'ICY'], 'song_name': [u'Serious', u'Where Do We Go', u'Stoned Again', u'Divorce', u'Tip Toes (feat. Quavo)'], 'artist_name': [u'HOMESHAKE', u'Solange', u'King Krule', u'070 Shake', u'Saweetie'], 'track_id': [u'0J6LNjtX37SlLbfnQKcmMW', u'08MbvwVOZdMNESjkoVdXxE', u'1jk6tbx0xFuEq1eHGTDMv3', u'7iqWypU3U1JmPGYuSFg8gd', u'6001xXfECxjyKrrbbRF0Vl']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b27359dc62...  ...  0.636
+3  https://i.scdn.co/image/ab67616d0000b273209217...  ...   0.41
+2  https://i.scdn.co/image/ab67616d0000b27328916f...  ...  0.606
+1  https://i.scdn.co/image/ab67616d0000b2731c4540...  ...  0.351
+0  https://i.scdn.co/image/ab67616d0000b273cd7c3c...  ...  0.475
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
