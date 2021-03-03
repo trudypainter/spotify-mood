@@ -56717,3 +56717,25 @@ GOT THESE SONGS
 ('Rows: ', 4)
 Saved!
 
+[master 5d931d9] updating daily data 2021-03-02 17:00:03.823724
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-03-02 17:00:02.900236
+Auth happening...
+Getting songs
+Creating dataframe...
+FREAK
+Cellular
+Havin My Way (feat. Lil Durk)
+GOT THESE SONGS
+{'played_at': ['16:54', '16:52'], 'valence': [0.508, 0.32], 'mood_avg': [0.63, 0.535], 'danceability': [0.622, 0.636], 'energy': [0.891, 0.763], 'image': [u'https://i.scdn.co/image/ab67616d0000b273eb21af039f00adb6e3c2f356', u'https://i.scdn.co/image/ab67616d0000b27328916ffa16f5473ac57ffe84'], 'album_name': [u'ALIAS', u'Man Alive!'], 'song_name': [u'FREAK', u'Cellular'], 'artist_name': [u'Shygirl', u'King Krule'], 'track_id': [u'3RvYDpbvZFOwqWhcleKhpH', u'0p7oSAo7L1nPXxtGMH3BzW']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b27328916f...  ...  0.763
+0  https://i.scdn.co/image/ab67616d0000b273eb21af...  ...  0.891
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
+2021-03-02 18:00:03.423562
+Auth happening...
+Getting songs
