@@ -56971,3 +56971,27 @@ GOT THESE SONGS
 ('Rows: ', 5)
 Saved!
 
+[master 50ff657] updating daily data 2021-03-03 18:00:04.824707
+ 3 files changed, 27 insertions(+), 1 deletion(-)
+2021-03-03 18:00:04.096102
+Auth happening...
+Getting songs
+Creating dataframe...
+Dubai Shit
+Painless 2 (with NAV feat. Lil Durk)
+GOT THESE SONGS
+{'played_at': ['17:36'], 'valence': [0.227], 'mood_avg': [0.506], 'danceability': [0.774], 'energy': [0.529], 'image': [u'https://i.scdn.co/image/ab67616d0000b273631973893e94d01cfcdf0e5e'], 'album_name': [u'Huncho Jack, Jack Huncho'], 'song_name': [u'Dubai Shit'], 'artist_name': [u'Huncho Jack'], 'track_id': [u'6urLjX35oXXRYtcH1b3dCh']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273631973...  ...  0.529
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
+2021-03-03 19:00:14.699427
+Auth happening...
+Getting songs
+Creating dataframe...
+Psycho
+CMYK
+Features Creatures - The Knife Remix
