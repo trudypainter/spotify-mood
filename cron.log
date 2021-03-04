@@ -57190,3 +57190,32 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 60bcbac] updating daily data 2021-03-04 07:00:13.928497
+ 3 files changed, 25 insertions(+), 1 deletion(-)
+2021-03-04 07:00:12.175169
+Auth happening...
+Getting songs
+Creating dataframe...
+Low Life (feat. The Weeknd)
+100 Racks (Offset feat. Playboi Carti)
+BOP
+The London (feat. J. Cole & Travis Scott)
+Tunnel Vision
+Wet Dreamz
+Praise The Lord (Da Shine) (feat. Skepta)
+Papi I Missed U
+GOT THESE SONGS
+{'played_at': ['06:56', '06:50', '06:48', '06:45', '06:41', '06:36', '06:32'], 'valence': [0.102, 0.364, 0.836, 0.179, 0.231, 0.584, 0.294], 'mood_avg': [0.396, 0.648, 0.799, 0.507, 0.389, 0.581, 0.573], 'danceability': [0.722, 0.939, 0.769, 0.796, 0.497, 0.517, 0.854], 'energy': [0.331, 0.632, 0.787, 0.586, 0.489, 0.705, 0.569], 'image': [u'https://i.scdn.co/image/ab67616d0000b273626745b3aa04899001a924ad', u'https://i.scdn.co/image/ab67616d0000b273f5c547a4335523f10a802f94', u'https://i.scdn.co/image/ab67616d0000b273f2b94b2fda4f08836d6371ba', u'https://i.scdn.co/image/ab67616d0000b273137c2d3150118e7157800c5b', u'https://i.scdn.co/image/ab67616d0000b2731541a676423805fc68ff3e66', u'https://i.scdn.co/image/ab67616d0000b2736aca031ccc27d2e4dd829d14', u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b'], 'album_name': [u'EVOL', u'Quality Control: Control The Streets Volume 2', u'KIRK', u'The London (feat. J. Cole & Travis Scott)', u'Painting Pictures', u'2014 Forest Hills Drive', u'TESTING'], 'song_name': [u'Low Life (feat. The Weeknd)', u'100 Racks (Offset feat. Playboi Carti)', u'BOP', u'The London (feat. J. Cole & Travis Scott)', u'Tunnel Vision', u'Wet Dreamz', u'Praise The Lord (Da Shine) (feat. Skepta)'], 'artist_name': [u'Future', u'Quality Control', u'DaBaby', u'Young Thug', u'Kodak Black', u'J. Cole', u'A$AP Rocky'], 'track_id': [u'7EiZI6JVHllARrX9PUvAdX', u'4T2dHb8XBYHlVj7Dyo1cW9', u'6Ozh9Ok6h4Oi1wUSLtBseN', u'7DcvwMAiqKJQD1rrdfxSDx', u'4Q3N4Ct4zCuIHuZ65E3BD4', u'6Ius4TC0L3cN74HT7ENE6e', u'7ycWLEP1GsNjVvcjawXz3z']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b2739feadc...  ...  0.569
+5  https://i.scdn.co/image/ab67616d0000b2736aca03...  ...  0.705
+4  https://i.scdn.co/image/ab67616d0000b2731541a6...  ...  0.489
+3  https://i.scdn.co/image/ab67616d0000b273137c2d...  ...  0.586
+2  https://i.scdn.co/image/ab67616d0000b273f2b94b...  ...  0.787
+1  https://i.scdn.co/image/ab67616d0000b273f5c547...  ...  0.632
+0  https://i.scdn.co/image/ab67616d0000b273626745...  ...  0.331
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
