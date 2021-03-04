@@ -57234,3 +57234,26 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master dfeb99e] updating daily data 2021-03-04 09:00:17.624861
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+2021-03-04 09:00:13.803012
+Auth happening...
+Getting songs
+Creating dataframe...
+King's Dead (feat. Future)
+Tap Out (feat. Jeremih)
+The Bloodiest
+OUT WEST (feat. Young Thug)
+Low Life (feat. The Weeknd)
+GOT THESE SONGS
+{'played_at': ['08:58', '08:55', '08:52', '08:47'], 'valence': [0.52, 0.607, 0.322, 0.309], 'mood_avg': [0.702, 0.637, 0.513, 0.563], 'danceability': [0.835, 0.676, 0.635, 0.802], 'energy': [0.798, 0.62, 0.652, 0.591], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c30d59775ce5ef3f59138f59', u'https://i.scdn.co/image/ab67616d0000b273c30d59775ce5ef3f59138f59', u'https://i.scdn.co/image/ab67616d0000b273c30d59775ce5ef3f59138f59', u'https://i.scdn.co/image/ab67616d0000b273dfc2f59568272de50a257f2f'], 'album_name': [u'Redemption', u'Redemption', u'Redemption', u'JACKBOYS'], 'song_name': [u"King's Dead (feat. Future)", u'Tap Out (feat. Jeremih)', u'The Bloodiest', u'OUT WEST (feat. Young Thug)'], 'artist_name': [u'Jay Rock', u'Jay Rock', u'Jay Rock', u'JACKBOYS'], 'track_id': [u'5Kt4HWdE1MWtc307PKdJ6C', u'2YaOQzBkhejBu5d4CyGsfS', u'3eEMeaaT3otIimFCcYcS7i', u'6gi6y1xwmVszDWkUqab1qw']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273dfc2f5...  ...  0.591
+2  https://i.scdn.co/image/ab67616d0000b273c30d59...  ...  0.652
+1  https://i.scdn.co/image/ab67616d0000b273c30d59...  ...   0.62
+0  https://i.scdn.co/image/ab67616d0000b273c30d59...  ...  0.798
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
