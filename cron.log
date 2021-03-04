@@ -57316,3 +57316,22 @@ Getting songs
 Creating dataframe...
 How Can You Luv Me
 U.Y.U.
+[master 145c196] updating daily data 2021-03-04 14:00:03.276303
+ 3 files changed, 24 insertions(+), 1 deletion(-)
+2021-03-04 14:00:02.260633
+Auth happening...
+Getting songs
+Creating dataframe...
+I Mind
+Emulate
+How Can You Luv Me
+GOT THESE SONGS
+{'played_at': ['13:05', '13:02'], 'valence': [0.231, 0.0978], 'mood_avg': [0.434, 0.265], 'danceability': [0.648, 0.506], 'energy': [0.41, 0.116], 'image': [u'https://i.scdn.co/image/ab67616d0000b273a6b49ca72312383b72a8d9b4', u'https://i.scdn.co/image/ab67616d0000b27337af2ce4e0abffff0045034c'], 'album_name': [u'James Blake', u'Both'], 'song_name': [u'I Mind', u'Emulate'], 'artist_name': [u'James Blake', u'Okay Kaya'], 'track_id': [u'4G1X8COHNmJ8Lp1vux7Ied', u'6y4Z8DQKipkL3MNGyl7xYZ']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b27337af2c...  ...  0.116
+0  https://i.scdn.co/image/ab67616d0000b273a6b49c...  ...   0.41
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
