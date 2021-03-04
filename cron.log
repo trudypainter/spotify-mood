@@ -56995,3 +56995,30 @@ Creating dataframe...
 Psycho
 CMYK
 Features Creatures - The Knife Remix
+[master 41e0bea] updating daily data 2021-03-03 20:00:33.234871
+ 3 files changed, 31 insertions(+), 1 deletion(-)
+2021-03-03 20:00:28.550147
+Auth happening...
+Getting songs
+Creating dataframe...
+The Wire
+The Line
+Temple of Sorrow
+Violence - Original Mix
+INTRO
+Anna Painting
+Psycho
+GOT THESE SONGS
+{'played_at': ['19:30', '19:26', '19:17', '19:10', '19:06', '19:03'], 'valence': [0.525, 0.165, 0.0387, 0.0795, 0.672, 0.108], 'mood_avg': [0.556, 0.271, 0.099, 0.425, 0.751, 0.44], 'danceability': [0.547, 0.399, 0.166, 0.533, 0.862, 0.654], 'energy': [0.635, 0.226, 0.084, 0.9, 0.685, 0.677], 'image': [u'https://i.scdn.co/image/ab67616d0000b2732fa478d357cac0fd0407643f', u'https://i.scdn.co/image/ab67616d0000b273f525f4a1bd3acdc0631ce362', u'https://i.scdn.co/image/ab67616d0000b273f6e12ee5752ceec52f98b1a5', u'https://i.scdn.co/image/ab67616d0000b2731a302aafa2ea587960e27951', u'https://i.scdn.co/image/ab67616d0000b273f2b94b2fda4f08836d6371ba', u'https://i.scdn.co/image/ab67616d0000b2731b8f3dd55d1078f7c5c8ef85'], 'album_name': [u'Days Are Gone', u'SEPT 5TH', u'Temple of Sorrow', u'Miss Anthropocene (Deluxe Edition)', u'KIRK', u'Anna Painting'], 'song_name': [u'The Wire', u'The Line', u'Temple of Sorrow', u'Violence - Original Mix', u'INTRO', u'Anna Painting'], 'artist_name': [u'HAIM', u'dvsn', u'M83', u'Grimes', u'DaBaby', u'Four Tet'], 'track_id': [u'6golelYKuy85o3u0cxIxFK', u'582YjxdRTGri2bdGlG7xaS', u'3JqAm6liYR08GmmmIFIUzu', u'3KeOFns3LGJuh1lapMm9eA', u'77KMttn3Lic7ZQKDlPqp8v', u'4Q8LnVINko045PEZ9pul8v']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b2731b8f3d...  ...  0.677
+4  https://i.scdn.co/image/ab67616d0000b273f2b94b...  ...  0.685
+3  https://i.scdn.co/image/ab67616d0000b2731a302a...  ...    0.9
+2  https://i.scdn.co/image/ab67616d0000b273f6e12e...  ...  0.084
+1  https://i.scdn.co/image/ab67616d0000b273f525f4...  ...  0.226
+0  https://i.scdn.co/image/ab67616d0000b2732fa478...  ...  0.635
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
