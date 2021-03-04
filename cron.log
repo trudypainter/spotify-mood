@@ -57173,3 +57173,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 0f5bceb] updating daily data 2021-03-04 06:00:11.217461
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-03-04 06:00:08.667821
+Auth happening...
+Getting songs
+Creating dataframe...
+Papi I Missed U
+Ring Ring (with Rvssian feat. Clever)
+GOT THESE SONGS
+{'played_at': ['05:56'], 'valence': [0.0386], 'mood_avg': [0.31], 'danceability': [0.457], 'energy': [0.558], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c0f5083c53e881de8dec3d70'], 'album_name': [u'All My Heroes Are Cornballs'], 'song_name': [u'Papi I Missed U'], 'artist_name': [u'JPEGMAFIA'], 'track_id': [u'6EIz62zN5Atz9GK0LjWtCC']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273c0f508...  ...  0.558
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
