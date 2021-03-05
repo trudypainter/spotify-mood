@@ -57640,3 +57640,42 @@ GOT THESE SONGS
 ('Rows: ', 6)
 Saved!
 
+[master f81c8a0] updating daily data 2021-03-05 07:00:04.351145
+ 3 files changed, 40 insertions(+), 1 deletion(-)
+2021-03-05 07:00:02.739546
+Auth happening...
+Getting songs
+Creating dataframe...
+Deal Wit It
+That's It
+Nobody (feat. Kanye West)
+Lo Mein
+Slum Anthem
+Diva (feat. Lil Tecca)
+Outta There
+For Real
+DROPPED OUTTA COLLEGE
+Mood (feat. iann dior)
+Stop Breathing
+Shawty
+Plastic Plants
+GOT THESE SONGS
+{'played_at': ['06:40', '06:38', '06:36', '06:32', '06:29', '06:26', '06:23', '06:19', '06:16', '06:14', '06:10', '06:02'], 'valence': [0.675, 0.122, 0.313, 0.509, 0.0551, 0.457, 0.235, 0.615, 0.191, 0.756, 0.155, 0.712], 'mood_avg': [0.743, 0.44, 0.531, 0.681, 0.416, 0.598, 0.507, 0.741, 0.517, 0.727, 0.518, 0.713], 'danceability': [0.837, 0.671, 0.747, 0.855, 0.759, 0.686, 0.806, 0.902, 0.911, 0.7, 0.856, 0.711], 'energy': [0.691, 0.616, 0.537, 0.676, 0.454, 0.703, 0.451, 0.673, 0.379, 0.722, 0.57, 0.719], 'image': [u'https://i.scdn.co/image/ab67616d0000b27374d72ebd51dd5781d5f83ffd', u'https://i.scdn.co/image/ab67616d0000b273fac090a59ca8c44feca0073d', u'https://i.scdn.co/image/ab67616d0000b2739e00c28454a07918ef6192bd', u'https://i.scdn.co/image/ab67616d0000b273dea510881ec1e506485303e4', u'https://i.scdn.co/image/ab67616d0000b273c91104e38d1fc46fb9cf3042', u'https://i.scdn.co/image/ab67616d0000b2731ae71e77aef7c34227027daa', u'https://i.scdn.co/image/ab67616d0000b27360a61afc108644d44a506545', u'https://i.scdn.co/image/ab67616d0000b27341b41e6f7924e530a9b00f9c', u'https://i.scdn.co/image/ab67616d0000b273fe9008022f3f54d81dcc8030', u'https://i.scdn.co/image/ab67616d0000b273ff8c985ecb3b7c5f847be357', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b2739ea18f33f65c990f1f589225'], 'album_name': [u'Baby On Baby', u'The Leek (Vol. 3)', u'Nobody', u'Eternal Atake (Deluxe) - LUV vs. The World 2', u'Slum Anthem', u'Diva (feat. Lil Tecca)', u'Outta There', u'Luv Is Rage 2', u'DROPPED OUTTA COLLEGE', u'Mood (feat. iann dior)', u'Whole Lotta Red', u"You're A Dog!"], 'song_name': [u'Deal Wit It', u"That's It", u'Nobody (feat. Kanye West)', u'Lo Mein', u'Slum Anthem', u'Diva (feat. Lil Tecca)', u'Outta There', u'For Real', u'DROPPED OUTTA COLLEGE', u'Mood (feat. iann dior)', u'Stop Breathing', u'Shawty'], 'artist_name': [u'DaBaby', u'Chief Keef', u'Chief Keef', u'Lil Uzi Vert', u'K CAMP', u'The Kid LAROI', u'Moe', u'Lil Uzi Vert', u'24kGoldn', u'24kGoldn', u'Playboi Carti', u'Remi Wolf'], 'track_id': [u'3yXP1unIs1X9U5FbEarv7e', u'0v0BxvMVMiNlu938A21c6p', u'5hw9L1kJRy102skKX73DEa', u'6gWzuZHMKNtjLUsTPHCX10', u'6225vlQNgif1W5dE5KN6Y6', u'7gVwgc8b3XnO87TpmXXFA5', u'6QlKONDgjp9JqcthAtDlKk', u'3tcoEYOZUHKB3RKNByIN13', u'2aV5ZEAvHwvL332EsJ1gWc', u'3tjFYV6RSFtuktYl3ZtYcq', u'2lLG56qpLP3UbcLuzMvkWX', u'3GzMDVdXKAhG95eL7Wa32L']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b2739ea18f...  ...  0.719
+10  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...   0.57
+9   https://i.scdn.co/image/ab67616d0000b273ff8c98...  ...  0.722
+8   https://i.scdn.co/image/ab67616d0000b273fe9008...  ...  0.379
+7   https://i.scdn.co/image/ab67616d0000b27341b41e...  ...  0.673
+6   https://i.scdn.co/image/ab67616d0000b27360a61a...  ...  0.451
+5   https://i.scdn.co/image/ab67616d0000b2731ae71e...  ...  0.703
+4   https://i.scdn.co/image/ab67616d0000b273c91104...  ...  0.454
+3   https://i.scdn.co/image/ab67616d0000b273dea510...  ...  0.676
+2   https://i.scdn.co/image/ab67616d0000b2739e00c2...  ...  0.537
+1   https://i.scdn.co/image/ab67616d0000b273fac090...  ...  0.616
+0   https://i.scdn.co/image/ab67616d0000b27374d72e...  ...  0.691
+
+[12 rows x 10 columns]
+('Rows: ', 12)
+Saved!
+
