@@ -57805,3 +57805,58 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 8aac2b2] updating daily data 2021-03-05 16:00:07.400401
+ 3 files changed, 22 insertions(+), 1 deletion(-)
+2021-03-05 16:00:06.361288
+Auth happening...
+Getting songs
+Creating dataframe...
+Elastic
+Plastic Plants
+Love Galore (feat. Travis Scott)
+White Ferrari
+Shawty
+Girl Like You
+White Ferrari
+GOT THESE SONGS
+{'played_at': ['15:56', '15:54', '15:51', '15:46', '15:42', '15:39'], 'valence': [0.561, 0.752, 0.409, 0.219, 0.712, 0.397], 'mood_avg': [0.698, 0.718, 0.6, 0.284, 0.713, 0.575], 'danceability': [0.966, 0.823, 0.795, 0.444, 0.711, 0.629], 'energy': [0.435, 0.441, 0.594, 0.0924, 0.719, 0.823], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c038cc146b4418bf3ddfdbb9', u'https://i.scdn.co/image/ab67616d0000b2731f8129e7f7b9456b4f54cfbe', u'https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b2739ea18f33f65c990f1f589225', u'https://i.scdn.co/image/ab67616d0000b2736bdf32d53f9f5dccc09dbcbe'], 'album_name': [u'QUARTERTHING', u'Isolation Tapes', u'Ctrl', u'Blonde', u"You're A Dog!", u'Boo Boo'], 'song_name': [u'Elastic', u'Plastic Plants', u'Love Galore (feat. Travis Scott)', u'White Ferrari', u'Shawty', u'Girl Like You'], 'artist_name': [u'Joey Purp', u'Mahalia', u'SZA', u'Frank Ocean', u'Remi Wolf', u'Toro y Moi'], 'track_id': [u'4MAADpR6MjelkaZqe3Mgnv', u'68OnIh4v10tWxZYJTsHJWX', u'0q75NwOoFiARAVp4EXU4Bs', u'2LMkwUfqC6S6s6qDVlEuzV', u'3GzMDVdXKAhG95eL7Wa32L', u'6TFUZ8Bt1brEwomY90SKXi']}
+                                               image  ...  energy
+5  https://i.scdn.co/image/ab67616d0000b2736bdf32...  ...   0.823
+4  https://i.scdn.co/image/ab67616d0000b2739ea18f...  ...   0.719
+3  https://i.scdn.co/image/ab67616d0000b273c5649a...  ...  0.0924
+2  https://i.scdn.co/image/ab67616d0000b2734c79d5...  ...   0.594
+1  https://i.scdn.co/image/ab67616d0000b2731f8129...  ...   0.441
+0  https://i.scdn.co/image/ab67616d0000b273c038cc...  ...   0.435
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
+2021-03-05 17:00:35.337817
+Auth happening...
+Getting songs
+Creating dataframe...
+Blame It on Your Love (feat. Lizzo)
+Delete Forever
+Awake
+OHFR?
+Hood Rat Shit
+Time Flies
+7 rings
+You Gotta Shake (feat. Supa)
+Babyface Savage (feat. Tory Lanez)
+Count Contessa
+BB
+Out of My Head (feat. Tove Lo and ALMA)
+Dear Old Nicki
+B*tch From Da Souf
+No Frauds
+Roaring 20s
+34+35
+IPHONE
+Girls in the Hood
+GOT THESE SONGS
+{'played_at': ['16:58', '16:55', '16:51', '16:47', '16:45', '16:42', '16:39', '16:36', '16:33', '16:30', '16:25', '16:22', '16:19', '16:15', '16:12', '16:08', '16:06', '16:03'], 'valence': [0.598, 0.389, 0.28, 0.812, 0.729, 0.91, 0.327, 0.468, 0.425, 0.453, 0.267, 0.42, 0.455, 0.399, 0.432, 0.786, 0.485, 0.39], 'mood_avg': [0.677, 0.527, 0.599, 0.812, 0.796, 0.789, 0.505, 0.739, 0.644, 0.611, 0.536, 0.65, 0.594, 0.552, 0.631, 0.812, 0.643, 0.57], 'danceability': [0.717, 0.56, 0.764, 0.86, 0.871, 0.596, 0.778, 0.898, 0.907, 0.595, 0.693, 0.851, 0.662, 0.863, 0.867, 0.91, 0.83, 0.636], 'energy': [0.755, 0.736, 0.908, 0.717, 0.781, 0.933, 0.317, 0.964, 0.557, 0.957, 0.761, 0.709, 0.737, 0.235, 0.558, 0.67, 0.585, 0.799], 'image': [u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b2731a302aafa2ea587960e27951', u'https://i.scdn.co/image/ab67616d0000b2732ff16cb8c50004d7aaca646d', u'https://i.scdn.co/image/ab67616d0000b273cd2be2be0e7e67ec390c6465', u'https://i.scdn.co/image/ab67616d0000b2738fdfd969c0b6375ca22c3fa3', u'https://i.scdn.co/image/ab67616d0000b2733943a3a1fc6dd6b1df92398b', u'https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8', u'https://i.scdn.co/image/ab67616d0000b2730c4e4658e5a7e7c1f76a925d', u'https://i.scdn.co/image/ab67616d0000b273afd59b8f7df2be1b94bee052', u'https://i.scdn.co/image/ab67616d0000b273e271c649ef92d73d64f0716d', u'https://i.scdn.co/image/ab67616d0000b273a7ef0539771ba8bfa0bae81c', u'https://i.scdn.co/image/ab67616d0000b273c61a793955ac590e672eafe8', u'https://i.scdn.co/image/ab67616d0000b273aa7d2641af0fa4c1f76fafbf', u'https://i.scdn.co/image/ab67616d0000b273abd0868c50eca32b3861b826', u'https://i.scdn.co/image/ab67616d0000b2738222051128ef2edccf1e83d8', u'https://i.scdn.co/image/ab67616d0000b2733eee02e04b08d2c415ae63a5', u'https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605', u'https://i.scdn.co/image/ab67616d0000b273b254cff03b053d4bca9100ef'], 'album_name': [u'Charli', u'Miss Anthropocene (Deluxe Edition)', u'Awake', u'OHFR?', u'Fever', u'Time Flies', u'thank u, next', u'You Gotta Shake (feat. Supa)', u'Babyface Savage (feat. Tory Lanez)', u'Count Contessa', u'BB', u'Pop 2', u'Pink Friday (Complete Edition)', u'B*tch From Da Souf', u'No Frauds', u'Roaring 20s', u'Positions', u'Nightmare Vacation'], 'song_name': [u'Blame It on Your Love (feat. Lizzo)', u'Delete Forever', u'Awake', u'OHFR?', u'Hood Rat Shit', u'Time Flies', u'7 rings', u'You Gotta Shake (feat. Supa)', u'Babyface Savage (feat. Tory Lanez)', u'Count Contessa', u'BB', u'Out of My Head (feat. Tove Lo and ALMA)', u'Dear Old Nicki', u'B*tch From Da Souf', u'No Frauds', u'Roaring 20s', u'34+35', u'IPHONE'], 'artist_name': [u'Charli XCX', u'Grimes', u'Tkay Maidza', u'Rico Nasty', u'Megan Thee Stallion', u'Rico Nasty', u'Ariana Grande', u'Briki Fa President', u'Bhad Bhabie', u'Azealia Banks', u'Shygirl', u'Charli XCX', u'Nicki Minaj', u'Mulatto', u'Nicki Minaj', u'Flo Milli', u'Ariana Grande', u'Rico Nasty'], 'track_id': [u'2RCUr24WkEe2r5Vv4oDKlN', u'71J2rawCGulCAyTMtNY3Ej', u'4Puw64CYf5hi5hlrQo9mm4', u'3IBGU1NgiTjDsIJn2Jtdg4', u'1hOHLiauos0RROoUxd88mL', u'2QXB9GugNcZqXrDXYowISU', u'6ocbgoVGwYJhOv1GgI9NsF', u'1eiylvr7YokF7vN2yg0Wy9', u'2xB64x7pRS8Qa9uuZktOnA', u'5qc9oEjMRZvdECu3g5vU8P', u'1oTZfA19b295ZdWdFTzJNj', u'2khkbmL11VFqKGMrcGIJB3', u'2AS0xaRoyo4WiYehA5DaxN', u'6tLWt7gkvvTSjS6OfJjiyJ', u'7KcGEssn7BnJdTgildK5y0', u'5N4oNpf3YH76vNhXKc5usy', u'6Im9k8u9iIzKMrmV7BWtlF', u'721DqX2YMrtKcjcydyrjwq']}
+                                                image  ... energy
+17  https://i.scdn.co/image/ab67616d0000b273b254cf...  ...  0.799
+16  https://i.scdn.co/image/ab67616d000
