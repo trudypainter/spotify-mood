@@ -57380,3 +57380,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 012aa30] updating daily data 2021-03-04 18:00:04.500105
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-03-04 18:00:03.685557
+Auth happening...
+Getting songs
+Creating dataframe...
+Morrow
+Kerosene!
+I Mind
+GOT THESE SONGS
+{'played_at': ['17:26', '17:22'], 'valence': [0.194, 0.299], 'mood_avg': [0.508, 0.471], 'danceability': [0.742, 0.506], 'energy': [0.666, 0.746], 'image': [u'https://i.scdn.co/image/ab67616d0000b27320921767dd81e8f90ef9fc71', u'https://i.scdn.co/image/ab67616d0000b273043864250fbec5f57c7076a7'], 'album_name': [u'Modus Vivendi', u'Heaven To A Tortured Mind'], 'song_name': [u'Morrow', u'Kerosene!'], 'artist_name': [u'070 Shake', u'Yves Tumor'], 'track_id': [u'3sIoWQZbJqUKj5iELz8eTA', u'1Kjw0LwdniCWran4PxJqPQ']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273043864...  ...  0.746
+0  https://i.scdn.co/image/ab67616d0000b273209217...  ...  0.666
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
