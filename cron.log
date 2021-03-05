@@ -57711,3 +57711,22 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 1685a1d] updating daily data 2021-03-05 10:00:12.439115
+ 4 files changed, 20 insertions(+), 1 deletion(-)
+2021-03-05 10:00:11.540402
+Auth happening...
+Getting songs
+Creating dataframe...
+White Ferrari
+Fantasy
+Cellular
+GOT THESE SONGS
+{'played_at': ['09:53', '09:47'], 'valence': [0.219, 0.293], 'mood_avg': [0.284, 0.623], 'danceability': [0.444, 0.843], 'energy': [0.0924, 0.843], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b27338eb912d9b66a6b54e685a8a'], 'album_name': [u'Blonde', u'2017 - 2019'], 'song_name': [u'White Ferrari', u'Fantasy'], 'artist_name': [u'Frank Ocean', u'Against All Logic'], 'track_id': [u'2LMkwUfqC6S6s6qDVlEuzV', u'75TKpJuNK2abswVZNFJ5Uz']}
+                                               image  ...  energy
+1  https://i.scdn.co/image/ab67616d0000b27338eb91...  ...   0.843
+0  https://i.scdn.co/image/ab67616d0000b273c5649a...  ...  0.0924
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
