@@ -57399,3 +57399,63 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master ccd96ec] updating daily data 2021-03-04 19:00:04.950690
+ 3 files changed, 31 insertions(+), 1 deletion(-)
+2021-03-04 19:00:03.482749
+Auth happening...
+Getting songs
+Creating dataframe...
+The Burning Bridge
+Way to the Show
+Heaven Knows
+Love Ya
+Sublunary
+U Suck
+Big Day Coming - Second Version
+Hypnosis
+4T Recordings
+Cherries
+Donnie Darko
+Morrow
+GOT THESE SONGS
+{'played_at': ['18:58', '18:54', '18:51', '18:47', '18:44', '18:42', '18:39', '18:34', '18:33', '18:29', '18:26'], 'valence': [0.394, 0.558, 0.113, 0.448, 0.133, 0.148, 0.444, 0.188, 0.0275, 0.772, 0.0372], 'mood_avg': [0.478, 0.603, 0.353, 0.571, 0.22, 0.417, 0.484, 0.235, 0.229, 0.765, 0.368], 'danceability': [0.431, 0.594, 0.473, 0.672, 0.215, 0.718, 0.4, 0.276, 0.346, 0.795, 0.694], 'energy': [0.738, 0.71, 0.595, 0.615, 0.403, 0.351, 0.73, 0.247, 0.397, 0.693, 0.379], 'image': [u'https://i.scdn.co/image/ab67616d0000b2736c030d773d6869f043a7577a', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b2735ccc62529c77101d6b2f00f3', u'https://i.scdn.co/image/ab67616d0000b273706a733634175d413dedfe54', u'https://i.scdn.co/image/ab67616d0000b273c02d78ecd28d80920aa11f1c', u'https://i.scdn.co/image/ab67616d0000b2735ccc62529c77101d6b2f00f3', u'https://i.scdn.co/image/ab67616d0000b27375d190b89508d795e7570aaf', u'https://i.scdn.co/image/ab67616d0000b273825d2628545eaea03bf9672f', u'https://i.scdn.co/image/ab67616d0000b273210e19d835bb0af6620256cf', u'https://i.scdn.co/image/ab67616d0000b2730233d1ceb0813ce5d532b77c', u'https://i.scdn.co/image/ab67616d0000b2734a8007933fab9c774ae4cc83'], 'album_name': [u'Heart & Earth', u'When I Get Home', u'Salvador', u'Freetown Sound', u'The OOZ', u'Salvador', u'Painful', u'Lucid', u'Sixteen Oceans', u'Girl Eats Sun', u"I'm All Ears"], 'song_name': [u'The Burning Bridge', u'Way to the Show', u'Heaven Knows', u'Love Ya', u'Sublunary', u'U Suck', u'Big Day Coming - Second Version', u'Hypnosis', u'4T Recordings', u'Cherries', u'Donnie Darko'], 'artist_name': [u'Yawning Portal', u'Solange', u'Sega Bodega', u'Blood Orange', u'King Krule', u'Sega Bodega', u'Yo La Tengo', u'Raveena', u'Four Tet', u'Hope Tala', u"Let's Eat Grandma"], 'track_id': [u'18bmWnSBvUW0lZxmA02vWm', u'2jVLwzrzKVhcI8UmVonVas', u'5Rxv3eM4ENd8VMLdGfI9Fd', u'1pELK1Wjc3BJu1o1qfHWIj', u'7zU4eAKXYbQ8hleYDXcov2', u'3kEjDzZj9mKYfQsA5vOFIv', u'4Rqq4GYOweJV0FUOE6DNCC', u'70LJDJUseObPU5czxfHYkB', u'3LIyGYQtnSubOEZQPLgDTe', u'13z7RLPmgupzRwQY9NiTZU', u'5Pn4AYzF6awkiD9zdnsRHt']}
+                                                image  ... energy
+10  https://i.scdn.co/image/ab67616d0000b2734a8007...  ...  0.379
+9   https://i.scdn.co/image/ab67616d0000b2730233d1...  ...  0.693
+8   https://i.scdn.co/image/ab67616d0000b273210e19...  ...  0.397
+7   https://i.scdn.co/image/ab67616d0000b273825d26...  ...  0.247
+6   https://i.scdn.co/image/ab67616d0000b27375d190...  ...   0.73
+5   https://i.scdn.co/image/ab67616d0000b2735ccc62...  ...  0.351
+4   https://i.scdn.co/image/ab67616d0000b273c02d78...  ...  0.403
+3   https://i.scdn.co/image/ab67616d0000b273706a73...  ...  0.615
+2   https://i.scdn.co/image/ab67616d0000b2735ccc62...  ...  0.595
+1   https://i.scdn.co/image/ab67616d0000b273b1150f...  ...   0.71
+0   https://i.scdn.co/image/ab67616d0000b2736c030d...  ...  0.738
+
+[11 rows x 10 columns]
+('Rows: ', 11)
+Saved!
+
+2021-03-04 20:00:03.434274
+Auth happening...
+Getting songs
+Creating dataframe...
+Music Is The Light
+Reach Hi
+before you go
+Super Stars
+Diners Only
+Something to Believe
+Room Temperature
+4real
+Zap!
+50-50 (feat. Instupendo)
+When in Summer, I Forget About the Winter - Bonus Track
+High Street
+Cover Me
+Butterflies ft. KAINA
+Biz
+Interlude: Tina Taught Me
+A God Called Hubris
+Newspaper
+Getting Down Pt II (He's Cooling Down)
