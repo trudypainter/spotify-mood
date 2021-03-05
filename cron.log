@@ -57459,3 +57459,36 @@ Interlude: Tina Taught Me
 A God Called Hubris
 Newspaper
 Getting Down Pt II (He's Cooling Down)
+[master 614ab16] updating daily data 2021-03-04 21:00:06.853805
+ 3 files changed, 70 insertions(+), 1 deletion(-)
+2021-03-04 21:00:04.805969
+Auth happening...
+Getting songs
+Creating dataframe...
+Runaway
+Often
+Say When
+QKThr
+The Noisy Eater
+Major League Chemicals
+Dial D For Devotion
+Your Body Changes Everything
+Close To You
+Give/Take
+GOT THESE SONGS
+{'played_at': ['20:37', '20:28', '20:22', '20:17', '20:16', '20:13', '20:09', '20:08', '20:04'], 'valence': [0.111, 0.0713, 0.142, 0.0571, 0.468, 0.804, 0.338, 0.655, 0.554], 'mood_avg': [0.308, 0.384, 0.316, 0.213, 0.61, 0.735, 0.392, 0.695, 0.676], 'danceability': [0.374, 0.572, 0.555, 0.463, 0.656, 0.561, 0.512, 0.707, 0.681], 'energy': [0.568, 0.631, 0.188, 0.0223, 0.804, 0.946, 0.26, 0.751, 0.909], 'image': [u'https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f', u'https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b', u'https://i.scdn.co/image/ab67616d0000b273281b57bfec5391971863c05a', u'https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a', u'https://i.scdn.co/image/ab67616d0000b27383cd9f1352bc315536480be6', u'https://i.scdn.co/image/ab67616d0000b273aa839bb04931542d830c73b1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b27343f44b90dd0a223b06aba994', u'https://i.scdn.co/image/ab67616d0000b273e7cdd0cb1c3e6419c637549d'], 'album_name': [u'My Beautiful Dark Twisted Fantasy', u'Beauty Behind The Madness', u'Devotion', u'Drukqs', u'Wildflower', u'Sex & Food', u'We Will Always Love You', u'Set My Heart On Fire Immediately', u'Since I Left You'], 'song_name': [u'Runaway', u'Often', u'Say When', u'QKThr', u'The Noisy Eater', u'Major League Chemicals', u'Dial D For Devotion', u'Your Body Changes Everything', u'Close To You'], 'artist_name': [u'Kanye West', u'The Weeknd', u'Tirzah', u'Aphex Twin', u'The Avalanches', u'Unknown Mortal Orchestra', u'The Avalanches', u'Perfume Genius', u'The Avalanches'], 'track_id': [u'3DK6m7It6Pw857FcQftMds', u'4PhsKqMdgMEUSstTDAmMpg', u'7kh8UmBeIItkXwarEFpFeu', u'7vuYfz0siJY66fLEiDKnEh', u'6StTY4G6le4w7jQsXmyY2Z', u'2gK0a8pexduIfOODoxujNp', u'4bj1A0G4EZpVGeEuqm6J4e', u'6rnrk0DfqoGZ8yUKiYxV1j', u'7bCmSFlmcCBXeLWgfFP02W']}
+                                               image  ...  energy
+8  https://i.scdn.co/image/ab67616d0000b273e7cdd0...  ...   0.909
+7  https://i.scdn.co/image/ab67616d0000b27343f44b...  ...   0.751
+6  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...    0.26
+5  https://i.scdn.co/image/ab67616d0000b273aa839b...  ...   0.946
+4  https://i.scdn.co/image/ab67616d0000b27383cd9f...  ...   0.804
+3  https://i.scdn.co/image/ab67616d0000b273a5aef9...  ...  0.0223
+2  https://i.scdn.co/image/ab67616d0000b273281b57...  ...   0.188
+1  https://i.scdn.co/image/ab67616d0000b2737fcead...  ...   0.631
+0  https://i.scdn.co/image/ab67616d0000b273d9194a...  ...   0.568
+
+[9 rows x 10 columns]
+('Rows: ', 9)
+Saved!
+
