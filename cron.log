@@ -57613,3 +57613,30 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 3fd49ee] updating daily data 2021-03-05 06:00:03.194050
+ 3 files changed, 22 insertions(+), 1 deletion(-)
+2021-03-05 06:00:02.172468
+Auth happening...
+Getting songs
+Creating dataframe...
+Plastic Plants
+Love Galore (feat. Travis Scott)
+Time After Time
+Hit the Back
+I Mind
+Hood Rat Shit
+Runaway
+GOT THESE SONGS
+{'played_at': ['05:59', '05:56', '05:51', '05:47', '05:43', '05:43'], 'valence': [0.752, 0.409, 0.324, 0.254, 0.231, 0.729], 'mood_avg': [0.718, 0.6, 0.506, 0.49, 0.434, 0.796], 'danceability': [0.823, 0.795, 0.724, 0.578, 0.648, 0.871], 'energy': [0.441, 0.594, 0.436, 0.784, 0.41, 0.781], 'image': [u'https://i.scdn.co/image/ab67616d0000b2731f8129e7f7b9456b4f54cfbe', u'https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25', u'https://i.scdn.co/image/ab67616d0000b273681265e351fc75e60d0fa50b', u'https://i.scdn.co/image/ab67616d0000b2734746c0bdc8a4d00019f8c8d4', u'https://i.scdn.co/image/ab67616d0000b273a6b49ca72312383b72a8d9b4', u'https://i.scdn.co/image/ab67616d0000b2738fdfd969c0b6375ca22c3fa3'], 'album_name': [u'Isolation Tapes', u'Ctrl', u"She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)", u'Cheap Queen', u'James Blake', u'Fever'], 'song_name': [u'Plastic Plants', u'Love Galore (feat. Travis Scott)', u'Time After Time', u'Hit the Back', u'I Mind', u'Hood Rat Shit'], 'artist_name': [u'Mahalia', u'SZA', u'Cyndi Lauper', u'King Princess', u'James Blake', u'Megan Thee Stallion'], 'track_id': [u'68OnIh4v10tWxZYJTsHJWX', u'0q75NwOoFiARAVp4EXU4Bs', u'1Jj6MF0xDOMA3Ut2Z368Bx', u'3Arv0bXiHn3xNxe5YbqQOr', u'4G1X8COHNmJ8Lp1vux7Ied', u'1hOHLiauos0RROoUxd88mL']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b2738fdfd9...  ...  0.781
+4  https://i.scdn.co/image/ab67616d0000b273a6b49c...  ...   0.41
+3  https://i.scdn.co/image/ab67616d0000b2734746c0...  ...  0.784
+2  https://i.scdn.co/image/ab67616d0000b273681265...  ...  0.436
+1  https://i.scdn.co/image/ab67616d0000b2734c79d5...  ...  0.594
+0  https://i.scdn.co/image/ab67616d0000b2731f8129...  ...  0.441
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
