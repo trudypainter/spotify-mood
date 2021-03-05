@@ -57694,3 +57694,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 48587f4] updating daily data 2021-03-05 09:00:05.825291
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-03-05 09:00:05.065006
+Auth happening...
+Getting songs
+Creating dataframe...
+Cellular
+Deal Wit It
+GOT THESE SONGS
+{'played_at': ['08:19'], 'valence': [0.32], 'mood_avg': [0.535], 'danceability': [0.636], 'energy': [0.763], 'image': [u'https://i.scdn.co/image/ab67616d0000b27328916ffa16f5473ac57ffe84'], 'album_name': [u'Man Alive!'], 'song_name': [u'Cellular'], 'artist_name': [u'King Krule'], 'track_id': [u'0p7oSAo7L1nPXxtGMH3BzW']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b27328916f...  ...  0.763
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
