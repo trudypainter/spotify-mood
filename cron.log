@@ -58248,3 +58248,42 @@ GOT THESE SONGS
 ('Rows: ', 10)
 Saved!
 
+[master 7686059] updating daily data 2021-03-06 11:00:08.338001
+ 3 files changed, 48 insertions(+), 1 deletion(-)
+2021-03-06 11:00:05.706692
+Auth happening...
+Getting songs
+Creating dataframe...
+Foreword (feat. Rex Orange County)
+I Ain't Got Time!
+See You Again (feat. Kali Uchis)
+Garden Shed (feat. Estelle)
+Pothole (feat. Jaden Smith)
+Droppin' Seeds (feat. Lil' Wayne)
+Who Dat Boy (feat. A$AP Rocky)
+pick up the phone
+Harambe
+RiRi
+Future Swag
+Floyd Mayweather (feat. Travis Scott, Gucci Mane and Gunna)
+Kanye West (feat. Wyclef Jean)
+GOT THESE SONGS
+{'played_at': ['10:56', '10:36', '10:32', '10:29', '10:26', '10:22', '10:21', '10:16', '10:12', '10:09', '10:05', '10:02'], 'valence': [0.113, 0.547, 0.62, 0.148, 0.569, 0.413, 0.144, 0.459, 0.218, 0.457, 0.451, 0.806], 'mood_avg': [0.473, 0.583, 0.583, 0.32, 0.559, 0.432, 0.437, 0.609, 0.511, 0.551, 0.583, 0.777], 'danceability': [0.734, 0.549, 0.558, 0.423, 0.543, 0.401, 0.706, 0.706, 0.816, 0.677, 0.674, 0.891], 'energy': [0.671, 0.725, 0.559, 0.456, 0.572, 0.532, 0.485, 0.716, 0.488, 0.489, 0.664, 0.491], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3', u'https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3', u'https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3', u'https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3', u'https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3', u'https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3', u'https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3', u'https://i.scdn.co/image/ab67616d0000b2736f90c4dc2e8599829dae3848', u'https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8', u'https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8', u'https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8', u'https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8'], 'album_name': [u'Flower Boy', u'Flower Boy', u'Flower Boy', u'Flower Boy', u'Flower Boy', u'Flower Boy', u'Flower Boy', u'pick up the phone', u'JEFFERY', u'JEFFERY', u'JEFFERY', u'JEFFERY'], 'song_name': [u'Foreword (feat. Rex Orange County)', u"I Ain't Got Time!", u'See You Again (feat. Kali Uchis)', u'Garden Shed (feat. Estelle)', u'Pothole (feat. Jaden Smith)', u"Droppin' Seeds (feat. Lil' Wayne)", u'Who Dat Boy (feat. A$AP Rocky)', u'pick up the phone', u'Harambe', u'RiRi', u'Future Swag', u'Floyd Mayweather (feat. Travis Scott, Gucci Mane and Gunna)'], 'artist_name': [u'Tyler, The Creator', u'Tyler, The Creator', u'Tyler, The Creator', u'Tyler, The Creator', u'Tyler, The Creator', u'Tyler, The Creator', u'Tyler, The Creator', u'Young Thug', u'Young Thug', u'Young Thug', u'Young Thug', u'Young Thug'], 'track_id': [u'33i3xxHB4YSYGYbtJrwwO8', u'430qNtapCS3Ue1yoSql1oV', u'7KA4W4McWYRpgf0fWsJZWB', u'6ACiYjq5Q7e6BlhZEHz7cd', u'5SxlUF7J8tyFIEF22EomeP', u'39u2PsqrAZpZ0KPx6CjasV', u'21yRtB6B8EMounImAfHRCP', u'4GXl8l1MfZPf2GvpyRPJBf', u'1yKLa9X63tBfvLojNOw9y8', u'20rZiHL20MTJjfhLQZQsm4', u'1ckxFDBKrcepE6pDmayXzP', u'5ALc7rbru6QOLGodVSDocc']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b273d0c722...  ...  0.491
+10  https://i.scdn.co/image/ab67616d0000b273d0c722...  ...  0.664
+9   https://i.scdn.co/image/ab67616d0000b273d0c722...  ...  0.489
+8   https://i.scdn.co/image/ab67616d0000b273d0c722...  ...  0.488
+7   https://i.scdn.co/image/ab67616d0000b2736f90c4...  ...  0.716
+6   https://i.scdn.co/image/ab67616d0000b2738940ac...  ...  0.485
+5   https://i.scdn.co/image/ab67616d0000b2738940ac...  ...  0.532
+4   https://i.scdn.co/image/ab67616d0000b2738940ac...  ...  0.572
+3   https://i.scdn.co/image/ab67616d0000b2738940ac...  ...  0.456
+2   https://i.scdn.co/image/ab67616d0000b2738940ac...  ...  0.559
+1   https://i.scdn.co/image/ab67616d0000b2738940ac...  ...  0.725
+0   https://i.scdn.co/image/ab67616d0000b2738940ac...  ...  0.671
+
+[12 rows x 10 columns]
+('Rows: ', 12)
+Saved!
+
