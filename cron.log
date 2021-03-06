@@ -58213,3 +58213,38 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master 006f956] updating daily data 2021-03-06 10:00:04.625610
+ 3 files changed, 32 insertions(+), 1 deletion(-)
+2021-03-06 10:00:03.275174
+Auth happening...
+Getting songs
+Creating dataframe...
+Kanye West (feat. Wyclef Jean)
+Webbie (feat. Duke)
+Swizz Beatz
+Wyclef Jean
+Guwop (feat. Quavo, Offset and Young Scooter)
+pick up the phone
+Harambe
+RiRi
+Future Swag
+Floyd Mayweather (feat. Travis Scott, Gucci Mane and Gunna)
+Swizz Beatz
+GOT THESE SONGS
+{'played_at': ['09:56', '09:50', '09:46', '09:43', '09:39', '09:34', '09:30', '09:26', '09:22', '09:19'], 'valence': [0.429, 0.273, 0.517, 0.832, 0.482, 0.459, 0.218, 0.457, 0.451, 0.806], 'mood_avg': [0.635, 0.505, 0.646, 0.793, 0.669, 0.609, 0.511, 0.551, 0.583, 0.777], 'danceability': [0.851, 0.696, 0.831, 0.863, 0.883, 0.706, 0.816, 0.677, 0.674, 0.891], 'energy': [0.614, 0.589, 0.532, 0.576, 0.616, 0.716, 0.488, 0.489, 0.664, 0.491], 'image': [u'https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8', u'https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8', u'https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8', u'https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8', u'https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8', u'https://i.scdn.co/image/ab67616d0000b2736f90c4dc2e8599829dae3848', u'https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8', u'https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8', u'https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8', u'https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8'], 'album_name': [u'JEFFERY', u'JEFFERY', u'JEFFERY', u'JEFFERY', u'JEFFERY', u'pick up the phone', u'JEFFERY', u'JEFFERY', u'JEFFERY', u'JEFFERY'], 'song_name': [u'Kanye West (feat. Wyclef Jean)', u'Webbie (feat. Duke)', u'Swizz Beatz', u'Wyclef Jean', u'Guwop (feat. Quavo, Offset and Young Scooter)', u'pick up the phone', u'Harambe', u'RiRi', u'Future Swag', u'Floyd Mayweather (feat. Travis Scott, Gucci Mane and Gunna)'], 'artist_name': [u'Young Thug', u'Young Thug', u'Young Thug', u'Young Thug', u'Young Thug', u'Young Thug', u'Young Thug', u'Young Thug', u'Young Thug', u'Young Thug'], 'track_id': [u'5StUs128KSibE16fxntBSL', u'6pRkwu4Pt9d7Ki6g4ppOYj', u'539wfGOsGcRmT1IBVUfiJV', u'55OdqrG8WLmsYyY1jijD9b', u'1BSA5I386L2IAmFQURYjIz', u'4GXl8l1MfZPf2GvpyRPJBf', u'1yKLa9X63tBfvLojNOw9y8', u'20rZiHL20MTJjfhLQZQsm4', u'1ckxFDBKrcepE6pDmayXzP', u'5ALc7rbru6QOLGodVSDocc']}
+                                               image  ... energy
+9  https://i.scdn.co/image/ab67616d0000b273d0c722...  ...  0.491
+8  https://i.scdn.co/image/ab67616d0000b273d0c722...  ...  0.664
+7  https://i.scdn.co/image/ab67616d0000b273d0c722...  ...  0.489
+6  https://i.scdn.co/image/ab67616d0000b273d0c722...  ...  0.488
+5  https://i.scdn.co/image/ab67616d0000b2736f90c4...  ...  0.716
+4  https://i.scdn.co/image/ab67616d0000b273d0c722...  ...  0.616
+3  https://i.scdn.co/image/ab67616d0000b273d0c722...  ...  0.576
+2  https://i.scdn.co/image/ab67616d0000b273d0c722...  ...  0.532
+1  https://i.scdn.co/image/ab67616d0000b273d0c722...  ...  0.589
+0  https://i.scdn.co/image/ab67616d0000b273d0c722...  ...  0.614
+
+[10 rows x 10 columns]
+('Rows: ', 10)
+Saved!
+
