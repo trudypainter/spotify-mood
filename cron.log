@@ -58020,3 +58020,22 @@ i.scdn.co/image/ab67616d0000b273428f0c...  ...   0.564
 ('Rows: ', 17)
 Saved!
 
+[master e9b00d9] updating daily data 2021-03-05 22:00:03.734921
+ 3 files changed, 22 insertions(+), 2 deletions(-)
+2021-03-05 22:00:02.885769
+Auth happening...
+Getting songs
+Creating dataframe...
+Kyoto
+Hit Me Where It Hurts (feat. Chino Moreno) - Toro y Moi Remix
+Fukk Sleep (feat. FKA twigs)
+GOT THESE SONGS
+{'played_at': ['21:04', '21:01'], 'valence': [0.493, 0.0692], 'mood_avg': [0.585, 0.383], 'danceability': [0.599, 0.57], 'energy': [0.742, 0.637], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b273dd8e1bb04d7ccd8fe3704dde'], 'album_name': [u'Punisher', u'Hit Me Where It Hurts (Toro y Moi Remix)'], 'song_name': [u'Kyoto', u'Hit Me Where It Hurts (feat. Chino Moreno) - Toro y Moi Remix'], 'artist_name': [u'Phoebe Bridgers', u'Caroline Polachek'], 'track_id': [u'49UDOG8DoBajXTJSTqfRMg', u'1uBC1U3los3X6UI8X9e3hj']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273dd8e1b...  ...  0.637
+0  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...  0.742
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
