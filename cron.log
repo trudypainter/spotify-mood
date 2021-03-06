@@ -58192,3 +58192,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 8b972e2] updating daily data 2021-03-06 09:00:03.988952
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-03-06 09:00:03.174576
+Auth happening...
+Getting songs
+Creating dataframe...
+Swizz Beatz
+Kanye West (feat. Wyclef Jean)
+Stay Flo
+Charcoal Baby
+GOT THESE SONGS
+{'played_at': ['08:57', '08:53', '08:48'], 'valence': [0.517, 0.429, 0.674], 'mood_avg': [0.646, 0.635, 0.71], 'danceability': [0.831, 0.851, 0.823], 'energy': [0.532, 0.614, 0.558], 'image': [u'https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8', u'https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc'], 'album_name': [u'JEFFERY', u'JEFFERY', u'When I Get Home'], 'song_name': [u'Swizz Beatz', u'Kanye West (feat. Wyclef Jean)', u'Stay Flo'], 'artist_name': [u'Young Thug', u'Young Thug', u'Solange'], 'track_id': [u'539wfGOsGcRmT1IBVUfiJV', u'5StUs128KSibE16fxntBSL', u'6GCIYIWUBSLontW6divqsw']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.558
+1  https://i.scdn.co/image/ab67616d0000b273d0c722...  ...  0.614
+0  https://i.scdn.co/image/ab67616d0000b273d0c722...  ...  0.532
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
