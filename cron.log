@@ -57926,3 +57926,79 @@ image/ab67616d0000b2732bb07f...  ...  0.817
 ('Rows: ', 14)
 Saved!
 
+[master 4f71b64] updating daily data 2021-03-05 19:00:04.590618
+ 3 files changed, 12 insertions(+), 2 deletions(-)
+2021-03-05 19:00:03.470894
+Auth happening...
+Getting songs
+Creating dataframe...
+She Wanna Party (feat. Millie Go Lightly)
+Take Care
+Future Swag
+Badibaba
+GOT THESE SONGS
+{'played_at': ['18:46', '18:41', '18:23'], 'valence': [0.388, 0.637, 0.451], 'mood_avg': [0.486, 0.677, 0.583], 'danceability': [0.578, 0.718, 0.674], 'energy': [0.5, 0.675, 0.664], 'image': [u'https://i.scdn.co/image/ab67616d0000b273419cedff7b313b962a93932e', u'https://i.scdn.co/image/ab67616d0000b273419cedff7b313b962a93932e', u'https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8'], 'album_name': [u'Beautiful Thugger Girls', u'Beautiful Thugger Girls', u'JEFFERY'], 'song_name': [u'She Wanna Party (feat. Millie Go Lightly)', u'Take Care', u'Future Swag'], 'artist_name': [u'Young Thug', u'Young Thug', u'Young Thug'], 'track_id': [u'3WL6yCfh0zw2MxVSWSe0G1', u'1mB1N8BVAN3BeyOes2uj1E', u'1ckxFDBKrcepE6pDmayXzP']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273d0c722...  ...  0.664
+1  https://i.scdn.co/image/ab67616d0000b273419ced...  ...  0.675
+0  https://i.scdn.co/image/ab67616d0000b273419ced...  ...    0.5
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
+2021-03-05 20:00:03.320234
+Auth happening...
+Getting songs
+Creating dataframe...
+Day 7.5093
+Good Days
+Do U Love Me
+Daddy's Birthday
+She Wanna Party (feat. Millie Go Lightly)
+Tomorrow 'Til Infinity (feat. Gunna)
+Family Don't Matter (feat. Millie Go Lightly)
+She Wanna Party (feat. Millie Go Lightly)
+GOT THESE SONGS
+{'played_at': ['19:53', '19:49', '19:36', '19:32', '19:29', '19:25', '19:21'], 'valence': [0.799, 0.412, 0.713, 0.269, 0.388, 0.283, 0.691], 'mood_avg': [0.76, 0.47, 0.727, 0.52, 0.486, 0.558, 0.616], 'danceability': [0.809, 0.436, 0.8, 0.845, 0.578, 0.855, 0.63], 'energy': [0.583, 0.655, 0.607, 0.37, 0.5, 0.516, 0.436], 'image': [u'https://i.scdn.co/image/ab67616d0000b27311601bea0d8dbca101872a94', u'https://i.scdn.co/image/ab67616d0000b2733097b1375ab17ae5bf302a0a', u'https://i.scdn.co/image/ab67616d0000b273419cedff7b313b962a93932e', u'https://i.scdn.co/image/ab67616d0000b273419cedff7b313b962a93932e', u'https://i.scdn.co/image/ab67616d0000b273419cedff7b313b962a93932e', u'https://i.scdn.co/image/ab67616d0000b273419cedff7b313b962a93932e', u'https://i.scdn.co/image/ab67616d0000b273419cedff7b313b962a93932e'], 'album_name': [u'Feeling Lucky?', u'Good Days', u'Beautiful Thugger Girls', u'Beautiful Thugger Girls', u'Beautiful Thugger Girls', u'Beautiful Thugger Girls', u'Beautiful Thugger Girls'], 'song_name': [u'Day 7.5093', u'Good Days', u'Do U Love Me', u"Daddy's Birthday", u'She Wanna Party (feat. Millie Go Lightly)', u"Tomorrow 'Til Infinity (feat. Gunna)", u"Family Don't Matter (feat. Millie Go Lightly)"], 'artist_name': [u'Nil\xfcfer Yanya', u'SZA', u'Young Thug', u'Young Thug', u'Young Thug', u'Young Thug', u'Young Thug'], 'track_id': [u'3a4jtq7w9N7qOrIjCaxO8v', u'3YJJjQPAbDT7mGpX3WtQ9A', u'0whCNZKidgBNhuPW41vYpg', u'347hgqCHnL4GfgVX5hZfNv', u'3WL6yCfh0zw2MxVSWSe0G1', u'6Zm6fxOVPzyArjrNPx9LRe', u'445YTBOjx9kYThBepGA9au']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b273419ced...  ...  0.436
+5  https://i.scdn.co/image/ab67616d0000b273419ced...  ...  0.516
+4  https://i.scdn.co/image/ab67616d0000b273419ced...  ...    0.5
+3  https://i.scdn.co/image/ab67616d0000b273419ced...  ...   0.37
+2  https://i.scdn.co/image/ab67616d0000b273419ced...  ...  0.607
+1  https://i.scdn.co/image/ab67616d0000b2733097b1...  ...  0.655
+0  https://i.scdn.co/image/ab67616d0000b27311601b...  ...  0.583
+
+[7 rows x 10 columns]
+2021-03-05 21:00:03.198685
+Auth happening...
+Getting songs
+Creating dataframe...
+Fukk Sleep (feat. FKA twigs)
+We Will Always Love You
+Location
+Whoopty
+Graceland Too
+Rosa
+Under The Moon
+Blue Moon
+iMi
+Time
+The Other Lover (Little Dragon & Moses Sumney)
+CALL ME (Freestyle)
+Apple Pie
+Velvet 4 Sale
+Atomic Vomit
+Foreign
+ICU
+4 American Dollars
+GOT THESE SONGS
+{'played_at': ['20:57', '20:54', '20:51', '20:48', '20:46', '20:42', '20:39', '20:35', '20:32', '20:29', '20:21', '20:17', '20:14', '20:11', '20:07', '20:05', '20:02'], 'valence': [0.304, 0.176, 0.371, 0.66, 0.361, 0.374, 0.206, 0.377, 0.523, 0.365, 0.475, 0.47, 0.28, 0.458, 0.882, 0.6, 0.429], 'mood_avg': [0.523, 0.41, 0.593, 0.681, 0.388, 0.541, 0.509, 0.311, 0.484, 0.513, 0.533, 0.6, 0.473, 0.523, 0.726, 0.714, 0.506], 'danceability': [0.798, 0.535, 0.717, 0.719, 0.44, 0.756, 0.761, 0.365, 0.489, 0.503, 0.633, 0.749, 0.655, 0.461, 0.667, 0.789, 0.507], 'energy': [0.412, 0.626, 0.79, 0.648, 0.34, 0.446, 0.611, 0.0698, 0.396, 0.828, 0.451, 0.564, 0.496, 0.777, 0.532, 0.79, 0.658], 'image': [u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1', u'https://i.scdn.co/image/ab67616d0000b2735038c2513329a3123b62923d', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b273fcf08591df007c694ec0c211', u'https://i.scdn.co/image/ab67616d0000b2738c17795e2aa69e1afd662c45', u'https://i.scdn.co/image/ab67616d0000b273240c453ba41b82735fa1c233', u'https://i.scdn.co/image/ab67616d0000b2735cc90d375ab1e4423615654c', u'https://i.scdn.co/image/ab67616d0000b2731fe365b735112bcc5ebb4917', u'https://i.scdn.co/image/ab67616d0000b273351ece2394f2787dd99b414b', u'https://i.scdn.co/image/ab67616d0000b273428f0c9bee39cd8298f31718', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b2731fe365b735112bcc5ebb4917', u'https://i.scdn.co/image/ab67616d0000b273c3545bbe806b845c2b52bc20', u'https://i.scdn.co/image/ab67616d0000b2734fc7642b4b9dfc5088c45880', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add'], 'album_name': [u'TESTING', u'We Will Always Love You', u'Playboi Carti', u'Whoopty', u'Punisher', u'Geidi Primes', u'Under The Moon', u'Manhattan Special', u'i,i', u'In A Poem Unlimited', u'The Other Lover (Little Dragon & Moses Sumney)', u'CALL ME (Freestyle)', u'Rodeo (Expanded Edition)', u'In A Poem Unlimited', u'The Lo-Fis', u'Herstory in the Making', u'Punisher'], 'song_name': [u'Fukk Sleep (feat. FKA twigs)', u'We Will Always Love You', u'Location', u'Whoopty', u'Graceland Too', u'Rosa', u'Under The Moon', u'Blue Moon', u'iMi', u'Time', u'The Other Lover (Little Dragon & Moses Sumney)', u'CALL ME (Freestyle)', u'Apple Pie', u'Velvet 4 Sale', u'Atomic Vomit', u'Foreign', u'ICU'], 'artist_name': [u'A$AP Rocky', u'The Avalanches', u'Playboi Carti', u'CJ', u'Phoebe Bridgers', u'Grimes', u'070 Shake', u'Onyx Collective', u'Bon Iver', u'U.S. Girls', u'Little Dragon', u'Blood Orange', u'Travis Scott', u'U.S. Girls', u'Steve Lacy', u'Young M.A', u'Phoebe Bridgers'], 'track_id': [u'1AqemxWsT0iGg5Lvkm16Bt', u'51wxtCuipwjvvT99wsSmCc', u'3yk7PJnryiJ8mAPqsrujzf', u'5vGLcdRuSbUhD8ScwsGSdA', u'44spdItKKM7rOtKswbBG0U', u'47iQwtwCY9hrj7gCeO70s5', u'3RDgzyHD6uMNdCVnQIkD32', u'6OdgnDlPaGOqJCUWtfCzVi', u'5p2vqFW6PVyE38GJlCVIHv', u'7vZpXEMtxxXrYvHoANeYRH', u'3U12nxwFolQ6hsG6zcyEqc', u'1awc3w3LUJOK8TwD17bQLZ', u'6scpNkWEmUxmKY7nYjVLsX', u'2onVAZJVHZMn5Nhpen89FF', u'3YBfHJTZPHn5DqgMnD6g5g', u'5hp38gaZUvwjFrqYkru886', u'38KCyQcBswyAd7xSQnDIU4']}
+                                                image  ...  energy
+16  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.658
+15  https://i.scdn.co/image/ab67616d0000b2734fc764...  ...    0.79
+14  https://i.scdn.co/image/ab67616d0000b273c3545b...  ...   0.532
+13  https://i.scdn.co/image/ab67616d0000b2731fe365...  ...   0.777
+12  https://i.scdn.co/image/ab67616d0000b273743317...  ...   0.496
+11  https://
