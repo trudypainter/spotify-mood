@@ -58287,3 +58287,22 @@ GOT THESE SONGS
 ('Rows: ', 12)
 Saved!
 
+[master d90b6a5] updating daily data 2021-03-06 12:00:04.155049
+ 3 files changed, 42 insertions(+), 1 deletion(-)
+2021-03-06 12:00:03.176588
+Auth happening...
+Getting songs
+Creating dataframe...
+Glitter
+911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)
+Foreword (feat. Rex Orange County)
+GOT THESE SONGS
+{'played_at': ['11:04', '11:01'], 'valence': [0.371, 0.297], 'mood_avg': [0.415, 0.433], 'danceability': [0.449, 0.48], 'energy': [0.434, 0.61], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3', u'https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3'], 'album_name': [u'Flower Boy', u'Flower Boy'], 'song_name': [u'Glitter', u'911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)'], 'artist_name': [u'Tyler, The Creator', u'Tyler, The Creator'], 'track_id': [u'0qtK3XwbuG153dmwB8iepL', u'4bEcoz1OcfMgUbp2ft8ieQ']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b2738940ac...  ...   0.61
+0  https://i.scdn.co/image/ab67616d0000b2738940ac...  ...  0.434
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
