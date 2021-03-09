@@ -58325,3 +58325,19 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master 3dcb101] updating daily data 2021-03-08 21:00:04.152697
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2021-03-08.csv
+2021-03-08 21:00:03.258221
+Auth happening...
+Getting songs
+Creating dataframe...
+Kill Jill (feat. Killer Mike & Jeezy)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
