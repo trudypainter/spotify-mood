@@ -58306,3 +58306,22 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master 5073a4c] updating daily data 2021-03-06 16:00:04.782094
+ 3 files changed, 22 insertions(+), 1 deletion(-)
+2021-03-06 16:00:03.911176
+Auth happening...
+Getting songs
+Creating dataframe...
+Hit the Back
+Plastic Plants
+Crowned
+GOT THESE SONGS
+{'played_at': ['15:07', '15:04'], 'valence': [0.254, 0.752], 'mood_avg': [0.49, 0.718], 'danceability': [0.578, 0.823], 'energy': [0.784, 0.441], 'image': [u'https://i.scdn.co/image/ab67616d0000b2734746c0bdc8a4d00019f8c8d4', u'https://i.scdn.co/image/ab67616d0000b2731f8129e7f7b9456b4f54cfbe'], 'album_name': [u'Cheap Queen', u'Isolation Tapes'], 'song_name': [u'Hit the Back', u'Plastic Plants'], 'artist_name': [u'King Princess', u'Mahalia'], 'track_id': [u'3Arv0bXiHn3xNxe5YbqQOr', u'68OnIh4v10tWxZYJTsHJWX']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b2731f8129...  ...  0.441
+0  https://i.scdn.co/image/ab67616d0000b2734746c0...  ...  0.784
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
