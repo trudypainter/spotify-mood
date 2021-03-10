@@ -58717,3 +58717,60 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master eeac062] updating daily data 2021-03-10 13:00:05.433944
+ 3 files changed, 22 insertions(+), 1 deletion(-)
+2021-03-10 13:00:04.385890
+Auth happening...
+Getting songs
+Creating dataframe...
+Take Yo Man
+Period (We Live)
+Fuck Em Up Sis
+Lotta Dem
+Up
+Spend It
+Bad Company (feat. BlocBoy JB)
+GOT THESE SONGS
+{'played_at': ['12:56', '12:53', '12:48', '12:46', '12:44', '12:41'], 'valence': [0.631, 0.581, 0.878, 0.74, 0.819, 0.591], 'mood_avg': [0.719, 0.731, 0.883, 0.79, 0.834, 0.748], 'danceability': [0.772, 0.889, 0.975, 0.945, 0.868, 0.855], 'energy': [0.787, 0.715, 0.71, 0.582, 0.795, 0.85], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e219b58eb8863c84656cf27e', u'https://i.scdn.co/image/ab67616d0000b273e219b58eb8863c84656cf27e', u'https://i.scdn.co/image/ab67616d0000b2737c7570ce645ed85926ba4847', u'https://i.scdn.co/image/ab67616d0000b273c1ce702aeac52daf6c411940', u'https://i.scdn.co/image/ab67616d0000b273d619b8baab0619516bb53804', u'https://i.scdn.co/image/ab67616d0000b273fc26c1e9b1cc4ecd87e9ddef'], 'album_name': [u'PERIOD', u'PERIOD', u'Big Renni', u'Lotta Dem', u'Up', u'In My Defense'], 'song_name': [u'Take Yo Man', u'Period (We Live)', u'Fuck Em Up Sis', u'Lotta Dem', u'Up', u'Spend It'], 'artist_name': [u'City Girls', u'City Girls', u'Renni Rucci', u'Bhad Bhabie', u'Cardi B', u'Iggy Azalea'], 'track_id': [u'5aOpKCKguEnViGOKZxZern', u'1FdjGON62xLxgPZW8BGeHS', u'4nGcWTm8Z7EI7YONZB7NCN', u'1kZXfGgTonj3XKLAjbpCve', u'1XXimziG1uhM0eDNCZCrUl', u'3OZx5gAoBKRRRalxNvvt2K']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b273fc26c1...  ...   0.85
+4  https://i.scdn.co/image/ab67616d0000b273d619b8...  ...  0.795
+3  https://i.scdn.co/image/ab67616d0000b273c1ce70...  ...  0.582
+2  https://i.scdn.co/image/ab67616d0000b2737c7570...  ...   0.71
+1  https://i.scdn.co/image/ab67616d0000b273e219b5...  ...  0.715
+0  https://i.scdn.co/image/ab67616d0000b273e219b5...  ...  0.787
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
+2021-03-10 14:00:15.003971
+Auth happening...
+Getting songs
+Creating dataframe...
+Link Up (feat. Pooh Shiesty)
+44 BullDog
+Havin My Way (feat. Lil Durk)
+Save That Shit
+Said Sum
+Gassed Up
+Lesbian (feat. Gunna & Young Thug)
+Clout Chasin'
+Realer
+Sugar Honey Iced Tea (S.H.I.T.)
+Fuck It Up (feat. Kash Doll)
+Lame Niggaz
+My Type
+Boss Ass Bitch
+Big Mouth
+My Way
+Barbie Dreams
+Take Yo Man
+GOT THESE SONGS
+{'played_at': ['13:48', '13:44', '13:42', '13:38', '13:35', '13:32', '13:29', '13:25', '13:22', '13:20', '13:17', '13:14', '13:11', '13:09', '13:06', '13:03', '13:01'], 'valence': [0.343, 0.318, 0.712, 0.487, 0.274, 0.45, 0.274, 0.429, 0.437, 0.352, 0.459, 0.46, 0.587, 0.675, 0.603, 0.512, 0.694], 'mood_avg': [0.587, 0.56, 0.753, 0.578, 0.615, 0.613, 0.511, 0.615, 0.675, 0.532, 0.698, 0.662, 0.757, 0.782, 0.688, 0.705, 0.774], 'danceability': [0.786, 0.8, 0.802, 0.545, 0.929, 0.798, 0.8, 0.789, 0.934, 0.747, 0.926, 0.901, 0.899, 0.953, 0.787, 0.846, 0.848], 'energy': [0.677, 0.564, 0.737, 0.826, 0.667, 0.568, 0.406, 0.638, 0.631, 0.461, 0.719, 0.586, 0.811, 0.652, 0.658, 0.809, 0.786], 'image': [u'https://i.scdn.co/image/ab67616d0000b273744d730c4a958440105c3029', u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369', u'https://i.scdn.co/image/ab67616d0000b2733f0bd1cb407beb4cfb66aa69', u'https://i.scdn.co/image/ab67616d0000b273f4a78915bb0467ed5bf21ff3', u'https://i.scdn.co/image/ab67616d0000b273b0c27c2c071c9dbef50ee8d9', u'https://i.scdn.co/image/ab67616d0000b2734161f4ebfe8106839f2292a2', u'https://i.scdn.co/image/ab67616d0000b2732887f8c05b5a9f1cb105be29', u'https://i.scdn.co/image/ab67616d0000b27355eacf604f263cc9347e03e7', u'https://i.scdn.co/image/ab67616d0000b2738fdfd969c0b6375ca22c3fa3', u'https://i.scdn.co/image/ab67616d0000b273f50972190d5fcf7eec01fe38', u'https://i.scdn.co/image/ab67616d0000b273fc26c1e9b1cc4ecd87e9ddef', u'https://i.scdn.co/image/ab67616d0000b273f0039cdbc38b4b4251d6bd8e', u'https://i.scdn.co/image/ab67616d0000b27359dc6229be2836d4d432b2f0', u'https://i.scdn.co/image/ab67616d0000b273c4a6ea574ca69c4e34a1d54e', u'https://i.scdn.co/image/ab67616d0000b2737e2a764acc9734235656c1fd', u'https://i.scdn.co/image/ab67616d0000b2730f1773520b5fc55a0794dcb4', u'https://i.scdn.co/image/ab67616d0000b273fc8c64bfc4323ff7ce68fea8'], 'album_name': [u'CRIPTAPE', u'Shoot For The Stars Aim For The Moon', u'Unbothered', u'Back from the Dead', u'Code Red', u'Gassed Up', u'NOT ALL HEROES WEAR CAPES (Deluxe)', u'Girl Code', u'Fever', u'Everything is Beautiful', u'In My Defense', u'Lame Niggaz', u'ICY', u'Boss Ass Bitch', u'Big Mouth', u'Eat My Pussy', u'Queen (Deluxe)'], 'song_name': [u'Link Up (feat. Pooh Shiesty)', u'44 BullDog', u'Havin My Way (feat. Lil Durk)', u'Save That Shit', u'Said Sum', u'Gassed Up', u'Lesbian (feat. Gunna & Young Thug)', u"Clout Chasin'", u'Realer', u'Sugar Honey Iced Tea (S.H.I.T.)', u'Fuck It Up (feat. Kash Doll)', u'Lame Niggaz', u'My Type', u'Boss Ass Bitch', u'Big Mouth', u'My Way', u'Barbie Dreams'], 'artist_name': [u'Lil Loaded', u'Pop Smoke', u'Lil Skies', u'Chief Keef', u'Moneybagg Yo', u'Nebu Kiniza', u'Metro Boomin', u'City Girls', u'Megan Thee Stallion', u'Princess Nokia', u'Iggy Azalea', u'Asian Doll', u'Saweetie', u'Pretty Taking All Fades', u'Rubi Rose', u'Queen Key', u'Nicki Minaj'], 'track_id': [u'2HScVhNGt7DltJYrph09Ee', u'7sjFIZ1g5QLJLGja3k592K', u'3TcKJZF01kCz0yyadk3gsI', u'0uATCc7skXRKGBYp4FHdBZ', u'3sKz6Sd72K0ofPWcJPPk6H', u'6JjEVlMkfHWMeYavkEYzNO', u'6vG3Zv9VEA6YbJPJ6ar5Y7', u'6hAEJe9OSWNt0dac1ijbsV', u'3qVNNJ7f9RQeNR4iPIeS0c', u'32mS3YkFXkUab2By9hjCRa', u'3gYa14ysEHnFg2zryAbvDO', u'24amfspED8GCMGkRQQ6FLz', u'5KBARWIxeMGkvUax9VtVC9', u'7HcLUIK6my4c0CqjLxQGvr', u'3MPTswx7dlPqibY1ikZqgE', u'0ChBY4SDZOrsfRCRiXAVXz', u'28eiD8ukLWhTvoDm1ZFPK0']}
+                                                image  ... energy
+16  https://i.scdn.co/image/ab67616d0000b273fc8c64...  ...  0.786
+15  https://i.scdn.co/image/ab67616d0000b2730f1773...  ...  0.809
+14  https://i.scdn.co/image/ab67616d0000b2737e2a76...  ...  0.658
+13  https://i.scdn.co/image/ab67616d0000b273c4a6ea...  ...  0.652
+12  https://
