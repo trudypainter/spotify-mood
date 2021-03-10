@@ -58672,3 +58672,18 @@ GOT THESE SONGS
 ('Rows: ', 7)
 Saved!
 
+[master c02f719] updating daily data 2021-03-10 10:00:05.145025
+ 2 files changed, 30 insertions(+), 1 deletion(-)
+2021-03-10 10:00:04.481301
+Auth happening...
+Getting songs
+Creating dataframe...
+Bad Company (feat. BlocBoy JB)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
