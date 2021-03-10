@@ -58643,3 +58643,32 @@ Saved!
 2021-03-10 08:00:03.109233
 Auth happening...
 Getting songs
+[master 90ec31d] updating daily data 2021-03-10 09:00:04.657233
+ 3 files changed, 38 insertions(+), 1 deletion(-)
+2021-03-10 09:00:03.374671
+Auth happening...
+Getting songs
+Creating dataframe...
+Bad Company (feat. BlocBoy JB)
+Sky
+Money Longer
+Low Life (feat. The Weeknd)
+That's It
+Slippery (feat. Gucci Mane)
+Don't Touch Me (feat. KEY)
+JAPAN
+GOT THESE SONGS
+{'played_at': ['08:59', '08:56', '08:52', '08:49', '08:44', '08:42', '08:37'], 'valence': [0.343, 0.565, 0.478, 0.102, 0.122, 0.741, 0.484], 'mood_avg': [0.603, 0.721, 0.623, 0.396, 0.44, 0.799, 0.659], 'danceability': [0.901, 0.785, 0.795, 0.722, 0.671, 0.92, 0.714], 'energy': [0.529, 0.903, 0.568, 0.331, 0.616, 0.674, 0.897], 'image': [u'https://i.scdn.co/image/ab67616d0000b273f669edbfecf19e5725b7af6c', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b2738be07181aa935225a6f25d56', u'https://i.scdn.co/image/ab67616d0000b273626745b3aa04899001a924ad', u'https://i.scdn.co/image/ab67616d0000b273fac090a59ca8c44feca0073d', u'https://i.scdn.co/image/ab67616d0000b27399a8ab6da9d593939302828a', u'https://i.scdn.co/image/ab67616d0000b2739151691fbd8b30675e5bb315'], 'album_name': [u'Bad Company (feat. BlocBoy JB)', u'Whole Lotta Red', u'Lil Uzi Vert vs. The World', u'EVOL', u'The Leek (Vol. 3)', u'Culture', u'Ethernet'], 'song_name': [u'Bad Company (feat. BlocBoy JB)', u'Sky', u'Money Longer', u'Low Life (feat. The Weeknd)', u"That's It", u'Slippery (feat. Gucci Mane)', u"Don't Touch Me (feat. KEY)"], 'artist_name': [u'A$AP Rocky', u'Playboi Carti', u'Lil Uzi Vert', u'Future', u'Chief Keef', u'Migos', u'Wifisfuneral'], 'track_id': [u'3ZYwSDF9knZI0RVlKR4PHC', u'29TPjc8wxfz4XMn21O7VsZ', u'0B8QzDH7YWih85V5SEMnyJ', u'7EiZI6JVHllARrX9PUvAdX', u'0v0BxvMVMiNlu938A21c6p', u'6p8NuHm8uCGnn2Dtbtf7zE', u'5hCjqEyTxhzc4ApKchwIgU']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b273915169...  ...  0.897
+5  https://i.scdn.co/image/ab67616d0000b27399a8ab...  ...  0.674
+4  https://i.scdn.co/image/ab67616d0000b273fac090...  ...  0.616
+3  https://i.scdn.co/image/ab67616d0000b273626745...  ...  0.331
+2  https://i.scdn.co/image/ab67616d0000b2738be071...  ...  0.568
+1  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.903
+0  https://i.scdn.co/image/ab67616d0000b273f669ed...  ...  0.529
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
