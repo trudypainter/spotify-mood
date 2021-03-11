@@ -59071,3 +59071,38 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 405c9db] updating daily data 2021-03-11 07:00:05.566085
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-03-11 07:00:04.067831
+Auth happening...
+Getting songs
+Creating dataframe...
+Webbie (feat. Duke)
+Fukk Sleep (feat. FKA twigs)
+PUPPET
+ALMOST
+Everything We Need
+Envy Me
+Worth It
+Blicky
+VIBEZ
+Want Some More
+Shake That
+GOT THESE SONGS
+{'played_at': ['06:59', '06:55', '06:52', '06:49', '06:46', '06:44', '06:42', '06:39', '06:37', '06:07'], 'valence': [0.273, 0.304, 0.199, 0.769, 0.463, 0.584, 0.112, 0.828, 0.777, 0.214], 'mood_avg': [0.505, 0.523, 0.394, 0.747, 0.626, 0.627, 0.373, 0.822, 0.748, 0.516], 'danceability': [0.696, 0.798, 0.508, 0.868, 0.894, 0.74, 0.604, 0.866, 0.768, 0.842], 'energy': [0.589, 0.412, 0.557, 0.463, 0.416, 0.488, 0.435, 0.723, 0.652, 0.466], 'image': [u'https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8', u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b', u'https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57', u'https://i.scdn.co/image/ab67616d0000b27394f60de3e7520addebf23641', u'https://i.scdn.co/image/ab67616d0000b2731bb797bbfe2480650b6c2964', u'https://i.scdn.co/image/ab67616d0000b2735f75220f317b41171e88209e', u'https://i.scdn.co/image/ab67616d0000b273a875c3ec944b4f164ab5c350', u'https://i.scdn.co/image/ab67616d0000b273fc22b0ce07f38f096102c1a7', u'https://i.scdn.co/image/ab67616d0000b273f2b94b2fda4f08836d6371ba', u'https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458'], 'album_name': [u'JEFFERY', u'TESTING', u'IGOR', u'VALEDICTORIAN', u'JESUS IS KING', u'Wildboy', u'Slime Season 3', u'Bawskee', u'KIRK', u'The Pinkprint (Deluxe)'], 'song_name': [u'Webbie (feat. Duke)', u'Fukk Sleep (feat. FKA twigs)', u'PUPPET', u'ALMOST', u'Everything We Need', u'Envy Me', u'Worth It', u'Blicky', u'VIBEZ', u'Want Some More'], 'artist_name': [u'Young Thug', u'A$AP Rocky', u'Tyler, The Creator', u'DDG', u'Kanye West', u'Calboy', u'Young Thug', u'Comethazine', u'DaBaby', u'Nicki Minaj'], 'track_id': [u'6pRkwu4Pt9d7Ki6g4ppOYj', u'1AqemxWsT0iGg5Lvkm16Bt', u'0wEC0GNF74lAqrEFZJMl1m', u'4UJdEn1sYTNyerQei1fBSA', u'24bnCCysWnbNRNUT4LpHcP', u'7rvyVWja33WG9R97oeJAjx', u'5QCr1xFufKJOTkpcR9ih24', u'4qV94iGIOJjCswEJfPB8tf', u'0fySG6A6qLE8IvDpayb5bM', u'6cJ7CoT1gJ89Xy7NJXIInt']}
+                                               image  ... energy
+9  https://i.scdn.co/image/ab67616d0000b2730f79d1...  ...  0.466
+8  https://i.scdn.co/image/ab67616d0000b273f2b94b...  ...  0.652
+7  https://i.scdn.co/image/ab67616d0000b273fc22b0...  ...  0.723
+6  https://i.scdn.co/image/ab67616d0000b273a875c3...  ...  0.435
+5  https://i.scdn.co/image/ab67616d0000b2735f7522...  ...  0.488
+4  https://i.scdn.co/image/ab67616d0000b2731bb797...  ...  0.416
+3  https://i.scdn.co/image/ab67616d0000b27394f60d...  ...  0.463
+2  https://i.scdn.co/image/ab67616d0000b273700588...  ...  0.557
+1  https://i.scdn.co/image/ab67616d0000b2739feadc...  ...  0.412
+0  https://i.scdn.co/image/ab67616d0000b273d0c722...  ...  0.589
+
+[10 rows x 10 columns]
+('Rows: ', 10)
+Saved!
+
