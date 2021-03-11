@@ -59182,3 +59182,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 26932e1] updating daily data 2021-03-11 13:00:04.328799
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-03-11 13:00:03.450387
+Auth happening...
+Getting songs
+Creating dataframe...
+Dancing On My Own
+Time Flies
+Dark & Handsome - A COLORS SHOW
+GOT THESE SONGS
+{'played_at': ['12:18', '12:13'], 'valence': [0.28, 0.91], 'mood_avg': [0.557, 0.789], 'danceability': [0.678, 0.596], 'energy': [0.871, 0.933], 'image': [u'https://i.scdn.co/image/ab67616d0000b27314e2eafece9d75406a591978', u'https://i.scdn.co/image/ab67616d0000b2733943a3a1fc6dd6b1df92398b'], 'album_name': [u'Body Talk Pt. 1', u'Time Flies'], 'song_name': [u'Dancing On My Own', u'Time Flies'], 'artist_name': [u'Robyn', u'Rico Nasty'], 'track_id': [u'3Rc2ajBMInxeNGVkMPC92Y', u'2QXB9GugNcZqXrDXYowISU']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b2733943a3...  ...  0.933
+0  https://i.scdn.co/image/ab67616d0000b27314e2ea...  ...  0.871
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
