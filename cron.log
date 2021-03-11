@@ -58838,3 +58838,42 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 0eda0b9] updating daily data 2021-03-10 18:00:04.103011
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-03-10 18:00:03.415114
+Auth happening...
+Getting songs
+Creating dataframe...
+Link Up (feat. Pooh Shiesty)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-03-10 19:00:03.445874
+Auth happening...
+Getting songs
+Creating dataframe...
+ILoveUIHateU
+Atomic Vomit
+Warm (feat. HAIM)
+Safety Net
+Blue Moon
+forever
+NO DRIBBLE (with Stunna 4 Vegas)
+Link Up (feat. Pooh Shiesty)
+GOT THESE SONGS
+{'played_at': ['18:22', '18:20', '18:18', '18:14', '18:10', '18:07', '18:03'], 'valence': [0.108, 0.882, 0.396, 0.322, 0.377, 0.462, 0.799], 'mood_avg': [0.455, 0.726, 0.482, 0.429, 0.311, 0.601, 0.734], 'danceability': [0.684, 0.667, 0.518, 0.565, 0.365, 0.577, 0.785], 'energy': [0.693, 0.532, 0.58, 0.371, 0.0698, 0.927, 0.504], 'image': [u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b273c3545bbe806b845c2b52bc20', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273a59c1c25139409626a40fc37', u'https://i.scdn.co/image/ab67616d0000b273240c453ba41b82735fa1c233', u'https://i.scdn.co/image/ab67616d0000b273664e38c99d077cc52ab48914', u'https://i.scdn.co/image/ab67616d0000b273e9b41d0a652e4697d563b512'], 'album_name': [u'Whole Lotta Red', u'The Lo-Fis', u'Charli', u'Miss Universe', u'Manhattan Special', u"how i'm feeling now", u'NO DRIBBLE (with Stunna 4 Vegas)'], 'song_name': [u'ILoveUIHateU', u'Atomic Vomit', u'Warm (feat. HAIM)', u'Safety Net', u'Blue Moon', u'forever', u'NO DRIBBLE (with Stunna 4 Vegas)'], 'artist_name': [u'Playboi Carti', u'Steve Lacy', u'Charli XCX', u'Nil\xfcfer Yanya', u'Onyx Collective', u'Charli XCX', u'DaBaby'], 'track_id': [u'1BpKJw4RZxaFB88NE5uxXf', u'3YBfHJTZPHn5DqgMnD6g5g', u'2xHEAdEalJ5YcP0ur8kF6L', u'5re19xiUldb7JxTwSsLnfP', u'6OdgnDlPaGOqJCUWtfCzVi', u'5GsJIVCBFjhCcUwJaTW2sB', u'69CQe4ekUZ7txcSfEXYFW9']}
+                                               image  ...  energy
+6  https://i.scdn.co/image/ab67616d0000b273e9b41d...  ...   0.504
+5  https://i.scdn.co/image/ab67616d0000b273664e38...  ...   0.927
+4  https://i.scdn.co/image/ab67616d0000b273240c45...  ...  0.0698
+3  https://i.scdn.co/image/ab67616d0000b273a59c1c...  ...   0.371
+2  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...    0.58
+1  https://i.scdn.co/image/ab67616d0000b273c3545b...  ...   0.532
+0  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...   0.693
+
+[7 rows x 10 columns]
