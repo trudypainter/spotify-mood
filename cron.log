@@ -58907,3 +58907,40 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 5487a52] updating daily data 2021-03-10 22:00:04.993237
+ 3 files changed, 27 insertions(+), 1 deletion(-)
+2021-03-10 22:00:03.543891
+Auth happening...
+Getting songs
+Creating dataframe...
+Warm (feat. HAIM)
+Count Contessa
+Pretty Girl
+Bitch I'm Nasty
+party 4 u
+Barbie Dreams
+OHFR?
+sadder badder cooler - Y2K Remix
+Slumber Party (feat. Princess Nokia)
+223 Remix
+Kill V. Maim
+ILoveUIHateU
+GOT THESE SONGS
+{'played_at': ['21:58', '21:54', '21:49', '21:46', '21:44', '21:40', '21:35', '21:33', '21:30', '21:27', '21:24'], 'valence': [0.396, 0.453, 0.695, 0.342, 0.245, 0.694, 0.812, 0.736, 0.563, 0.442, 0.456], 'mood_avg': [0.482, 0.611, 0.772, 0.645, 0.434, 0.774, 0.812, 0.702, 0.69, 0.665, 0.603], 'danceability': [0.518, 0.595, 0.93, 0.953, 0.579, 0.848, 0.86, 0.756, 0.964, 0.921, 0.578], 'energy': [0.58, 0.957, 0.611, 0.636, 0.522, 0.786, 0.717, 0.527, 0.398, 0.598, 0.947], 'image': [u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273e271c649ef92d73d64f0716d', u'https://i.scdn.co/image/ab67616d0000b273efe812ae54f0698a32ccae14', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b273664e38c99d077cc52ab48914', u'https://i.scdn.co/image/ab67616d0000b273fc8c64bfc4323ff7ce68fea8', u'https://i.scdn.co/image/ab67616d0000b273b254cff03b053d4bca9100ef', u'https://i.scdn.co/image/ab67616d0000b27392444c56efe76d96688d7658', u'https://i.scdn.co/image/ab67616d0000b27311b63834a1a557cc77403458', u'https://i.scdn.co/image/ab67616d0000b273d7445441ad80d77b1d15a666', u'https://i.scdn.co/image/ab67616d0000b2734f1235383b41920e64b00a78'], 'album_name': [u'Charli', u'Count Contessa', u'Pretty Girl', u'Nasty', u"how i'm feeling now", u'Queen (Deluxe)', u'Nightmare Vacation', u'sadder badder cooler (Y2K Remix)', u'DEMIDEVIL', u'Dumb Shit: The Album', u'Art Angels'], 'song_name': [u'Warm (feat. HAIM)', u'Count Contessa', u'Pretty Girl', u"Bitch I'm Nasty", u'party 4 u', u'Barbie Dreams', u'OHFR?', u'sadder badder cooler - Y2K Remix', u'Slumber Party (feat. Princess Nokia)', u'223 Remix', u'Kill V. Maim'], 'artist_name': [u'Charli XCX', u'Azealia Banks', u'Clairo', u'Rico Nasty', u'Charli XCX', u'Nicki Minaj', u'Rico Nasty', u'Tove Lo', u'Ashnikko', u'S3nsi Molly', u'Grimes'], 'track_id': [u'2xHEAdEalJ5YcP0ur8kF6L', u'5qc9oEjMRZvdECu3g5vU8P', u'0KyAGiNGUytG5JLxJu4F6l', u'2xXNa4tR2CronQsZ6OKQtP', u'2RdEC8Ff83WkX7kDVCHseE', u'28eiD8ukLWhTvoDm1ZFPK0', u'0MJ6Ci5Up2ZQsXXygcVCQ3', u'4YGgFxIQBQPE46ytGUfX4U', u'11ZulcYY4lowvcQm4oe3VJ', u'0BhjjRVSL5LWwmlz72rfgY', u'3WXhshrs1fzwF3rQE399Gq']}
+                                                image  ... energy
+10  https://i.scdn.co/image/ab67616d0000b2734f1235...  ...  0.947
+9   https://i.scdn.co/image/ab67616d0000b273d74454...  ...  0.598
+8   https://i.scdn.co/image/ab67616d0000b27311b638...  ...  0.398
+7   https://i.scdn.co/image/ab67616d0000b27392444c...  ...  0.527
+6   https://i.scdn.co/image/ab67616d0000b273b254cf...  ...  0.717
+5   https://i.scdn.co/image/ab67616d0000b273fc8c64...  ...  0.786
+4   https://i.scdn.co/image/ab67616d0000b273664e38...  ...  0.522
+3   https://i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.636
+2   https://i.scdn.co/image/ab67616d0000b273efe812...  ...  0.611
+1   https://i.scdn.co/image/ab67616d0000b273e271c6...  ...  0.957
+0   https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...   0.58
+
+[11 rows x 10 columns]
+('Rows: ', 11)
+Saved!
+
