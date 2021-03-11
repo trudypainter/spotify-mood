@@ -59231,3 +59231,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master b8f5d6f] updating daily data 2021-03-11 16:00:03.991858
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-03-11 16:00:03.293067
+Auth happening...
+Getting songs
+Creating dataframe...
+Showin Off Pt.2 (feat. Fivio Foreign)
+Kill V. Maim
+GOT THESE SONGS
+{'played_at': ['15:49'], 'valence': [0.611], 'mood_avg': [0.661], 'danceability': [0.658], 'energy': [0.769], 'image': [u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03'], 'album_name': [u'Shoot For The Stars Aim For The Moon (Deluxe)'], 'song_name': [u'Showin Off Pt.2 (feat. Fivio Foreign)'], 'artist_name': [u'Pop Smoke'], 'track_id': [u'6JzyJgeHSRS4aYiK5gt02M']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b27346e130...  ...  0.769
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
