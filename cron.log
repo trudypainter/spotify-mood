@@ -59106,3 +59106,34 @@ GOT THESE SONGS
 ('Rows: ', 10)
 Saved!
 
+[master f74b42a] updating daily data 2021-03-11 08:00:03.525817
+ 3 files changed, 38 insertions(+), 1 deletion(-)
+2021-03-11 08:00:02.727786
+Auth happening...
+Getting songs
+Creating dataframe...
+KEKE
+ROCKSTAR (feat. Roddy Ricch)
+Webbie (feat. Duke)
+GOT THESE SONGS
+{'played_at': ['07:05', '07:03'], 'valence': [0.469, 0.497], 'mood_avg': [0.599, 0.635], 'danceability': [0.599, 0.746], 'energy': [0.857, 0.69], 'image': [u'https://i.scdn.co/image/ab67616d0000b273911fc0755e2f7fbd8100d861', u'https://i.scdn.co/image/ab67616d0000b27320e08c8cc23f404d723b5647'], 'album_name': [u'KEKE', u'BLAME IT ON BABY'], 'song_name': [u'KEKE', u'ROCKSTAR (feat. Roddy Ricch)'], 'artist_name': [u'6ix9ine', u'DaBaby'], 'track_id': [u'0zl3PdjIl320fK0pxBGWNR', u'7ytR5pFWmSjzHJIeQkgog4']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b27320e08c...  ...   0.69
+0  https://i.scdn.co/image/ab67616d0000b273911fc0...  ...  0.857
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
+2021-03-11 09:00:04.059176
+Auth happening...
+Getting songs
+Creating dataframe...
+Dark & Handsome - A COLORS SHOW
+Xxoplex
+stupid horse
+Oh! You Pretty Things - 2015 Remaster
+Violence - Original Mix
+Hockey
+TASTY
+c2.0
