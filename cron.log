@@ -59137,3 +59137,18 @@ Violence - Original Mix
 Hockey
 TASTY
 c2.0
+[master e0ec7d4] updating daily data 2021-03-11 10:00:09.169021
+ 2 files changed, 32 insertions(+), 1 deletion(-)
+2021-03-11 10:00:08.162807
+Auth happening...
+Getting songs
+Creating dataframe...
+Dark & Handsome - A COLORS SHOW
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
