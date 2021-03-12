@@ -59609,3 +59609,53 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 2ac8471] updating daily data 2021-03-12 14:00:05.102229
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-03-12 14:00:04.274620
+Auth happening...
+Getting songs
+Creating dataframe...
+The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-03-12 15:00:03.980948
+Auth happening...
+Getting songs
+Creating dataframe...
+Pink + White
+Good Guy
+Solo
+Solo (Reprise)
+Ivy
+Pretty Sweet
+Godspeed
+Shawty
+Wasteland
+Hit the Back
+White Ferrari
+Crowned
+There's Nothing Left 2 Make U Stay
+Self Harm
+More Than Anything
+The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)
+GOT THESE SONGS
+{'played_at': ['14:58', '14:55', '14:54', '14:49', '14:48', '14:44', '14:41', '14:38', '14:35', '14:31', '14:28', '14:24', '14:20', '14:18', '14:15'], 'valence': [0.554, 0.814, 0.246, 0.604, 0.452, 0.167, 0.0773, 0.712, 0.382, 0.254, 0.219, 0.946, 0.257, 0.197, 0.293], 'mood_avg': [0.55, 0.557, 0.333, 0.607, 0.485, 0.292, 0.218, 0.713, 0.445, 0.49, 0.284, 0.816, 0.304, 0.352, 0.315], 'danceability': [0.544, 0.513, 0.444, 0.541, 0.567, 0.201, 0.421, 0.711, 0.511, 0.578, 0.444, 0.816, 0.258, 0.429, 0.311], 'energy': [0.552, 0.131, 0.287, 0.747, 0.388, 0.724, 0.0952, 0.719, 0.441, 0.784, 0.0924, 0.554, 0.492, 0.509, 0.367], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b2739ea18f33f65c990f1f589225', u'https://i.scdn.co/image/ab67616d0000b273370d89c3202e98e46f616eb8', u'https://i.scdn.co/image/ab67616d0000b2734746c0bdc8a4d00019f8c8d4', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b27340b378c906cd13b7c4b3421a', u'https://i.scdn.co/image/ab67616d0000b27374c6d1b593f03ac6a1b78d5e', u'https://i.scdn.co/image/ab67616d0000b2735a973167d72dfaaedf82a654', u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d'], 'album_name': [u'Blonde', u'Blonde', u'Blonde', u'Blonde', u'Blonde', u'Blonde', u'Blonde', u"You're A Dog!", u'Wasteland', u'Cheap Queen', u'Blonde', u'RESONANCE', u"There's Nothing Left 2 Make U Stay", u'Song of Sage: Post Panic!', u'Jesus Is Born'], 'song_name': [u'Pink + White', u'Good Guy', u'Solo', u'Solo (Reprise)', u'Ivy', u'Pretty Sweet', u'Godspeed', u'Shawty', u'Wasteland', u'Hit the Back', u'White Ferrari', u'Crowned', u"There's Nothing Left 2 Make U Stay", u'Self Harm', u'More Than Anything'], 'artist_name': [u'Frank Ocean', u'Frank Ocean', u'Frank Ocean', u'Frank Ocean', u'Frank Ocean', u'Frank Ocean', u'Frank Ocean', u'Remi Wolf', u'Tierra Whack', u'King Princess', u'Frank Ocean', u'Cautious Clay', u'Vegyn', u'Navy Blue', u'Sunday Service Choir'], 'track_id': [u'3xKsf9qdS1CyvXSMEid6g8', u'2JUqYobT8NvARdPmc4ES2x', u'35xSkNIXi504fcEwz9USRB', u'2qtoRFCOEL1gRn5q9DJC7F', u'2ZWlPOoWh0626oTaHrnl2a', u'17yrCsl1Ai6CZLBmGj6d6p', u'34xTFwjPQ1dC6uJmleno7x', u'3GzMDVdXKAhG95eL7Wa32L', u'3yhlH8lhTpS03d91kuwjpf', u'3Arv0bXiHn3xNxe5YbqQOr', u'2LMkwUfqC6S6s6qDVlEuzV', u'40hilC332kLOwCzOVhWhl5', u'2HAGLGli9HjV6Ds9Jbam5J', u'1w1k2sO6YHmseERkIigSvW', u'2vUNNg9K4PAY5o3OBwGUVU']}
+                                                image  ...  energy
+14  https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...   0.367
+13  https://i.scdn.co/image/ab67616d0000b2735a9731...  ...   0.509
+12  https://i.scdn.co/image/ab67616d0000b27374c6d1...  ...   0.492
+11  https://i.scdn.co/image/ab67616d0000b27340b378...  ...   0.554
+10  https://i.scdn.co/image/ab67616d0000b273c5649a...  ...  0.0924
+9   https://i.scdn.co/image/ab67616d0000b2734746c0...  ...   0.784
+8   https://i.scdn.co/image/ab67616d0000b273370d89...  ...   0.441
+7   https://i.scdn.co/image/ab67616d0000b2739ea18f...  ...   0.719
+6   https://i.scdn.co/image/ab67616d0000b273c5649a...  ...  0.0952
+5   https://i.scdn.co/image/ab67616d0000b273c5649a...  ...   0.724
+4   https://i.scdn.co/image/ab67616d0000b273c5649a...  ...   0.388
+3   https://i.scdn.co/image/ab67616d0000b273c5649a...  ...   0
