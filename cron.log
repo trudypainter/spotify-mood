@@ -59454,3 +59454,20 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master 3f2c33f] updating daily data 2021-03-12 07:12:38.662351
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-03-12 07:03:18.259029
+Auth happening...
+Getting songs
+Creating dataframe...
+Whodie
+The Way Life Goes (feat. Oh Wonder)
+GOT THESE SONGS
+{'played_at': ['06:17'], 'valence': [0.482], 'mood_avg': [0.614], 'danceability': [0.715], 'energy': [0.677], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733bad565d65fcafd8c48475a5'], 'album_name': [u'Whodie'], 'song_name': [u'Whodie'], 'artist_name': [u'YNW Melly'], 'track_id': [u'6zxOdvQ3YDPezZMqmTeEMK']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b2733bad56...  ...  0.677
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
