@@ -59669,3 +59669,32 @@ GOT THESE SONGS
 ('Rows: ', 15)
 Saved!
 
+[master eb7c81a] updating daily data 2021-03-12 16:00:04.983704
+ 3 files changed, 19 insertions(+), 2 deletions(-)
+2021-03-12 16:00:03.669130
+Auth happening...
+Getting songs
+Creating dataframe...
+Sofia
+Yikes
+Next Level Charli
+BB
+Stay Flo
+Girl Blunt
+sweetener
+Pink + White
+GOT THESE SONGS
+{'played_at': ['15:30', '15:23', '15:20', '15:17', '15:14', '15:06', '15:02'], 'valence': [0.641, 0.66, 0.215, 0.267, 0.674, 0.367, 0.46], 'mood_avg': [0.678, 0.756, 0.47, 0.536, 0.71, 0.622, 0.564], 'danceability': [0.744, 0.911, 0.536, 0.693, 0.823, 0.856, 0.721], 'energy': [0.619, 0.637, 0.847, 0.761, 0.558, 0.665, 0.459], 'image': [u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', u'https://i.scdn.co/image/ab67616d0000b27398441652fc8a6b7ebf395ba9', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273a7ef0539771ba8bfa0bae81c', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b27395af8a497821be5c98fdd5dc', u'https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394'], 'album_name': [u'Immunity', u'Yikes', u'Charli', u'BB', u'When I Get Home', u'Acrylic', u'Sweetener'], 'song_name': [u'Sofia', u'Yikes', u'Next Level Charli', u'BB', u'Stay Flo', u'Girl Blunt', u'sweetener'], 'artist_name': [u'Clairo', u'Nicki Minaj', u'Charli XCX', u'Shygirl', u'Solange', u'Leikeli47', u'Ariana Grande'], 'track_id': [u'7B3z0ySL9Rr0XvZEAjWZzM', u'75dLEqanQTupF3dtP9exT5', u'7a6HVxpLhW7hRL9JcFZl16', u'1oTZfA19b295ZdWdFTzJNj', u'6GCIYIWUBSLontW6divqsw', u'1lAGdqI4Wwa8G0XTP6VqHl', u'70khXICDeTTxgYtw3EysKH']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b273c3af0c...  ...  0.459
+5  https://i.scdn.co/image/ab67616d0000b27395af8a...  ...  0.665
+4  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.558
+3  https://i.scdn.co/image/ab67616d0000b273a7ef05...  ...  0.761
+2  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.847
+1  https://i.scdn.co/image/ab67616d0000b273984416...  ...  0.637
+0  https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...  0.619
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
