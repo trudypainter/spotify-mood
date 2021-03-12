@@ -59577,3 +59577,20 @@ GOT THESE SONGS
 0   https://i.scdn.co/image/ab67616d0000b27395e93f...  ...  0.397
 
 [15 rows x 10 columns]
+[master 6e6c444] updating daily data 2021-03-12 12:00:05.761750
+ 3 files changed, 103 insertions(+), 1 deletion(-)
+2021-03-12 12:00:04.790842
+Auth happening...
+Getting songs
+Creating dataframe...
+The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)
+Coco Channel
+GOT THESE SONGS
+{'played_at': ['11:01'], 'valence': [0.452], 'mood_avg': [0.496], 'danceability': [0.454], 'energy': [0.667], 'image': [u'https://i.scdn.co/image/ab67616d0000b273fa42773a0f269264c398698a'], 'album_name': [u'The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)'], 'song_name': [u'The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)'], 'artist_name': [u'BADBADNOTGOOD'], 'track_id': [u'6HOLZtVDh5EgvPnW4z23n2']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273fa4277...  ...  0.667
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
