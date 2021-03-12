@@ -59389,3 +59389,19 @@ dn.co/image/ab67616d0000b2732bb07f...  ...  0.418
 ('Rows: ', 14)
 Saved!
 
+[master 9952f18] updating daily data 2021-03-12 01:06:29.758566
+ 3 files changed, 9 insertions(+), 2 deletions(-)
+ create mode 100644 daily-data/2021-03-12.csv
+2021-03-12 01:06:27.420657
+Auth happening...
+Getting songs
+Creating dataframe...
+A-Men
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
