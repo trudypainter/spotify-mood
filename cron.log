@@ -59435,3 +59435,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 89cbcef] updating daily data 2021-03-12 06:03:20.281100
+ 2 files changed, 17 insertions(+)
+2021-03-12 06:03:19.819641
+Auth happening...
+Getting songs
+Creating dataframe...
+Keep Her Happy
+Iced Out Audemars (feat. Lil Wayne) - Remix
+A-Men
+GOT THESE SONGS
+{'played_at': ['05:43', '05:29'], 'valence': [0.965, 0.909], 'mood_avg': [0.849, 0.836], 'danceability': [0.7, 0.782], 'energy': [0.914, 0.796], 'image': [u'https://i.scdn.co/image/ab67616d0000b2732e3676fea262cec1bde0861a', u'https://i.scdn.co/image/ab67616d0000b27344ef06f98bf4c5db0c5ee2a6'], 'album_name': [u"Henry Stone's Miami Sound - The Record Man's Finest 45s", u'Iced Out Audemars (Remix)'], 'song_name': [u'Keep Her Happy', u'Iced Out Audemars (feat. Lil Wayne) - Remix'], 'artist_name': [u'Phillip Wright', u'Pop Smoke'], 'track_id': [u'1CLSRrFaaW9BTVFA6c3PqD', u'1aD1IcrYHl89PnCoLMVZO4']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b27344ef06...  ...  0.796
+0  https://i.scdn.co/image/ab67616d0000b2732e3676...  ...  0.914
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
