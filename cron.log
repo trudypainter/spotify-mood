@@ -59278,3 +59278,45 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 8c82ed6] updating daily data 2021-03-11 19:00:05.818708
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-03-11 19:00:04.674630
+Auth happening...
+Getting songs
+Creating dataframe...
+Backseat (feat. PnB Rock)
+Showin Off Pt.2 (feat. Fivio Foreign)
+GOT THESE SONGS
+{'played_at': ['18:59'], 'valence': [0.371], 'mood_avg': [0.538], 'danceability': [0.704], 'energy': [0.542], 'image': [u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03'], 'album_name': [u'Shoot For The Stars Aim For The Moon (Deluxe)'], 'song_name': [u'Backseat (feat. PnB Rock)'], 'artist_name': [u'Pop Smoke'], 'track_id': [u'0fj9oGrCKxVA4sXDxvbfiM']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b27346e130...  ...  0.542
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
+2021-03-11 20:00:03.836235
+Auth happening...
+Getting songs
+Creating dataframe...
+Dreaming
+Paranoia (feat. Gunna & Young Thug)
+Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown)
+War
+What You Know Bout Love
+Zoo York (feat. Fivio Foreign & Pop Smoke)
+Meet the Woo
+Get Back
+GATTI
+Bad Company (feat. BlocBoy JB)
+AP - Music from the film Boogie
+Something Special
+Imperfections (Interlude)
+Hotel Lobby
+Mood Swings (feat. Lil Tjay)
+Showin Off Pt.2 (feat. Fivio Foreign)
+MPR
+Invincible
+Backseat (feat. PnB Rock)
+GOT THESE SONGS
+{'played_at': ['19:58', '19:55', '19:52', '19:47', '19:43', '19:40', '19:37', '19:35', '19:33', '19:28', '19:25', '19:22', '19:20', '19:18', '19:15', '19:12', '19:09', '19:06'], 'valence': [0.821, 0.24, 0.17, 0.6, 0.543, 0.303, 0.383, 0.566, 0.472, 0.343, 0.634, 0.654, 0.324, 0.201, 0.269, 0.611, 0.403, 0.612], 'mood_avg': [0.741, 0.452, 0.497, 0.656, 0.61, 0.461, 0.585, 0.675, 0.562, 0.603, 0.703, 0.68, 0.542, 0.478, 0.42, 0.661, 0.612, 0.61], 'danceability': [0.687, 0.568, 0.815, 0.65, 0.709, 0.565, 0.816, 0.798, 0.594, 0.901, 0.751, 0.739, 0.774, 0.688, 0.48, 0.658, 0.752, 0.548], 'energy': [0.691, 0.646, 0.513, 0.778, 0.548, 0.569, 0.526, 0.649, 0.676, 0.529, 0.744, 0.616, 0.513, 0.61, 0.602, 0.769, 0.749, 0.732], 'image': [u'https://i.scdn.co/image/ab67616d0000b273cd90e898c070ef21812ab363', u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03', u'https://i.scdn.co/image/ab67616d0000b273d4db1fd0f9eccb93a9e75639', u'https://i.scdn.co/image/ab67616d0000b273150c69633761ccc6149e7c78', u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369', u'https://i.scdn.co/image/ab67616d0000b2734f221c0104af653803c7572a', u'https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5', u'https://i.scdn.co/image/ab67616d0000b27362a57823eced1cb4fd93b2c1', u'https://i.scdn.co/image/ab67616d0000b273dfc2f59568272de50a257f2f', u'https://i.scdn.co/image/ab67616d0000b273f669edbfecf19e5725b7af6c', u'https://i.scdn.co/image/ab67616d0000b273910d332c82ea0e868127f9a0', u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369', u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03', u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03', u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369', u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03', u'https://i.scdn.co/image/ab67616d0000b2735833b74e096502cc74be3491', u'https://i.scdn.co/image/ab67616d0000b27362a57823eced1cb4fd93b2c1'], 'album_name': [u'Meet The Woo 2 (Deluxe)', u'Shoot For The Stars Aim For The Moon (Deluxe)', u'Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown)', u'War', u'Shoot For The Stars Aim For The Moon', u'State of Emergency', u'Meet The Woo', u'Meet The Woo 2', u'JACKBOYS', u'Bad Company (feat. BlocBoy JB)', u'AP (Music from the film Boogie)', u'Shoot For The Stars Aim For The Moon', u'Shoot For The Stars Aim For The Moon (Deluxe)', u'Shoot For The Stars Aim For The Moon (Deluxe)', u'Shoot For The Stars Aim For The Moon', u'Shoot For The Stars Aim For The Moon (Deluxe)', u'MPR', u'Meet The Woo 2'], 'song_name': [u'Dreaming', u'Paranoia (feat. Gunna & Young Thug)', u'Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown)', u'War', u'What You Know Bout Love', u'Zoo York (feat. Fivio Foreign & Pop Smoke)', u'Meet the Woo', u'Get Back', u'GATTI', u'Bad Company (feat. BlocBoy JB)', u'AP - Music from the film Boogie', u'Something Special', u'Imperfections (Interlude)', u'Hotel Lobby', u'Mood Swings (feat. Lil Tjay)', u'Showin Off Pt.2 (feat. Fivio Foreign)', u'MPR', u'Invincible'], 'artist_name': [u'Pop Smoke', u'Pop Smoke', u'H.E.R.', u'Pop Smoke', u'Pop Smoke', u'Lil Tjay', u'Pop Smoke', u'Pop Smoke', u'JACKBOYS', u'A$AP Rocky', u'Pop Smoke', u'Pop Smoke', u'Pop Smoke', u'Pop Smoke', u'Pop Smoke', u'Pop Smoke', u'Pop Smoke', u'Pop Smoke'], 'track_id': [u'4dFPHN0Yf3eG9SNU84y5a5', u'3QqJ44HiM84iyZS0G2IKIP', u'6MO2bfLHKykUgCChFdw91H', u'0JhonNQL2ixH1JcsgEj4Hn', u'1tkg4EHVoqnhR6iFEXb60y', u'3Ddny34bFoYBb8dIGq5lwp', u'4kdKKsPHWsyNrv
