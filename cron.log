@@ -59486,3 +59486,94 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master e275190] updating daily data 2021-03-12 09:00:06.524566
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-03-12 09:00:04.700914
+Auth happening...
+Getting songs
+Creating dataframe...
+my tears ricochet
+the last great american dynasty
+Plug Walk (feat. Gucci Mane, YG, 2Chainz) - Remix
+GOT THESE SONGS
+{'played_at': ['08:25', '08:21'], 'valence': [0.111, 0.706], 'mood_avg': [0.279, 0.689], 'danceability': [0.456, 0.686], 'energy': [0.263, 0.662], 'image': [u'https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc', u'https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc'], 'album_name': [u'folklore', u'folklore'], 'song_name': [u'my tears ricochet', u'the last great american dynasty'], 'artist_name': [u'Taylor Swift', u'Taylor Swift'], 'track_id': [u'1MgV7FIyNxIG7WzMRJV5HC', u'2Eeur20xVqfUoM3Q7EFPFt']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b27395f754...  ...  0.662
+0  https://i.scdn.co/image/ab67616d0000b27395f754...  ...  0.263
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
+2021-03-12 10:00:03.263311
+Auth happening...
+Getting songs
+Creating dataframe...
+Set Piece
+Distant
+Couch
+You'll Be Alright
+Break for Lovers (feat. Helena)
+I Don't Know You
+I Like It
+It's You
+You Deserve This
+South Side
+Ben My Best Friend
+my tears ricochet
+GOT THESE SONGS
+{'played_at': ['09:58', '09:55', '09:52', '09:49', '09:46', '09:43', '09:39', '09:36', '09:32', '09:29', '09:26'], 'valence': [0.641, 0.636, 0.7, 0.391, 0.813, 0.587, 0.756, 0.546, 0.264, 0.322, 0.394], 'mood_avg': [0.569, 0.612, 0.683, 0.402, 0.734, 0.655, 0.707, 0.55, 0.414, 0.379, 0.495], 'danceability': [0.541, 0.726, 0.857, 0.381, 0.858, 0.884, 0.919, 0.576, 0.559, 0.438, 0.601], 'energy': [0.483, 0.334, 0.302, 0.468, 0.326, 0.333, 0.183, 0.504, 0.422, 0.373, 0.483], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c556c8613499c8e465d3ba3c', u'https://i.scdn.co/image/ab67616d0000b27340136854c280bafd6c621d87', u'https://i.scdn.co/image/ab67616d0000b273c28f046df65013728e03c81f', u'https://i.scdn.co/image/ab67616d0000b2733b4bc88c86f397a58d139367', u'https://i.scdn.co/image/ab67616d0000b27338af97753b8b89cbd1d05096', u'https://i.scdn.co/image/ab67616d0000b273b8cca972978cb4f2f7be74ad', u'https://i.scdn.co/image/ab67616d0000b2730924b9c6232d2348d4efa0dc', u'https://i.scdn.co/image/ab67616d0000b2737bcab10b2d8a3fb3a32ed013', u'https://i.scdn.co/image/ab67616d0000b2739cf1ebba67a6ef744c66577d', u'https://i.scdn.co/image/ab67616d0000b2737b2b8a5cc2e6a20b3b2e700f', u'https://i.scdn.co/image/ab67616d0000b27386dc71c002042b92efbbd200'], 'album_name': [u'Angel Youth', u'Distant', u'Online', u"You'll Be Alright", u'Headroom', u"I Don't Know You", u'Superclean, Vol. I', u'Nothing Bothers Me', u'You Deserve This', u'Cold Shower', u'Bossa Loser'], 'song_name': [u'Set Piece', u'Distant', u'Couch', u"You'll Be Alright", u'Break for Lovers (feat. Helena)', u"I Don't Know You", u'I Like It', u"It's You", u'You Deserve This', u'South Side', u'Ben My Best Friend'], 'artist_name': [u'Vansire', u'Triathalon', u'Triathalon', u'Mellow Fellow', u'Men I Trust', u'The Mar\xedas', u'The Mar\xedas', u'Triathalon', u'Men I Trust', u'Triathalon', u'Pinstripe Sunny'], 'track_id': [u'3ishRxjsqYVk6FdAGeeUAP', u'7aoslYDlH3JDogn6uA1kIo', u'01aBQjqA1Aj6KEzchBfWts', u'0E012qfhASNhcwwvXa31AR', u'1mXE3amJxqLBPBUBYQi55e', u'4cJOLN346rtOty3UPACsao', u'3Vm6yiTPfhFeUHD4gt42cZ', u'3uKOu15tiZpB13VRxs9e8p', u'254ybNwQUpo3zbyBb41KMk', u'4UFRayjePustzEGSwFSe3q', u'3VfYOSHOwR8ypW15CsUaQs']}
+                                                image  ... energy
+10  https://i.scdn.co/image/ab67616d0000b27386dc71...  ...  0.483
+9   https://i.scdn.co/image/ab67616d0000b2737b2b8a...  ...  0.373
+8   https://i.scdn.co/image/ab67616d0000b2739cf1eb...  ...  0.422
+7   https://i.scdn.co/image/ab67616d0000b2737bcab1...  ...  0.504
+6   https://i.scdn.co/image/ab67616d0000b2730924b9...  ...  0.183
+5   https://i.scdn.co/image/ab67616d0000b273b8cca9...  ...  0.333
+4   https://i.scdn.co/image/ab67616d0000b27338af97...  ...  0.326
+3   https://i.scdn.co/image/ab67616d0000b2733b4bc8...  ...  0.468
+2   https://i.scdn.co/image/ab67616d0000b273c28f04...  ...  0.302
+1   https://i.scdn.co/image/ab67616d0000b273401368...  ...  0.334
+0   https://i.scdn.co/image/ab67616d0000b273c556c8...  ...  0.483
+
+[11 rows x 10 columns]
+2021-03-12 11:00:02.736387
+Auth happening...
+Getting songs
+Creating dataframe...
+Coco Channel
+Groove Elation
+On That Time
+Bug
+Blowin' Minds (Skateboard) (feat. A$AP Rocky, A$AP Nast, A$AP Ant, Chief Keef & Playboi Carti)
+Weekend at Santa Cruz
+Ruthless
+Over the Moon
+Take It Easy
+Show Me How
+Dancing
+Ladypants
+Tailwhip
+ABQ
+Fry Queen
+Set Piece
+GOT THESE SONGS
+{'played_at': ['10:54', '10:51', '10:45', '10:43', '10:40', '10:35', '10:33', '10:28', '10:25', '10:22', '10:18', '10:14', '10:11', '10:07', '10:02'], 'valence': [0.679, 0.483, 0.0545, 0.342, 0.337, 0.655, 0.557, 0.387, 0.0658, 0.544, 0.387, 0.668, 0.598, 0.175, 0.44], 'mood_avg': [0.685, 0.601, 0.356, 0.501, 0.554, 0.605, 0.579, 0.475, 0.218, 0.587, 0.399, 0.616, 0.69, 0.347, 0.603], 'danceability': [0.835, 0.734, 0.598, 0.644, 0.732, 0.618, 0.672, 0.684, 0.411, 0.791, 0.373, 0.575, 0.8, 0.54, 0.846], 'energy': [0.397, 0.572, 0.476, 0.534, 0.632, 0.48, 0.436, 0.232, 0.134, 0.267, 0.474, 0.595, 0.655, 0.307, 0.442], 'image': [u'https://i.scdn.co/image/ab67616d0000b27395e93f910b4ff85270f3246f', u'https://i.scdn.co/image/ab67616d0000b273e7387567689b54fa91ee40c2', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b2730e695f02419742954acb989e', u'https://i.scdn.co/image/ab67616d0000b273ce9a92efb0c3ad4c2fb33072', u'https://i.scdn.co/image/ab67616d0000b27301bfd9cea452f6c27eaea4cb', u'https://i.scdn.co/image/ab67616d0000b273a64b06c0eb30ce15c3e6edc1', u'https://i.scdn.co/image/ab67616d0000b273a64b06c0eb30ce15c3e6edc1', u'https://i.scdn.co/image/ab67616d0000b2737bcab10b2d8a3fb3a32ed013', u'https://i.scdn.co/image/ab67616d0000b27340faefaf8ebe0e1564c60faa', u'https://i.scdn.co/image/ab67616d0000b273e7f2a73b70759dbded43fa72', u'https://i.scdn.co/image/ab67616d0000b27386dc71c002042b92efbbd200', u'https://i.scdn.co/image/ab67616d0000b273b5d2a7e29794ff7e91305aa8', u'https://i.scdn.co/image/ab67616d0000b273a64b06c0eb30ce15c3e6edc1', u'https://i.scdn.co/image/ab67616d0000b27386dc71c002042b92efbbd200'], 'album_name': [u'Coco Channel', u'Groove Elation', u'Whole Lotta Red', u'Beach Music', u'Cozy Tapes Vol. 2: Too Cozy', u'Bad Bonez', u'Superclean, Vol. II', u'Superclean, Vol. II', u'Nothing Bothers Me', u'Show Me How', u'Dancing', u'Bossa Loser', u'Tailwhip', u'Superclean, Vol. II', u'Bossa Loser'], 'song_name': [u'Coco Channel', u'Groove Elation', u'On That Time', u'Bug', u"Blowin' Minds (Skateboard) (feat. A$AP Rocky, A$AP Nast, A$AP Ant, Chief Keef & Playboi Carti)", u'Weekend at Santa Cruz', u'Ruthless', u'Over the Moon', u'Take It Easy', u'Show Me How', u'Dancing', u'Ladypants', u'Tailwhip', u'ABQ', u'Fry Queen'], 'artist_name': [u'LAUSSE THE CAT', u'Bernice', u'Playboi Carti', u'Alex G', u'A$AP Mob', u'Michael Seyer', u'The Mar\xedas', u'The Mar\xedas', u'Triathalon', u'Men I Trust', u'Mellow Fellow', u'Pinstripe Sunny', u'Men I Trust', u'The Mar\xedas', u'Pinstripe Sunny'], 'track_id': [u'2Lt2OCMsNF0DefG5H1NOqc', u'3FW4Rpnkxl0zhsQBs5XvvE', u'3dl8bSF08LQfCf4T6CCksf', u'3z3o68h3NarFltKibiksxI', u'3FUP0gYxsivCHzWzu8uUGw', u'7mUpYTyfLQtu0LOZ8q0oK4', u'1mbuSss0OVqfS00y7yCNCZ', u'02wNtFxlr9dLmZXKT5TIF5', u'7yl0ItOwlAnALSctbUiavO', u'01TyFEZu6mHbffsVfxgrFn', u'57asCheDC0X1S9QnyTsmOQ', u'4Jrjl6ukYUCaVpjyKZMbXc', u'2DoO0sn4SbUrz7Uay9ACTM', u'5P9PQR7CM5YPEU2I3EypWM', u'3CScCdfOMppcovFhc91DBC']}
+                                                image  ... energy
+14  https://i.scdn.co/image/ab67616d0000b27386dc71...  ...  0.442
+13  https://i.scdn.co/image/ab67616d0000b273a64b06...  ...  0.307
+12  https://i.scdn.co/image/ab67616d0000b273b5d2a7...  ...  0.655
+11  https://i.scdn.co/image/ab67616d0000b27386dc71...  ...  0.595
+10  https://i.scdn.co/image/ab67616d0000b273e7f2a7...  ...  0.474
+9   https://i.scdn.co/image/ab67616d0000b27340faef...  ...  0.267
+8   https://i.scdn.co/image/ab67616d0000b2737bcab1...  ...  0.134
+7   https://i.scdn.co/image/ab67616d0000b273a64b06...  ...  0.232
+6   https://i.scdn.co/image/ab67616d0000b273a64b06...  ...  0.436
+5   https://i.scdn.co/image/ab67616d0000b27301bfd9...  ...   0.48
+4   https://i.scdn.co/image/ab67616d0000b273ce9a92...  ...  0.632
+3   https://i.scdn.co/image/ab67616d0000b2730e695f...  ...  0.534
+2   https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.476
+1   https://i.scdn.co/image/ab67616d0000b273e73875...  ...  0.572
+0   https://i.scdn.co/image/ab67616d0000b27395e93f...  ...  0.397
+
+[15 rows x 10 columns]
