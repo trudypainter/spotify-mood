@@ -60195,3 +60195,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 6b96fdb] updating daily data 2021-03-13 16:00:03.201254
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-03-13 16:00:02.237128
+Auth happening...
+Getting songs
+Creating dataframe...
+A Greater Love
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
