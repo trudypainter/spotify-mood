@@ -59929,3 +59929,78 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 41ec61b] updating daily data 2021-03-13 07:00:04.051611
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-03-13 07:00:03.218514
+Auth happening...
+Getting songs
+Creating dataframe...
+Kerosene!
+forever
+GOT THESE SONGS
+{'played_at': ['06:35'], 'valence': [0.299], 'mood_avg': [0.471], 'danceability': [0.506], 'energy': [0.746], 'image': [u'https://i.scdn.co/image/ab67616d0000b273043864250fbec5f57c7076a7'], 'album_name': [u'Heaven To A Tortured Mind'], 'song_name': [u'Kerosene!'], 'artist_name': [u'Yves Tumor'], 'track_id': [u'1Kjw0LwdniCWran4PxJqPQ']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273043864...  ...  0.746
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
+2021-03-13 08:00:03.329803
+Auth happening...
+Getting songs
+Creating dataframe...
+Shame - Demo
+Comic Sans
+Agrim Agadez
+Young
+Ocean Eyes
+Manhattan
+Stay High again.. (with Fred again.. & Joy Anonymous)
+Party's Over
+Champagne Coast
+Kerosene!
+GOT THESE SONGS
+{'played_at': ['07:59', '07:57', '07:53', '07:47', '07:44', '07:41', '07:35', '07:31', '07:28'], 'valence': [0.526, 0.341, 0.536, 0.198, 0.362, 0.096, 0.527, 0.297, 0.755], 'mood_avg': [0.453, 0.505, 0.555, 0.35, 0.402, 0.446, 0.654, 0.426, 0.708], 'danceability': [0.395, 0.757, 0.421, 0.495, 0.346, 0.71, 0.644, 0.532, 0.813], 'energy': [0.422, 0.33, 0.861, 0.362, 0.594, 0.617, 0.928, 0.47, 0.406], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e0861c10d928f6bdffd882d9', u'https://i.scdn.co/image/ab67616d0000b2735225a38c3fd08bd3f61325f4', u'https://i.scdn.co/image/ab67616d0000b273ad9d8b5514f3c932dfac129c', u'https://i.scdn.co/image/ab67616d0000b27311121149d689c07e8a033849', u'https://i.scdn.co/image/ab67616d0000b273ab9407c8455727da25d8d330', u'https://i.scdn.co/image/ab67616d0000b273aaac5479cd9db05e896db80f', u'https://i.scdn.co/image/ab67616d0000b273a56885e13819a6951f8e1360', u'https://i.scdn.co/image/ab67616d0000b273ccccaf5421443f7a8713dc66', u'https://i.scdn.co/image/ab67616d0000b273a790082aa893b1f841d7d545'], 'album_name': [u'Shame (Demo)', u'Surviving Is The New Living', u'No. 1', u'Fit Me In', u'Ocean Eyes', u'Sun', u'Stay High again.. (with Fred again.. & Joy Anonymous)', u"Party's Over", u'Coastal Grooves'], 'song_name': [u'Shame - Demo', u'Comic Sans', u'Agrim Agadez', u'Young', u'Ocean Eyes', u'Manhattan', u'Stay High again.. (with Fred again.. & Joy Anonymous)', u"Party's Over", u'Champagne Coast'], 'artist_name': [u'PJ Harvey', u'Okay Kaya', u"Etran de L'A\xcfr", u'Frankie Cosmos', u'Shamir', u'Cat Power', u'Brittany Howard', u'Half Waif', u'Blood Orange'], 'track_id': [u'45KQWeyDYSVUNcey6A23YZ', u'7bATxrgsDi1cujPgPgMBZg', u'7rzuQtSYBzEICRsFpeUQtn', u'4LMlviHZfDUXWIZhvGEAKi', u'1HxXq8uBgSy8Yg1vicBVTe', u'5T4Bf4aKOR4ewZBPJCYGVB', u'2DS4JQNeubropQO84sAK3I', u'2GpJftoEXefvW1pdRH7iNh', u'2KufM8PiQY4i52XhRL96Fd']}
+                                               image  ... energy
+8  https://i.scdn.co/image/ab67616d0000b273a79008...  ...  0.406
+7  https://i.scdn.co/image/ab67616d0000b273ccccaf...  ...   0.47
+6  https://i.scdn.co/image/ab67616d0000b273a56885...  ...  0.928
+5  https://i.scdn.co/image/ab67616d0000b273aaac54...  ...  0.617
+4  https://i.scdn.co/image/ab67616d0000b273ab9407...  ...  0.594
+3  https://i.scdn.co/image/ab67616d0000b273111211...  ...  0.362
+2  https://i.scdn.co/image/ab67616d0000b273ad9d8b...  ...  0.861
+1  https://i.scdn.co/image/ab67616d0000b2735225a3...  ...   0.33
+0  https://i.scdn.co/image/ab67616d0000b273e0861c...  ...  0.422
+
+[9 rows x 10 columns]
+2021-03-13 09:00:03.982178
+Auth happening...
+Getting songs
+Creating dataframe...
+Kinko's field trip 2006
+Be Your Boy
+Anything at All
+Same Size Shoe
+Dirty Mouth
+New Bikini
+Outside In
+Kyoto - Spotify Singles
+Thumbs
+Mystery of Love
+HEARSE
+One Time Villain
+Woman Is a Word
+Time
+NICE OUT
+Describe - A. G. Cook Remix
+This How We Walk On The Moon
+Shame - Demo
+GOT THESE SONGS
+{'played_at': ['08:59', '08:56', '08:53', '08:49', '08:46', '08:43', '08:38', '08:35', '08:32', '08:27', '08:24', '08:22', '08:18', '08:15', '08:12', '08:08', '08:04'], 'valence': [0.603, 0.535, 0.675, 0.476, 0.288, 0.215, 0.247, 0.327, 0.272, 0.663, 0.524, 0.441, 0.257, 0.374, 0.181, 0.669, 0.544], 'mood_avg': [0.508, 0.528, 0.625, 0.579, 0.431, 0.258, 0.539, 0.329, 0.318, 0.561, 0.487, 0.481, 0.386, 0.433, 0.529, 0.699, 0.578], 'danceability': [0.438, 0.618, 0.613, 0.718, 0.517, 0.257, 0.749, 0.362, 0.474, 0.53, 0.423, 0.389, 0.415, 0.548, 0.684, 0.67, 0.82], 'energy': [0.457, 0.332, 0.547, 0.505, 0.546, 0.345, 0.703, 0.268, 0.0964, 0.419, 0.542, 0.746, 0.588, 0.322, 0.914, 0.816, 0.164], 'image': [u'https://i.scdn.co/image/ab67616d0000b273d7fbfc8b03eea548d4ab753f', u'https://i.scdn.co/image/ab67616d0000b273a37325ec982f78ec644c3456', u'https://i.scdn.co/image/ab67616d0000b273cd1b70d23c58a727470fc236', u'https://i.scdn.co/image/ab67616d0000b27302f04819b7d87ee5e48bd486', u'https://i.scdn.co/image/ab67616d0000b273857330d8794c5fca835bb687', u'https://i.scdn.co/image/ab67616d0000b27347401efafca465c91ed2e948', u'https://i.scdn.co/image/ab67616d0000b273854a50e83ead34dcca643b43', u'https://i.scdn.co/image/ab67616d0000b273a5b8c651627eb5f17c8c7db0', u'https://i.scdn.co/image/ab67616d0000b2738c06d94fe7fe2ad28a5422ca', u'https://i.scdn.co/image/ab67616d0000b27314ac4c888773b0ebe8c1482d', u'https://i.scdn.co/image/ab67616d0000b27311750fb7d79c62771c824f19', u'https://i.scdn.co/image/ab67616d0000b273c526242b15c91944d46192ed', u'https://i.scdn.co/image/ab67616d0000b273ed8666b2288bacdcc24e4fc2', u'https://i.scdn.co/image/ab67616d0000b2738c894fac3d113f98885d3117', u'https://i.scdn.co/image/ab67616d0000b2735406f784d9a47154dadf8cb7', u'https://i.scdn.co/image/ab67616d0000b273fc1a192db9baa3d2c4d3e1dd', u'https://i.scdn.co/image/ab67616d0000b273f4d28609ebda619d4acb2391'], 'album_name': [u"Kinko's field trip 2006", u'Wild', u'Anything at All', u'Same Size Shoe', u'Dirty Mouth', u'An Overview on Phenomenal Nature', u'Outside In', u'Spotify Singles', u'Thumbs', u'Mystery of Love', u'HEARSE', u'One Time Villain', u'Woman Is a Word', u'KiCk i', u'NICE OUT', u'Describe (A. G. Cook Remix)', u'Another Thought'], 'song_name': [u"Kinko's field trip 2006", u'Be Your Boy', u'Anything at All', u'Same Size Shoe', u'Dirty Mouth', u'New Bikini', u'Outside In', u'Kyoto - Spotify Singles', u'Thumbs', u'Mystery of Love', u'HEARSE', u'One Time Villain', u'Woman Is a Word', u'Time', u'NICE OUT', u'Describe - A. G. Cook Remix', u'This How We Walk On The Moon'], 'artist_name': [u'underscores', u'Medium Build', u'Bachelor', u'serpentwithfeet', u'Alice Phoebe Lou', u'Cassandra Jenkins', u'Tia Kofi', u'Phoebe Bridgers', u'Lucy Dacus', u'Thibault Cauvin', u'blackwinterwells', u'Coco', u'Empress Of', u'Arca', u'Kilo Kish', u'Perfume Genius', u'Arthur Russell'], 'track_id': [u'0HPNtkVFdg7vB5fKXSABfn', u'0mvbSAjTbLc6ExAaDh5vlM', u'6Wxwtk6QwuRIy8HQpwl5Vm', u'0dedT0AfVJO8ebgLee0prY', u'6zX3RXmaMLY28wlLRCrT7Q', u'7669PNGT7aTlFuDKu8z8g7', u'5Yi2qzDQ2HPv9k2J6ZCKso', u'1w2gRlZvcIkuJHYr9Y0cE4', u'79pcC3KJRMA2L8xIb5mu3G', u'6VAQ2snOMFwWSXim6QYFaH', u'2wxQpT569A7CmzyW5tciIK', u'23VtZle0XdXgKcLwzaShtO', u'15LIoiA1EClYyI8WCn708z', u'3XdXixlx3MoVzfL7pu9hx6', u'47k1Ox90yk7EicCAd3QDhc', u'33oeYEc24oppZnJR0UWdph', u'74LbkcDTjFV1WtMmTAtORI']}
+                                                image  ...  energy
+16  https://i.scdn.co/image/ab67616d0000b273f4d286...  ...   0.164
+15  https://i.scdn.co/image/ab67616d0000b273fc1a19...  ...   0.816
+14  https://i.scdn.co/image/ab67616d0000b2735406f7...  ...   0.914
+13  https://i.scdn.co/image/ab67616d0000b2738c894f...  ...   0.322
+12  https://i.scdn.co/image/ab67616d0000b273ed8666... 
