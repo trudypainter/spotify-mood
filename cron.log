@@ -60076,3 +60076,40 @@ aA0', u'2rp5PZpFq0kAI7JEt1f8yf', u'58llsMQ3PfvaGNZD8WNn2f', u'2lVPHHSn8elKFEf1d6
 ('Rows: ', 19)
 Saved!
 
+[master dbfcd8d] updating daily data 2021-03-13 11:00:04.467783
+ 3 files changed, 40 insertions(+), 2 deletions(-)
+2021-03-13 11:00:02.571407
+Auth happening...
+Getting songs
+Creating dataframe...
+Con Conn Was Impatient
+Oh Devil - Radio Version
+Six Speed
+Futile Devices (Doveman Remix)
+People Watching
+Czech One
+iMi
+Cosmonauts
+Guttural Sounds
+Asexual Wellbeing
+Ascend and Try Again
+Baby Little Tween
+GOT THESE SONGS
+{'played_at': ['10:59', '10:56', '10:52', '10:50', '10:26', '10:20', '10:16', '10:13', '10:07', '10:04', '10:01'], 'valence': [0.302, 0.709, 0.523, 0.252, 0.435, 0.171, 0.523, 0.537, 0.144, 0.262, 0.238], 'mood_avg': [0.473, 0.759, 0.479, 0.323, 0.516, 0.332, 0.484, 0.528, 0.267, 0.38, 0.394], 'danceability': [0.786, 0.899, 0.51, 0.462, 0.655, 0.555, 0.489, 0.547, 0.333, 0.417, 0.6], 'energy': [0.191, 0.579, 0.327, 0.187, 0.4, 0.21, 0.396, 0.472, 0.381, 0.541, 0.296], 'image': [u'https://i.scdn.co/image/ab67616d0000b273530d2194e15a760dc935676c', u'https://i.scdn.co/image/ab67616d0000b273710023301ad7cb50cbaa849a', u'https://i.scdn.co/image/ab67616d0000b273b539caa28dd44e1767eebd04', u'https://i.scdn.co/image/ab67616d0000b273066d0a5c0b2603ac06da7fea', u'https://i.scdn.co/image/ab67616d0000b273af071325c295f71b0d320a90', u'https://i.scdn.co/image/ab67616d0000b273c02d78ecd28d80920aa11f1c', u'https://i.scdn.co/image/ab67616d0000b2735cc90d375ab1e4423615654c', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7'], 'album_name': [u'Jassbusters', u'Oh Devil (Radio Version)', u'Six Speed', u'Call Me by Your Name (Original Motion Picture Soundtrack)', u'Cannonball!', u'The OOZ', u'i,i', u'Fetch The Bolt Cutters', u'Watch This Liquid Pour Itself', u'Watch This Liquid Pour Itself', u'Watch This Liquid Pour Itself'], 'song_name': [u'Con Conn Was Impatient', u'Oh Devil - Radio Version', u'Six Speed', u'Futile Devices (Doveman Remix)', u'People Watching', u'Czech One', u'iMi', u'Cosmonauts', u'Guttural Sounds', u'Asexual Wellbeing', u'Ascend and Try Again'], 'artist_name': [u'Connan Mockasin', u'Electric Guest', u'Current Blue', u'Sufjan Stevens', u'Sen Morimoto', u'King Krule', u'Bon Iver', u'Fiona Apple', u'Okay Kaya', u'Okay Kaya', u'Okay Kaya'], 'track_id': [u'7kYsFB2Zp8JRI2ESlQZIJG', u'6KwSdmAba8BxoxVXPw70LO', u'38loOBAgDgCW4pFWyH9cey', u'5iR8v6fTc33LDo2t4w3342', u'1z4DPOVwQxj2HSuXQYnoKO', u'3z6ocW0ewr4ji7cqRDtDgq', u'5p2vqFW6PVyE38GJlCVIHv', u'7eGoc6UmwiRAVnilTZajNC', u'4ikloQEuI5etJbDrqIOAMH', u'5Hl1HecGM9yame1jI29Z2L', u'2KMIVHTrsX1zc2w93vVDR6']}
+                                                image  ... energy
+10  https://i.scdn.co/image/ab67616d0000b2733d3652...  ...  0.296
+9   https://i.scdn.co/image/ab67616d0000b2733d3652...  ...  0.541
+8   https://i.scdn.co/image/ab67616d0000b2733d3652...  ...  0.381
+7   https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.472
+6   https://i.scdn.co/image/ab67616d0000b2735cc90d...  ...  0.396
+5   https://i.scdn.co/image/ab67616d0000b273c02d78...  ...   0.21
+4   https://i.scdn.co/image/ab67616d0000b273af0713...  ...    0.4
+3   https://i.scdn.co/image/ab67616d0000b273066d0a...  ...  0.187
+2   https://i.scdn.co/image/ab67616d0000b273b539ca...  ...  0.327
+1   https://i.scdn.co/image/ab67616d0000b273710023...  ...  0.579
+0   https://i.scdn.co/image/ab67616d0000b273530d21...  ...  0.191
+
+[11 rows x 10 columns]
+('Rows: ', 11)
+Saved!
+
