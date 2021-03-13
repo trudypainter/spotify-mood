@@ -59770,3 +59770,24 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master df63d50] updating daily data 2021-03-12 21:00:04.379679
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-03-12 21:00:03.309322
+Auth happening...
+Getting songs
+Creating dataframe...
+Rage
+White Mercedes
+Roaring 20s
+34+35
+GOT THESE SONGS
+{'played_at': ['20:58', '20:56', '20:52'], 'valence': [0.728, 0.199, 0.786], 'mood_avg': [0.806, 0.486, 0.812], 'danceability': [0.836, 0.743, 0.91], 'energy': [0.901, 0.544, 0.67], 'image': [u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b2733eee02e04b08d2c415ae63a5'], 'album_name': [u'Nasty', u'Charli', u'Roaring 20s'], 'song_name': [u'Rage', u'White Mercedes', u'Roaring 20s'], 'artist_name': [u'Rico Nasty', u'Charli XCX', u'Flo Milli'], 'track_id': [u'0d3pSVPhCfuzAJLyMUZYjT', u'7fOFeVSyL18q7RiU6cnhiM', u'5N4oNpf3YH76vNhXKc5usy']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b2733eee02...  ...   0.67
+1  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.544
+0  https://i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.901
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
