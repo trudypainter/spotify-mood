@@ -60003,4 +60003,49 @@ GOT THESE SONGS
 15  https://i.scdn.co/image/ab67616d0000b273fc1a19...  ...   0.816
 14  https://i.scdn.co/image/ab67616d0000b2735406f7...  ...   0.914
 13  https://i.scdn.co/image/ab67616d0000b2738c894f...  ...   0.322
-12  https://i.scdn.co/image/ab67616d0000b273ed8666... 
+12  https://i.scdn.co/image/ab67616d0000b273ed8666... [master b8dd25d] updating daily data 2021-03-13 09:00:05.827257
+ 3 files changed, 105 insertions(+), 1 deletion(-)
+ ...   0.588
+11  https://i.scdn.co/image/ab67616d0000b273c52624...  ...   0.746
+10  https://i.scdn.co/image/ab67616d0000b27311750f...  ...   0.542
+9   https://i.scdn.co/image/ab67616d0000b27314ac4c...  ...   0.419
+8   https://i.scdn.co/image/ab67616d0000b2738c06d9...  ...  0.0964
+7   https://i.scdn.co/image/ab67616d0000b273a5b8c6...  ...   0.268
+6   https://i.scdn.co/image/ab67616d0000b273854a50...  ...   0.703
+5   https://i.scdn.co/image/ab67616d0000b27347401e...  ...   0.345
+4   https://i.scdn.co/image/ab67616d0000b273857330...  ...   0.546
+3   https://i.scdn.co/image/ab67616d0000b27302f048...  ...   0.505
+2   https://i.scdn.co/image/ab67616d0000b273cd1b70...  ...   0.547
+1   https://i.scdn.co/image/ab67616d0000b273a37325...  ...   0.332
+0   https://i.scdn.co/image/ab67616d0000b273d7fbfc...  ...   0.457
+
+[17 rows x 10 columns]
+('Rows: ', 17)
+Saved!
+
+2021-03-13 10:00:03.354220
+Auth happening...
+Getting songs
+Creating dataframe...
+Baby Little Tween
+Hallelu Ya Hallelu Me
+Mother Nature's Bitch
+Psych Ward
+Helsevesen
+Stonethrow
+Symbiosis
+Popcorn Heart
+Overstimulated
+Givenupitis
+Zero Interaction Ramen Bar
+Insert Generic Name
+Summer's End - Spotify Singles
+Guttural Sounds
+360 Baby
+Circling
+Two Haunted Houses
+Sunset Dreams
+I'd Like To Walk Around In Your Mind
+Kinko's field trip 2006
+GOT THESE SONGS
+{'played_at': ['09:59', '09:56', '09:54', '09:52', '09:49', '09:47', '09:44', '09:40', '09:36', '09:33', '09:31', '09:29', '09:27', '09:23', '09:17', '09:13', '09:10', '09:05', '09:01'], 'valence': [0.414, 0.199, 0.683, 0.63, 0.129, 0.828, 0.117, 0.134, 0.545, 0.582, 0.294, 0.346, 0.342, 0.144, 0.404, 0.183, 0.473, 0.722, 0.51], 'mood_avg': [0.46, 0.264, 0.676, 0.602, 0.187, 0.761, 0.24, 0.208, 0.506, 0.589, 0.286, 0.468, 0.386, 0.267, 0.624, 0.271, 0.458, 0.699, 0.326], 'danceability': [0.507, 0.319, 0.714, 0.661, 0.21, 0.666, 0.317, 0.303, 0.596, 0.677, 0.336, 0.611, 0.471, 0.333, 0.864, 0.351, 0.425, 0.611, 0.212], 'energy': [0.458, 0.282, 0.588, 0.427, 0.255, 0.815, 0.333, 0.165, 0.25, 0.425, 0.168, 0.424, 0.302, 0.381, 0.586, 0.286, 0.496, 0.831, 0.186], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b273a5b8c651627eb5f17c8c7db0', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b2732089fb9fa81a189e68f622ed', u'https://i.scdn.co/image/ab67616d0000b273e642ee1d2a578a4a3c48ebf2', u'https://i.scdn.co/image/ab67616d0000b273cb0ce58c8d1247f3e7b50b63', u'https://i.scdn.co/image/ab67616d0000b2733091befe0df042954dcb6db0', u'https://i.scdn.co/image/ab67616d0000b273aa75bc2cbc0003e7ef6add7a'], 'album_name': [u'Watch This Liquid Pour Itself', u'Watch This Liquid Pour Itself', u'Watch This Liquid Pour Itself', u'Watch This Liquid Pour Itself', u'Watch This Liquid Pour Itself', u'Watch This Liquid Pour Itself', u'Watch This Liquid Pour Itself', u'Watch This Liquid Pour Itself', u'Watch This Liquid Pour Itself', u'Watch This Liquid Pour Itself', u'Watch This Liquid Pour Itself', u'Watch This Liquid Pour Itself', u'Spotify Singles', u'Watch This Liquid Pour Itself', u'360 Baby', u'Circling', u'Count the Stairs', u'Flock', u'Just Another Diamond Day'], 'song_name': [u'Baby Little Tween', u'Hallelu Ya Hallelu Me', u"Mother Nature's Bitch", u'Psych Ward', u'Helsevesen', u'Stonethrow', u'Symbiosis', u'Popcorn Heart', u'Overstimulated', u'Givenupitis', u'Zero Interaction Ramen Bar', u'Insert Generic Name', u"Summer's End - Spotify Singles", u'Guttural Sounds', u'360 Baby', u'Circling', u'Two Haunted Houses', u'Sunset Dreams', u"I'd Like To Walk Around In Your Mind"], 'artist_name': [u'Okay Kaya', u'Okay Kaya', u'Okay Kaya', u'Okay Kaya', u'Okay Kaya', u'Okay Kaya', u'Okay Kaya', u'Okay Kaya', u'Okay Kaya', u'Okay Kaya', u'Okay Kaya', u'Okay Kaya', u'Phoebe Bridgers', u'Okay Kaya', u'Dizzy Fae', u'Eyas', u'Charlie Hickey', u'Jane Weaver', u'Vashti Bunyan'], 'track_id': [u'7ot2rAdnSrO15V5PABWr7v', u'3J71WHeltpl32eh26tSl2B', u'3TsNXF2EbIUS6zlfm5Ju3M', u'1kd1FGxqk7734EZaQDJ0yv', u'6jTor8Zx3tOBWtpv9y0goh', u'3a22BFFihymvmDOBkLDmt4', u'69wP3V8YZmQ3xMts4yr2rG', u'2KtqNMzh6eFHPMsryaPmG5', u'1yjgSzpuL8mRhDTcSzM3tZ', u'3ybDkB8fzekULheBxON
