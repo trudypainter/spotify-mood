@@ -60140,3 +60140,28 @@ GOT THESE SONGS
 ('Rows: ', 6)
 Saved!
 
+[master 01421fd] updating daily data 2021-03-13 13:00:04.519635
+ 3 files changed, 33 insertions(+), 1 deletion(-)
+2021-03-13 13:00:03.454632
+Auth happening...
+Getting songs
+Creating dataframe...
+A Greater Love
+Kill V. Maim
+My Little Corner of the World
+Snakeskin
+IN IN IN
+Bones
+GOT THESE SONGS
+{'played_at': ['12:15', '12:12', '12:07', '12:05', '12:02'], 'valence': [0.371, 0.456, 0.625, 0.123, 0.226], 'mood_avg': [0.515, 0.603, 0.543, 0.358, 0.533], 'danceability': [0.617, 0.578, 0.567, 0.413, 0.756], 'energy': [0.598, 0.947, 0.333, 0.716, 0.699], 'image': [u'https://i.scdn.co/image/ab67616d0000b273043864250fbec5f57c7076a7', u'https://i.scdn.co/image/ab67616d0000b2734f1235383b41920e64b00a78', u'https://i.scdn.co/image/ab67616d0000b2734599fdba5f431f3b419349a0', u'https://i.scdn.co/image/ab67616d0000b273db0a368a7ede184a67a51b95', u'https://i.scdn.co/image/ab67616d0000b27370e27d49407a6e49e4dfdbcb'], 'album_name': [u'Heaven To A Tortured Mind', u'Art Angels', u'I Can Hear The Heart Beating As One', u'SAWAYAMA (Deluxe Edition)', u'LESS IS MOOR'], 'song_name': [u'A Greater Love', u'Kill V. Maim', u'My Little Corner of the World', u'Snakeskin', u'IN IN IN'], 'artist_name': [u'Yves Tumor', u'Grimes', u'Yo La Tengo', u'Rina Sawayama', u'Zebra Katz'], 'track_id': [u'3u3kKwR4TgxtPxJFvVWn7F', u'3WXhshrs1fzwF3rQE399Gq', u'2bY66Hf5NbHJ8Ai8eNmJHG', u'0Nvh845a2Gn12xtKU68aWN', u'6s5fztn7rjtRs2gGdP9n7t']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b27370e27d...  ...  0.699
+3  https://i.scdn.co/image/ab67616d0000b273db0a36...  ...  0.716
+2  https://i.scdn.co/image/ab67616d0000b2734599fd...  ...  0.333
+1  https://i.scdn.co/image/ab67616d0000b2734f1235...  ...  0.947
+0  https://i.scdn.co/image/ab67616d0000b273043864...  ...  0.598
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
