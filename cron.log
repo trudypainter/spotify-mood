@@ -60210,3 +60210,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 5fb4d23] updating daily data 2021-03-13 17:00:03.835646
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-03-13 17:00:03.024412
+Auth happening...
+Getting songs
+Creating dataframe...
+Aonde Voce Vai
+The Jumps
+A Greater Love
+GOT THESE SONGS
+{'played_at': ['16:54', '16:51'], 'valence': [0.78, 0.058], 'mood_avg': [0.725, 0.107], 'danceability': [0.797, 0.183], 'energy': [0.472, 0.0525], 'image': [u'https://i.scdn.co/image/ab67616d0000b2739f8e01771aac41ddd32a5d2c', u'https://i.scdn.co/image/ab67616d0000b2732cb0db99d7cf0db7c1546e5c'], 'album_name': [u'Feito Em Casa', u'Suspiria (Music for the Luca Guadagnino Film)'], 'song_name': [u'Aonde Voce Vai', u'The Jumps'], 'artist_name': [u'Antonio Adolfo', u'Thom Yorke'], 'track_id': [u'3GDQqicBKrDrHFpK0eRMD4', u'2pGzE7Ih9KI156FSEYsiLq']}
+                                               image  ...  energy
+1  https://i.scdn.co/image/ab67616d0000b2732cb0db...  ...  0.0525
+0  https://i.scdn.co/image/ab67616d0000b2739f8e01...  ...   0.472
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
