@@ -59753,3 +59753,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 3777ab5] updating daily data 2021-03-12 20:00:08.404968
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-03-12 20:00:06.841615
+Auth happening...
+Getting songs
+Creating dataframe...
+34+35
+Bitch I'm Nasty
+GOT THESE SONGS
+{'played_at': ['19:55'], 'valence': [0.485], 'mood_avg': [0.643], 'danceability': [0.83], 'energy': [0.585], 'image': [u'https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605'], 'album_name': [u'Positions'], 'song_name': [u'34+35'], 'artist_name': [u'Ariana Grande'], 'track_id': [u'6Im9k8u9iIzKMrmV7BWtlF']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b2735ef878...  ...  0.585
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
