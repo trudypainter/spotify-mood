@@ -59791,3 +59791,20 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master 47271a7] updating daily data 2021-03-12 22:00:03.763845
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-03-12 22:00:03.099331
+Auth happening...
+Getting songs
+Creating dataframe...
+forever
+Rage
+GOT THESE SONGS
+{'played_at': ['21:05'], 'valence': [0.462], 'mood_avg': [0.601], 'danceability': [0.577], 'energy': [0.927], 'image': [u'https://i.scdn.co/image/ab67616d0000b273664e38c99d077cc52ab48914'], 'album_name': [u"how i'm feeling now"], 'song_name': [u'forever'], 'artist_name': [u'Charli XCX'], 'track_id': [u'5GsJIVCBFjhCcUwJaTW2sB']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273664e38...  ...  0.927
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
