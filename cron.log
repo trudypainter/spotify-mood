@@ -60431,3 +60431,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 1e5d0ad] updating daily data 2021-03-14 08:00:03.798837
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-03-14 08:00:03.201219
+Auth happening...
+Getting songs
+Creating dataframe...
+Sajanwa Kab Aaoge - Dadra in Raga Pahadi - Raga - Pahadi - Taal - Dadra (Live)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
