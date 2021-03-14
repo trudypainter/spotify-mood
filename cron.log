@@ -60229,3 +60229,24 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master 8f2db13] updating daily data 2021-03-13 18:00:03.553616
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-03-13 18:00:02.597853
+Auth happening...
+Getting songs
+Creating dataframe...
+School
+This One
+Myth
+Exaptation
+GOT THESE SONGS
+{'played_at': ['17:09', '17:04', '17:02'], 'valence': [0.765, 0.77, 0.0652], 'mood_avg': [0.712, 0.682, 0.102], 'danceability': [0.645, 0.623, 0.169], 'energy': [0.741, 0.626, 0.0402], 'image': [u'https://i.scdn.co/image/ab67616d0000b273210e19d835bb0af6620256cf', u'https://i.scdn.co/image/ab67616d0000b273e8c17aaef1df1f216a035e77', u'https://i.scdn.co/image/ab67616d0000b2734c2f8fbf8037dee7d3c83d58'], 'album_name': [u'Sixteen Oceans', u'This One', u'Village Of The Pharoahs'], 'song_name': [u'School', u'This One', u'Myth'], 'artist_name': [u'Four Tet', u'KO', u'Pharoah Sanders'], 'track_id': [u'2WIUbg8CiAsKuQMw9DzZ1d', u'7sV38zhPShfVVlhqVUT98B', u'4mCGbCzL27qkdKAUXAbsom']}
+                                               image  ...  energy
+2  https://i.scdn.co/image/ab67616d0000b2734c2f8f...  ...  0.0402
+1  https://i.scdn.co/image/ab67616d0000b273e8c17a...  ...   0.626
+0  https://i.scdn.co/image/ab67616d0000b273210e19...  ...   0.741
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
