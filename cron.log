@@ -61273,3 +61273,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master c0acad2] updating daily data 2021-03-16 16:00:06.604535
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+2021-03-16 16:00:04.933598
+Auth happening...
+Getting songs
+Creating dataframe...
+Celebrate (feat. Rich Homie Quan)
+Lifetime
+For Me
+Lottery (Renegade)
+Thotiana
+Dum Surfer
+GOT THESE SONGS
+{'played_at': ['15:57', '15:56', '15:54', '15:51', '15:48'], 'valence': [0.657, 0.512, 0.145, 0.67, 0.391], 'mood_avg': [0.663, 0.581, 0.519, 0.745, 0.595], 'danceability': [0.664, 0.476, 0.904, 0.915, 0.906], 'energy': [0.672, 0.93, 0.498, 0.556, 0.382], 'image': [u'https://i.scdn.co/image/ab67616d0000b27374d72ebd51dd5781d5f83ffd', u'https://i.scdn.co/image/ab67616d0000b273f5533d680fa116232aa10cbc', u'https://i.scdn.co/image/ab67616d0000b273f07053a5993823b6a7eea591', u'https://i.scdn.co/image/ab67616d0000b273de7c8cf6e1979da0df4323bb', u'https://i.scdn.co/image/ab67616d0000b273ab52be56f39be3b2aeb94daa'], 'album_name': [u'Baby On Baby', u'Safe In The Hands of Love', u'For Me', u'Wayy 2 Kritical', u'Famous Cryp'], 'song_name': [u'Celebrate (feat. Rich Homie Quan)', u'Lifetime', u'For Me', u'Lottery (Renegade)', u'Thotiana'], 'artist_name': [u'DaBaby', u'Yves Tumor', u'CHASE B', u'K CAMP', u'Blueface'], 'track_id': [u'7uxbabRF4omY1MhmIgaZ6Y', u'6z1TKEurXotxsMGB0Kuuka', u'5XMhppJhtgjkd2SYDklhR9', u'4dZTZbmJBCCofAExHwefda', u'5GBuCHuPKx6UC7VsSPK0t3']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273ab52be...  ...  0.382
+3  https://i.scdn.co/image/ab67616d0000b273de7c8c...  ...  0.556
+2  https://i.scdn.co/image/ab67616d0000b273f07053...  ...  0.498
+1  https://i.scdn.co/image/ab67616d0000b273f5533d...  ...   0.93
+0  https://i.scdn.co/image/ab67616d0000b27374d72e...  ...  0.672
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
