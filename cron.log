@@ -61108,3 +61108,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 499fff3] updating daily data 2021-03-16 05:00:03.217979
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-03-16 05:00:02.565139
+Auth happening...
+Getting songs
+Creating dataframe...
+Interlude: Dad Was Mad
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
