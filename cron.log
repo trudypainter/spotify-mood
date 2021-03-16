@@ -61298,3 +61298,42 @@ GOT THESE SONGS
 ('Rows: ', 5)
 Saved!
 
+[master 2cb16d1] updating daily data 2021-03-16 17:00:04.942877
+ 3 files changed, 38 insertions(+), 1 deletion(-)
+2021-03-16 17:00:03.186351
+Auth happening...
+Getting songs
+Creating dataframe...
+The Illest Villains
+How to Talk
+guidance
+Plain Jane
+BUFFALO (feat. Shane Powers)
+96 of My Life
+Rainbows
+Devil In A New Dress
+5% TINT
+GROUP B
+Hotel Lobby
+14 KI's
+Celebrate (feat. Rich Homie Quan)
+GOT THESE SONGS
+{'played_at': ['16:41', '16:39', '16:35', '16:32', '16:26', '16:23', '16:20', '16:17', '16:11', '16:08', '16:04', '16:01'], 'valence': [0.335, 0.736, 0.453, 0.52, 0.116, 0.409, 0.41, 0.206, 0.062, 0.361, 0.201, 0.384], 'mood_avg': [0.461, 0.732, 0.613, 0.696, 0.35, 0.585, 0.484, 0.408, 0.406, 0.506, 0.478, 0.522], 'danceability': [0.41, 0.728, 0.702, 0.797, 0.346, 0.656, 0.449, 0.435, 0.712, 0.544, 0.688, 0.573], 'energy': [0.817, 0.73, 0.753, 0.844, 0.824, 0.796, 0.7, 0.76, 0.481, 0.718, 0.61, 0.696], 'image': [u'https://i.scdn.co/image/ab67616d0000b27302abe1eaf9da931f42629b4a', u'https://i.scdn.co/image/ab67616d0000b27341b41e6f7924e530a9b00f9c', u'https://i.scdn.co/image/ab67616d0000b273f54b99bf27cda88f4a7403ce', u'https://i.scdn.co/image/ab67616d0000b273d79cfa3155b50beb5dbeeb9a', u'https://i.scdn.co/image/ab67616d0000b2730f2e9f092b4e9c4424afb446', u'https://i.scdn.co/image/ab67616d0000b273b232ad1d108e009e3e4aaf80', u'https://i.scdn.co/image/ab67616d0000b27302abe1eaf9da931f42629b4a', u'https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f', u'https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3', u'https://i.scdn.co/image/ab67616d0000b27314018bd9158a07c9a6a58f54', u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03', u'https://i.scdn.co/image/ab67616d0000b27380299020c49ed30c3009d965'], 'album_name': [u'Madvillainy', u'Luv Is Rage 2', u'Birds In The Trap Sing McKnight', u'Still Striving', u'Cherry Bomb', u'Grime MC', u'Madvillainy', u'My Beautiful Dark Twisted Fantasy', u'ASTROWORLD', u'GROUP B', u'Shoot For The Stars Aim For The Moon (Deluxe)', u'LULU'], 'song_name': [u'The Illest Villains', u'How to Talk', u'guidance', u'Plain Jane', u'BUFFALO (feat. Shane Powers)', u'96 of My Life', u'Rainbows', u'Devil In A New Dress', u'5% TINT', u'GROUP B', u'Hotel Lobby', u"14 KI's"], 'artist_name': [u'Madvillain', u'Lil Uzi Vert', u'Travis Scott', u'A$AP Ferg', u'Tyler, The Creator', u'Jme', u'Madvillain', u'Kanye West', u'Travis Scott', u'Tyler, The Creator', u'Pop Smoke', u'Conway the Machine'], 'track_id': [u'0vlTyXdxncOF0RRKTMWfpo', u'0ro5QCkSCtbfhMHnvMase3', u'2c2csx4OTYtbkzvbSTXlGY', u'4dVpf9jZjcORqGTLUaeYj9', u'1qkPQxOTLFmx3bwUOV8Kzw', u'4z6aaeEo8nIGKeQwNIxTR1', u'4x8vLLF0UI953H5Z0p2Rwo', u'1UGD3lW3tDmgZfAVDh6w7r', u'11kDth1aKUEUMq9r1pqyds', u'3NnINnjKVVs03xat0qLQFx', u'5xKXcU8tpSYz7C7wrMMYec', u'4vptagaIflVdu1F9Q11o9d']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b273802990...  ...  0.696
+10  https://i.scdn.co/image/ab67616d0000b27346e130...  ...   0.61
+9   https://i.scdn.co/image/ab67616d0000b27314018b...  ...  0.718
+8   https://i.scdn.co/image/ab67616d0000b273072e9f...  ...  0.481
+7   https://i.scdn.co/image/ab67616d0000b273d9194a...  ...   0.76
+6   https://i.scdn.co/image/ab67616d0000b27302abe1...  ...    0.7
+5   https://i.scdn.co/image/ab67616d0000b273b232ad...  ...  0.796
+4   https://i.scdn.co/image/ab67616d0000b2730f2e9f...  ...  0.824
+3   https://i.scdn.co/image/ab67616d0000b273d79cfa...  ...  0.844
+2   https://i.scdn.co/image/ab67616d0000b273f54b99...  ...  0.753
+1   https://i.scdn.co/image/ab67616d0000b27341b41e...  ...   0.73
+0   https://i.scdn.co/image/ab67616d0000b27302abe1...  ...  0.817
+
+[12 rows x 10 columns]
+('Rows: ', 12)
+Saved!
+
