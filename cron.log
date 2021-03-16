@@ -61243,3 +61243,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master a987bcc] updating daily data 2021-03-16 14:00:03.539212
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-03-16 14:00:02.742200
+Auth happening...
+Getting songs
+Creating dataframe...
+Dum Surfer
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
