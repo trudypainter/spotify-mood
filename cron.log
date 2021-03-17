@@ -61612,3 +61612,20 @@ GOT THESE SONGS
 ('Rows: ', 5)
 Saved!
 
+[master dc7a8d4] updating daily data 2021-03-17 08:00:03.209155
+ 3 files changed, 27 insertions(+), 1 deletion(-)
+2021-03-17 08:00:02.495233
+Auth happening...
+Getting songs
+Creating dataframe...
+Hit Me Where It Hurts
+On the Floor
+GOT THESE SONGS
+{'played_at': ['07:03'], 'valence': [0.261], 'mood_avg': [0.502], 'danceability': [0.732], 'energy': [0.523], 'image': [u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759'], 'album_name': [u'Pang'], 'song_name': [u'Hit Me Where It Hurts'], 'artist_name': [u'Caroline Polachek'], 'track_id': [u'2wcrQZ7ZJolYEfIaPP9yL4']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b2737d983e...  ...  0.523
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
