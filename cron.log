@@ -61409,3 +61409,30 @@ GOT THESE SONGS
 ('Rows: ', 19)
 Saved!
 
+[master 2c7c828] updating daily data 2021-03-16 20:00:04.669437
+ 3 files changed, 35 insertions(+), 2 deletions(-)
+2021-03-16 20:00:02.601338
+Auth happening...
+Getting songs
+Creating dataframe...
+GiGis
+Bean (Kobe) [feat. Chief Keef]
+Saucin' - Remix
+When I Was Broke
+N.Y. State of Mind
+Scarface vs. Sosa, Pt. 2
+2 Stings
+GOT THESE SONGS
+{'played_at': ['19:19', '19:16', '19:12', '19:09', '19:06', '19:01'], 'valence': [0.585, 0.319, 0.794, 0.533, 0.887, 0.539], 'mood_avg': [0.559, 0.534, 0.76, 0.683, 0.803, 0.672], 'danceability': [0.389, 0.733, 0.916, 0.883, 0.665, 0.723], 'energy': [0.849, 0.567, 0.382, 0.583, 0.91, 0.834], 'image': [u'https://i.scdn.co/image/ab67616d0000b2735ce7c97d99e18a58a758052b', u'https://i.scdn.co/image/ab67616d0000b273dea510881ec1e506485303e4', u'https://i.scdn.co/image/ab67616d0000b273cc043419c110d89e46304eda', u'https://i.scdn.co/image/ab67616d0000b273e0b64c8be3c4e804abcb2696', u'https://i.scdn.co/image/ab67616d0000b27375d9ecf8d29744037d2d6064', u'https://i.scdn.co/image/ab67616d0000b273252f9cfc6028c6524297ed04'], 'album_name': [u'Hitler Wears Hermes 6', u'Eternal Atake (Deluxe) - LUV vs. The World 2', u'Freewave', u'FUTURE', u'Illmatic XX', u'Tana Talk 3'], 'song_name': [u'GiGis', u'Bean (Kobe) [feat. Chief Keef]', u"Saucin' - Remix", u'When I Was Broke', u'N.Y. State of Mind', u'Scarface vs. Sosa, Pt. 2'], 'artist_name': [u'Westside Gunn', u'Lil Uzi Vert', u'LUCKI', u'Future', u'Nas', u'Benny The Butcher'], 'track_id': [u'5JtExvv7Asds3eBSxqyhYP', u'0IpnZchq8ek2A6pGEP2Qb1', u'1djb4ACCvrs7MPnKwA9w9I', u'7Co6yOkvI0GvijiYcMuT84', u'5zwz05jkQVT68CjUpPwFZe', u'7xU4SoGtoasbA1jmiPOzYy']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b273252f9c...  ...  0.834
+4  https://i.scdn.co/image/ab67616d0000b27375d9ec...  ...   0.91
+3  https://i.scdn.co/image/ab67616d0000b273e0b64c...  ...  0.583
+2  https://i.scdn.co/image/ab67616d0000b273cc0434...  ...  0.382
+1  https://i.scdn.co/image/ab67616d0000b273dea510...  ...  0.567
+0  https://i.scdn.co/image/ab67616d0000b2735ce7c9...  ...  0.849
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
