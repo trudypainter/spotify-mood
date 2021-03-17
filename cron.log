@@ -61644,3 +61644,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 6838ea6] updating daily data 2021-03-17 10:00:08.021397
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-03-17 10:00:07.231700
+Auth happening...
+Getting songs
+Creating dataframe...
+Hit Me Where It Hurts
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
