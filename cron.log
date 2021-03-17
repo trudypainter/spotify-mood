@@ -61629,3 +61629,18 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 5c91e05] updating daily data 2021-03-17 09:00:03.706852
+ 2 files changed, 18 insertions(+), 1 deletion(-)
+2021-03-17 09:00:03.072477
+Auth happening...
+Getting songs
+Creating dataframe...
+Hit Me Where It Hurts
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
