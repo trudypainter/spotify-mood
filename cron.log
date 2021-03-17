@@ -61587,3 +61587,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 948dacb] updating daily data 2021-03-17 07:00:03.725344
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-03-17 07:00:02.779776
+Auth happening...
+Getting songs
+Creating dataframe...
+Miss Camaraderie
+Breathless
+Silver Cross
+party 4 u
+MF Czar
+GiGis
+GOT THESE SONGS
+{'played_at': ['06:54', '06:49', '06:43', '06:40', '06:12'], 'valence': [0.206, 0.213, 0.623, 0.245, 0.298], 'mood_avg': [0.484, 0.435, 0.655, 0.434, 0.479], 'danceability': [0.565, 0.627, 0.597, 0.579, 0.609], 'energy': [0.878, 0.494, 0.835, 0.522, 0.58], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b5efe29cb31508624b9f59d5', u'https://i.scdn.co/image/ab67616d0000b273341dfa5b0bf494ee6bd81454', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273664e38c99d077cc52ab48914', u'https://i.scdn.co/image/ab67616d0000b2736bc240551be44f15bb2bf596'], 'album_name': [u'Broke with Expensive Taste', u'Breathless', u'Charli', u"how i'm feeling now", u'Czarface Meets Metal Face'], 'song_name': [u'Miss Camaraderie', u'Breathless', u'Silver Cross', u'party 4 u', u'MF Czar'], 'artist_name': [u'Azealia Banks', u'Caroline Polachek', u'Charli XCX', u'Charli XCX', u'CZARFACE'], 'track_id': [u'5mEkLflNw2BilpJvJ0W7UC', u'179YXh5spiRaUDJihittPG', u'25x38hVatSDa5ptfbKwdn5', u'2RdEC8Ff83WkX7kDVCHseE', u'5qihkD13o5T7GwxiIY63mz']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b2736bc240...  ...   0.58
+3  https://i.scdn.co/image/ab67616d0000b273664e38...  ...  0.522
+2  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.835
+1  https://i.scdn.co/image/ab67616d0000b273341dfa...  ...  0.494
+0  https://i.scdn.co/image/ab67616d0000b273b5efe2...  ...  0.878
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
