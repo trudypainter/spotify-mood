@@ -61779,3 +61779,32 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 45beb18] updating daily data 2021-03-17 20:00:04.833741
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-03-17 20:00:03.551288
+Auth happening...
+Getting songs
+Creating dataframe...
+Can't Believe The Way We Flow
+Alewife
+Ribs
+Transportin'
+the last great american dynasty
+Agony
+Beautiful People Beautiful Problems (feat. Stevie Nicks)
+Hit Me Where It Hurts
+GOT THESE SONGS
+{'played_at': ['19:59', '19:55', '19:51', '19:47', '19:44', '19:40', '19:36'], 'valence': [0.29, 0.264, 0.0399, 0.257, 0.701, 0.318, 0.128], 'mood_avg': [0.327, 0.345, 0.315, 0.556, 0.686, 0.392, 0.341], 'danceability': [0.259, 0.433, 0.511, 0.804, 0.688, 0.578, 0.509], 'energy': [0.536, 0.329, 0.472, 0.66, 0.653, 0.166, 0.43], 'image': [u'https://i.scdn.co/image/ab67616d0000b2739af56a54edacb6237b49fa2e', u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', u'https://i.scdn.co/image/ab67616d0000b27333a859e36fdc9a27ed86516e', u'https://i.scdn.co/image/ab67616d0000b273583ce93dc89d84218f233ea7', u'https://i.scdn.co/image/ab67616d0000b273c288028c2592f400dd0b9233', u'https://i.scdn.co/image/ab67616d0000b273fe81407d98ef67144560b96d', u'https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190'], 'album_name': [u'Assume Form', u'Immunity', u'Pure Heroine (Extended)', u'Project Baby 2: All Grown Up', u'folklore (deluxe version)', u'Stranger', u'Lust For Life'], 'song_name': [u"Can't Believe The Way We Flow", u'Alewife', u'Ribs', u"Transportin'", u'the last great american dynasty', u'Agony', u'Beautiful People Beautiful Problems (feat. Stevie Nicks)'], 'artist_name': [u'James Blake', u'Clairo', u'Lorde', u'Kodak Black', u'Taylor Swift', u'Yung Lean', u'Lana Del Rey'], 'track_id': [u'6voR6zsWIn7vgZYGOFKYSZ', u'3jgrNd3uPU1c2PFBKYsV9d', u'0TEekvXTomKt3hdXDZxxeW', u'1WIZiOuNO3woKfdlSK2gNn', u'2olxzvoFI9IpxqFeUv7WOX', u'1Wj9ZhqrnbLal0Iyqk6QH1', u'3O7p9Itz8PXUoAjD2vmuM6']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b27395e2fd...  ...   0.43
+5  https://i.scdn.co/image/ab67616d0000b273fe8140...  ...  0.166
+4  https://i.scdn.co/image/ab67616d0000b273c28802...  ...  0.653
+3  https://i.scdn.co/image/ab67616d0000b273583ce9...  ...   0.66
+2  https://i.scdn.co/image/ab67616d0000b27333a859...  ...  0.472
+1  https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...  0.329
+0  https://i.scdn.co/image/ab67616d0000b2739af56a...  ...  0.536
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
