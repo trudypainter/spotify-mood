@@ -62072,3 +62072,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master d5bcbfd] updating daily data 2021-03-18 14:00:06.579686
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-03-18 14:00:03.997862
+Auth happening...
+Getting songs
+Creating dataframe...
+Pop Out
+Woo
+Like Me
+GOT THESE SONGS
+{'played_at': ['13:59', '13:56'], 'valence': [0.799, 0.185], 'mood_avg': [0.836, 0.335], 'danceability': [0.886, 0.42], 'energy': [0.81, 0.466], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e7c9b458adfbe6e5b569755d', u'https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093'], 'album_name': [u'Drillary Clinton', u'ANTI (Deluxe)'], 'song_name': [u'Pop Out', u'Woo'], 'artist_name': [u'Katie Got Bandz', u'Rihanna'], 'track_id': [u'4oePtTtctolX1UmMxvKZK2', u'3HQcsqRjRdruUjkbDSgmVF']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b27333c6b9...  ...  0.466
+0  https://i.scdn.co/image/ab67616d0000b273e7c9b4...  ...   0.81
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
