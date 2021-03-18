@@ -62143,3 +62143,25 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master 6b25256] updating daily data 2021-03-18 17:00:03.179589
+ 2 files changed, 20 insertions(+), 1 deletion(-)
+2021-03-18 17:00:02.584519
+Auth happening...
+Getting songs
+Creating dataframe...
+B*tch From Da Souf
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-03-18 18:00:03.759079
+Auth happening...
+Getting songs
+Creating dataframe...
+party 4 u
+Rain On Me (with Ariana Grande)
+Dark Horse
