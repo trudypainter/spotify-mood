@@ -62124,3 +62124,22 @@ GOT THESE SONGS
 ('Rows: ', 9)
 Saved!
 
+[master 0139f06] updating daily data 2021-03-18 16:00:03.445268
+ 3 files changed, 36 insertions(+), 1 deletion(-)
+2021-03-18 16:00:02.705012
+Auth happening...
+Getting songs
+Creating dataframe...
+B*tch From Da Souf
+Chun Swae (feat. Swae Lee)
+Chun Swae (feat. Swae Lee)
+GOT THESE SONGS
+{'played_at': ['15:03', '15:01'], 'valence': [0.399, 0.21], 'mood_avg': [0.552, 0.509], 'danceability': [0.863, 0.851], 'energy': [0.235, 0.421], 'image': [u'https://i.scdn.co/image/ab67616d0000b273abd0868c50eca32b3861b826', u'https://i.scdn.co/image/ab67616d0000b273540ab7c149079184e8724dc4'], 'album_name': [u'B*tch From Da Souf', u'Queen'], 'song_name': [u'B*tch From Da Souf', u'Chun Swae (feat. Swae Lee)'], 'artist_name': [u'Mulatto', u'Nicki Minaj'], 'track_id': [u'6tLWt7gkvvTSjS6OfJjiyJ', u'03It1uO69CjGWP3yyVe465']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273540ab7...  ...  0.421
+0  https://i.scdn.co/image/ab67616d0000b273abd086...  ...  0.235
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
