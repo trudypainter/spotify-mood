@@ -61808,3 +61808,34 @@ GOT THESE SONGS
 ('Rows: ', 7)
 Saved!
 
+[master 90ab13b] updating daily data 2021-03-17 21:00:06.064283
+ 3 files changed, 38 insertions(+), 1 deletion(-)
+2021-03-17 21:00:03.571596
+Auth happening...
+Getting songs
+Creating dataframe...
+Hawk Em
+Dior
+Hit Me Where It Hurts (feat. Chino Moreno) - Toro y Moi Remix
+SAN MARCOS
+F33l Lik3 Dyin
+No Idea
+Spinning (with Charli XCX & The 1975)
+Shameika Said (feat. Fiona Apple)
+Can't Believe The Way We Flow
+GOT THESE SONGS
+{'played_at': ['20:26', '20:24', '20:19', '20:16', '20:11', '20:07', '20:05', '20:02'], 'valence': [0.506, 0.648, 0.0692, 0.53, 0.0966, 0.35, 0.742, 0.611], 'mood_avg': [0.597, 0.639, 0.383, 0.468, 0.472, 0.527, 0.723, 0.509], 'danceability': [0.683, 0.548, 0.57, 0.388, 0.733, 0.652, 0.716, 0.432], 'energy': [0.607, 0.805, 0.637, 0.503, 0.703, 0.631, 0.698, 0.46], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5', u'https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5', u'https://i.scdn.co/image/ab67616d0000b273dd8e1bb04d7ccd8fe3704dde', u'https://i.scdn.co/image/ab67616d0000b273de91214392394303e66d1cb6', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b27345190a074bef3e8ce868b60c', u'https://i.scdn.co/image/ab67616d0000b2734f5549dc1dd07183ee7941ba', u'https://i.scdn.co/image/ab67616d0000b2736b54511cd0dff6818f25a646'], 'album_name': [u'Meet The Woo', u'Meet The Woo', u'Hit Me Where It Hurts (Toro y Moi Remix)', u'iridescence', u'Whole Lotta Red', u'Heaven Or Hell', u'Spinning (with Charli XCX & The 1975)', u'Shameika Said (feat. Fiona Apple)'], 'song_name': [u'Hawk Em', u'Dior', u'Hit Me Where It Hurts (feat. Chino Moreno) - Toro y Moi Remix', u'SAN MARCOS', u'F33l Lik3 Dyin', u'No Idea', u'Spinning (with Charli XCX & The 1975)', u'Shameika Said (feat. Fiona Apple)'], 'artist_name': [u'Pop Smoke', u'Pop Smoke', u'Caroline Polachek', u'BROCKHAMPTON', u'Playboi Carti', u'Don Toliver', u'No Rome', u'Shameika'], 'track_id': [u'2ZRdQMMKtmPLdYp9aP5cK5', u'79s5XnCN4TJKTVMSmOx8Ep', u'1uBC1U3los3X6UI8X9e3hj', u'1Bn8jBSmtSQdvAFXU3ok1w', u'1xVVYE1ahLotRpppJViVzs', u'7AzlLxHn24DxjgQX73F9fU', u'56D251hqnHtPSgwSH5a0fl', u'5IelFDwkj5eJEnTSfwroxa']}
+                                               image  ... energy
+7  https://i.scdn.co/image/ab67616d0000b2736b5451...  ...   0.46
+6  https://i.scdn.co/image/ab67616d0000b2734f5549...  ...  0.698
+5  https://i.scdn.co/image/ab67616d0000b27345190a...  ...  0.631
+4  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.703
+3  https://i.scdn.co/image/ab67616d0000b273de9121...  ...  0.503
+2  https://i.scdn.co/image/ab67616d0000b273dd8e1b...  ...  0.637
+1  https://i.scdn.co/image/ab67616d0000b2738fe5d0...  ...  0.805
+0  https://i.scdn.co/image/ab67616d0000b2738fe5d0...  ...  0.607
+
+[8 rows x 10 columns]
+('Rows: ', 8)
+Saved!
+
