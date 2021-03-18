@@ -61951,3 +61951,32 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 22f01fb] updating daily data 2021-03-18 07:00:04.548807
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-03-18 07:00:02.478213
+Auth happening...
+Getting songs
+Creating dataframe...
+Neighbors (feat. BIG30)
+Moonlight
+Life Goes On
+ASTROTHUNDER
+Shoota (feat. Lil Uzi Vert)
+goosebumps
+Brother Man
+Hawk Em
+GOT THESE SONGS
+{'played_at': ['06:58', '06:53', '06:51', '06:47', '06:44', '06:41', '06:14'], 'valence': [0.805, 0.711, 0.387, 0.286, 0.47, 0.43, 0.364], 'mood_avg': [0.738, 0.76, 0.549, 0.486, 0.587, 0.654, 0.589], 'danceability': [0.728, 0.921, 0.716, 0.7, 0.673, 0.841, 0.78], 'energy': [0.623, 0.537, 0.541, 0.46, 0.649, 0.728, 0.657], 'image': [u'https://i.scdn.co/image/ab67616d0000b2737521ad5f8cd60ead348560ab', u'https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c', u'https://i.scdn.co/image/ab67616d0000b2736cab41f8c84d6164976400d4', u'https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194', u'https://i.scdn.co/image/ab67616d0000b273f54b99bf27cda88f4a7403ce', u'https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5'], 'album_name': [u'Shiesty Season', u'?', u'Harder Than Ever', u'ASTROWORLD', u'Die Lit', u'Birds In The Trap Sing McKnight', u'Meet The Woo'], 'song_name': [u'Neighbors (feat. BIG30)', u'Moonlight', u'Life Goes On', u'ASTROTHUNDER', u'Shoota (feat. Lil Uzi Vert)', u'goosebumps', u'Brother Man'], 'artist_name': [u'Pooh Shiesty', u'XXXTENTACION', u'Lil Baby', u'Travis Scott', u'Playboi Carti', u'Travis Scott', u'Pop Smoke'], 'track_id': [u'2xlOJSbScxrHHOmlNmILpD', u'0JP9xo3adEtGSdUEISiszL', u'2bSk87AVkCIIC3Bcligq1z', u'4MXhiYIRDMGAuvZc5IFTwC', u'2BJSMvOGABRxokHKB0OI8i', u'6gBFPUFcJLzWGx4lenP6h2', u'7wttMlE6un70hfwymwniYl']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b2738fe5d0...  ...  0.657
+5  https://i.scdn.co/image/ab67616d0000b273f54b99...  ...  0.728
+4  https://i.scdn.co/image/ab67616d0000b273a1e867...  ...  0.649
+3  https://i.scdn.co/image/ab67616d0000b273072e9f...  ...   0.46
+2  https://i.scdn.co/image/ab67616d0000b2736cab41...  ...  0.541
+1  https://i.scdn.co/image/ab67616d0000b273806c16...  ...  0.537
+0  https://i.scdn.co/image/ab67616d0000b2737521ad...  ...  0.623
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
