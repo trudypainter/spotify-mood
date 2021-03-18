@@ -62091,3 +62091,36 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master 673408f] updating daily data 2021-03-18 15:00:04.063091
+ 3 files changed, 29 insertions(+), 1 deletion(-)
+2021-03-18 15:00:02.786341
+Auth happening...
+Getting songs
+Creating dataframe...
+Chun Swae (feat. Swae Lee)
+sadder badder cooler - Y2K Remix
+Good Form (feat. Lil Wayne)
+Cry (feat. Grimes)
+Hello Kitty
+Like That Bitch
+Pretty Girl hi!
+Best Friend (feat. Doja Cat)
+Discounts
+Pop Out
+GOT THESE SONGS
+{'played_at': ['14:34', '14:22', '14:19', '14:15', '14:13', '14:10', '14:07', '14:05', '14:02'], 'valence': [0.21, 0.736, 0.295, 0.843, 0.591, 0.76, 0.441, 0.402, 0.867], 'mood_avg': [0.509, 0.702, 0.624, 0.77, 0.655, 0.786, 0.585, 0.65, 0.825], 'danceability': [0.851, 0.756, 0.898, 0.667, 0.725, 0.782, 0.636, 0.84, 0.791], 'energy': [0.421, 0.527, 0.733, 0.828, 0.641, 0.844, 0.772, 0.766, 0.81], 'image': [u'https://i.scdn.co/image/ab67616d0000b273540ab7c149079184e8724dc4', u'https://i.scdn.co/image/ab67616d0000b27392444c56efe76d96688d7658', u'https://i.scdn.co/image/ab67616d0000b273fc8c64bfc4323ff7ce68fea8', u'https://i.scdn.co/image/ab67616d0000b273b92c8caf2c7b8f35c2b3ff00', u'https://i.scdn.co/image/ab67616d0000b27385e1a4e3692d910ddb8416e6', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b273680f7aff18376de523d7dea5', u'https://i.scdn.co/image/ab67616d0000b2739aeed9bbffaac4c99cc4c4d9', u'https://i.scdn.co/image/ab67616d0000b2731de90928b7e41cc8dfc97c68'], 'album_name': [u'Queen', u'sadder badder cooler (Y2K Remix)', u'Queen (Deluxe)', u'Cry (feat. Grimes)', u'Hello Kitty', u'Ho, why is you here ?', u'Introspection', u'Best Friend (feat. Doja Cat)', u'Discounts'], 'song_name': [u'Chun Swae (feat. Swae Lee)', u'sadder badder cooler - Y2K Remix', u'Good Form (feat. Lil Wayne)', u'Cry (feat. Grimes)', u'Hello Kitty', u'Like That Bitch', u'Pretty Girl hi!', u'Best Friend (feat. Doja Cat)', u'Discounts'], 'artist_name': [u'Nicki Minaj', u'Tove Lo', u'Nicki Minaj', u'Ashnikko', u'Slayyyter', u'Flo Milli', u'UMI', u'Saweetie', u'cupcakKe'], 'track_id': [u'03It1uO69CjGWP3yyVe465', u'4YGgFxIQBQPE46ytGUfX4U', u'6supMAknraGpJrN5qqYfV8', u'0w1Wd17IygSVDMOZtKm4hi', u'2EZHO9OoxZoaBs669GtWZv', u'7zoZd2MuTaQEdF1rlq6Vv1', u'35SJSCkL9h2APOXwiSTPX1', u'2etHQJxIbV0soyPhelVs9Y', u'3NILSt8vgJrRqwWkwB8das']}
+                                               image  ... energy
+8  https://i.scdn.co/image/ab67616d0000b2731de909...  ...   0.81
+7  https://i.scdn.co/image/ab67616d0000b2739aeed9...  ...  0.766
+6  https://i.scdn.co/image/ab67616d0000b273680f7a...  ...  0.772
+5  https://i.scdn.co/image/ab67616d0000b2733ae4c6...  ...  0.844
+4  https://i.scdn.co/image/ab67616d0000b27385e1a4...  ...  0.641
+3  https://i.scdn.co/image/ab67616d0000b273b92c8c...  ...  0.828
+2  https://i.scdn.co/image/ab67616d0000b273fc8c64...  ...  0.733
+1  https://i.scdn.co/image/ab67616d0000b27392444c...  ...  0.527
+0  https://i.scdn.co/image/ab67616d0000b273540ab7...  ...  0.421
+
+[9 rows x 10 columns]
+('Rows: ', 9)
+Saved!
+
