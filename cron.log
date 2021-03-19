@@ -62213,3 +62213,63 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 8156de3] updating daily data 2021-03-18 21:00:05.592499
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-03-18 21:00:03.388456
+Auth happening...
+Getting songs
+Creating dataframe...
+Self Control
+Skyline To
+Seigfried
+Close To You
+Pretty Sweet
+Facebook Story
+Ivy
+White Ferrari
+Be Yourself
+Godspeed
+White Ferrari
+GOT THESE SONGS
+{'played_at': ['20:58', '20:53', '20:50', '20:45', '20:43', '20:41', '20:40', '20:35', '20:31', '20:30'], 'valence': [0.446, 0.401, 0.37, 0.779, 0.167, 0.704, 0.452, 0.219, 0.935, 0.0773], 'mood_avg': [0.449, 0.388, 0.35, 0.777, 0.292, 0.57, 0.485, 0.284, 0.723, 0.218], 'danceability': [0.572, 0.423, 0.377, 0.827, 0.201, 0.632, 0.567, 0.444, 0.657, 0.421], 'energy': [0.209, 0.294, 0.255, 0.673, 0.724, 0.18, 0.388, 0.0924, 0.431, 0.0952], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526'], 'album_name': [u'Blonde', u'Blonde', u'Blonde', u'Blonde', u'Blonde', u'Blonde', u'Blonde', u'Blonde', u'Blonde', u'Blonde'], 'song_name': [u'Self Control', u'Skyline To', u'Seigfried', u'Close To You', u'Pretty Sweet', u'Facebook Story', u'Ivy', u'White Ferrari', u'Be Yourself', u'Godspeed'], 'artist_name': [u'Frank Ocean', u'Frank Ocean', u'Frank Ocean', u'Frank Ocean', u'Frank Ocean', u'Frank Ocean', u'Frank Ocean', u'Frank Ocean', u'Frank Ocean', u'Frank Ocean'], 'track_id': [u'5GUYJTQap5F3RDQiCOJhrS', u'4xR3MAscflQ262kMeiKshQ', u'1BViPjTT585XAhkUUrkts0', u'1VZLEW5ZfcAbKZ94XQiSZF', u'17yrCsl1Ai6CZLBmGj6d6p', u'73D5hBkiVZkopZrmBZTBWf', u'2ZWlPOoWh0626oTaHrnl2a', u'2LMkwUfqC6S6s6qDVlEuzV', u'1IdZvb2XK8NmsovQlV6CPn', u'34xTFwjPQ1dC6uJmleno7x']}
+                                               image  ...  energy
+9  https://i.scdn.co/image/ab67616d0000b273c5649a...  ...  0.0952
+8  https://i.scdn.co/image/ab67616d0000b273c5649a...  ...   0.431
+7  https://i.scdn.co/image/ab67616d0000b273c5649a...  ...  0.0924
+6  https://i.scdn.co/image/ab67616d0000b273c5649a...  ...   0.388
+5  https://i.scdn.co/image/ab67616d0000b273c5649a...  ...    0.18
+4  https://i.scdn.co/image/ab67616d0000b273c5649a...  ...   0.724
+3  https://i.scdn.co/image/ab67616d0000b273c5649a...  ...   0.673
+2  https://i.scdn.co/image/ab67616d0000b273c5649a...  ...   0.255
+1  https://i.scdn.co/image/ab67616d0000b273c5649a...  ...   0.294
+0  https://i.scdn.co/image/ab67616d0000b273c5649a...  ...   0.209
+
+[10 rows x 10 columns]
+('Rows: ', 10)
+Saved!
+
+2021-03-18 22:00:02.724317
+Auth happening...
+Getting songs
+Creating dataframe...
+Take Care In Your Dreaming
+Pink Champagne
+Music Makes Me High
+Wherever You Go
+Until Daylight Comes
+Star Song.IMG
+We Go On
+Oh The Sunn!
+Carrier Waves
+Reflecting Light
+Ghost Story Pt. 2
+Interstellar Love
+Solitary Ceremonies
+The Divine Chord
+We Will Always Love You
+Song For Barbara Payton
+Ghost Story
+Pink + White
+Self Control
+GOT THESE SONGS
+{'played_at': ['21:49', '21:44', '21:43', '21:40', '21:34', '21:32', '21:31', '21:27', '21:25', '21:24', '21:20', '21:19', '21:15', '21:14', '21:11', '21:08', '21:06', '21:01'], 'valence': [0.329, 0.0, 0.76, 0.258, 0.584, 0.0, 0.641, 0.124, 0.0775, 0.404, 0.152, 0.27, 0.193, 0.373, 0.176, 0.22, 0.228, 0.554], 'mood_avg': [0.54, 0.126, 0.729, 0.447, 0.639, 0.064, 0.677, 0.462, 0.247, 0.401, 0.253, 0.453, 0.237, 0.545, 0.41, 0.302, 0.259, 0.55], 'danceability': [0.611, 0.0, 0.607, 0.46, 0.675, 0.0, 0.63, 0.708, 0.3, 0.247, 0.302, 0.448, 0.267, 0.557, 0.535, 0.355, 0.261, 0.544], 'energy': [0.822, 0.632, 0.911, 0.798, 0.678, 0.319, 0.841, 0.644, 0.481, 0.701, 0.356, 0.83, 0.267, 0.863, 0.626, 0.358, 0.317, 0.552], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526'], 'album_name': [u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'Blonde'], 'song_name': [u'Take Care In Your Dreaming', u'Pink Champagne', u'Music Makes Me High', u'Wherever You Go', u'Until Daylight Comes', u'Star Song.IMG', u'We Go On', u'Oh The Sunn!', u'Carrier Waves', u'Reflecting Light', u'Ghost Story Pt. 2', u'Interstellar Love', u'Solitary Ceremonies', u'The Divine Chord', u'We Will Always Love You', u'Song For Barbara Payton', u'Ghost Story', u'Pink + White'], 'artist_name': [u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'Frank Ocean'], 'track_id': [u'1t0YL0DwYHhbW5P4BvV7j1', u'6tb5a2c3pW31Iqk4viVs4I', u'4o8ssGZ37z8S93zHTNfDlD', u'0J3FsLl9oyGWBU3cHqQpCo', u'7gwBRAx69q9pBzfmC8AbKP', u'7gL9qC82hXoHwTzstNWYXi', u'4k65ndzxH3tHYZSnYurgM7', u'1Qth3TmxzsBYDpCRCffdZk', u'501InEJ0WT4PTkvr7EVXvl', u'3mkr5TrEjhi5RhVSjvg0nM', u'37qkB4DJj0M1qjYqg5EUlK', u'4PUGAmAvt5VxbbefkhV0x5', u'4ITwUwPgYYl9QF2k9dyH9r', u'3A0cAzFKPefBCz7Z02UnnO', u'51wxtCuipwjvvT99wsSmCc', u'5ImMXrczU0jwRgEuWBJDqz
