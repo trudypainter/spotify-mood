@@ -62299,3 +62299,18 @@ GOT THESE SONGS
 ('Rows: ', 18)
 Saved!
 
+[master dca429a] updating daily data 2021-03-18 23:00:03.665520
+ 2 files changed, 28 insertions(+), 2 deletions(-)
+2021-03-18 23:00:03.023146
+Auth happening...
+Getting songs
+Creating dataframe...
+Take Care In Your Dreaming
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
