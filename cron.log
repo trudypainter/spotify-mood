@@ -62511,3 +62511,50 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 33c99c3] updating daily data 2021-03-19 12:00:04.097298
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-03-19 12:00:03.481857
+Auth happening...
+Getting songs
+Creating dataframe...
+Punisher
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-03-19 13:00:03.277980
+Auth happening...
+Getting songs
+Creating dataframe...
+We Will Always Love You
+Polly
+Loud Places
+Nappy Wonder
+Daytime But Darker
+Something To Do
+Mulholland
+Energy Fleets
+8 Melodies
+Interlude: I Got So Much Magic, You Can Have It (feat. Kelly Rowland & Nia Andrews)
+Gold Sky
+Punisher
+GOT THESE SONGS
+{'played_at': ['12:59', '12:56', '12:52', '12:47', '12:31', '12:30', '12:29', '12:25', '12:23', '12:21', '12:21'], 'valence': [0.176, 0.195, 0.164, 0.161, 0.872, 0.0775, 0.266, 0.0393, 0.41, 0.639, 0.361], 'mood_avg': [0.41, 0.285, 0.45, 0.423, 0.761, 0.188, 0.393, 0.259, 0.552, 0.528, 0.419], 'danceability': [0.535, 0.389, 0.646, 0.657, 0.743, 0.265, 0.46, 0.389, 0.717, 0.652, 0.343], 'energy': [0.626, 0.258, 0.63, 0.481, 0.575, 0.254, 0.512, 0.438, 0.506, 0.0584, 0.688], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b2738b40e0ef79069fb9bcc560d9', u'https://i.scdn.co/image/ab67616d0000b273e8ac8f5ea7877d823e5df3ea', u'https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6', u'https://i.scdn.co/image/ab67616d0000b273a957341d8a1a75973d22bee0', u'https://i.scdn.co/image/ab67616d0000b273c705e4061a1de1139ced6554', u'https://i.scdn.co/image/ab67616d0000b273534dc6aebb7cf3c04e410cc6', u'https://i.scdn.co/image/ab67616d0000b27328916ffa16f5473ac57ffe84', u'https://i.scdn.co/image/ab67616d0000b273db59437636f1219033bdc608', u'https://i.scdn.co/image/ab67616d0000b2731c4540d0ecafaa45305aa5a0', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1'], 'album_name': [u'We Will Always Love You', u'gr\xe6', u'In Colour', u'Negro Swan', u'Sen Morimoto', u"Angel's Pulse", u'Assume Form', u'Man Alive!', u'Hair of the Dog', u'A Seat at the Table', u'We Will Always Love You'], 'song_name': [u'We Will Always Love You', u'Polly', u'Loud Places', u'Nappy Wonder', u'Daytime But Darker', u'Something To Do', u'Mulholland', u'Energy Fleets', u'8 Melodies', u'Interlude: I Got So Much Magic, You Can Have It (feat. Kelly Rowland & Nia Andrews)', u'Gold Sky'], 'artist_name': [u'The Avalanches', u'Moses Sumney', u'Jamie xx', u'Blood Orange', u'Sen Morimoto', u'Blood Orange', u'James Blake', u'King Krule', u'ARTHUR', u'Solange', u'The Avalanches'], 'track_id': [u'51wxtCuipwjvvT99wsSmCc', u'6LQOd5wz3RmBFFZxdhSfLT', u'7lPgKA5mLFNmGPMdb07OlM', u'2ZGZV976wWwuA3qI3Q0q9k', u'5X7A4UJFPydT2eZtxqX6sJ', u'2AyLmM1V9tMi9kQBXnkuJm', u'1HH74T0lQrV21hkc5KmPZ5', u'6alrVz4PGYaWuxwHzrKSIo', u'3HO0ICUrBVV5kWv5PI4OnJ', u'1X2GmcZ5NIKnEyDdSzzJ4q', u'3XlOL0qIITmNBKBcZTqS9n']}
+                                                image  ...  energy
+10  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...   0.688
+9   https://i.scdn.co/image/ab67616d0000b2731c4540...  ...  0.0584
+8   https://i.scdn.co/image/ab67616d0000b273db5943...  ...   0.506
+7   https://i.scdn.co/image/ab67616d0000b27328916f...  ...   0.438
+6   https://i.scdn.co/image/ab67616d0000b273534dc6...  ...   0.512
+5   https://i.scdn.co/image/ab67616d0000b273c705e4...  ...   0.254
+4   https://i.scdn.co/image/ab67616d0000b273a95734...  ...   0.575
+3   https://i.scdn.co/image/ab67616d0000b27347dd2c...  ...   0.481
+2   https://i.scdn.co/image/ab67616d0000b273e8ac8f...  ...    0.63
+1   https://i.scdn.co/image/ab67616d0000b2738b40e0...  ...   0.258
+0   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...   0.626
+
+[11 rows x 10 columns]
