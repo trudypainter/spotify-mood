@@ -62558,3 +62558,40 @@ GOT THESE SONGS
 0   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...   0.626
 
 [11 rows x 10 columns]
+[master 3155f42] updating daily data 2021-03-19 14:00:03.366901
+ 3 files changed, 77 insertions(+), 1 deletion(-)
+2021-03-19 14:00:02.049290
+Auth happening...
+Getting songs
+Creating dataframe...
+Running Red Lights
+Airport Antenatal Airplane
+Lornaderek
+Retro OTW
+Little Boy
+Jonny (Reprise)
+Dark & Handsome
+Electricity
+A Worrying Thing
+The Internet of Love (That Way)
+Road, River and Rail
+We Will Always Love You
+GOT THESE SONGS
+{'played_at': ['13:58', '13:53', '13:51', '13:50', '13:21', '13:18', '13:16', '13:13', '13:10', '13:07', '13:02'], 'valence': [0.625, 0.0903, 0.72, 0.134, 0.327, 0.196, 0.288, 0.43, 0.605, 0.54, 0.333], 'mood_avg': [0.657, 0.286, 0.62, 0.244, 0.541, 0.312, 0.427, 0.538, 0.508, 0.644, 0.318], 'danceability': [0.674, 0.435, 0.758, 0.297, 0.781, 0.324, 0.584, 0.53, 0.491, 0.847, 0.138], 'energy': [0.686, 0.379, 0.144, 0.359, 0.487, 0.521, 0.389, 0.77, 0.347, 0.445, 0.648], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b27328916ffa16f5473ac57ffe84', u'https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a', u'https://i.scdn.co/image/ab67616d0000b273b80f8eb7cd3776e665e77477', u'https://i.scdn.co/image/ab67616d0000b27311b63834a1a557cc77403458', u'https://i.scdn.co/image/ab67616d0000b273863a30c04dd17e33a627fd31', u'https://i.scdn.co/image/ab67616d0000b273c705e4061a1de1139ced6554', u'https://i.scdn.co/image/ab67616d0000b273e7cdd0cb1c3e6419c637549d', u'https://i.scdn.co/image/ab67616d0000b27375d190b89508d795e7570aaf', u'https://i.scdn.co/image/ab67616d0000b273aa839bb04931542d830c73b1', u'https://i.scdn.co/image/ab67616d0000b273dd65e48e39cbd75ee8dd81a3'], 'album_name': [u'We Will Always Love You', u'Man Alive!', u'Drukqs', u'Only Diamonds Cut Diamonds', u'DEMIDEVIL', u'Atlanta Millionaires Club', u"Angel's Pulse", u'Since I Left You', u'Painful', u'Sex & Food', u'Heaven or Las Vegas'], 'song_name': [u'Running Red Lights', u'Airport Antenatal Airplane', u'Lornaderek', u'Retro OTW', u'Little Boy', u'Jonny (Reprise)', u'Dark & Handsome', u'Electricity', u'A Worrying Thing', u'The Internet of Love (That Way)', u'Road, River and Rail'], 'artist_name': [u'The Avalanches', u'King Krule', u'Aphex Twin', u'Vegyn', u'Ashnikko', u'Faye Webster', u'Blood Orange', u'The Avalanches', u'Yo La Tengo', u'Unknown Mortal Orchestra', u'Cocteau Twins'], 'track_id': [u'3BjcCLvgi6anh2xcRnBerE', u'76tj4lRYQjKfFojEDHgsuj', u'0wO98kwaiREiZwIUV9TaAH', u'5e6zWOz8HS8z3Kd85Q4NJj', u'660rulYF3eLCuW6rQpiMdL', u'4Df0lNew6elodzXWT0wkxw', u'0Zgcv1wy4bRWpfsM27uPGK', u'0Mg6Z3OP9fwIEPWHXsnufL', u'6lTxetsTuooAZfiRrzfUrh', u'10FFk6OGMIKbpUe89cTEAg', u'6MJ8YgmhMphGcCX5OVS28W']}
+                                                image  ... energy
+10  https://i.scdn.co/image/ab67616d0000b273dd65e4...  ...  0.648
+9   https://i.scdn.co/image/ab67616d0000b273aa839b...  ...  0.445
+8   https://i.scdn.co/image/ab67616d0000b27375d190...  ...  0.347
+7   https://i.scdn.co/image/ab67616d0000b273e7cdd0...  ...   0.77
+6   https://i.scdn.co/image/ab67616d0000b273c705e4...  ...  0.389
+5   https://i.scdn.co/image/ab67616d0000b273863a30...  ...  0.521
+4   https://i.scdn.co/image/ab67616d0000b27311b638...  ...  0.487
+3   https://i.scdn.co/image/ab67616d0000b273b80f8e...  ...  0.359
+2   https://i.scdn.co/image/ab67616d0000b273a5aef9...  ...  0.144
+1   https://i.scdn.co/image/ab67616d0000b27328916f...  ...  0.379
+0   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.686
+
+[11 rows x 10 columns]
+('Rows: ', 11)
+Saved!
+
