@@ -62198,3 +62198,18 @@ GOT THESE SONGS
 ('Rows: ', 9)
 Saved!
 
+[master ffa6099] updating daily data 2021-03-18 20:00:04.721944
+ 2 files changed, 34 insertions(+), 1 deletion(-)
+2021-03-18 20:00:04.018857
+Auth happening...
+Getting songs
+Creating dataframe...
+White Ferrari
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
