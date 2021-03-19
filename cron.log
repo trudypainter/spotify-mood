@@ -62420,3 +62420,26 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master bc15181] updating daily data 2021-03-19 07:00:09.585135
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+2021-03-19 07:00:08.425066
+Auth happening...
+Getting songs
+Creating dataframe...
+You Was Right
+XO Tour Llif3
+The London (feat. J. Cole & Travis Scott)
+Overcome
+Take Care In Your Dreaming
+GOT THESE SONGS
+{'played_at': ['06:57', '06:54', '06:51', '06:48'], 'valence': [0.156, 0.401, 0.179, 0.566], 'mood_avg': [0.471, 0.603, 0.507, 0.648], 'danceability': [0.843, 0.732, 0.796, 0.662], 'energy': [0.359, 0.75, 0.586, 0.786], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738be07181aa935225a6f25d56', u'https://i.scdn.co/image/ab67616d0000b27341b41e6f7924e530a9b00f9c', u'https://i.scdn.co/image/ab67616d0000b273137c2d3150118e7157800c5b', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1'], 'album_name': [u'Lil Uzi Vert vs. The World', u'Luv Is Rage 2', u'The London (feat. J. Cole & Travis Scott)', u'We Will Always Love You'], 'song_name': [u'You Was Right', u'XO Tour Llif3', u'The London (feat. J. Cole & Travis Scott)', u'Overcome'], 'artist_name': [u'Lil Uzi Vert', u'Lil Uzi Vert', u'Young Thug', u'The Avalanches'], 'track_id': [u'2ANLarE8yHVsLWW21nj79M', u'7GX5flRQZVHRAGd6B4TmDO', u'7DcvwMAiqKJQD1rrdfxSDx', u'2CwjJUzjEYq6CbIYTytZTe']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.786
+2  https://i.scdn.co/image/ab67616d0000b273137c2d...  ...  0.586
+1  https://i.scdn.co/image/ab67616d0000b27341b41e...  ...   0.75
+0  https://i.scdn.co/image/ab67616d0000b2738be071...  ...  0.359
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
