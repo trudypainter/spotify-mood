@@ -62165,3 +62165,36 @@ Creating dataframe...
 party 4 u
 Rain On Me (with Ariana Grande)
 Dark Horse
+[master 5f6ca18] updating daily data 2021-03-18 19:00:05.386981
+ 3 files changed, 32 insertions(+), 1 deletion(-)
+2021-03-18 19:00:03.894387
+Auth happening...
+Getting songs
+Creating dataframe...
+White Ferrari
+Elastic
+Love Galore (feat. Travis Scott)
+Stay Flo
+Next Level Charli
+Charcoal Baby
+In The Party
+Out of My Head (feat. Tove Lo and ALMA)
+Awake
+party 4 u
+GOT THESE SONGS
+{'played_at': ['18:31', '18:27', '18:24', '18:19', '18:16', '18:13', '18:09', '18:07', '18:03'], 'valence': [0.219, 0.561, 0.409, 0.674, 0.215, 0.514, 0.418, 0.42, 0.28], 'mood_avg': [0.284, 0.698, 0.6, 0.71, 0.47, 0.546, 0.657, 0.65, 0.599], 'danceability': [0.444, 0.966, 0.795, 0.823, 0.536, 0.622, 0.919, 0.851, 0.764], 'energy': [0.0924, 0.435, 0.594, 0.558, 0.847, 0.46, 0.609, 0.709, 0.908], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b273c038cc146b4418bf3ddfdbb9', u'https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b273c61a793955ac590e672eafe8', u'https://i.scdn.co/image/ab67616d0000b2732ff16cb8c50004d7aaca646d'], 'album_name': [u'Blonde', u'QUARTERTHING', u'Ctrl', u'When I Get Home', u'Charli', u'Negro Swan', u'Ho, why is you here ?', u'Pop 2', u'Awake'], 'song_name': [u'White Ferrari', u'Elastic', u'Love Galore (feat. Travis Scott)', u'Stay Flo', u'Next Level Charli', u'Charcoal Baby', u'In The Party', u'Out of My Head (feat. Tove Lo and ALMA)', u'Awake'], 'artist_name': [u'Frank Ocean', u'Joey Purp', u'SZA', u'Solange', u'Charli XCX', u'Blood Orange', u'Flo Milli', u'Charli XCX', u'Tkay Maidza'], 'track_id': [u'2LMkwUfqC6S6s6qDVlEuzV', u'4MAADpR6MjelkaZqe3Mgnv', u'0q75NwOoFiARAVp4EXU4Bs', u'6GCIYIWUBSLontW6divqsw', u'7a6HVxpLhW7hRL9JcFZl16', u'3bBmpVl9rQKJsFFGLFilIS', u'52BJrldggFQyTiW8XrILhO', u'2khkbmL11VFqKGMrcGIJB3', u'4Puw64CYf5hi5hlrQo9mm4']}
+                                               image  ...  energy
+8  https://i.scdn.co/image/ab67616d0000b2732ff16c...  ...   0.908
+7  https://i.scdn.co/image/ab67616d0000b273c61a79...  ...   0.709
+6  https://i.scdn.co/image/ab67616d0000b2733ae4c6...  ...   0.609
+5  https://i.scdn.co/image/ab67616d0000b27347dd2c...  ...    0.46
+4  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...   0.847
+3  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...   0.558
+2  https://i.scdn.co/image/ab67616d0000b2734c79d5...  ...   0.594
+1  https://i.scdn.co/image/ab67616d0000b273c038cc...  ...   0.435
+0  https://i.scdn.co/image/ab67616d0000b273c5649a...  ...  0.0924
+
+[9 rows x 10 columns]
+('Rows: ', 9)
+Saved!
+
