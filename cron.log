@@ -62464,3 +62464,20 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master 46e8ebe] updating daily data 2021-03-19 09:00:09.208546
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-03-19 09:00:08.415215
+Auth happening...
+Getting songs
+Creating dataframe...
+Punisher
+Lil Boat
+GOT THESE SONGS
+{'played_at': ['08:30'], 'valence': [0.212], 'mood_avg': [0.301], 'danceability': [0.428], 'energy': [0.226], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add'], 'album_name': [u'Punisher'], 'song_name': [u'Punisher'], 'artist_name': [u'Phoebe Bridgers'], 'track_id': [u'7yR6GEJsPI6kmNRvFkPuN3']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...  0.226
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
