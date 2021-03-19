@@ -62616,3 +62616,20 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master 99600e3] updating daily data 2021-03-19 16:00:02.995019
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-03-19 16:00:02.057749
+Auth happening...
+Getting songs
+Creating dataframe...
+Shameika Said (feat. Fiona Apple)
+Summer Bummer (feat. A$AP Rocky & Playboi Carti)
+GOT THESE SONGS
+{'played_at': ['15:51'], 'valence': [0.611], 'mood_avg': [0.509], 'danceability': [0.432], 'energy': [0.46], 'image': [u'https://i.scdn.co/image/ab67616d0000b2736b54511cd0dff6818f25a646'], 'album_name': [u'Shameika Said (feat. Fiona Apple)'], 'song_name': [u'Shameika Said (feat. Fiona Apple)'], 'artist_name': [u'Shameika'], 'track_id': [u'5IelFDwkj5eJEnTSfwroxa']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b2736b5451...  ...   0.46
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
