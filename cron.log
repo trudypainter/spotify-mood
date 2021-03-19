@@ -62443,3 +62443,24 @@ GOT THESE SONGS
 ('Rows: ', 4)
 Saved!
 
+[master a47253b] updating daily data 2021-03-19 08:00:09.317919
+ 3 files changed, 27 insertions(+), 1 deletion(-)
+2021-03-19 08:00:08.003201
+Auth happening...
+Getting songs
+Creating dataframe...
+New Patek
+Love Thru the Computer (feat. Justin Bieber)
+7AM
+Climax (feat. 6lack)
+GOT THESE SONGS
+{'played_at': ['07:13', '07:07', '07:04'], 'valence': [0.718, 0.765, 0.301], 'mood_avg': [0.784, 0.782, 0.481], 'danceability': [0.85, 0.746, 0.638], 'energy': [0.785, 0.889, 0.526], 'image': [u'https://i.scdn.co/image/ab67616d0000b273099a7b2bba7b013c1292eacf', u'https://i.scdn.co/image/ab67616d0000b2735c84824e9f16ff026c180b8b', u'https://i.scdn.co/image/ab67616d0000b273dc7fa10440eb5ddd8d90a8aa'], 'album_name': [u'New Patek', u'Delusions of Grandeur', u'Luv Is Rage'], 'song_name': [u'New Patek', u'Love Thru the Computer (feat. Justin Bieber)', u'7AM'], 'artist_name': [u'Lil Uzi Vert', u'Gucci Mane', u'Lil Uzi Vert'], 'track_id': [u'0Fpen1PTuEnCmOJtUU9Iud', u'3dxioHwH6wvCkQwt0rgvQt', u'4v1P7JCjehbg5TmLQo2mFy']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273dc7fa1...  ...  0.526
+1  https://i.scdn.co/image/ab67616d0000b2735c8482...  ...  0.889
+0  https://i.scdn.co/image/ab67616d0000b273099a7b...  ...  0.785
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
