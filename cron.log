@@ -62595,3 +62595,24 @@ GOT THESE SONGS
 ('Rows: ', 11)
 Saved!
 
+[master 5f4ef20] updating daily data 2021-03-19 15:00:03.907699
+ 3 files changed, 41 insertions(+), 1 deletion(-)
+2021-03-19 15:00:03.029799
+Auth happening...
+Getting songs
+Creating dataframe...
+Summer Bummer (feat. A$AP Rocky & Playboi Carti)
+Little Green
+Can't Believe The Way We Flow
+Running Red Lights
+GOT THESE SONGS
+{'played_at': ['14:10', '14:06', '14:02'], 'valence': [0.137, 0.304, 0.29], 'mood_avg': [0.474, 0.4, 0.327], 'danceability': [0.76, 0.636, 0.259], 'energy': [0.574, 0.121, 0.536], 'image': [u'https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190', u'https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7', u'https://i.scdn.co/image/ab67616d0000b273534dc6aebb7cf3c04e410cc6'], 'album_name': [u'Lust For Life', u'Blue', u'Assume Form'], 'song_name': [u'Summer Bummer (feat. A$AP Rocky & Playboi Carti)', u'Little Green', u"Can't Believe The Way We Flow"], 'artist_name': [u'Lana Del Rey', u'Joni Mitchell', u'James Blake'], 'track_id': [u'5QqyRUZeBE04yJxsD1OC0I', u'11ZNWD9Xzq9p3n07NbWSZw', u'03NtFY8KBtBsLQg2E9rVDI']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273534dc6...  ...  0.536
+1  https://i.scdn.co/image/ab67616d0000b273e9f77b...  ...  0.121
+0  https://i.scdn.co/image/ab67616d0000b27395e2fd...  ...  0.574
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
