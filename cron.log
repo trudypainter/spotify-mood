@@ -62898,3 +62898,38 @@ GOT THESE SONGS
 ('Rows: ', 10)
 Saved!
 
+[master 5634251] updating daily data 2021-03-20 09:00:04.292901
+ 3 files changed, 46 insertions(+), 1 deletion(-)
+2021-03-20 09:00:02.866295
+Auth happening...
+Getting songs
+Creating dataframe...
+Silver Cross
+I Don't Wanna Know
+1999
+Warm (feat. HAIM)
+Cross You Out (feat. Sky Ferreira)
+Click (feat. Kim Petras and Tommy Cash)
+Blame It on Your Love (feat. Lizzo)
+Official
+February 2017 (feat. Clairo and Yaeji)
+Next Level Charli
+Shake It (feat. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar)
+GOT THESE SONGS
+{'played_at': ['08:41', '08:38', '08:34', '08:31', '08:27', '08:24', '08:20', '08:17', '08:13', '08:01'], 'valence': [0.623, 0.148, 0.625, 0.396, 0.385, 0.529, 0.598, 0.212, 0.482, 0.215], 'mood_avg': [0.655, 0.328, 0.694, 0.482, 0.494, 0.639, 0.677, 0.332, 0.571, 0.47], 'danceability': [0.597, 0.46, 0.745, 0.518, 0.604, 0.677, 0.717, 0.472, 0.692, 0.536], 'energy': [0.835, 0.424, 0.728, 0.58, 0.492, 0.781, 0.755, 0.29, 0.506, 0.847], 'image': [u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c'], 'album_name': [u'Charli', u'Charli', u'Charli', u'Charli', u'Charli', u'Charli', u'Charli', u'Charli', u'Charli', u'Charli'], 'song_name': [u'Silver Cross', u"I Don't Wanna Know", u'1999', u'Warm (feat. HAIM)', u'Cross You Out (feat. Sky Ferreira)', u'Click (feat. Kim Petras and Tommy Cash)', u'Blame It on Your Love (feat. Lizzo)', u'Official', u'February 2017 (feat. Clairo and Yaeji)', u'Next Level Charli'], 'artist_name': [u'Charli XCX', u'Charli XCX', u'Charli XCX', u'Charli XCX', u'Charli XCX', u'Charli XCX', u'Charli XCX', u'Charli XCX', u'Charli XCX', u'Charli XCX'], 'track_id': [u'25x38hVatSDa5ptfbKwdn5', u'2wsypbBdFwN1woTAh9sq6X', u'3WGJSY8JaGliVIJyMig5aS', u'2xHEAdEalJ5YcP0ur8kF6L', u'15IgHEkeO9gSqrKilaEh8b', u'3B0K8G7WESjdKxQvVMByR9', u'2RCUr24WkEe2r5Vv4oDKlN', u'38ybr0LS9XLUcqg8Yo62Wj', u'3fTEcn7Jt6Dq3NVVdNvl4w', u'7a6HVxpLhW7hRL9JcFZl16']}
+                                               image  ... energy
+9  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.847
+8  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.506
+7  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...   0.29
+6  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.755
+5  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.781
+4  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.492
+3  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...   0.58
+2  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.728
+1  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.424
+0  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.835
+
+[10 rows x 10 columns]
+('Rows: ', 10)
+Saved!
+
