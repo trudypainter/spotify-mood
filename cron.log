@@ -62984,3 +62984,42 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 09c5474] updating daily data 2021-03-20 13:00:04.973735
+ 3 files changed, 30 insertions(+), 1 deletion(-)
+2021-03-20 13:00:03.249806
+Auth happening...
+Getting songs
+Creating dataframe...
+Havin My Way (feat. Lil Durk)
+Still Trappin' (with King Von)
+Whoopty
+Save That Shit
+Beat Box
+Havin My Way (feat. Lil Durk)
+That's It
+All These Niggas (feat. Lil Durk)
+Opp Stoppa
+White Girl
+Movie
+No Suburban, Pt. 2
+Go Stupid
+GOT THESE SONGS
+{'played_at': ['12:42', '12:38', '12:35', '12:32', '12:28', '12:27', '12:23', '12:21', '12:10', '12:09', '12:05', '12:02'], 'valence': [0.712, 0.627, 0.66, 0.487, 0.201, 0.712, 0.122, 0.356, 0.216, 0.454, 0.474, 0.616], 'mood_avg': [0.753, 0.737, 0.681, 0.578, 0.494, 0.753, 0.44, 0.552, 0.475, 0.619, 0.601, 0.678], 'danceability': [0.802, 0.877, 0.719, 0.545, 0.762, 0.802, 0.671, 0.793, 0.82, 0.698, 0.643, 0.85], 'energy': [0.737, 0.677, 0.648, 0.826, 0.542, 0.737, 0.616, 0.462, 0.302, 0.793, 0.773, 0.458], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733f0bd1cb407beb4cfb66aa69', u'https://i.scdn.co/image/ab67616d0000b273e67a56591cf8bcfcb1450980', u'https://i.scdn.co/image/ab67616d0000b2735038c2513329a3123b62923d', u'https://i.scdn.co/image/ab67616d0000b273f4a78915bb0467ed5bf21ff3', u'https://i.scdn.co/image/ab67616d0000b273cf18f0df84b3032b01c4371f', u'https://i.scdn.co/image/ab67616d0000b2733f0bd1cb407beb4cfb66aa69', u'https://i.scdn.co/image/ab67616d0000b273fac090a59ca8c44feca0073d', u'https://i.scdn.co/image/ab67616d0000b2738b72d834eb50dd04a83b349f', u'https://i.scdn.co/image/ab67616d0000b273cfb8e3c33792c27b31dd2f4d', u'https://i.scdn.co/image/ab67616d0000b273b567db041ee1a619ebe1ff04', u'https://i.scdn.co/image/ab67616d0000b2732e4caf077387fee5e2f39d55', u'https://i.scdn.co/image/ab67616d0000b273ad8cc1fba73c2360ba0ff182'], 'album_name': [u'Unbothered', u'The Voice', u'Whoopty', u'Back from the Dead', u'Beat Box', u'Unbothered', u'The Leek (Vol. 3)', u"Welcome to O'Block", u'Opp Stoppa', u'Young Jefe', u'Movie', u'One and Only'], 'song_name': [u'Havin My Way (feat. Lil Durk)', u"Still Trappin' (with King Von)", u'Whoopty', u'Save That Shit', u'Beat Box', u'Havin My Way (feat. Lil Durk)', u"That's It", u'All These Niggas (feat. Lil Durk)', u'Opp Stoppa', u'White Girl', u'Movie', u'No Suburban, Pt. 2'], 'artist_name': [u'Lil Skies', u'Lil Durk', u'CJ', u'Chief Keef', u'SpotemGottem', u'Lil Skies', u'Chief Keef', u'King Von', u'YBN Nahmir', u'Shy Glizzy', u'CoachDaGhost', u'Sheff G'], 'track_id': [u'3TcKJZF01kCz0yyadk3gsI', u'43BlKpJcSrC9AsJ3F1DKg9', u'5vGLcdRuSbUhD8ScwsGSdA', u'0uATCc7skXRKGBYp4FHdBZ', u'3wCx8pwK7J1LVe13dFXjPm', u'3TcKJZF01kCz0yyadk3gsI', u'0v0BxvMVMiNlu938A21c6p', u'4g27tVPyGHi38dczFoJZZy', u'1ogvLGGpa958nRTH1W9p2v', u'5yJzkdwbrQCwua2dIC3K6A', u'4tzvbB3aj3NE6h6a8hsOZJ', u'3VayB5gLZGODx8b7RO1y5f']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b273ad8cc1...  ...  0.458
+10  https://i.scdn.co/image/ab67616d0000b2732e4caf...  ...  0.773
+9   https://i.scdn.co/image/ab67616d0000b273b567db...  ...  0.793
+8   https://i.scdn.co/image/ab67616d0000b273cfb8e3...  ...  0.302
+7   https://i.scdn.co/image/ab67616d0000b2738b72d8...  ...  0.462
+6   https://i.scdn.co/image/ab67616d0000b273fac090...  ...  0.616
+5   https://i.scdn.co/image/ab67616d0000b2733f0bd1...  ...  0.737
+4   https://i.scdn.co/image/ab67616d0000b273cf18f0...  ...  0.542
+3   https://i.scdn.co/image/ab67616d0000b273f4a789...  ...  0.826
+2   https://i.scdn.co/image/ab67616d0000b2735038c2...  ...  0.648
+1   https://i.scdn.co/image/ab67616d0000b273e67a56...  ...  0.677
+0   https://i.scdn.co/image/ab67616d0000b2733f0bd1...  ...  0.737
+
+[12 rows x 10 columns]
+('Rows: ', 12)
+Saved!
+
