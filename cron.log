@@ -62863,3 +62863,38 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 365b5cb] updating daily data 2021-03-20 08:00:04.264813
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-03-20 08:00:02.950980
+Auth happening...
+Getting songs
+Creating dataframe...
+Shake It (feat. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar)
+Gone
+TRUST FUND BABY
+FEEL A WAY
+JUMPING SHIP
+LEAVE ME ALONE
+FANTASY
+FANCY
+D*A*N*G*E*R*O*U*S
+No Idea
+Champagne Coast
+GOT THESE SONGS
+{'played_at': ['07:58', '07:54', '07:49', '07:47', '07:45', '07:41', '07:39', '07:35', '07:33', '07:15'], 'valence': [0.422, 0.66, 0.59, 0.845, 0.575, 0.521, 0.416, 0.504, 0.249, 0.35], 'mood_avg': [0.522, 0.716, 0.602, 0.669, 0.653, 0.636, 0.617, 0.638, 0.368, 0.527], 'danceability': [0.577, 0.91, 0.752, 0.6, 0.758, 0.752, 0.772, 0.797, 0.338, 0.652], 'energy': [0.613, 0.441, 0.326, 0.457, 0.601, 0.634, 0.707, 0.59, 0.664, 0.631], 'image': [u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b2734e28afa2a5331a2a824181c9', u'https://i.scdn.co/image/ab67616d0000b2734e28afa2a5331a2a824181c9', u'https://i.scdn.co/image/ab67616d0000b2734e28afa2a5331a2a824181c9', u'https://i.scdn.co/image/ab67616d0000b2734e28afa2a5331a2a824181c9', u'https://i.scdn.co/image/ab67616d0000b2734e28afa2a5331a2a824181c9', u'https://i.scdn.co/image/ab67616d0000b2734e28afa2a5331a2a824181c9', u'https://i.scdn.co/image/ab67616d0000b2734e28afa2a5331a2a824181c9', u'https://i.scdn.co/image/ab67616d0000b27345190a074bef3e8ce868b60c'], 'album_name': [u'Charli', u'Charli', u"THE ANGEL YOU DON'T KNOW", u"THE ANGEL YOU DON'T KNOW", u"THE ANGEL YOU DON'T KNOW", u"THE ANGEL YOU DON'T KNOW", u"THE ANGEL YOU DON'T KNOW", u"THE ANGEL YOU DON'T KNOW", u"THE ANGEL YOU DON'T KNOW", u'Heaven Or Hell'], 'song_name': [u'Shake It (feat. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar)', u'Gone', u'TRUST FUND BABY', u'FEEL A WAY', u'JUMPING SHIP', u'LEAVE ME ALONE', u'FANTASY', u'FANCY', u'D*A*N*G*E*R*O*U*S', u'No Idea'], 'artist_name': [u'Charli XCX', u'Charli XCX', u'Amaarae', u'Amaarae', u'Amaarae', u'Amaarae', u'Amaarae', u'Amaarae', u'Amaarae', u'Don Toliver'], 'track_id': [u'3XbNseJrIK8LzoTh4eA0Xf', u'1yUJK3qxPiFiPeAG2gLfuW', u'36bncsqM87eiQ2Gv7WrEJz', u'1GqEu4nDrzncKDnBaf7FKs', u'5qaUDvqjsI6lnrtEhQqMle', u'0kbnm3YwSygTFeWZlCGfCw', u'6ylNT9nQLTOglCEHqvFnGo', u'5qnG5K46AMldqlO96i5pKA', u'20bG4nATIy0EQ5bOhSQ2ak', u'7AzlLxHn24DxjgQX73F9fU']}
+                                               image  ... energy
+9  https://i.scdn.co/image/ab67616d0000b27345190a...  ...  0.631
+8  https://i.scdn.co/image/ab67616d0000b2734e28af...  ...  0.664
+7  https://i.scdn.co/image/ab67616d0000b2734e28af...  ...   0.59
+6  https://i.scdn.co/image/ab67616d0000b2734e28af...  ...  0.707
+5  https://i.scdn.co/image/ab67616d0000b2734e28af...  ...  0.634
+4  https://i.scdn.co/image/ab67616d0000b2734e28af...  ...  0.601
+3  https://i.scdn.co/image/ab67616d0000b2734e28af...  ...  0.457
+2  https://i.scdn.co/image/ab67616d0000b2734e28af...  ...  0.326
+1  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.441
+0  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.613
+
+[10 rows x 10 columns]
+('Rows: ', 10)
+Saved!
+
