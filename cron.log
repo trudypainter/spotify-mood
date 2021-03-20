@@ -62933,3 +62933,22 @@ GOT THESE SONGS
 ('Rows: ', 10)
 Saved!
 
+[master 24fef72] updating daily data 2021-03-20 10:00:03.693815
+ 3 files changed, 38 insertions(+), 1 deletion(-)
+2021-03-20 10:00:02.870584
+Auth happening...
+Getting songs
+Creating dataframe...
+Thoughts
+White Mercedes
+2099 (feat. Troye Sivan)
+GOT THESE SONGS
+{'played_at': ['09:22', '09:19'], 'valence': [0.157, 0.199], 'mood_avg': [0.399, 0.486], 'danceability': [0.492, 0.743], 'energy': [0.696, 0.544], 'image': [u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c'], 'album_name': [u'Charli', u'Charli'], 'song_name': [u'Thoughts', u'White Mercedes'], 'artist_name': [u'Charli XCX', u'Charli XCX'], 'track_id': [u'7A32ilnCkeWlDNM0xsBUfw', u'7fOFeVSyL18q7RiU6cnhiM']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.544
+0  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.696
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
