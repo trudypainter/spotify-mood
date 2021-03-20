@@ -62678,3 +62678,52 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 1af0548] updating daily data 2021-03-19 20:00:03.845145
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-03-19 20:00:03.097757
+Auth happening...
+Getting songs
+Creating dataframe...
+Hands To Myself
+Violent Crimes
+Shameika Said (feat. Fiona Apple)
+GOT THESE SONGS
+{'played_at': ['19:59', '19:55'], 'valence': [0.466, 0.0397], 'mood_avg': [0.611, 0.367], 'danceability': [0.811, 0.669], 'energy': [0.499, 0.419], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e6f5ed9a9059f686965ba90a', u'https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2'], 'album_name': [u'Revival (Deluxe)', u'ye'], 'song_name': [u'Hands To Myself', u'Violent Crimes'], 'artist_name': [u'Selena Gomez', u'Kanye West'], 'track_id': [u'1LoriJC05IrHIDwj3q0KC1', u'3s7MCdXyWmwjdcWh7GWXas']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b2730cd942...  ...  0.419
+0  https://i.scdn.co/image/ab67616d0000b273e6f5ed...  ...  0.499
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
+2021-03-19 21:00:03.154424
+Auth happening...
+Getting songs
+Creating dataframe...
+The Race
+True Love Waits
+2021-03-19 22:00:02.147400
+Auth happening...
+Getting songs
+Creating dataframe...
+Champagne Coast
+Toxic
+F33l Lik3 Dyin
+MALAMENTE - Cap.1: Augurio
+Spinning (with Charli XCX & The 1975)
+Hit Me Where It Hurts (feat. Chino Moreno) - Toro y Moi Remix
+1 Night
+The Race
+GOT THESE SONGS
+{'played_at': ['21:21', '21:16', '21:13', '21:09', '21:07', '21:04', '21:01'], 'valence': [0.755, 0.924, 0.0966, 0.53, 0.742, 0.0692, 0.596], 'mood_avg': [0.708, 0.847, 0.472, 0.666, 0.723, 0.383, 0.704], 'danceability': [0.813, 0.774, 0.733, 0.893, 0.716, 0.57, 0.864], 'energy': [0.406, 0.838, 0.703, 0.482, 0.698, 0.637, 0.602], 'image': [u'https://i.scdn.co/image/ab67616d0000b273a790082aa893b1f841d7d545', u'https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f', u'https://i.scdn.co/image/ab67616d0000b2734f5549dc1dd07183ee7941ba', u'https://i.scdn.co/image/ab67616d0000b273dd8e1bb04d7ccd8fe3704dde', u'https://i.scdn.co/image/ab67616d0000b273f6327094ae332deb480b16ce'], 'album_name': [u'Coastal Grooves', u'In The Zone', u'Whole Lotta Red', u'El Mal Querer', u'Spinning (with Charli XCX & The 1975)', u'Hit Me Where It Hurts (Toro y Moi Remix)', u'Mura Masa'], 'song_name': [u'Champagne Coast', u'Toxic', u'F33l Lik3 Dyin', u'MALAMENTE - Cap.1: Augurio', u'Spinning (with Charli XCX & The 1975)', u'Hit Me Where It Hurts (feat. Chino Moreno) - Toro y Moi Remix', u'1 Night'], 'artist_name': [u'Blood Orange', u'Britney Spears', u'Playboi Carti', u'ROSAL\xcdA', u'No Rome', u'Caroline Polachek', u'Mura Masa'], 'track_id': [u'2KufM8PiQY4i52XhRL96Fd', u'6I9VzXrHxO9rA9A5euc8Ak', u'1xVVYE1ahLotRpppJViVzs', u'1B0BQaSRHxhI0AUlItY3LK', u'56D251hqnHtPSgwSH5a0fl', u'1uBC1U3los3X6UI8X9e3hj', u'6lwVLD9LcaA68ihvvMEfDg']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b273f63270...  ...  0.602
+5  https://i.scdn.co/image/ab67616d0000b273dd8e1b...  ...  0.637
+4  https://i.scdn.co/image/ab67616d0000b2734f5549...  ...  0.698
+3  https://i.scdn.co/image/ab67616d0000b273f4d64a...  ...  0.482
+2  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.703
+1  https://i.scdn.co/image/ab67616d0000b273efc698...  ...  0.838
+0  https://i.scdn.co/image/ab67616d0000b273a79008...  ...  0.406
+
+[7 rows x 10 columns]
