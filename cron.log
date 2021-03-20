@@ -62727,3 +62727,18 @@ GOT THESE SONGS
 0  https://i.scdn.co/image/ab67616d0000b273a79008...  ...  0.406
 
 [7 rows x 10 columns]
+[master 8e93e53] updating daily data 2021-03-19 23:00:03.045757
+ 3 files changed, 56 insertions(+), 1 deletion(-)
+2021-03-19 23:00:02.384413
+Auth happening...
+Getting songs
+Creating dataframe...
+Champagne Coast
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
