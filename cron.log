@@ -63353,3 +63353,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 78df4e3] updating daily data 2021-03-21 12:00:04.535027
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-03-21 12:00:03.711755
+Auth happening...
+Getting songs
+Creating dataframe...
+Home - Toro y Moi Remix
+Encircle My Love
+GOT THESE SONGS
+{'played_at': ['11:56'], 'valence': [0.155], 'mood_avg': [0.437], 'danceability': [0.657], 'energy': [0.56], 'image': [u'https://i.scdn.co/image/ab67616d0000b273d4b06bb20613649777438969'], 'album_name': [u'Suddenly Remixes'], 'song_name': [u'Home - Toro y Moi Remix'], 'artist_name': [u'Caribou'], 'track_id': [u'6QOn5KLcPirN24xMq7mkSF']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273d4b06b...  ...   0.56
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
