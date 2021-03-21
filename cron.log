@@ -63370,3 +63370,24 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master b5dee0a] updating daily data 2021-03-21 13:00:04.627036
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-03-21 13:00:03.708377
+Auth happening...
+Getting songs
+Creating dataframe...
+Rosebud
+Alewife
+Beautiful People Beautiful Problems (feat. Stevie Nicks)
+Home - Toro y Moi Remix
+GOT THESE SONGS
+{'played_at': ['12:27', '12:24', '12:20'], 'valence': [0.83, 0.264, 0.128], 'mood_avg': [0.806, 0.345, 0.341], 'danceability': [0.749, 0.433, 0.509], 'energy': [0.873, 0.329, 0.43], 'image': [u'https://i.scdn.co/image/ab67616d0000b2731fe365b735112bcc5ebb4917', u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', u'https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190'], 'album_name': [u'In A Poem Unlimited', u'Immunity', u'Lust For Life'], 'song_name': [u'Rosebud', u'Alewife', u'Beautiful People Beautiful Problems (feat. Stevie Nicks)'], 'artist_name': [u'U.S. Girls', u'Clairo', u'Lana Del Rey'], 'track_id': [u'1Rtcq2RErgV3NuQvKdCNf6', u'3jgrNd3uPU1c2PFBKYsV9d', u'3O7p9Itz8PXUoAjD2vmuM6']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b27395e2fd...  ...   0.43
+1  https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...  0.329
+0  https://i.scdn.co/image/ab67616d0000b2731fe365...  ...  0.873
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
