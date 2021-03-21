@@ -63391,3 +63391,23 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master 5d5bc30] updating daily data 2021-03-21 14:00:04.181996
+ 2 files changed, 22 insertions(+), 1 deletion(-)
+2021-03-21 14:00:02.956340
+Auth happening...
+Getting songs
+Creating dataframe...
+Rosebud
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-03-21 15:00:02.841454
+Auth happening...
+Getting songs
+Creating dataframe...
+Leave - Jenny Hval Remix
