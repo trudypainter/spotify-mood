@@ -63411,3 +63411,24 @@ Auth happening...
 Getting songs
 Creating dataframe...
 Leave - Jenny Hval Remix
+[master 6d50b0b] updating daily data 2021-03-21 16:00:03.318652
+ 3 files changed, 24 insertions(+), 1 deletion(-)
+2021-03-21 16:00:02.490186
+Auth happening...
+Getting songs
+Creating dataframe...
+1 Night
+Girls just want to have fun
+On the Floor - Initial Talk Remix
+Leave - Jenny Hval Remix
+GOT THESE SONGS
+{'played_at': ['15:15', '15:06', '15:04'], 'valence': [0.596, 0.114, 0.634], 'mood_avg': [0.704, 0.378, 0.586], 'danceability': [0.864, 0.517, 0.364], 'energy': [0.602, 0.626, 0.932], 'image': [u'https://i.scdn.co/image/ab67616d0000b273f6327094ae332deb480b16ce', u'https://i.scdn.co/image/ab67616d0000b273510329ed87b90bf821be6209', u'https://i.scdn.co/image/ab67616d0000b273ac62d0a560975d8b47b24099'], 'album_name': [u'Mura Masa', u'Girls just want to have fun', u'IMMEDIATELY Remixes'], 'song_name': [u'1 Night', u'Girls just want to have fun', u'On the Floor - Initial Talk Remix'], 'artist_name': [u'Mura Masa', u'Bladee', u'Perfume Genius'], 'track_id': [u'6lwVLD9LcaA68ihvvMEfDg', u'16aNHWdWoO9zobj4lqAoWV', u'04PThP3fgsrd8VrEulfg2s']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273ac62d0...  ...  0.932
+1  https://i.scdn.co/image/ab67616d0000b273510329...  ...  0.626
+0  https://i.scdn.co/image/ab67616d0000b273f63270...  ...  0.602
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
