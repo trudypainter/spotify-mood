@@ -63614,3 +63614,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 400bd1e] updating daily data 2021-03-22 04:00:04.021449
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-03-22 04:00:03.125493
+Auth happening...
+Getting songs
+Creating dataframe...
+Groove Elation
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
