@@ -63756,3 +63756,30 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master bda1d6a] updating daily data 2021-03-22 12:00:04.701190
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-03-22 12:00:02.649037
+Auth happening...
+Getting songs
+Creating dataframe...
+To Zion (feat. Carlos Santana)
+Ex-Factor
+Lost Ones
+Intro
+Whoopty
+Gassed Up
+44 BullDog
+GOT THESE SONGS
+{'played_at': ['11:45', '11:39', '11:33', '11:28', '11:04', '11:02'], 'valence': [0.516, 0.668, 0.65, 0.566, 0.66, 0.45], 'mood_avg': [0.491, 0.628, 0.743, 0.445, 0.681, 0.613], 'danceability': [0.41, 0.593, 0.832, 0.373, 0.719, 0.798], 'energy': [0.601, 0.619, 0.749, 0.349, 0.648, 0.568], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b2735038c2513329a3123b62923d', u'https://i.scdn.co/image/ab67616d0000b2734161f4ebfe8106839f2292a2'], 'album_name': [u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'Whoopty', u'Gassed Up'], 'song_name': [u'To Zion (feat. Carlos Santana)', u'Ex-Factor', u'Lost Ones', u'Intro', u'Whoopty', u'Gassed Up'], 'artist_name': [u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'CJ', u'Nebu Kiniza'], 'track_id': [u'7x6hO9VMAee9x1iWaeNkL6', u'2VjXGuPVVxyhMgER3Uz2Fe', u'71XhXay6rKPZCVAaDtFlSR', u'34QTgJPSf9Nvpw3NrlX8pu', u'5vGLcdRuSbUhD8ScwsGSdA', u'6JjEVlMkfHWMeYavkEYzNO']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b2734161f4...  ...  0.568
+4  https://i.scdn.co/image/ab67616d0000b2735038c2...  ...  0.648
+3  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.349
+2  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.749
+1  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.619
+0  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.601
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
