@@ -63830,3 +63830,22 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master ec97bc0] updating daily data 2021-03-22 16:00:01.898578
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+2021-03-22 16:00:01.121640
+Auth happening...
+Getting songs
+Creating dataframe...
+1999
+Click (feat. Kim Petras and Tommy Cash)
+I Don't Wanna Know
+GOT THESE SONGS
+{'played_at': ['15:04', '15:01'], 'valence': [0.625, 0.529], 'mood_avg': [0.694, 0.639], 'danceability': [0.745, 0.677], 'energy': [0.728, 0.781], 'image': [u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c'], 'album_name': [u'Charli', u'Charli'], 'song_name': [u'1999', u'Click (feat. Kim Petras and Tommy Cash)'], 'artist_name': [u'Charli XCX', u'Charli XCX'], 'track_id': [u'3WGJSY8JaGliVIJyMig5aS', u'3B0K8G7WESjdKxQvVMByR9']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.781
+0  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.728
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
