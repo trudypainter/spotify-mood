@@ -63737,3 +63737,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master d7565c1] updating daily data 2021-03-22 11:00:04.445921
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-03-22 11:00:03.706300
+Auth happening...
+Getting songs
+Creating dataframe...
+44 BullDog
+Ghost Story Pt. 2
+Ghost Story Pt. 2
+GOT THESE SONGS
+{'played_at': ['10:58', '10:32'], 'valence': [0.318, 0.152], 'mood_avg': [0.56, 0.253], 'danceability': [0.8, 0.302], 'energy': [0.564, 0.356], 'image': [u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1'], 'album_name': [u'Shoot For The Stars Aim For The Moon', u'We Will Always Love You'], 'song_name': [u'44 BullDog', u'Ghost Story Pt. 2'], 'artist_name': [u'Pop Smoke', u'The Avalanches'], 'track_id': [u'7sjFIZ1g5QLJLGja3k592K', u'37qkB4DJj0M1qjYqg5EUlK']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.356
+0  https://i.scdn.co/image/ab67616d0000b27377ada0...  ...  0.564
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
