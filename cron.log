@@ -63674,3 +63674,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 552675c] updating daily data 2021-03-22 08:00:04.338922
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-03-22 08:00:03.442937
+Auth happening...
+Getting songs
+Creating dataframe...
+Toxic
+Rosebud
+Be Nice 2 Me
+Groove Elation
+GOT THESE SONGS
+{'played_at': ['07:58', '07:52', '07:27'], 'valence': [0.924, 0.83, 0.332], 'mood_avg': [0.847, 0.806, 0.438], 'danceability': [0.774, 0.749, 0.449], 'energy': [0.838, 0.873, 0.63], 'image': [u'https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4', u'https://i.scdn.co/image/ab67616d0000b2731fe365b735112bcc5ebb4917', u'https://i.scdn.co/image/ab67616d0000b273407be60b024efcbabe7da815'], 'album_name': [u'In The Zone', u'In A Poem Unlimited', u'Icedancer'], 'song_name': [u'Toxic', u'Rosebud', u'Be Nice 2 Me'], 'artist_name': [u'Britney Spears', u'U.S. Girls', u'Bladee'], 'track_id': [u'6I9VzXrHxO9rA9A5euc8Ak', u'1Rtcq2RErgV3NuQvKdCNf6', u'2TmqHjg7uhizGndzXQdFuf']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273407be6...  ...   0.63
+1  https://i.scdn.co/image/ab67616d0000b2731fe365...  ...  0.873
+0  https://i.scdn.co/image/ab67616d0000b273efc698...  ...  0.838
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
