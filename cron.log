@@ -63521,3 +63521,20 @@ GOT THESE SONGS
 ('Rows: ', 7)
 Saved!
 
+[master 3d5edb8] updating daily data 2021-03-21 22:00:03.417253
+ 3 files changed, 31 insertions(+), 1 deletion(-)
+2021-03-21 22:00:02.737487
+Auth happening...
+Getting songs
+Creating dataframe...
+Groove Elation
+The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)
+GOT THESE SONGS
+{'played_at': ['21:01'], 'valence': [0.483], 'mood_avg': [0.601], 'danceability': [0.734], 'energy': [0.572], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e7387567689b54fa91ee40c2'], 'album_name': [u'Groove Elation'], 'song_name': [u'Groove Elation'], 'artist_name': [u'Bernice'], 'track_id': [u'3FW4Rpnkxl0zhsQBs5XvvE']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273e73875...  ...  0.572
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
