@@ -63492,3 +63492,32 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 68a26a0] updating daily data 2021-03-21 21:00:04.041074
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-03-21 21:00:02.917032
+Auth happening...
+Getting songs
+Creating dataframe...
+The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)
+IZ-US
+Flim
+Bug
+Designer Boi
+Blowin' Minds (Skateboard) (feat. A$AP Rocky, A$AP Nast, A$AP Ant, Chief Keef & Playboi Carti)
+Mean
+Dior
+GOT THESE SONGS
+{'played_at': ['20:55', '20:48', '20:45', '20:42', '20:39', '20:37', '20:34'], 'valence': [0.452, 0.315, 0.4, 0.342, 0.598, 0.337, 0.631], 'mood_avg': [0.496, 0.45, 0.591, 0.501, 0.613, 0.554, 0.734], 'danceability': [0.454, 0.581, 0.71, 0.644, 0.667, 0.732, 0.844], 'energy': [0.667, 0.459, 0.734, 0.534, 0.534, 0.632, 0.72], 'image': [u'https://i.scdn.co/image/ab67616d0000b273fa42773a0f269264c398698a', u'https://i.scdn.co/image/ab67616d0000b273c4d5de8930bbc762a68c0bc7', u'https://i.scdn.co/image/ab67616d0000b273c4d5de8930bbc762a68c0bc7', u'https://i.scdn.co/image/ab67616d0000b2730e695f02419742954acb989e', u'https://i.scdn.co/image/ab67616d0000b273328c8eacdfa20a67b588f8e2', u'https://i.scdn.co/image/ab67616d0000b273ce9a92efb0c3ad4c2fb33072', u'https://i.scdn.co/image/ab67616d0000b273c343fbd7aeb726a2c1e1bb97'], 'album_name': [u'The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)', u'Come To Daddy', u'Come To Daddy', u'Beach Music', u'Designer Boi', u'Cozy Tapes Vol. 2: Too Cozy', u'Beautiful Havoc'], 'song_name': [u'The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)', u'IZ-US', u'Flim', u'Bug', u'Designer Boi', u"Blowin' Minds (Skateboard) (feat. A$AP Rocky, A$AP Nast, A$AP Ant, Chief Keef & Playboi Carti)", u'Mean'], 'artist_name': [u'BADBADNOTGOOD', u'Aphex Twin', u'Aphex Twin', u'Alex G', u'A$AP NAST', u'A$AP Mob', u'$NOT'], 'track_id': [u'6HOLZtVDh5EgvPnW4z23n2', u'0c0Z5agmnSibjIWjdZV6R1', u'4q650OiSDQIwccxDFpuuBm', u'3z3o68h3NarFltKibiksxI', u'5ZHdSdhLl9d79wasqTn3Ax', u'3FUP0gYxsivCHzWzu8uUGw', u'3PXi72ZtSqx1PZc40KS0Qj']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b273c343fb...  ...   0.72
+5  https://i.scdn.co/image/ab67616d0000b273ce9a92...  ...  0.632
+4  https://i.scdn.co/image/ab67616d0000b273328c8e...  ...  0.534
+3  https://i.scdn.co/image/ab67616d0000b2730e695f...  ...  0.534
+2  https://i.scdn.co/image/ab67616d0000b273c4d5de...  ...  0.734
+1  https://i.scdn.co/image/ab67616d0000b273c4d5de...  ...  0.459
+0  https://i.scdn.co/image/ab67616d0000b273fa4277...  ...  0.667
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
