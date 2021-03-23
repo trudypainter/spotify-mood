@@ -63879,3 +63879,26 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 860b8ac] updating daily data 2021-03-22 19:00:11.283086
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+2021-03-22 19:00:09.619734
+Auth happening...
+Getting songs
+Creating dataframe...
+MAZZA (feat. A$AP Rocky)
+Like
+Going Through It
+Blowin' Minds (Skateboard) (feat. A$AP Rocky, A$AP Nast, A$AP Ant, Chief Keef & Playboi Carti)
+1999
+GOT THESE SONGS
+{'played_at': ['18:42', '18:39', '18:35', '18:32'], 'valence': [0.354, 0.599, 0.602, 0.337], 'mood_avg': [0.536, 0.592, 0.722, 0.554], 'danceability': [0.672, 0.483, 0.799, 0.732], 'energy': [0.63, 0.796, 0.807, 0.632], 'image': [u'https://i.scdn.co/image/ab67616d0000b273f00a6c2276387684d6abdd4c', u'https://i.scdn.co/image/ab67616d0000b2734056ba5aea894c6812e88680', u'https://i.scdn.co/image/ab67616d0000b27348f2487a18a735f457404eb9', u'https://i.scdn.co/image/ab67616d0000b273ce9a92efb0c3ad4c2fb33072'], 'album_name': [u'MAZZA (feat. A$AP Rocky)', u'Help', u'Ignorance is Bliss', u'Cozy Tapes Vol. 2: Too Cozy'], 'song_name': [u'MAZZA (feat. A$AP Rocky)', u'Like', u'Going Through It', u"Blowin' Minds (Skateboard) (feat. A$AP Rocky, A$AP Nast, A$AP Ant, Chief Keef & Playboi Carti)"], 'artist_name': [u'slowthai', u'Duval Timothy', u'Skepta', u'A$AP Mob'], 'track_id': [u'5f7MdwR02i1Lxy9TLi80SA', u'5jmSvq9DNh0UJfMaFeLe9J', u'2pty3r2awm2Ir904mq5Fxw', u'3FUP0gYxsivCHzWzu8uUGw']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273ce9a92...  ...  0.632
+2  https://i.scdn.co/image/ab67616d0000b27348f248...  ...  0.807
+1  https://i.scdn.co/image/ab67616d0000b2734056ba...  ...  0.796
+0  https://i.scdn.co/image/ab67616d0000b273f00a6c...  ...   0.63
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
