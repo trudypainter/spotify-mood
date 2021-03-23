@@ -64197,3 +64197,30 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 7a10f5b] updating daily data 2021-03-23 14:00:04.858800
+ 3 files changed, 22 insertions(+), 1 deletion(-)
+2021-03-23 14:00:03.820223
+Auth happening...
+Getting songs
+Creating dataframe...
+ROCKSTAR (feat. Roddy Ricch)
+In The Party
+bad to the bone
+Black Qualls
+In Your Eyes (with Doja Cat) - Remix
+Copines
+The Kiss Of Venus (Dominic Fike)
+GOT THESE SONGS
+{'played_at': ['13:18', '13:15', '13:13', '13:11', '13:07', '13:03'], 'valence': [0.497, 0.418, 0.656, 0.789, 0.727, 0.904], 'mood_avg': [0.635, 0.657, 0.757, 0.697, 0.709, 0.799], 'danceability': [0.746, 0.919, 0.95, 0.618, 0.679, 0.701], 'energy': [0.69, 0.609, 0.574, 0.669, 0.731, 0.787], 'image': [u'https://i.scdn.co/image/ab67616d0000b27320e08c8cc23f404d723b5647', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b273a217bcf62aa4cba60eeab335', u'https://i.scdn.co/image/ab67616d0000b27323fb02f383f3bef16ab9d092', u'https://i.scdn.co/image/ab67616d0000b27359612a59ef333109d15faa8d', u'https://i.scdn.co/image/ab67616d0000b2739922157daa474131bb3a0fbc'], 'album_name': [u'BLAME IT ON BABY', u'Ho, why is you here ?', u'bad to the bone', u'It Is What It Is', u'In Your Eyes (Remix)', u'NAKAMURA'], 'song_name': [u'ROCKSTAR (feat. Roddy Ricch)', u'In The Party', u'bad to the bone', u'Black Qualls', u'In Your Eyes (with Doja Cat) - Remix', u'Copines'], 'artist_name': [u'DaBaby', u'Flo Milli', u'bbno$', u'Thundercat', u'The Weeknd', u'Aya Nakamura'], 'track_id': [u'7ytR5pFWmSjzHJIeQkgog4', u'52BJrldggFQyTiW8XrILhO', u'3wTlriqyGE7UX1bebRBtR8', u'7qaQK6Eatz1KQFs1VZx2YR', u'0UnTaVkntyh3vqvLEvbpQx', u'1Bhm5HNO1cq8olDbBmokyL']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b273992215...  ...  0.787
+4  https://i.scdn.co/image/ab67616d0000b27359612a...  ...  0.731
+3  https://i.scdn.co/image/ab67616d0000b27323fb02...  ...  0.669
+2  https://i.scdn.co/image/ab67616d0000b273a217bc...  ...  0.574
+1  https://i.scdn.co/image/ab67616d0000b2733ae4c6...  ...  0.609
+0  https://i.scdn.co/image/ab67616d0000b27320e08c...  ...   0.69
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
