@@ -63932,3 +63932,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 9ce9f16] updating daily data 2021-03-22 22:00:04.735239
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-03-22 22:00:03.895234
+Auth happening...
+Getting songs
+Creating dataframe...
+MAZZA (feat. A$AP Rocky)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
