@@ -64083,3 +64083,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master aff6910] updating daily data 2021-03-23 08:00:05.596037
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-03-23 08:00:03.915286
+Auth happening...
+Getting songs
+Creating dataframe...
+Uproar
+Camelot (feat. Yo Gotti, BlocBoy JB & Moneybagg Yo) - Remix
+Fight Night
+Gone
+GOT THESE SONGS
+{'played_at': ['07:45', '07:42', '07:17'], 'valence': [0.884, 0.857, 0.863], 'mood_avg': [0.825, 0.835, 0.823], 'danceability': [0.743, 0.79, 0.83], 'energy': [0.87, 0.88, 0.727], 'image': [u'https://i.scdn.co/image/ab67616d0000b2732cfcc913c36f0e1776f4bb65', u'https://i.scdn.co/image/ab67616d0000b273e1bd365c2ea693e093ab4cdb', u'https://i.scdn.co/image/ab67616d0000b273aadf5188afd3060907948ddc'], 'album_name': [u'Tha Carter V', u'Camelot (feat. Yo Gotti, BlocBoy JB & Moneybagg Yo) [Remix]', u'Fight Night'], 'song_name': [u'Uproar', u'Camelot (feat. Yo Gotti, BlocBoy JB & Moneybagg Yo) - Remix', u'Fight Night'], 'artist_name': [u'Lil Wayne', u'NLE Choppa', u'Migos'], 'track_id': [u'3wScL5W8H40zzCKN0atfBk', u'05JdgtCKkZ5CoOjM5KS4EG', u'1O8qWS9w2wI3jvPX8hg56W']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273aadf51...  ...  0.727
+1  https://i.scdn.co/image/ab67616d0000b273e1bd36...  ...   0.88
+0  https://i.scdn.co/image/ab67616d0000b2732cfcc9...  ...   0.87
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
