@@ -64104,3 +64104,36 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master 0563117] updating daily data 2021-03-23 09:00:05.527640
+ 3 files changed, 31 insertions(+), 1 deletion(-)
+2021-03-23 09:00:03.957058
+Auth happening...
+Getting songs
+Creating dataframe...
+Babyface Savage (feat. Tory Lanez)
+GUMMO
+0 To 100 / The Catch Up
+VIBEZ
+Boss
+Audi.
+Plug Walk (feat. Gucci Mane, YG, 2Chainz) - Remix
+Broke In A Minute
+Who Do You Love?
+TOES (feat. Lil Baby & Moneybagg Yo)
+GOT THESE SONGS
+{'played_at': ['08:30', '08:27', '08:25', '08:20', '08:17', '08:16', '08:13', '08:08', '08:06'], 'valence': [0.425, 0.635, 0.504, 0.777, 0.647, 0.278, 0.27, 0.802, 0.146], 'mood_avg': [0.644, 0.673, 0.568, 0.748, 0.738, 0.502, 0.595, 0.832, 0.412], 'danceability': [0.907, 0.66, 0.559, 0.768, 0.803, 0.793, 0.923, 0.929, 0.676], 'energy': [0.557, 0.775, 0.716, 0.652, 0.789, 0.366, 0.587, 0.7, 0.415], 'image': [u'https://i.scdn.co/image/ab67616d0000b273afd59b8f7df2be1b94bee052', u'https://i.scdn.co/image/ab67616d0000b27314d3a2a7a92b85a06c93e544', u'https://i.scdn.co/image/ab67616d0000b2732b83df1b3ca78269f49fa89f', u'https://i.scdn.co/image/ab67616d0000b273f2b94b2fda4f08836d6371ba', u'https://i.scdn.co/image/ab67616d0000b273d52ef190ae5253eb2c3c764c', u'https://i.scdn.co/image/ab67616d0000b27329c5837c324085ceb2bbc948', u'https://i.scdn.co/image/ab67616d0000b27339c0b69bda163ed78f21784f', u'https://i.scdn.co/image/ab67616d0000b27353af8d1a7654351c6a03b5fe', u'https://i.scdn.co/image/ab67616d0000b273285717d8be1761dc136572b6'], 'album_name': [u'Babyface Savage (feat. Tory Lanez)', u'Day69: Graduation Day', u'0 To 100 / The Catch Up', u'KIRK', u'Lil Pump', u'Deadstar', u'Plug Walk (feat. Gucci Mane, YG, 2Chainz) [Remix]', u'The New Toronto 3', u'My Krazy Life (Deluxe)'], 'song_name': [u'Babyface Savage (feat. Tory Lanez)', u'GUMMO', u'0 To 100 / The Catch Up', u'VIBEZ', u'Boss', u'Audi.', u'Plug Walk (feat. Gucci Mane, YG, 2Chainz) - Remix', u'Broke In A Minute', u'Who Do You Love?'], 'artist_name': [u'Bhad Bhabie', u'6ix9ine', u'Drake', u'DaBaby', u'Lil Pump', u'Smokepurpp', u'Rich The Kid', u'Tory Lanez', u'YG'], 'track_id': [u'2xB64x7pRS8Qa9uuZktOnA', u'4HbiCvH1R7mVOJ7KY7JQBD', u'4jtyUzZm9WLc2AdaJ1dso7', u'0fySG6A6qLE8IvDpayb5bM', u'1rsAFUCa6BVMgRQ3FCQQsi', u'2INqEk4ko5AsGVLBsiKiQe', u'1vnsGFNWNANWMg0CAeMkl2', u'4xqIYGwwZTEem9U8A42SPF', u'1uDjaezEbalGyGnuH80zDK']}
+                                               image  ... energy
+8  https://i.scdn.co/image/ab67616d0000b273285717...  ...  0.415
+7  https://i.scdn.co/image/ab67616d0000b27353af8d...  ...    0.7
+6  https://i.scdn.co/image/ab67616d0000b27339c0b6...  ...  0.587
+5  https://i.scdn.co/image/ab67616d0000b27329c583...  ...  0.366
+4  https://i.scdn.co/image/ab67616d0000b273d52ef1...  ...  0.789
+3  https://i.scdn.co/image/ab67616d0000b273f2b94b...  ...  0.652
+2  https://i.scdn.co/image/ab67616d0000b2732b83df...  ...  0.716
+1  https://i.scdn.co/image/ab67616d0000b27314d3a2...  ...  0.775
+0  https://i.scdn.co/image/ab67616d0000b273afd59b...  ...  0.557
+
+[9 rows x 10 columns]
+('Rows: ', 9)
+Saved!
+
