@@ -64462,3 +64462,30 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master 461247f] updating daily data 2021-03-24 15:00:04.248713
+ 3 files changed, 28 insertions(+), 1 deletion(-)
+2021-03-24 15:00:03.088029
+Auth happening...
+Getting songs
+Creating dataframe...
+One at a Time
+The Opposite of Afternoon
+Ur Life One Night
+Swim and Sleep (Like a Shark) - Acoustic Version
+Puzzles
+Swim and Sleep (Like a Shark)
+Secret Xtians
+GOT THESE SONGS
+{'played_at': ['14:31', '14:28', '14:23', '14:19', '14:16', '14:09'], 'valence': [0.646, 0.58, 0.857, 0.46, 0.653, 0.76], 'mood_avg': [0.615, 0.558, 0.795, 0.498, 0.582, 0.772], 'danceability': [0.478, 0.529, 0.743, 0.704, 0.41, 0.766], 'energy': [0.826, 0.574, 0.776, 0.16, 0.782, 0.806], 'image': [u'https://i.scdn.co/image/ab67616d0000b2736d7e970464fcaae1379ac0f8', u'https://i.scdn.co/image/ab67616d0000b273d4c801e232fceb86e9dc539a', u'https://i.scdn.co/image/ab67616d0000b273ee70875d2ac4c16bdeba0191', u'https://i.scdn.co/image/ab67616d0000b2736d7e970464fcaae1379ac0f8', u'https://i.scdn.co/image/ab67616d0000b273ee70875d2ac4c16bdeba0191', u'https://i.scdn.co/image/ab67616d0000b273d4c801e232fceb86e9dc539a'], 'album_name': [u'II (Deluxe Edition)', u'II', u'Multi-Love', u'II (Deluxe Edition)', u'Multi-Love', u'II'], 'song_name': [u'One at a Time', u'The Opposite of Afternoon', u'Ur Life One Night', u'Swim and Sleep (Like a Shark) - Acoustic Version', u'Puzzles', u'Swim and Sleep (Like a Shark)'], 'artist_name': [u'Unknown Mortal Orchestra', u'Unknown Mortal Orchestra', u'Unknown Mortal Orchestra', u'Unknown Mortal Orchestra', u'Unknown Mortal Orchestra', u'Unknown Mortal Orchestra'], 'track_id': [u'71GHT92PxUsjBQuPjJlg5u', u'5Bc6EVf3LdQF5jaUAfmdt2', u'4kmQD8AHOQtg1Ft2NooJjp', u'5Bvcl9RyQqCtMFRnEUHiTk', u'5cSL08pXdxxmRvm6bAk3RC', u'3h1iu4HvBlLqRuft2kJEcr']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b273d4c801...  ...  0.806
+4  https://i.scdn.co/image/ab67616d0000b273ee7087...  ...  0.782
+3  https://i.scdn.co/image/ab67616d0000b2736d7e97...  ...   0.16
+2  https://i.scdn.co/image/ab67616d0000b273ee7087...  ...  0.776
+1  https://i.scdn.co/image/ab67616d0000b273d4c801...  ...  0.574
+0  https://i.scdn.co/image/ab67616d0000b2736d7e97...  ...  0.826
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
