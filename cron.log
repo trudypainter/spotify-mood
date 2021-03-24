@@ -64489,3 +64489,18 @@ GOT THESE SONGS
 ('Rows: ', 6)
 Saved!
 
+[master b0d3db1] updating daily data 2021-03-24 16:00:03.378217
+ 2 files changed, 28 insertions(+), 1 deletion(-)
+2021-03-24 16:00:02.671518
+Auth happening...
+Getting songs
+Creating dataframe...
+One at a Time
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
