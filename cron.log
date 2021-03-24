@@ -64328,3 +64328,29 @@ Creating dataframe...
 Official
 Blame It on Your Love (feat. Lizzo)
 Thoughts
+[master 7dfc8ce] updating daily data 2021-03-24 08:00:04.486035
+ 3 files changed, 80 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2021-03-24.csv
+2021-03-24 08:00:03.387891
+Auth happening...
+Getting songs
+Creating dataframe...
+Gone
+Warm (feat. HAIM)
+I Don't Wanna Know
+2099 (feat. Troye Sivan)
+Click (feat. Kim Petras and Tommy Cash)
+Official
+GOT THESE SONGS
+{'played_at': ['07:18', '07:14', '07:10', '07:07', '07:03'], 'valence': [0.66, 0.396, 0.148, 0.271, 0.529], 'mood_avg': [0.716, 0.482, 0.328, 0.36, 0.639], 'danceability': [0.91, 0.518, 0.46, 0.342, 0.677], 'energy': [0.441, 0.58, 0.424, 0.573, 0.781], 'image': [u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c'], 'album_name': [u'Charli', u'Charli', u'Charli', u'Charli', u'Charli'], 'song_name': [u'Gone', u'Warm (feat. HAIM)', u"I Don't Wanna Know", u'2099 (feat. Troye Sivan)', u'Click (feat. Kim Petras and Tommy Cash)'], 'artist_name': [u'Charli XCX', u'Charli XCX', u'Charli XCX', u'Charli XCX', u'Charli XCX'], 'track_id': [u'1yUJK3qxPiFiPeAG2gLfuW', u'2xHEAdEalJ5YcP0ur8kF6L', u'2wsypbBdFwN1woTAh9sq6X', u'2T4SAwloHxRAtpD2hgykdA', u'3B0K8G7WESjdKxQvVMByR9']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.781
+3  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.573
+2  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.424
+1  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...   0.58
+0  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.441
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
