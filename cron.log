@@ -64384,3 +64384,34 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 0dcf231] updating daily data 2021-03-24 11:00:04.871481
+ 3 files changed, 24 insertions(+), 1 deletion(-)
+2021-03-24 11:00:03.346163
+Auth happening...
+Getting songs
+Creating dataframe...
+SRT (feat. BIG30 & Pooh Shiesty)
+At It Again
+Steppin (feat. Pooh Shiesty)
+Back In Blood (feat. Lil Durk)
+When Tony Met Sosa
+No Idea
+After Party
+Had Enough (feat. Quavo & Offset)
+Gone
+GOT THESE SONGS
+{'played_at': ['10:45', '10:43', '10:40', '10:37', '10:32', '10:30', '10:27', '10:24'], 'valence': [0.752, 0.392, 0.613, 0.831, 0.456, 0.35, 0.453, 0.67], 'mood_avg': [0.812, 0.546, 0.693, 0.744, 0.543, 0.527, 0.571, 0.725], 'danceability': [0.92, 0.725, 0.829, 0.759, 0.536, 0.652, 0.629, 0.748], 'energy': [0.716, 0.498, 0.582, 0.538, 0.731, 0.631, 0.692, 0.789], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b0c27c2c071c9dbef50ee8d9', u'https://i.scdn.co/image/ab67616d0000b273a7d6a0ce580f9396d42552d0', u'https://i.scdn.co/image/ab67616d0000b273d0d5501f8022825c4f9eef48', u'https://i.scdn.co/image/ab67616d0000b27332c5d1e207364562fe2160b7', u'https://i.scdn.co/image/ab67616d0000b2732afde92aba9482770dec2203', u'https://i.scdn.co/image/ab67616d0000b27345190a074bef3e8ce868b60c', u'https://i.scdn.co/image/ab67616d0000b27345190a074bef3e8ce868b60c', u'https://i.scdn.co/image/ab67616d0000b27345190a074bef3e8ce868b60c'], 'album_name': [u'Code Red', u'At It Again', u'Steppin (feat. Pooh Shiesty)', u'Back In Blood (feat. Lil Durk)', u'The Plugs I Met 2', u'Heaven Or Hell', u'Heaven Or Hell', u'Heaven Or Hell'], 'song_name': [u'SRT (feat. BIG30 & Pooh Shiesty)', u'At It Again', u'Steppin (feat. Pooh Shiesty)', u'Back In Blood (feat. Lil Durk)', u'When Tony Met Sosa', u'No Idea', u'After Party', u'Had Enough (feat. Quavo & Offset)'], 'artist_name': [u'Moneybagg Yo', u'Pooh Shiesty', u'Action Pack', u'Pooh Shiesty', u'Benny The Butcher', u'Don Toliver', u'Don Toliver', u'Don Toliver'], 'track_id': [u'0VohK45FIUHEMBbfUw8iBM', u'6kwVuao3ixmcwUpFcjjykC', u'4FOd1qYeQqBAgtFo6aBtLg', u'7JuHVG3qQKQKxC4doneXVW', u'4ahc42KacGWjE3j0DPNSK5', u'7AzlLxHn24DxjgQX73F9fU', u'527k23H0A4Q0UJN3vGs0Da', u'6SPgp2qK3fb4wPX1SldrNf']}
+                                               image  ... energy
+7  https://i.scdn.co/image/ab67616d0000b27345190a...  ...  0.789
+6  https://i.scdn.co/image/ab67616d0000b27345190a...  ...  0.692
+5  https://i.scdn.co/image/ab67616d0000b27345190a...  ...  0.631
+4  https://i.scdn.co/image/ab67616d0000b2732afde9...  ...  0.731
+3  https://i.scdn.co/image/ab67616d0000b27332c5d1...  ...  0.538
+2  https://i.scdn.co/image/ab67616d0000b273d0d550...  ...  0.582
+1  https://i.scdn.co/image/ab67616d0000b273a7d6a0...  ...  0.498
+0  https://i.scdn.co/image/ab67616d0000b273b0c27c...  ...  0.716
+
+[8 rows x 10 columns]
+('Rows: ', 8)
+Saved!
+
