@@ -64441,3 +64441,24 @@ No Need for a Leader
 Hanoi 4
 The Internet of Love (That Way)
 Boy Witch
+[master 40d032d] updating daily data 2021-03-24 14:00:03.924325
+ 3 files changed, 30 insertions(+), 1 deletion(-)
+2021-03-24 14:00:02.964370
+Auth happening...
+Getting songs
+Creating dataframe...
+Secret Xtians
+Multi-Love
+Monki
+Faded In The Morning
+GOT THESE SONGS
+{'played_at': ['13:10', '13:07', '13:03'], 'valence': [0.253, 0.545, 0.409], 'mood_avg': [0.489, 0.633, 0.492], 'danceability': [0.753, 0.784, 0.663], 'energy': [0.432, 0.506, 0.316], 'image': [u'https://i.scdn.co/image/ab67616d0000b2736d7e970464fcaae1379ac0f8', u'https://i.scdn.co/image/ab67616d0000b273ee70875d2ac4c16bdeba0191', u'https://i.scdn.co/image/ab67616d0000b273d4c801e232fceb86e9dc539a'], 'album_name': [u'II (Deluxe Edition)', u'Multi-Love', u'II'], 'song_name': [u'Secret Xtians', u'Multi-Love', u'Monki'], 'artist_name': [u'Unknown Mortal Orchestra', u'Unknown Mortal Orchestra', u'Unknown Mortal Orchestra'], 'track_id': [u'26GJnbBoVlJexxUFmZIxNl', u'0PEXp5yk0sx9dJ8JzwvjJb', u'6WzW69VCkFIyljN3k2V2WG']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273d4c801...  ...  0.316
+1  https://i.scdn.co/image/ab67616d0000b273ee7087...  ...  0.506
+0  https://i.scdn.co/image/ab67616d0000b2736d7e97...  ...  0.432
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
