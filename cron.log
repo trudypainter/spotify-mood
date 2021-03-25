@@ -64893,3 +64893,24 @@ GOT THESE SONGS
 ('Rows: ', 5)
 Saved!
 
+[master 545fb53] updating daily data 2021-03-25 15:00:03.824544
+ 3 files changed, 29 insertions(+), 1 deletion(-)
+2021-03-25 15:00:02.799714
+Auth happening...
+Getting songs
+Creating dataframe...
+Solid (feat. 42 Dugg)
+STAR
+Moonlight
+Drop The Game
+GOT THESE SONGS
+{'played_at': ['14:07', '14:04', '14:01'], 'valence': [0.762, 0.294, 0.711], 'mood_avg': [0.871, 0.506, 0.76], 'danceability': [0.975, 0.776, 0.921], 'energy': [0.881, 0.388, 0.537], 'image': [u'https://i.scdn.co/image/ab67616d0000b273f3d46a2d42cbea75e9cbe252', u'https://i.scdn.co/image/ab67616d0000b273a0c4a585a7d73b4943b9bf13', u'https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c'], 'album_name': [u'Solid (feat. 42 Dugg)', u'SATURATION', u'?'], 'song_name': [u'Solid (feat. 42 Dugg)', u'STAR', u'Moonlight'], 'artist_name': [u'Yella Beezy', u'BROCKHAMPTON', u'XXXTENTACION'], 'track_id': [u'5OVElo6Ms6ZG5UjhoNi6qJ', u'1xfFPJdRjgDAaMcDgbXwyh', u'0JP9xo3adEtGSdUEISiszL']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273806c16...  ...  0.537
+1  https://i.scdn.co/image/ab67616d0000b273a0c4a5...  ...  0.388
+0  https://i.scdn.co/image/ab67616d0000b273f3d46a...  ...  0.881
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
