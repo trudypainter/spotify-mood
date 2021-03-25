@@ -64868,3 +64868,28 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master 92ff5cf] updating daily data 2021-03-25 14:00:04.784578
+ 3 files changed, 27 insertions(+), 1 deletion(-)
+2021-03-25 14:00:03.626170
+Auth happening...
+Getting songs
+Creating dataframe...
+Drop The Game
+High Horse
+Neon Guts (feat. Pharrell Williams)
+Back In Blood (feat. Lil Durk)
+Said Sum
+So Much Time - So Little Time
+GOT THESE SONGS
+{'played_at': ['13:59', '13:55', '13:50', '13:46', '13:46'], 'valence': [0.438, 0.773, 0.412, 0.831, 0.274], 'mood_avg': [0.533, 0.734, 0.621, 0.744, 0.615], 'danceability': [0.559, 0.725, 0.859, 0.759, 0.929], 'energy': [0.67, 0.674, 0.563, 0.538, 0.667], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e22ce077d8cb2d990aced237', u'https://i.scdn.co/image/ab67616d0000b2732e35d25eb7288830d5540484', u'https://i.scdn.co/image/ab67616d0000b2730d5a84e4e47399d2726c330c', u'https://i.scdn.co/image/ab67616d0000b27332c5d1e207364562fe2160b7', u'https://i.scdn.co/image/ab67616d0000b273b0c27c2c071c9dbef50ee8d9'], 'album_name': [u'Lockjaw', u'Golden Hour', u'Luv Is Rage 2 (Deluxe)', u'Back In Blood (feat. Lil Durk)', u'Code Red'], 'song_name': [u'Drop The Game', u'High Horse', u'Neon Guts (feat. Pharrell Williams)', u'Back In Blood (feat. Lil Durk)', u'Said Sum'], 'artist_name': [u'Flume', u'Kacey Musgraves', u'Lil Uzi Vert', u'Pooh Shiesty', u'Moneybagg Yo'], 'track_id': [u'06WnUZymWyJamDivTWqJZA', u'2U2Z1IXnmJIvlknWizFykZ', u'2BUXjDhEuVLvEzFI6tabOF', u'7JuHVG3qQKQKxC4doneXVW', u'3sKz6Sd72K0ofPWcJPPk6H']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273b0c27c...  ...  0.667
+3  https://i.scdn.co/image/ab67616d0000b27332c5d1...  ...  0.538
+2  https://i.scdn.co/image/ab67616d0000b2730d5a84...  ...  0.563
+1  https://i.scdn.co/image/ab67616d0000b2732e35d2...  ...  0.674
+0  https://i.scdn.co/image/ab67616d0000b273e22ce0...  ...   0.67
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
