@@ -64628,3 +64628,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 02ab84b] updating daily data 2021-03-24 23:00:03.834068
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-03-24 23:00:03.061457
+Auth happening...
+Getting songs
+Creating dataframe...
+Girl Like You
+Gang Signs (feat. ScHoolboy Q)
+GOT THESE SONGS
+{'played_at': ['22:17'], 'valence': [0.397], 'mood_avg': [0.575], 'danceability': [0.629], 'energy': [0.823], 'image': [u'https://i.scdn.co/image/ab67616d0000b2736bdf32d53f9f5dccc09dbcbe'], 'album_name': [u'Boo Boo'], 'song_name': [u'Girl Like You'], 'artist_name': [u'Toro y Moi'], 'track_id': [u'6TFUZ8Bt1brEwomY90SKXi']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b2736bdf32...  ...  0.823
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
