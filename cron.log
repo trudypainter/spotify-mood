@@ -64830,3 +64830,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 7bbbee5] updating daily data 2021-03-25 12:00:04.371805
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-03-25 12:00:03.419306
+Auth happening...
+Getting songs
+Creating dataframe...
+Dean Told Me! (132 BPM)
+Dumb to Everythhing V2 (140 BPM)
+GOT THESE SONGS
+{'played_at': ['11:24'], 'valence': [0.172], 'mood_avg': [0.187], 'danceability': [0.196], 'energy': [0.199], 'image': [u'https://i.scdn.co/image/ab67616d0000b273680a31871f1e3267e0e9e01b'], 'album_name': [u'Text While Driving If You Want to Meet God!'], 'song_name': [u'Dean Told Me! (132 BPM)'], 'artist_name': [u'Vegyn'], 'track_id': [u'1yrnFkvWHESs38BOs1KZcN']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273680a31...  ...  0.199
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
