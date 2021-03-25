@@ -64933,3 +64933,26 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master b120643] updating daily data 2021-03-25 17:00:04.790521
+ 3 files changed, 24 insertions(+), 1 deletion(-)
+2021-03-25 17:00:03.115891
+Auth happening...
+Getting songs
+Creating dataframe...
+We Go On
+All Mine
+Say It (feat. Tove Lo)
+Late To The Party
+White Dress
+GOT THESE SONGS
+{'played_at': ['16:12', '16:08', '16:06', '16:02'], 'valence': [0.641, 0.291, 0.261, 0.685], 'mood_avg': [0.677, 0.548, 0.45, 0.666], 'danceability': [0.63, 0.925, 0.598, 0.753], 'energy': [0.841, 0.31, 0.532, 0.454], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2', u'https://i.scdn.co/image/ab67616d0000b273750d4a1b362296d1b815a223', u'https://i.scdn.co/image/ab67616d0000b2738e831c9200c5ac7cce8d60dc'], 'album_name': [u'We Will Always Love You', u'ye', u'Skin', u'Pageant Material'], 'song_name': [u'We Go On', u'All Mine', u'Say It (feat. Tove Lo)', u'Late To The Party'], 'artist_name': [u'The Avalanches', u'Kanye West', u'Flume', u'Kacey Musgraves'], 'track_id': [u'4k65ndzxH3tHYZSnYurgM7', u'3U21A07gAloCc4P7J8rxcn', u'5aOpzm8W8zysk4asB9hxJw', u'1uXUAE4lmnGCufaAh6n2D5']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b2738e831c...  ...  0.454
+2  https://i.scdn.co/image/ab67616d0000b273750d4a...  ...  0.532
+1  https://i.scdn.co/image/ab67616d0000b2730cd942...  ...   0.31
+0  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.841
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
