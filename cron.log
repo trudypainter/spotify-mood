@@ -64578,3 +64578,38 @@ Needed Me
 Close To You
 Work
 Pose
+[master b3411d7] updating daily data 2021-03-24 21:00:05.361284
+ 3 files changed, 55 insertions(+), 1 deletion(-)
+2021-03-24 21:00:03.930209
+Auth happening...
+Getting songs
+Creating dataframe...
+Gang Signs (feat. ScHoolboy Q)
+Gang Signs (feat. ScHoolboy Q)
+Something Special
+Sober
+Sober II (Melodrama)
+Perfect Places
+Writer In The Dark
+Hard Feelings/Loveless
+Goodnight Gotham
+Consideration
+Never Ending
+GOT THESE SONGS
+{'played_at': ['20:53', '20:50', '20:43', '20:26', '20:23', '20:20', '20:16', '20:13', '20:04', '20:03'], 'valence': [0.611, 0.611, 0.654, 0.516, 0.101, 0.512, 0.279, 0.18, 0.353, 0.784], 'mood_avg': [0.618, 0.618, 0.68, 0.618, 0.312, 0.57, 0.296, 0.356, 0.443, 0.784], 'danceability': [0.626, 0.626, 0.739, 0.796, 0.524, 0.622, 0.325, 0.487, 0.418, 0.883], 'energy': [0.615, 0.615, 0.616, 0.467, 0.312, 0.58, 0.271, 0.445, 0.672, 0.584], 'image': [u'https://i.scdn.co/image/ab67616d0000b27346e9c7ffb581bad9fdbe1e2e', u'https://i.scdn.co/image/ab67616d0000b27346e9c7ffb581bad9fdbe1e2e', u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369', u'https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336', u'https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336', u'https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336', u'https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336', u'https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336', u'https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093', u'https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093'], 'album_name': [u'Gang Signs (feat. ScHoolboy Q)', u'Gang Signs (feat. ScHoolboy Q)', u'Shoot For The Stars Aim For The Moon', u'Melodrama', u'Melodrama', u'Melodrama', u'Melodrama', u'Melodrama', u'ANTI (Deluxe)', u'ANTI (Deluxe)'], 'song_name': [u'Gang Signs (feat. ScHoolboy Q)', u'Gang Signs (feat. ScHoolboy Q)', u'Something Special', u'Sober', u'Sober II (Melodrama)', u'Perfect Places', u'Writer In The Dark', u'Hard Feelings/Loveless', u'Goodnight Gotham', u'Consideration'], 'artist_name': [u'Freddie Gibbs', u'Freddie Gibbs', u'Pop Smoke', u'Lorde', u'Lorde', u'Lorde', u'Lorde', u'Lorde', u'Rihanna', u'Rihanna'], 'track_id': [u'6snYsavG9vq3C7RGN98dst', u'6snYsavG9vq3C7RGN98dst', u'5kkaSMcf4BFlhRRICCKZb6', u'7eElVgPcxDqmgGrSwVFI74', u'54ucfuN596MU25jQD3KjCL', u'7ARveOiD31w2Nq0n5FsSf8', u'193Dm5SqYy3hTSbuzxbwKc', u'1Dp7JGFNjvg8Nk0CtMCcnr', u'5LJz7kmFhLqB53tmVWxig5', u'6t90Z9XkdsHD8xMxro6KRP']}
+                                               image  ... energy
+9  https://i.scdn.co/image/ab67616d0000b27333c6b9...  ...  0.584
+8  https://i.scdn.co/image/ab67616d0000b27333c6b9...  ...  0.672
+7  https://i.scdn.co/image/ab67616d0000b273f8553e...  ...  0.445
+6  https://i.scdn.co/image/ab67616d0000b273f8553e...  ...  0.271
+5  https://i.scdn.co/image/ab67616d0000b273f8553e...  ...   0.58
+4  https://i.scdn.co/image/ab67616d0000b273f8553e...  ...  0.312
+3  https://i.scdn.co/image/ab67616d0000b273f8553e...  ...  0.467
+2  https://i.scdn.co/image/ab67616d0000b27377ada0...  ...  0.616
+1  https://i.scdn.co/image/ab67616d0000b27346e9c7...  ...  0.615
+0  https://i.scdn.co/image/ab67616d0000b27346e9c7...  ...  0.615
+
+[10 rows x 10 columns]
+('Rows: ', 10)
+Saved!
+
