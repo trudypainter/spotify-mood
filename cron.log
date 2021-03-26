@@ -65248,3 +65248,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 76b3d8d] updating daily data 2021-03-26 16:00:04.664727
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-03-26 16:00:03.633935
+Auth happening...
+Getting songs
+Creating dataframe...
+SAD!
+Sober
+Charcoal Baby
+1539 N. Calvert
+Tia Tamera (feat. Rico Nasty)
+Neon Guts (feat. Pharrell Williams)
+GOT THESE SONGS
+{'played_at': ['15:59', '15:56', '15:53', '15:49', '15:46'], 'valence': [0.473, 0.516, 0.514, 0.357, 0.408], 'mood_avg': [0.608, 0.618, 0.546, 0.631, 0.623], 'danceability': [0.74, 0.796, 0.622, 0.863, 0.812], 'energy': [0.613, 0.467, 0.46, 0.717, 0.675], 'image': [u'https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c', u'https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336', u'https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6', u'https://i.scdn.co/image/ab67616d0000b273f8aaeba5e6dee1745371e822', u'https://i.scdn.co/image/ab67616d0000b273c931cd6e6efeb9b54ab0f849'], 'album_name': [u'?', u'Melodrama', u'Negro Swan', u'Veteran', u'Tia Tamera (feat. Rico Nasty)'], 'song_name': [u'SAD!', u'Sober', u'Charcoal Baby', u'1539 N. Calvert', u'Tia Tamera (feat. Rico Nasty)'], 'artist_name': [u'XXXTENTACION', u'Lorde', u'Blood Orange', u'JPEGMAFIA', u'Doja Cat'], 'track_id': [u'3ee8Jmje8o58CHK66QrVC2', u'7eElVgPcxDqmgGrSwVFI74', u'3bBmpVl9rQKJsFFGLFilIS', u'6XyxCBp6x3jvtxXvMN5sAA', u'6mbWdNBDGL4joR1EHRUZg1']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273c931cd...  ...  0.675
+3  https://i.scdn.co/image/ab67616d0000b273f8aaeb...  ...  0.717
+2  https://i.scdn.co/image/ab67616d0000b27347dd2c...  ...   0.46
+1  https://i.scdn.co/image/ab67616d0000b273f8553e...  ...  0.467
+0  https://i.scdn.co/image/ab67616d0000b273806c16...  ...  0.613
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
