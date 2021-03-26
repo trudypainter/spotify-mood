@@ -65072,3 +65072,39 @@ GOT THESE SONGS
 ('Rows: ', 5)
 Saved!
 
+[master 069b058] updating daily data 2021-03-26 09:00:04.388381
+ 3 files changed, 35 insertions(+), 1 deletion(-)
+2021-03-26 09:00:02.981780
+Auth happening...
+Getting songs
+Creating dataframe...
+Nevaeh Ni Ecalp A - 2020 Remaster
+El Cumbanchero
+Tadpole
+Elementz of Houz Music - Actress Mix 1
+Dreamworld
+Whole Lotta Wickery
+OAR004-A
+Your Lady - Live At Birdland Jazzclub, New York City, NY, 10/18/1963
+Gabryelle (Refix)
+('**ERROR adding ', u'Gabryelle (Refix)')
+list index out of range
+Venice Bitch
+Private Caller Remix (Instrumental)
+GOT THESE SONGS
+{'played_at': ['08:58', '08:55', '08:49', '08:41', '08:36', '08:32', '08:22', '08:15', '08:04'], 'valence': [0.0643, 0.826, 0.0359, 0.387, 0.293, 0.233, 0.21, 0.0392, 0.315], 'mood_avg': [0.145, 0.696, 0.207, 0.579, 0.359, 0.488, 0.551, 0.214, 0.347], 'danceability': [0.254, 0.598, 0.0955, 0.655, 0.306, 0.752, 0.763, 0.271, 0.404], 'energy': [0.0867, 0.632, 0.774, 0.811, 0.598, 0.469, 0.809, 0.449, 0.298], 'image': [u'https://i.scdn.co/image/ab67616d0000b273d9cbdc170a8e0cf76735d3fa', u'https://i.scdn.co/image/ab67616d0000b273fff2685a2b38ea13e95632aa', u'https://i.scdn.co/image/ab67616d0000b273240f993bdf7f1b540d14adaf', u'https://i.scdn.co/image/ab67616d0000b273246324b9f3e283c1b5b69221', u'https://i.scdn.co/image/ab67616d0000b27327f3af3c45d4f17b59249c54', u'https://i.scdn.co/image/ab67616d0000b273ecc2fe2a81d15186419b98f8', u'https://i.scdn.co/image/ab67616d0000b273771b50bbad1c6283cef4fc4b', u'https://i.scdn.co/image/ab67616d0000b273732e42c6f9045b8f673e681c', u'https://i.scdn.co/image/ab67616d0000b273db58320165892f952a6ddb3f'], 'album_name': [u"Sign O' The Times (Super Deluxe Edition)", u'Palo Congo', u'Merzbeat', u'Elementz of Houz Music (Actress Mixes)', u'Introspection', u'Merry Wickmas', u'OAR004', u'Live At Birdland', u'Norman Fucking Rockwell!'], 'song_name': [u'Nevaeh Ni Ecalp A - 2020 Remaster', u'El Cumbanchero', u'Tadpole', u'Elementz of Houz Music - Actress Mix 1', u'Dreamworld', u'Whole Lotta Wickery', u'OAR004-A', u'Your Lady - Live At Birdland Jazzclub, New York City, NY, 10/18/1963', u'Venice Bitch'], 'artist_name': [u'Prince', u'Sabu', u'Merzbow', u'Legowelt', u'The End', u'Shawny Binladen', u'Oni Ayhun', u'John Coltrane', u'Lana Del Rey'], 'track_id': [u'12wY4imwybbqySfG2WVPVS', u'1RdRQO0vu4sfc8UuqLKLL9', u'3mxguczqgrfy8NiW3FJivg', u'184ntG3REmmErfUwUxp58O', u'7CZw2rVzohzT2KIoN98zwG', u'5EqD4DdoK0FGgsSMP9HORW', u'6wfgQJavV20T8UWSrz0x39', u'02EKK6nNjKdCPKlLSdwlz5', u'3hwQhakFwm9soLEBnSDH17']}
+                                               image  ...  energy
+8  https://i.scdn.co/image/ab67616d0000b273db5832...  ...   0.298
+7  https://i.scdn.co/image/ab67616d0000b273732e42...  ...   0.449
+6  https://i.scdn.co/image/ab67616d0000b273771b50...  ...   0.809
+5  https://i.scdn.co/image/ab67616d0000b273ecc2fe...  ...   0.469
+4  https://i.scdn.co/image/ab67616d0000b27327f3af...  ...   0.598
+3  https://i.scdn.co/image/ab67616d0000b273246324...  ...   0.811
+2  https://i.scdn.co/image/ab67616d0000b273240f99...  ...   0.774
+1  https://i.scdn.co/image/ab67616d0000b273fff268...  ...   0.632
+0  https://i.scdn.co/image/ab67616d0000b273d9cbdc...  ...  0.0867
+
+[9 rows x 10 columns]
+('Rows: ', 9)
+Saved!
+
