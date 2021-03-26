@@ -65047,3 +65047,28 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 1907aab] updating daily data 2021-03-26 08:00:05.406141
+ 3 files changed, 24 insertions(+), 1 deletion(-)
+2021-03-26 08:00:04.310952
+Auth happening...
+Getting songs
+Creating dataframe...
+Private Caller Remix (Instrumental)
+To Feel Your Best
+I've Been Thinkin'
+Rave Voyeur
+Safety at Night (99.226 BPM)
+Mistakes Were Made, Risks Were Taken (155 BPM)
+GOT THESE SONGS
+{'played_at': ['07:51', '07:47', '07:40', '07:36', '07:33'], 'valence': [0.393, 0.057, 0.594, 0.0943, 0.0946], 'mood_avg': [0.634, 0.144, 0.637, 0.521, 0.218], 'danceability': [0.795, 0.132, 0.676, 0.738, 0.4], 'energy': [0.795, 0.341, 0.643, 0.94, 0.0988], 'image': [u'https://i.scdn.co/image/ab67616d0000b2737290509a25c20844b4123c85', u'https://i.scdn.co/image/ab67616d0000b273d839af4b89ebe462009dda35', u'https://i.scdn.co/image/ab67616d0000b273a33bca43fe421d8b34ba73d4', u'https://i.scdn.co/image/ab67616d0000b273d685b6e69d1e196ce7f441ff', u'https://i.scdn.co/image/ab67616d0000b273680a31871f1e3267e0e9e01b'], 'album_name': [u'Tunnel Vision Vol 2', u'To Feel Your Best', u'This Is Me...Then', u'Persona', u'Text While Driving If You Want to Meet God!'], 'song_name': [u'Private Caller Remix (Instrumental)', u'To Feel Your Best', u"I've Been Thinkin'", u'Rave Voyeur', u'Safety at Night (99.226 BPM)'], 'artist_name': [u'Wiley', u'Kaitlyn Aurelia Smith', u'Jennifer Lopez', u'Lorenzo Senni', u'Vegyn'], 'track_id': [u'6WRW6soWtqUJAdMVA3bMQO', u'3RUhaOfG8aa6QfEGonbhFT', u'1IymYoKfFRANtZPJc1QSbj', u'3LwN9FQuJHWpU6JGhPVa5N', u'7vA8X2o2AEhWuT8MCTWipB']}
+                                               image  ...  energy
+4  https://i.scdn.co/image/ab67616d0000b273680a31...  ...  0.0988
+3  https://i.scdn.co/image/ab67616d0000b273d685b6...  ...    0.94
+2  https://i.scdn.co/image/ab67616d0000b273a33bca...  ...   0.643
+1  https://i.scdn.co/image/ab67616d0000b273d839af...  ...   0.341
+0  https://i.scdn.co/image/ab67616d0000b273729050...  ...   0.795
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
