@@ -65177,3 +65177,36 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master f3cca49] updating daily data 2021-03-26 13:00:04.928162
+ 3 files changed, 25 insertions(+), 1 deletion(-)
+2021-03-26 13:00:03.606275
+Auth happening...
+Getting songs
+Creating dataframe...
+Said Sum
+Girl Like You
+All Mine
+Never Be Like You (feat. Kai)
+Ryd
+Be Nice 2 Me
+Flaming Hot Cheetos
+Gnot Up! V2 (109 BPM)
+Asthma Pump (with Flo Milli)
+What Goody in the Back (138.089 BPM)
+GOT THESE SONGS
+{'played_at': ['12:57', '12:54', '12:51', '12:48', '12:44', '12:42', '12:40', '12:38', '12:37'], 'valence': [0.274, 0.397, 0.291, 0.296, 0.979, 0.332, 0.142, 0.144, 0.376], 'mood_avg': [0.615, 0.575, 0.548, 0.407, 0.893, 0.438, 0.494, 0.325, 0.65], 'danceability': [0.929, 0.629, 0.925, 0.444, 0.784, 0.449, 0.817, 0.509, 0.918], 'energy': [0.667, 0.823, 0.31, 0.557, 0.94, 0.63, 0.551, 0.319, 0.66], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b0c27c2c071c9dbef50ee8d9', u'https://i.scdn.co/image/ab67616d0000b2736bdf32d53f9f5dccc09dbcbe', u'https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2', u'https://i.scdn.co/image/ab67616d0000b273750d4a1b362296d1b815a223', u'https://i.scdn.co/image/ab67616d0000b273a31dd5d96b9df819e331fdcb', u'https://i.scdn.co/image/ab67616d0000b273407be60b024efcbabe7da815', u'https://i.scdn.co/image/ab67616d0000b27390c00af3fd8de6b9f510c1b8', u'https://i.scdn.co/image/ab67616d0000b273680a31871f1e3267e0e9e01b', u'https://i.scdn.co/image/ab67616d0000b273064a1470d6d90070826d6ba1'], 'album_name': [u'Code Red', u'Boo Boo', u'ye', u'Skin', u"Steve Lacy's Demo", u'Icedancer', u'Flaming Hot Cheetos', u'Text While Driving If You Want to Meet God!', u'Asthma Pump (with Flo Milli)'], 'song_name': [u'Said Sum', u'Girl Like You', u'All Mine', u'Never Be Like You (feat. Kai)', u'Ryd', u'Be Nice 2 Me', u'Flaming Hot Cheetos', u'Gnot Up! V2 (109 BPM)', u'Asthma Pump (with Flo Milli)'], 'artist_name': [u'Moneybagg Yo', u'Toro y Moi', u'Kanye West', u'Flume', u'Steve Lacy', u'Bladee', u'Clairo', u'Vegyn', u'Tay Money'], 'track_id': [u'3sKz6Sd72K0ofPWcJPPk6H', u'6TFUZ8Bt1brEwomY90SKXi', u'3U21A07gAloCc4P7J8rxcn', u'5WI2ltQIdwgzf1SNE76JyR', u'3I8yVFjvJoOBM9tX4ZpxEL', u'2TmqHjg7uhizGndzXQdFuf', u'1F6IbA7di42uPc3cff8PXV', u'6VSH8V0Clt14XxHckPa8t6', u'3Icnj3FRBYCl2m2hF6cATP']}
+                                               image  ... energy
+8  https://i.scdn.co/image/ab67616d0000b273064a14...  ...   0.66
+7  https://i.scdn.co/image/ab67616d0000b273680a31...  ...  0.319
+6  https://i.scdn.co/image/ab67616d0000b27390c00a...  ...  0.551
+5  https://i.scdn.co/image/ab67616d0000b273407be6...  ...   0.63
+4  https://i.scdn.co/image/ab67616d0000b273a31dd5...  ...   0.94
+3  https://i.scdn.co/image/ab67616d0000b273750d4a...  ...  0.557
+2  https://i.scdn.co/image/ab67616d0000b2730cd942...  ...   0.31
+1  https://i.scdn.co/image/ab67616d0000b2736bdf32...  ...  0.823
+0  https://i.scdn.co/image/ab67616d0000b273b0c27c...  ...  0.667
+
+[9 rows x 10 columns]
+('Rows: ', 9)
+Saved!
+
