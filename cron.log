@@ -65210,3 +65210,26 @@ GOT THESE SONGS
 ('Rows: ', 9)
 Saved!
 
+[master 76feca2] updating daily data 2021-03-26 14:00:03.605926
+ 3 files changed, 38 insertions(+), 1 deletion(-)
+2021-03-26 14:00:02.579875
+Auth happening...
+Getting songs
+Creating dataframe...
+Neon Guts (feat. Pharrell Williams)
+Provider
+Sooner or Later
+Big Gangsta
+Welcome To The Party
+GOT THESE SONGS
+{'played_at': ['13:25', '13:16', '13:12', '13:05'], 'valence': [0.412, 0.39, 0.48, 0.346], 'mood_avg': [0.621, 0.483, 0.501, 0.605], 'danceability': [0.859, 0.654, 0.422, 0.879], 'energy': [0.563, 0.325, 0.701, 0.574], 'image': [u'https://i.scdn.co/image/ab67616d0000b2730d5a84e4e47399d2726c330c', u'https://i.scdn.co/image/ab67616d0000b273ea6b1f7e51a387da94f51eb9', u'https://i.scdn.co/image/ab67616d0000b2732bcca9fe8ad40625bcd1fbf3', u'https://i.scdn.co/image/ab67616d0000b2733a0b50a07868fc6534517ee1'], 'album_name': [u'Luv Is Rage 2 (Deluxe)', u'Provider', u'Seeing Sounds', u'Only the Generals Gon Understand'], 'song_name': [u'Neon Guts (feat. Pharrell Williams)', u'Provider', u'Sooner or Later', u'Big Gangsta'], 'artist_name': [u'Lil Uzi Vert', u'Frank Ocean', u'N.E.R.D', u'Kevin Gates'], 'track_id': [u'2BUXjDhEuVLvEzFI6tabOF', u'6R6ihJhRbgu7JxJKIbW57w', u'4JMYfwYULOoWTaIW3CTvvT', u'2HYvkdq6lpFXkVz9Tfqi8r']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b2733a0b50...  ...  0.574
+2  https://i.scdn.co/image/ab67616d0000b2732bcca9...  ...  0.701
+1  https://i.scdn.co/image/ab67616d0000b273ea6b1f...  ...  0.325
+0  https://i.scdn.co/image/ab67616d0000b2730d5a84...  ...  0.563
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
