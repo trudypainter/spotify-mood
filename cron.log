@@ -65288,3 +65288,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master a71bd8c] updating daily data 2021-03-26 18:00:04.398981
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-03-26 18:00:03.416002
+Auth happening...
+Getting songs
+Creating dataframe...
+White Dress
+Avril 14th
+If I'm Lyin', I'm Flyin'
+Drop The Game
+Lord Pretty Flacko Jodye 2 (LPFJ2)
+Ryd
+GOT THESE SONGS
+{'played_at': ['17:25', '17:19', '17:17', '17:15', '17:11'], 'valence': [0.158, 0.37, 0.283, 0.438, 0.0471], 'mood_avg': [0.313, 0.376, 0.523, 0.533, 0.357], 'danceability': [0.493, 0.558, 0.715, 0.559, 0.485], 'energy': [0.263, 0.0259, 0.617, 0.67, 0.72], 'image': [u'https://i.scdn.co/image/ab67616d0000b27347481a07cb6aa0e8fc09b7d2', u'https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a', u'https://i.scdn.co/image/ab67616d0000b273f9508eb3070b95ceeb82788b', u'https://i.scdn.co/image/ab67616d0000b273e22ce077d8cb2d990aced237', u'https://i.scdn.co/image/ab67616d0000b27381a6a2cafab2e7a4066b5eec'], 'album_name': [u'Chemtrails Over The Country Club', u'Drukqs', u'Dying to Live', u'Lockjaw', u'AT.LONG.LAST.A$AP'], 'song_name': [u'White Dress', u'Avril 14th', u"If I'm Lyin', I'm Flyin'", u'Drop The Game', u'Lord Pretty Flacko Jodye 2 (LPFJ2)'], 'artist_name': [u'Lana Del Rey', u'Aphex Twin', u'Kodak Black', u'Flume', u'A$AP Rocky'], 'track_id': [u'4Hl9rOqYomojCmxYfr25im', u'2MZSXhq4XDJWu6coGoXX1V', u'7HdNB8nvJOBwHa8hIkzvxp', u'06WnUZymWyJamDivTWqJZA', u'1j6kDJttn6wbVyMaM42Nxm']}
+                                               image  ...  energy
+4  https://i.scdn.co/image/ab67616d0000b27381a6a2...  ...    0.72
+3  https://i.scdn.co/image/ab67616d0000b273e22ce0...  ...    0.67
+2  https://i.scdn.co/image/ab67616d0000b273f9508e...  ...   0.617
+1  https://i.scdn.co/image/ab67616d0000b273a5aef9...  ...  0.0259
+0  https://i.scdn.co/image/ab67616d0000b27347481a...  ...   0.263
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
