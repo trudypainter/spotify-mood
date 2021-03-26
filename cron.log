@@ -65029,3 +65029,21 @@ Picnic B_st_rd (112.380 BPM)
 To All the Photos Going up Online Rn (118 BPM)
 80's Nihtmare Setup (127.136 BPM)
 Mistakes Were Made, Risks Were Taken (155 BPM)
+[master 9168235] updating daily data 2021-03-26 07:00:10.034101
+ 3 files changed, 75 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2021-03-26.csv
+2021-03-26 07:00:08.623479
+Auth happening...
+Getting songs
+Creating dataframe...
+Mistakes Were Made, Risks Were Taken (155 BPM)
+Bedtime Again V2 (130 BPM)
+GOT THESE SONGS
+{'played_at': ['06:44'], 'valence': [0.772], 'mood_avg': [0.48], 'danceability': [0.258], 'energy': [0.338], 'image': [u'https://i.scdn.co/image/ab67616d0000b273680a31871f1e3267e0e9e01b'], 'album_name': [u'Text While Driving If You Want to Meet God!'], 'song_name': [u'Mistakes Were Made, Risks Were Taken (155 BPM)'], 'artist_name': [u'Vegyn'], 'track_id': [u'4jAG9xfuNYLbnnFhMDviOU']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273680a31...  ...  0.338
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
