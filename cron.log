@@ -65133,3 +65133,32 @@ GOT THESE SONGS
 ('Rows: ', 5)
 Saved!
 
+[master ade3508] updating daily data 2021-03-26 11:00:04.532078
+ 3 files changed, 33 insertions(+), 1 deletion(-)
+2021-03-26 11:00:02.863846
+Auth happening...
+Getting songs
+Creating dataframe...
+This Could Be Us
+Coolin and Booted
+Lumbago
+With Them
+Multi-Love
+Deep Down Body Thurst
+Never Be Like You (feat. Kai)
+Tia Tamera (feat. Rico Nasty)
+GOT THESE SONGS
+{'played_at': ['10:23', '10:20', '10:16', '10:14', '10:11', '10:07', '10:03'], 'valence': [0.758, 0.494, 0.166, 0.284, 0.545, 0.25, 0.296], 'mood_avg': [0.734, 0.626, 0.402, 0.587, 0.633, 0.469, 0.407], 'danceability': [0.732, 0.808, 0.547, 0.926, 0.784, 0.65, 0.444], 'energy': [0.69, 0.526, 0.586, 0.517, 0.506, 0.545, 0.557], 'image': [u'https://i.scdn.co/image/ab67616d0000b2734ca3fb4517ff722918877460', u'https://i.scdn.co/image/ab67616d0000b2731541a676423805fc68ff3e66', u'https://i.scdn.co/image/ab67616d0000b273e79b142ea2cd96d2279b3db4', u'https://i.scdn.co/image/ab67616d0000b273a875c3ec944b4f164ab5c350', u'https://i.scdn.co/image/ab67616d0000b273ee70875d2ac4c16bdeba0191', u'https://i.scdn.co/image/ab67616d0000b273be23f47224937c9b57a004b2', u'https://i.scdn.co/image/ab67616d0000b273750d4a1b362296d1b815a223'], 'album_name': [u'SremmLife', u'Painting Pictures', u'Valencia', u'Slime Season 3', u'Multi-Love', u'NO ONE EVER REALLY DIES', u'Skin'], 'song_name': [u'This Could Be Us', u'Coolin and Booted', u'Lumbago', u'With Them', u'Multi-Love', u'Deep Down Body Thurst', u'Never Be Like You (feat. Kai)'], 'artist_name': [u'Rae Sremmurd', u'Kodak Black', u'Yeek', u'Young Thug', u'Unknown Mortal Orchestra', u'N.E.R.D', u'Flume'], 'track_id': [u'4jTiyLlOJVJj3mCr7yfPQD', u'1Nh5WUisukhSNgwXLRoyZf', u'3UR9JqoEaQc2qhsMTDgOiz', u'0tISnxqgVmxqhVghsTi2Rr', u'0PEXp5yk0sx9dJ8JzwvjJb', u'5HBcMAMVgBVUWiLyiK7q4I', u'5WI2ltQIdwgzf1SNE76JyR']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b273750d4a...  ...  0.557
+5  https://i.scdn.co/image/ab67616d0000b273be23f4...  ...  0.545
+4  https://i.scdn.co/image/ab67616d0000b273ee7087...  ...  0.506
+3  https://i.scdn.co/image/ab67616d0000b273a875c3...  ...  0.517
+2  https://i.scdn.co/image/ab67616d0000b273e79b14...  ...  0.586
+1  https://i.scdn.co/image/ab67616d0000b2731541a6...  ...  0.526
+0  https://i.scdn.co/image/ab67616d0000b2734ca3fb...  ...   0.69
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
