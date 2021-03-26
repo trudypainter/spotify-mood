@@ -64956,3 +64956,76 @@ GOT THESE SONGS
 ('Rows: ', 4)
 Saved!
 
+[master 70d4a2d] updating daily data 2021-03-25 19:00:04.171338
+ 3 files changed, 27 insertions(+), 1 deletion(-)
+2021-03-25 19:00:03.088035
+Auth happening...
+Getting songs
+Creating dataframe...
+Is It Rough Is It Tough (154 BPM)
+Try and Do a Cd After That (132 BPM)
+YOUTH
+Late To The Party
+GOT THESE SONGS
+{'played_at': ['18:59', '18:57', '18:56'], 'valence': [0.278, 0.67, 0.592], 'mood_avg': [0.372, 0.66, 0.635], 'danceability': [0.462, 0.832, 0.628], 'energy': [0.38, 0.294, 0.737], 'image': [u'https://i.scdn.co/image/ab67616d0000b273680a31871f1e3267e0e9e01b', u'https://i.scdn.co/image/ab67616d0000b273680a31871f1e3267e0e9e01b', u'https://i.scdn.co/image/ab67616d0000b2731a104e8630a97b573201f655'], 'album_name': [u'Text While Driving If You Want to Meet God!', u'Text While Driving If You Want to Meet God!', u'Blue Neighbourhood (Deluxe)'], 'song_name': [u'Is It Rough Is It Tough (154 BPM)', u'Try and Do a Cd After That (132 BPM)', u'YOUTH'], 'artist_name': [u'Vegyn', u'Vegyn', u'Troye Sivan'], 'track_id': [u'6wupcVYNyUQXMQ2LGprf3R', u'7tmTzzLATZ2ORpZnyoMzWJ', u'1cOyWWUr3oXJIxY0AjJEx9']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b2731a104e...  ...  0.737
+1  https://i.scdn.co/image/ab67616d0000b273680a31...  ...  0.294
+0  https://i.scdn.co/image/ab67616d0000b273680a31...  ...   0.38
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
+2021-03-25 20:00:03.834958
+Auth happening...
+Getting songs
+Creating dataframe...
+Ns10 + Sub Combo Classic V2 (120 BPM)
+4 Year Break (126 BPM)
+Infinite Freeze Frame (96.532 BPM)
+It's All in the Eyes of (124 BPM)
+Save Yall Ready Know What It Is 003 (138 BPM)
+Veggie Burritotu (120 BPM)
+Snslo Modem (135 BPM)
+Its Okay Its Just Okay 002 (145 BPM)
+201886 002 _ (145 BPM)
+Life Feels Good (91.71 BPM)
+Ch---- Pa------- V2 (169.706 BPM)
+If Not Someone Then Somewhere 004 (89.797 BPM)
+Last Pieces of the Year (120 BPM)
+Gnot Up! V2 (109 BPM)
+Feet Too Tough 005 (128 BPM)
+A Thousand 500 Apr V2 (149.287 BPM)
+Chords to Fix 002 (126 BPM)
+One More for the Homies (115.203 BPM)
+Here We Are - Chords Again (137 BPM)
+Less so More so (140 BPM)
+Picnic Trajegdy (142 BPM)
+Safety at Night (99.226 BPM)
+Bedtime Again V2 (130 BPM)
+Sadly Does It (123 BPM)
+Iphone Speakerz (112 BPM)
+Country Song Without (187.089 BPM)
+First of 2018 002 (140 BPM)
+Milk Dudz 006 (140 BPM)
+Waitin on an Ambulance 002 (205.367 BPM)
+Picnic B_st_rd (112.380 BPM)
+To All the Photos Going up Online Rn (118 BPM)
+80's Nihtmare Setup (127.136 BPM)
+Mistakes Were Made, Risks Were Taken (155 BPM)
+2021-03-25 21:05:01.876675
+Auth happening...
+Getting songs
+Creating dataframe...
+Bedtime Again V2 (130 BPM)
+Sadly Does It (123 BPM)
+Iphone Speakerz (112 BPM)
+Country Song Without (187.089 BPM)
+First of 2018 002 (140 BPM)
+Milk Dudz 006 (140 BPM)
+Waitin on an Ambulance 002 (205.367 BPM)
+Picnic B_st_rd (112.380 BPM)
+To All the Photos Going up Online Rn (118 BPM)
+80's Nihtmare Setup (127.136 BPM)
+Mistakes Were Made, Risks Were Taken (155 BPM)
