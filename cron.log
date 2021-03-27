@@ -65593,3 +65593,22 @@ GOT THESE SONGS
 ('Rows: ', 19)
 Saved!
 
+[master 5c948ac] updating daily data 2021-03-27 12:00:03.717675
+ 3 files changed, 29 insertions(+), 2 deletions(-)
+2021-03-27 12:00:02.784036
+Auth happening...
+Getting songs
+Creating dataframe...
+party 4 u
+Shake That
+7 rings
+GOT THESE SONGS
+{'played_at': ['11:03', '11:02'], 'valence': [0.245, 0.497], 'mood_avg': [0.434, 0.736], 'danceability': [0.579, 0.949], 'energy': [0.522, 0.786], 'image': [u'https://i.scdn.co/image/ab67616d0000b273664e38c99d077cc52ab48914', u'https://i.scdn.co/image/ab67616d0000b2738fdfd969c0b6375ca22c3fa3'], 'album_name': [u"how i'm feeling now", u'Fever'], 'song_name': [u'party 4 u', u'Shake That'], 'artist_name': [u'Charli XCX', u'Megan Thee Stallion'], 'track_id': [u'2RdEC8Ff83WkX7kDVCHseE', u'0nWDgFps67oDM01swzHCcC']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b2738fdfd9...  ...  0.786
+0  https://i.scdn.co/image/ab67616d0000b273664e38...  ...  0.522
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
