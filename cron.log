@@ -65755,3 +65755,24 @@ ab67616d0000b273e2949a...  ...  0.504
 ('Rows: ', 17)
 Saved!
 
+[master dfeb97c] updating daily data 2021-03-27 18:00:03.766369
+ 3 files changed, 26 insertions(+), 2 deletions(-)
+2021-03-27 18:00:02.825712
+Auth happening...
+Getting songs
+Creating dataframe...
+Said Sum
+Can't Believe The Way We Flow
+CLONES
+Ooo
+GOT THESE SONGS
+{'played_at': ['17:44', '17:41', '17:36'], 'valence': [0.274, 0.29, 0.6], 'mood_avg': [0.615, 0.327, 0.655], 'danceability': [0.929, 0.259, 0.791], 'energy': [0.667, 0.536, 0.494], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b0c27c2c071c9dbef50ee8d9', u'https://i.scdn.co/image/ab67616d0000b273534dc6aebb7cf3c04e410cc6', u'https://i.scdn.co/image/ab67616d0000b273960eee0f3f08040cbeda44b7'], 'album_name': [u'Code Red', u'Assume Form', u'CLONES'], 'song_name': [u'Said Sum', u"Can't Believe The Way We Flow", u'CLONES'], 'artist_name': [u'Moneybagg Yo', u'James Blake', u'Tierra Whack'], 'track_id': [u'3sKz6Sd72K0ofPWcJPPk6H', u'03NtFY8KBtBsLQg2E9rVDI', u'6zlBoRMKQv2UyrafMVoQlq']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273960eee...  ...  0.494
+1  https://i.scdn.co/image/ab67616d0000b273534dc6...  ...  0.536
+0  https://i.scdn.co/image/ab67616d0000b273b0c27c...  ...  0.667
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
