@@ -66009,3 +66009,26 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master 306c41f] updating daily data 2021-03-28 09:00:03.531315
+ 3 files changed, 24 insertions(+), 1 deletion(-)
+2021-03-28 09:00:02.644155
+Auth happening...
+Getting songs
+Creating dataframe...
+Minnesota
+B4 The Computer Crash
+If I'm Lyin', I'm Flyin'
+SAD!
+Say It (feat. Tove Lo)
+GOT THESE SONGS
+{'played_at': ['08:12', '08:08', '08:03', '08:01'], 'valence': [0.246, 0.0775, 0.283, 0.473], 'mood_avg': [0.553, 0.373, 0.523, 0.608], 'danceability': [0.812, 0.452, 0.715, 0.74], 'energy': [0.648, 0.807, 0.617, 0.613], 'image': [u'https://i.scdn.co/image/ab67616d0000b27314d1a203158bed18a4ea7375', u'https://i.scdn.co/image/ab67616d0000b273b84ae942b698aef8cf821cf8', u'https://i.scdn.co/image/ab67616d0000b273f9508eb3070b95ceeb82788b', u'https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c'], 'album_name': [u'Lil Boat', u'Like A Good Old Friend', u'Dying to Live', u'?'], 'song_name': [u'Minnesota', u'B4 The Computer Crash', u"If I'm Lyin', I'm Flyin'", u'SAD!'], 'artist_name': [u'Lil Yachty', u'Vegyn', u'Kodak Black', u'XXXTENTACION'], 'track_id': [u'4XkOcWt0C2JX1s2RXybosk', u'1NvGN9q07n3PmZ3DZFRgqp', u'7HdNB8nvJOBwHa8hIkzvxp', u'3ee8Jmje8o58CHK66QrVC2']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273806c16...  ...  0.613
+2  https://i.scdn.co/image/ab67616d0000b273f9508e...  ...  0.617
+1  https://i.scdn.co/image/ab67616d0000b273b84ae9...  ...  0.807
+0  https://i.scdn.co/image/ab67616d0000b27314d1a2...  ...  0.648
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
