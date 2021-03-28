@@ -66047,3 +66047,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master f3e39d7] updating daily data 2021-03-28 11:00:03.197004
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-03-28 11:00:02.512223
+Auth happening...
+Getting songs
+Creating dataframe...
+Minnesota
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
