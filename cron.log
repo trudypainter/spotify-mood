@@ -65791,3 +65791,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 564be54] updating daily data 2021-03-27 20:00:05.069740
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-03-27 20:00:03.914527
+Auth happening...
+Getting songs
+Creating dataframe...
+Can't Believe The Way We Flow
+Walked In
+SAD!
+Said Sum
+GOT THESE SONGS
+{'played_at': ['19:59', '19:47', '19:44'], 'valence': [0.29, 0.768, 0.473], 'mood_avg': [0.327, 0.793, 0.608], 'danceability': [0.259, 0.969, 0.74], 'energy': [0.536, 0.491, 0.613], 'image': [u'https://i.scdn.co/image/ab67616d0000b273534dc6aebb7cf3c04e410cc6', u'https://i.scdn.co/image/ab67616d0000b27329f3849573d619fd12f4f29a', u'https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c'], 'album_name': [u'Assume Form', u'Life Of A Hot Boy 2 : Real Trapper', u'?'], 'song_name': [u"Can't Believe The Way We Flow", u'Walked In', u'SAD!'], 'artist_name': [u'James Blake', u'Bankroll Fresh', u'XXXTENTACION'], 'track_id': [u'03NtFY8KBtBsLQg2E9rVDI', u'252gJUec2oDsGBPcxZs4nX', u'3ee8Jmje8o58CHK66QrVC2']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273806c16...  ...  0.613
+1  https://i.scdn.co/image/ab67616d0000b27329f384...  ...  0.491
+0  https://i.scdn.co/image/ab67616d0000b273534dc6...  ...  0.536
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
