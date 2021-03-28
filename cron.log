@@ -66185,3 +66185,40 @@ i.scdn.co/image/ab67616d0000b2733040ca...  ...  0.742
 ('Rows: ', 15)
 Saved!
 
+[master a78248e] updating daily data 2021-03-28 17:00:05.387877
+ 3 files changed, 25 insertions(+), 2 deletions(-)
+2021-03-28 17:00:03.675163
+Auth happening...
+Getting songs
+Creating dataframe...
+Flex
+Hope
+Walk On By
+Passionfruit
+Gospel For A New Century
+Gone
+In My Room
+Kane Train
+I Know The End
+Dreams, Fairytales, Fantasies (feat. Brent Faiyaz & Salaam Remi)
+Bags
+Digits
+GOT THESE SONGS
+{'played_at': ['16:58', '16:54', '16:50', '16:47', '16:42', '16:21', '16:17', '16:14', '16:12', '16:06', '16:02'], 'valence': [0.27, 0.354, 0.747, 0.199, 0.715, 0.66, 0.67, 0.265, 0.259, 0.449, 0.868], 'mood_avg': [0.527, 0.352, 0.689, 0.412, 0.657, 0.716, 0.742, 0.532, 0.299, 0.594, 0.753], 'danceability': [0.75, 0.413, 0.825, 0.606, 0.565, 0.91, 0.861, 0.643, 0.328, 0.737, 0.742], 'energy': [0.596, 0.227, 0.302, 0.448, 0.726, 0.441, 0.647, 0.843, 0.32, 0.597, 0.546], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1', u'https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6', u'https://i.scdn.co/image/ab67616d0000b27385c5e6c686ced3e43bae2748', u'https://i.scdn.co/image/ab67616d0000b2737221095f90342abffbe8372e', u'https://i.scdn.co/image/ab67616d0000b273043864250fbec5f57c7076a7', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273db974f9533dd9b362891b5db', u'https://i.scdn.co/image/ab67616d0000b273d395550736092b7c1895b9ad', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b27380dacac510e9d085a591f981', u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc'], 'album_name': [u'Playboi Carti', u'Negro Swan', u'Drunk', u'EP2', u'Heaven To A Tortured Mind', u'Charli', u'In My Room', u'A View of U', u'Punisher', u'Floor Seats', u'Immunity'], 'song_name': [u'Flex', u'Hope', u'Walk On By', u'Passionfruit', u'Gospel For A New Century', u'Gone', u'In My Room', u'Kane Train', u'I Know The End', u'Dreams, Fairytales, Fantasies (feat. Brent Faiyaz & Salaam Remi)', u'Bags'], 'artist_name': [u'Playboi Carti', u'Blood Orange', u'Thundercat', u'Yaeji', u'Yves Tumor', u'Charli XCX', u'Frank Ocean', u'Machinedrum', u'Phoebe Bridgers', u'A$AP Ferg', u'Clairo'], 'track_id': [u'2xyBvir9n474qfsOkxXMgx', u'2QLNDKL7hZyh2OZ8UL9WrV', u'6fkL9CjWmjeV6vfDxTp9OZ', u'1OStEtFJJ7xMbgQfp5C3j9', u'46LX0sSwIU4GFLcj23ZfMA', u'1yUJK3qxPiFiPeAG2gLfuW', u'4S4Mfvv03M1cHgIOJcbUCL', u'7hgue2CGpzs1SCP9VswVyJ', u'3cr3oAP4bQFNjZBV7ElKaB', u'5oady7OSE7dH7LHiqmb3Cr', u'6UFivO2zqqPFPoQYsEMuCc']}
+                                                image  ... energy
+10  https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...  0.546
+9   https://i.scdn.co/image/ab67616d0000b27380daca...  ...  0.597
+8   https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.32
+7   https://i.scdn.co/image/ab67616d0000b273d39555...  ...  0.843
+6   https://i.scdn.co/image/ab67616d0000b273db974f...  ...  0.647
+5   https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.441
+4   https://i.scdn.co/image/ab67616d0000b273043864...  ...  0.726
+3   https://i.scdn.co/image/ab67616d0000b273722109...  ...  0.448
+2   https://i.scdn.co/image/ab67616d0000b27385c5e6...  ...  0.302
+1   https://i.scdn.co/image/ab67616d0000b27347dd2c...  ...  0.227
+0   https://i.scdn.co/image/ab67616d0000b273e31a27...  ...  0.596
+
+[11 rows x 10 columns]
+('Rows: ', 11)
+Saved!
+
