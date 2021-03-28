@@ -66117,3 +66117,59 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 8333484] updating daily data 2021-03-28 15:00:04.389773
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+2021-03-28 15:00:03.250130
+Auth happening...
+Getting songs
+Creating dataframe...
+Moonlight
+STAR
+This Could Be Us
+1539 N. Calvert
+Every Single Thing
+GOT THESE SONGS
+{'played_at': ['14:39', '14:36', '14:33', '14:30'], 'valence': [0.711, 0.294, 0.758, 0.357], 'mood_avg': [0.76, 0.506, 0.734, 0.631], 'danceability': [0.921, 0.776, 0.732, 0.863], 'energy': [0.537, 0.388, 0.69, 0.717], 'image': [u'https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c', u'https://i.scdn.co/image/ab67616d0000b273a0c4a585a7d73b4943b9bf13', u'https://i.scdn.co/image/ab67616d0000b2734ca3fb4517ff722918877460', u'https://i.scdn.co/image/ab67616d0000b273f8aaeba5e6dee1745371e822'], 'album_name': [u'?', u'SATURATION', u'SremmLife', u'Veteran'], 'song_name': [u'Moonlight', u'STAR', u'This Could Be Us', u'1539 N. Calvert'], 'artist_name': [u'XXXTENTACION', u'BROCKHAMPTON', u'Rae Sremmurd', u'JPEGMAFIA'], 'track_id': [u'0JP9xo3adEtGSdUEISiszL', u'1xfFPJdRjgDAaMcDgbXwyh', u'4jTiyLlOJVJj3mCr7yfPQD', u'6XyxCBp6x3jvtxXvMN5sAA']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273f8aaeb...  ...  0.717
+2  https://i.scdn.co/image/ab67616d0000b2734ca3fb...  ...   0.69
+1  https://i.scdn.co/image/ab67616d0000b273a0c4a5...  ...  0.388
+0  https://i.scdn.co/image/ab67616d0000b273806c16...  ...  0.537
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
+2021-03-28 16:00:03.873848
+Auth happening...
+Getting songs
+Creating dataframe...
+Digits
+Hopeless Romantic (feat. Swae Lee)
+Maria I'm Drunk (feat. Justin Bieber & Young Thug)
+Stay Flo
+Bad Company (feat. BlocBoy JB)
+Kyoto
+Pretty Girl
+See You Again (feat. Kali Uchis)
+90210 (feat. Kacy Hill)
+Said Sum
+Charcoal Baby
+Garden Song
+Ribs
+Location
+We Will Always Love You
+Moonlight
+GOT THESE SONGS
+{'played_at': ['15:58', '15:55', '15:51', '15:45', '15:42', '15:39', '15:36', '15:33', '15:30', '15:24', '15:22', '15:18', '15:14', '15:10', '15:07'], 'valence': [0.294, 0.552, 0.142, 0.674, 0.343, 0.493, 0.695, 0.62, 0.312, 0.274, 0.514, 0.158, 0.0399, 0.371, 0.176], 'mood_avg': [0.552, 0.667, 0.442, 0.71, 0.603, 0.585, 0.772, 0.583, 0.391, 0.615, 0.546, 0.329, 0.315, 0.593, 0.41], 'danceability': [0.769, 0.877, 0.648, 0.823, 0.901, 0.599, 0.93, 0.558, 0.402, 0.929, 0.622, 0.528, 0.511, 0.717, 0.535], 'energy': [0.632, 0.477, 0.631, 0.558, 0.529, 0.742, 0.611, 0.559, 0.526, 0.667, 0.46, 0.273, 0.472, 0.79, 0.626], 'image': [u'https://i.scdn.co/image/ab67616d0000b273a875c3ec944b4f164ab5c350', u'https://i.scdn.co/image/ab67616d0000b273393d29e88d493bdab8af1617', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273f669edbfecf19e5725b7af6c', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b273efe812ae54f0698a32ccae14', u'https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f', u'https://i.scdn.co/image/ab67616d0000b273b0c27c2c071c9dbef50ee8d9', u'https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b27333a859e36fdc9a27ed86516e', u'https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1'], 'album_name': [u'Slime Season 3', u'Rolling Papers 2', u'Rodeo (Expanded Edition)', u'When I Get Home', u'Bad Company (feat. BlocBoy JB)', u'Punisher', u'Pretty Girl', u'Flower Boy', u'Rodeo (Expanded Edition)', u'Code Red', u'Negro Swan', u'Punisher', u'Pure Heroine (Extended)', u'Playboi Carti', u'We Will Always Love You'], 'song_name': [u'Digits', u'Hopeless Romantic (feat. Swae Lee)', u"Maria I'm Drunk (feat. Justin Bieber & Young Thug)", u'Stay Flo', u'Bad Company (feat. BlocBoy JB)', u'Kyoto', u'Pretty Girl', u'See You Again (feat. Kali Uchis)', u'90210 (feat. Kacy Hill)', u'Said Sum', u'Charcoal Baby', u'Garden Song', u'Ribs', u'Location', u'We Will Always Love You'], 'artist_name': [u'Young Thug', u'Wiz Khalifa', u'Travis Scott', u'Solange', u'A$AP Rocky', u'Phoebe Bridgers', u'Clairo', u'Tyler, The Creator', u'Travis Scott', u'Moneybagg Yo', u'Blood Orange', u'Phoebe Bridgers', u'Lorde', u'Playboi Carti', u'The Avalanches'], 'track_id': [u'4cg1yakyRSIOjxKM2I7J1q', u'7IBSffWIu7P2MC7kMwy2FM', u'6Yqmv7XJLCrQEauMbPGZSw', u'6GCIYIWUBSLontW6divqsw', u'3ZYwSDF9knZI0RVlKR4PHC', u'49UDOG8DoBajXTJSTqfRMg', u'0KyAGiNGUytG5JLxJu4F6l', u'7KA4W4McWYRpgf0fWsJZWB', u'51EC3I1nQXpec4gDk0mQyP', u'3sKz6Sd72K0ofPWcJPPk6H', u'3bBmpVl9rQKJsFFGLFilIS', u'5uQRmdIqyMmKPWJcot4UmV', u'0TEekvXTomKt3hdXDZxxeW', u'3yk7PJnryiJ8mAPqsrujzf', u'51wxtCuipwjvvT99wsSmCc']}
+                                                image  ... energy
+14  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.626
+13  https://i.scdn.co/image/ab67616d0000b273e31a27...  ...   0.79
+12  https://i.scdn.co/image/ab67616d0000b27333a859...  ...  0.472
+11  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...  0.273
+10  https://i.scdn.co/image/ab67616d0000b27347dd2c...  ...   0.46
+9   https://i.scdn.co/image/ab67616d0000b273b0c27c...  ...  0.667
+8   https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.526
+7   https://i.scdn.co/image/ab67616d0000b2738940ac...  ...  0.559
+6   https://i.scdn.co/image/ab67616d0000b273efe812...  ...  0.611
+5   https://
