@@ -66077,3 +66077,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 40ab771] updating daily data 2021-03-28 13:00:03.815507
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-03-28 13:00:02.802270
+Auth happening...
+Getting songs
+Creating dataframe...
+Every Single Thing
+Moonlight
+All Mine
+Be Nice 2 Me
+High Horse
+Minnesota
+GOT THESE SONGS
+{'played_at': ['12:30', '12:25', '12:19', '12:16', '12:14'], 'valence': [0.323, 0.711, 0.291, 0.332, 0.773], 'mood_avg': [0.507, 0.76, 0.548, 0.438, 0.734], 'danceability': [0.816, 0.921, 0.925, 0.449, 0.725], 'energy': [0.255, 0.537, 0.31, 0.63, 0.674], 'image': [u'https://i.scdn.co/image/ab67616d0000b273cd7c3cba379ae624e118ebcb', u'https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c', u'https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2', u'https://i.scdn.co/image/ab67616d0000b273407be60b024efcbabe7da815', u'https://i.scdn.co/image/ab67616d0000b2732e35d25eb7288830d5540484'], 'album_name': [u'Fresh Air', u'?', u'ye', u'Icedancer', u'Golden Hour'], 'song_name': [u'Every Single Thing', u'Moonlight', u'All Mine', u'Be Nice 2 Me', u'High Horse'], 'artist_name': [u'HOMESHAKE', u'XXXTENTACION', u'Kanye West', u'Bladee', u'Kacey Musgraves'], 'track_id': [u'7yZTPEXSUqWw7sEYKKDv2N', u'0JP9xo3adEtGSdUEISiszL', u'3U21A07gAloCc4P7J8rxcn', u'2TmqHjg7uhizGndzXQdFuf', u'2U2Z1IXnmJIvlknWizFykZ']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b2732e35d2...  ...  0.674
+3  https://i.scdn.co/image/ab67616d0000b273407be6...  ...   0.63
+2  https://i.scdn.co/image/ab67616d0000b2730cd942...  ...   0.31
+1  https://i.scdn.co/image/ab67616d0000b273806c16...  ...  0.537
+0  https://i.scdn.co/image/ab67616d0000b273cd7c3c...  ...  0.255
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
