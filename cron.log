@@ -65990,3 +65990,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 421aac4] updating daily data 2021-03-28 08:00:03.239473
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-03-28 08:00:02.271457
+Auth happening...
+Getting songs
+Creating dataframe...
+Say It (feat. Tove Lo)
+Avril 14th
+Lumbago
+GOT THESE SONGS
+{'played_at': ['07:58', '07:15'], 'valence': [0.261, 0.37], 'mood_avg': [0.45, 0.376], 'danceability': [0.598, 0.558], 'energy': [0.532, 0.0259], 'image': [u'https://i.scdn.co/image/ab67616d0000b273750d4a1b362296d1b815a223', u'https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a'], 'album_name': [u'Skin', u'Drukqs'], 'song_name': [u'Say It (feat. Tove Lo)', u'Avril 14th'], 'artist_name': [u'Flume', u'Aphex Twin'], 'track_id': [u'5aOpzm8W8zysk4asB9hxJw', u'2MZSXhq4XDJWu6coGoXX1V']}
+                                               image  ...  energy
+1  https://i.scdn.co/image/ab67616d0000b273a5aef9...  ...  0.0259
+0  https://i.scdn.co/image/ab67616d0000b273750d4a...  ...   0.532
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
