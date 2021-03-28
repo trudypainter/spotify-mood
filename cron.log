@@ -66222,3 +66222,26 @@ GOT THESE SONGS
 ('Rows: ', 11)
 Saved!
 
+[master fc761f2] updating daily data 2021-03-28 18:00:04.049665
+ 3 files changed, 42 insertions(+), 1 deletion(-)
+2021-03-28 18:00:03.116485
+Auth happening...
+Getting songs
+Creating dataframe...
+Even If It Hurts
+White Ferrari
+Binz
+Multi-Love
+Flex
+GOT THESE SONGS
+{'played_at': ['17:13', '17:08', '17:04', '17:02'], 'valence': [0.616, 0.219, 0.456, 0.545], 'mood_avg': [0.677, 0.284, 0.653, 0.633], 'danceability': [0.738, 0.444, 0.863, 0.784], 'energy': [0.675, 0.0924, 0.625, 0.506], 'image': [u'https://i.scdn.co/image/ab67616d0000b273db5e990274ebb0a38f78e757', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273ee70875d2ac4c16bdeba0191'], 'album_name': [u'La Linda', u'Blonde', u'When I Get Home', u'Multi-Love'], 'song_name': [u'Even If It Hurts', u'White Ferrari', u'Binz', u'Multi-Love'], 'artist_name': [u'Tei Shi', u'Frank Ocean', u'Solange', u'Unknown Mortal Orchestra'], 'track_id': [u'4CwchvMNlpQSpQGKEK3sAw', u'2LMkwUfqC6S6s6qDVlEuzV', u'7yvdp8dqmxExSJwT2fn6Xq', u'0PEXp5yk0sx9dJ8JzwvjJb']}
+                                               image  ...  energy
+3  https://i.scdn.co/image/ab67616d0000b273ee7087...  ...   0.506
+2  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...   0.625
+1  https://i.scdn.co/image/ab67616d0000b273c5649a...  ...  0.0924
+0  https://i.scdn.co/image/ab67616d0000b273db5e99...  ...   0.675
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
