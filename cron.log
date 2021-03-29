@@ -66563,3 +66563,29 @@ GOT THESE SONGS
 0  https://i.scdn.co/image/ab67616d0000b273a9d768...  ...  0.683
 
 [3 rows x 10 columns]
+[master 937febd] updating daily data 2021-03-29 15:00:05.861634
+ 3 files changed, 37 insertions(+), 1 deletion(-)
+2021-03-29 15:00:05.054478
+Auth happening...
+Getting songs
+Creating dataframe...
+Toxic
+Paris Latino - Original Version 1983
+GOT THESE SONGS
+{'played_at': ['14:57'], 'valence': [0.924], 'mood_avg': [0.847], 'danceability': [0.774], 'energy': [0.838], 'image': [u'https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4'], 'album_name': [u'In The Zone'], 'song_name': [u'Toxic'], 'artist_name': [u'Britney Spears'], 'track_id': [u'6I9VzXrHxO9rA9A5euc8Ak']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273efc698...  ...  0.838
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
+2021-03-29 16:00:03.707991
+Auth happening...
+Getting songs
+Creating dataframe...
+2021-03-29 17:00:03.658197
+Auth happening...
+Getting songs
+Creating dataframe...
+You Make Me Feel (Mighty Real)
