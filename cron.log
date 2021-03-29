@@ -66432,3 +66432,36 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 9acc658] updating daily data 2021-03-29 07:00:04.023121
+ 3 files changed, 25 insertions(+), 1 deletion(-)
+2021-03-29 07:00:02.573725
+Auth happening...
+Getting songs
+Creating dataframe...
+Celebrate (feat. Rich Homie Quan)
+Kacey Talk
+What's Da Bizness
+What You Know Bout Love
+Realer
+Tia Tamera (feat. Rico Nasty)
+Bola Shark
+Elastic
+Shabba (feat. A$AP Rocky)
+Good Luck
+GOT THESE SONGS
+{'played_at': ['06:44', '06:40', '06:37', '06:35', '06:32', '06:26', '06:22', '06:21', '06:04'], 'valence': [0.657, 0.773, 0.547, 0.543, 0.437, 0.421, 0.461, 0.669, 0.435], 'mood_avg': [0.663, 0.781, 0.672, 0.61, 0.675, 0.628, 0.669, 0.744, 0.664], 'danceability': [0.664, 0.877, 0.87, 0.709, 0.934, 0.822, 0.933, 0.759, 0.869], 'energy': [0.672, 0.607, 0.524, 0.548, 0.631, 0.654, 0.559, 0.864, 0.712], 'image': [u'https://i.scdn.co/image/ab67616d0000b27374d72ebd51dd5781d5f83ffd', u'https://i.scdn.co/image/ab67616d0000b2738bd6e34012a7ab6311050d0c', u'https://i.scdn.co/image/ab67616d0000b273d2ac2d5b457bcad2eddef496', u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369', u'https://i.scdn.co/image/ab67616d0000b2738fdfd969c0b6375ca22c3fa3', u'https://i.scdn.co/image/ab67616d0000b27305d15f02b484a462368cce63', u'https://i.scdn.co/image/ab67616d0000b273415ff0e9b3a83bc43cfbd9b6', u'https://i.scdn.co/image/ab67616d0000b273ebead731f657864527cb9d75', u'https://i.scdn.co/image/ab67616d0000b273005ca921bdef6548d4f71b76'], 'album_name': [u'Baby On Baby', u'Top', u'Rich Slave', u'Shoot For The Stars Aim For The Moon', u'Fever', u'Amala (Deluxe Version)', u'Bola Talk', u'Elastic', u'Trap Lord'], 'song_name': [u'Celebrate (feat. Rich Homie Quan)', u'Kacey Talk', u"What's Da Bizness", u'What You Know Bout Love', u'Realer', u'Tia Tamera (feat. Rico Nasty)', u'Bola Shark', u'Elastic', u'Shabba (feat. A$AP Rocky)'], 'artist_name': [u'DaBaby', u'YoungBoy Never Broke Again', u'Young Dolph', u'Pop Smoke', u'Megan Thee Stallion', u'Doja Cat', u'SauceyBola', u'Bali Baby', u'A$AP Ferg'], 'track_id': [u'7uxbabRF4omY1MhmIgaZ6Y', u'1SF8piqsZWn86DajVKih8F', u'29tLKguTMysoFejk0qNjap', u'1tkg4EHVoqnhR6iFEXb60y', u'3qVNNJ7f9RQeNR4iPIeS0c', u'1uNePI826aqh9uC9pgbeHU', u'1gvY1JXmvJNx91iUeZSkK4', u'12PTcAICWwVIkyDDbKERKD', u'7eaKWfov7b2Qa2n6HTesL3']}
+                                               image  ... energy
+8  https://i.scdn.co/image/ab67616d0000b273005ca9...  ...  0.712
+7  https://i.scdn.co/image/ab67616d0000b273ebead7...  ...  0.864
+6  https://i.scdn.co/image/ab67616d0000b273415ff0...  ...  0.559
+5  https://i.scdn.co/image/ab67616d0000b27305d15f...  ...  0.654
+4  https://i.scdn.co/image/ab67616d0000b2738fdfd9...  ...  0.631
+3  https://i.scdn.co/image/ab67616d0000b27377ada0...  ...  0.548
+2  https://i.scdn.co/image/ab67616d0000b273d2ac2d...  ...  0.524
+1  https://i.scdn.co/image/ab67616d0000b2738bd6e3...  ...  0.607
+0  https://i.scdn.co/image/ab67616d0000b27374d72e...  ...  0.672
+
+[9 rows x 10 columns]
+('Rows: ', 9)
+Saved!
+
