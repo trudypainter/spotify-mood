@@ -66532,3 +66532,34 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 33a255d] updating daily data 2021-03-29 13:00:04.025525
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-03-29 13:00:03.307748
+Auth happening...
+Getting songs
+Creating dataframe...
+In The Flowers
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-03-29 14:00:03.581355
+Auth happening...
+Getting songs
+Creating dataframe...
+Paris Latino - Original Version 1983
+ALMOST
+Daunt
+In The Flowers
+GOT THESE SONGS
+{'played_at': ['13:41', '13:37', '13:34'], 'valence': [0.683, 0.769, 0.416], 'mood_avg': [0.719, 0.747, 0.504], 'danceability': [0.774, 0.868, 0.648], 'energy': [0.683, 0.463, 0.392], 'image': [u'https://i.scdn.co/image/ab67616d0000b273a9d768c1117bc71b3a85dd9a', u'https://i.scdn.co/image/ab67616d0000b27394f60de3e7520addebf23641', u'https://i.scdn.co/image/ab67616d0000b273a3d096047aaa3d30081295f1'], 'album_name': [u'Best of Bandolero (Le meilleur des ann\xe9es 80)', u'VALEDICTORIAN', u'Daunt'], 'song_name': [u'Paris Latino - Original Version 1983', u'ALMOST', u'Daunt'], 'artist_name': [u'Bandolero', u'DDG', u'Jelani Aryeh'], 'track_id': [u'3LCup59DMpM3r6fwQsZMYs', u'4UJdEn1sYTNyerQei1fBSA', u'08uVt0ax6g380Yti4KeHaE']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273a3d096...  ...  0.392
+1  https://i.scdn.co/image/ab67616d0000b27394f60d...  ...  0.463
+0  https://i.scdn.co/image/ab67616d0000b273a9d768...  ...  0.683
+
+[3 rows x 10 columns]
