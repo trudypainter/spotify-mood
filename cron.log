@@ -66495,3 +66495,25 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 2959d81] updating daily data 2021-03-29 10:00:03.922070
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-03-29 10:00:03.101678
+Auth happening...
+Getting songs
+Creating dataframe...
+Celebrate (feat. Rich Homie Quan)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-03-29 11:00:03.164996
+Auth happening...
+Getting songs
+Creating dataframe...
+In The Flowers
+blkjuptr
+Worth It
