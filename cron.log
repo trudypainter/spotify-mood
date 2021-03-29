@@ -66290,3 +66290,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 7156a8f] updating daily data 2021-03-28 22:00:04.204534
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-03-28 22:00:03.344295
+Auth happening...
+Getting songs
+Creating dataframe...
+Good Luck
+Vetements Jeans
+Stay Flo
+Even If It Hurts
+GOT THESE SONGS
+{'played_at': ['21:24', '21:22', '21:18'], 'valence': [0.328, 0.176, 0.674], 'mood_avg': [0.306, 0.515, 0.71], 'danceability': [0.377, 0.841, 0.823], 'energy': [0.118, 0.542, 0.558], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e23235bc4b1a560ce220be5a', u'https://i.scdn.co/image/ab67616d0000b2737e1bc5febaf44babbe8f38d0', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc'], 'album_name': [u'Good Luck', u'Vetements Jeans', u'When I Get Home'], 'song_name': [u'Good Luck', u'Vetements Jeans', u'Stay Flo'], 'artist_name': [u'Dijon', u'Yung Kayo', u'Solange'], 'track_id': [u'76cZ2GHG0pM6GHiCZSWXyQ', u'5hmWx2HnBXnvSTn9glp7fr', u'6GCIYIWUBSLontW6divqsw']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.558
+1  https://i.scdn.co/image/ab67616d0000b2737e1bc5...  ...  0.542
+0  https://i.scdn.co/image/ab67616d0000b273e23235...  ...  0.118
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
