@@ -66945,3 +66945,30 @@ GOT THESE SONGS
 ('Rows: ', 5)
 Saved!
 
+[master 086f663] updating daily data 2021-03-30 13:00:07.862588
+ 3 files changed, 32 insertions(+), 1 deletion(-)
+2021-03-30 13:00:04.551075
+Auth happening...
+Getting songs
+Creating dataframe...
+24K Magic
+Bounce Back
+Sex
+Since U Been Gone
+Never Gonna Leave This Bed
+Sweet Sensation
+Down In the DM (feat. Nicki Minaj) - Remix
+GOT THESE SONGS
+{'played_at': ['12:59', '12:55', '12:52', '12:48', '12:45', '12:41'], 'valence': [0.632, 0.273, 0.209, 0.404, 0.466, 0.55], 'mood_avg': [0.741, 0.536, 0.426, 0.575, 0.593, 0.655], 'danceability': [0.818, 0.78, 0.51, 0.662, 0.608, 0.657], 'energy': [0.803, 0.575, 0.692, 0.741, 0.816, 0.862], 'image': [u'https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5', u'https://i.scdn.co/image/ab67616d0000b273e572359074e5da958a922987', u'https://i.scdn.co/image/ab67616d0000b273f72b466f20c5cf3562cb9bc6', u'https://i.scdn.co/image/ab67616d0000b27303dadde4d9d305c1c3e0d91c', u'https://i.scdn.co/image/ab67616d0000b273ce70cb2d7063cf869f9f1239', u'https://i.scdn.co/image/ab67616d0000b273ae5f1ad417b3142c76b49e33'], 'album_name': [u'24K Magic', u'I Decided.', u'Sex', u'Breakaway', u'Hands All Over', u'Sweet Sensation'], 'song_name': [u'24K Magic', u'Bounce Back', u'Sex', u'Since U Been Gone', u'Never Gonna Leave This Bed', u'Sweet Sensation'], 'artist_name': [u'Bruno Mars', u'Big Sean', u'Cheat Codes', u'Kelly Clarkson', u'Maroon 5', u'Flo Rida'], 'track_id': [u'6b8Be6ljOzmkOmFslEb23P', u'0SGkqnVQo9KPytSri1H6cF', u'4CGGIk81BvfCZiscwFP6t0', u'3xrn9i8zhNZsTtcoWgQEAd', u'29DseNdQkTAY6i70oZ1U8f', u'6w1irq9ETctdDxmHxUxpGT']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b273ae5f1a...  ...  0.862
+4  https://i.scdn.co/image/ab67616d0000b273ce70cb...  ...  0.816
+3  https://i.scdn.co/image/ab67616d0000b27303dadd...  ...  0.741
+2  https://i.scdn.co/image/ab67616d0000b273f72b46...  ...  0.692
+1  https://i.scdn.co/image/ab67616d0000b273e57235...  ...  0.575
+0  https://i.scdn.co/image/ab67616d0000b273232711...  ...  0.803
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
