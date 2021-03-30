@@ -66840,3 +66840,20 @@ GOT THESE SONGS
 ('Rows: ', 8)
 Saved!
 
+[master 64cf016] updating daily data 2021-03-30 08:00:03.843791
+ 3 files changed, 33 insertions(+), 1 deletion(-)
+2021-03-30 08:00:02.978906
+Auth happening...
+Getting songs
+Creating dataframe...
+Heroes (we could be)
+Herside Story
+GOT THESE SONGS
+{'played_at': ['07:02'], 'valence': [0.356], 'mood_avg': [0.493], 'danceability': [0.503], 'energy': [0.748], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b804bbd11f864902d452b3a7'], 'album_name': [u'Forever'], 'song_name': [u'Heroes (we could be)'], 'artist_name': [u'Alesso'], 'track_id': [u'3zU9rdflI65tK4dkkNSp77']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273b804bb...  ...  0.748
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
