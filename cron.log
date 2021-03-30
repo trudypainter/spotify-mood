@@ -67006,3 +67006,20 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 8d8eb9c] updating daily data 2021-03-30 16:00:05.204979
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-03-30 16:00:04.119797
+Auth happening...
+Getting songs
+Creating dataframe...
+Purrfect
+Where Them Girls At (feat. Nicki Minaj & Flo Rida)
+GOT THESE SONGS
+{'played_at': ['15:04'], 'valence': [0.727], 'mood_avg': [0.758], 'danceability': [0.704], 'energy': [0.928], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738ea5fc03003fa7afce7fa212'], 'album_name': [u'Purrfect'], 'song_name': [u'Purrfect'], 'artist_name': [u'Crapface'], 'track_id': [u'4TOdMRY2DQPL5IaAhUFY0L']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b2738ea5fc...  ...  0.928
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
