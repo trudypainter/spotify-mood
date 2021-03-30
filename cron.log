@@ -66619,3 +66619,36 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master c9e8c98] updating daily data 2021-03-29 20:00:05.206481
+ 3 files changed, 25 insertions(+), 1 deletion(-)
+2021-03-29 20:00:03.830852
+Auth happening...
+Getting songs
+Creating dataframe...
+Oblivion
+Mind Playing Tricks on Me
+LOYAL (feat. Drake)
+Bahamas (feat. A$AP Rocky, A$AP Ferg, A$AP Twelvyy, Lil Yachty, KEY!, ScHoolboy Q & Smooky MarGielaa)
+BLACK EFFECT
+Up in Here
+Rom-Com Gone Wrong
+Dr. Miami
+Lost In Yesterday
+You Make Me Feel (Mighty Real)
+GOT THESE SONGS
+{'played_at': ['19:56', '19:51', '19:46', '19:27', '19:24', '19:19', '19:15', '19:12', '19:10'], 'valence': [0.486, 0.454, 0.203, 0.549, 0.545, 0.409, 0.359, 0.466, 0.749], 'mood_avg': [0.579, 0.638, 0.534, 0.625, 0.539, 0.604, 0.468, 0.674, 0.695], 'danceability': [0.697, 0.886, 0.866, 0.586, 0.459, 0.772, 0.6, 0.942, 0.569], 'energy': [0.529, 0.512, 0.53, 0.855, 0.686, 0.659, 0.421, 0.552, 0.84], 'image': [u'https://i.scdn.co/image/ab67616d0000b273550133f6d334ed152d75aa56', u'https://i.scdn.co/image/ab67616d0000b273ebc4a0ab6ba7df9219bf7203', u'https://i.scdn.co/image/ab67616d0000b2735a22c1e99ee4bc106579c05e', u'https://i.scdn.co/image/ab67616d0000b273ce9a92efb0c3ad4c2fb33072', u'https://i.scdn.co/image/ab67616d0000b273c9ef08879350a57e5f1d7ca2', u'https://i.scdn.co/image/ab67616d0000b2731541a676423805fc68ff3e66', u'https://i.scdn.co/image/ab67616d0000b27336ea22e3370ab3db20e58480', u'https://i.scdn.co/image/ab67616d0000b27304ac270bded20462887ede7b', u'https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49'], 'album_name': [u'Visions', u"We Can't Be Stopped", u'LOYAL (feat. Drake)', u'Cozy Tapes Vol. 2: Too Cozy', u'EVERYTHING IS LOVE', u'Painting Pictures', u'Krystal', u'Dr. Miami', u'The Slow Rush'], 'song_name': [u'Oblivion', u'Mind Playing Tricks on Me', u'LOYAL (feat. Drake)', u'Bahamas (feat. A$AP Rocky, A$AP Ferg, A$AP Twelvyy, Lil Yachty, KEY!, ScHoolboy Q & Smooky MarGielaa)', u'BLACK EFFECT', u'Up in Here', u'Rom-Com Gone Wrong', u'Dr. Miami', u'Lost In Yesterday'], 'artist_name': [u'Grimes', u'Geto Boys', u'PARTYNEXTDOOR', u'A$AP Mob', u'The Carters', u'Kodak Black', u'Matt Maltese', u'Lil Saint', u'Tame Impala'], 'track_id': [u'3LGsgpx4TfxhXbr07OFKqs', u'63BokRfXSQhEU6Qi2dSJpZ', u'5bvnqVuq7UFl0txSlHpsfS', u'3OTMcouJxgNYYwuLsQ4Qw6', u'2rCuBpIkHVtY16o0PRv2GS', u'4rcDP7pcJ9TN3LDeFSfUav', u'3PBdjqFUZ0lIG9fcqsDall', u'6WaaeggMSHNbxQiAAQQ00b', u'5JWPUEov2wlX7c0jhYZpeB']}
+                                               image  ... energy
+8  https://i.scdn.co/image/ab67616d0000b27358267b...  ...   0.84
+7  https://i.scdn.co/image/ab67616d0000b27304ac27...  ...  0.552
+6  https://i.scdn.co/image/ab67616d0000b27336ea22...  ...  0.421
+5  https://i.scdn.co/image/ab67616d0000b2731541a6...  ...  0.659
+4  https://i.scdn.co/image/ab67616d0000b273c9ef08...  ...  0.686
+3  https://i.scdn.co/image/ab67616d0000b273ce9a92...  ...  0.855
+2  https://i.scdn.co/image/ab67616d0000b2735a22c1...  ...   0.53
+1  https://i.scdn.co/image/ab67616d0000b273ebc4a0...  ...  0.512
+0  https://i.scdn.co/image/ab67616d0000b273550133...  ...  0.529
+
+[9 rows x 10 columns]
+('Rows: ', 9)
+Saved!
+
