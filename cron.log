@@ -66989,3 +66989,20 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 449c6a6] updating daily data 2021-03-30 15:00:06.971463
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-03-30 15:00:05.644494
+Auth happening...
+Getting songs
+Creating dataframe...
+Where Them Girls At (feat. Nicki Minaj & Flo Rida)
+Scream & Shout
+GOT THESE SONGS
+{'played_at': ['14:35'], 'valence': [0.555], 'mood_avg': [0.662], 'danceability': [0.664], 'energy': [0.872], 'image': [u'https://i.scdn.co/image/ab67616d0000b273a197a2ef3ad6704d1f44aa4e'], 'album_name': [u'Nothing but the Beat 2.0'], 'song_name': [u'Where Them Girls At (feat. Nicki Minaj & Flo Rida)'], 'artist_name': [u'David Guetta'], 'track_id': [u'63rbP24OzfaQCJjsHWZXnY']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273a197a2...  ...  0.872
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
