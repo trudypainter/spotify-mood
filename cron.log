@@ -66920,3 +66920,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 58b218a] updating daily data 2021-03-30 12:00:06.169006
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-03-30 12:00:03.423282
+Auth happening...
+Getting songs
+Creating dataframe...
+Down In the DM (feat. Nicki Minaj) - Remix
+Wrapped Up (feat. Travie McCoy)
+Ridin' Solo
+I Like It
+Psycho (feat. Ty Dolla $ign)
+Like A G6
+GOT THESE SONGS
+{'played_at': ['11:58', '11:54', '11:50', '11:47', '11:43'], 'valence': [0.323, 0.918, 0.578, 0.65, 0.459], 'mood_avg': [0.572, 0.849, 0.574, 0.732, 0.596], 'danceability': [0.791, 0.787, 0.442, 0.816, 0.75], 'energy': [0.634, 0.837, 0.83, 0.726, 0.56], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c8c70753a009d425129d5372', u'https://i.scdn.co/image/ab67616d0000b27328a9032c5bdec6b0c0e9e1ba', u'https://i.scdn.co/image/ab67616d0000b27372473d3770372061cadc55e7', u'https://i.scdn.co/image/ab67616d0000b273a0caffda54afd0a65995bbab', u'https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268'], 'album_name': [u'The Art of Hustle (Deluxe)', u'Never Been Better (Expanded Edition)', u'Jason Derulo (Deluxe Audio)', u'Invasion of Privacy', u'beerbongs & bentleys'], 'song_name': [u'Down In the DM (feat. Nicki Minaj) - Remix', u'Wrapped Up (feat. Travie McCoy)', u"Ridin' Solo", u'I Like It', u'Psycho (feat. Ty Dolla $ign)'], 'artist_name': [u'Yo Gotti', u'Olly Murs', u'Jason Derulo', u'Cardi B', u'Post Malone'], 'track_id': [u'5w1vhNA2OEWUQ371QzyMmM', u'39lS97papXAI72StGRtZBo', u'7ksYJ95P5vP87A0GH34CIk', u'58q2HKrzhC3ozto2nDdN4z', u'3swc6WTsr7rl9DqQKQA55C']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273b1c4b7...  ...   0.56
+3  https://i.scdn.co/image/ab67616d0000b273a0caff...  ...  0.726
+2  https://i.scdn.co/image/ab67616d0000b27372473d...  ...   0.83
+1  https://i.scdn.co/image/ab67616d0000b27328a903...  ...  0.837
+0  https://i.scdn.co/image/ab67616d0000b273c8c707...  ...  0.634
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
