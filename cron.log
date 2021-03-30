@@ -66857,3 +66857,36 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 87f0e82] updating daily data 2021-03-30 09:00:04.350336
+ 3 files changed, 27 insertions(+), 1 deletion(-)
+2021-03-30 09:00:02.875913
+Auth happening...
+Getting songs
+Creating dataframe...
+Like A G6
+Pineapple (feat. Gucci Mane & Quavo)
+Out Of The Woods
+Ni**as In Paris
+Never Be Like You (feat. Kai)
+My Chick Bad
+Waves
+No Role Modelz
+sniffing vicodin in paris
+Heroes (we could be)
+GOT THESE SONGS
+{'played_at': ['08:56', '08:52', '08:48', '08:44', '08:41', '08:37', '08:33', '08:30', '08:25'], 'valence': [0.778, 0.338, 0.342, 0.775, 0.296, 0.757, 0.0681, 0.463, 0.761], 'mood_avg': [0.653, 0.632, 0.526, 0.797, 0.407, 0.697, 0.367, 0.566, 0.712], 'danceability': [0.435, 0.964, 0.552, 0.789, 0.444, 0.624, 0.557, 0.692, 0.723], 'energy': [0.837, 0.555, 0.841, 0.858, 0.557, 0.723, 0.586, 0.521, 0.594], 'image': [u'https://i.scdn.co/image/ab67616d0000b27358b08d62231dfca8d358b876', u'https://i.scdn.co/image/ab67616d0000b273969f92a8ae964ac3de904466', u'https://i.scdn.co/image/ab67616d0000b273c79b600289a80aaef74d155d', u'https://i.scdn.co/image/ab67616d0000b2734a767758e8ebe2443591c9fd', u'https://i.scdn.co/image/ab67616d0000b273750d4a1b362296d1b815a223', u'https://i.scdn.co/image/ab67616d0000b2739bfafd29c34d738803a6a033', u'https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4', u'https://i.scdn.co/image/ab67616d0000b2736aca031ccc27d2e4dd829d14', u'https://i.scdn.co/image/ab67616d0000b273739fa31e54522a49bf5a3a8b'], 'album_name': [u'Free Wired', u'Beach House 3 (Deluxe Edition)', u'1989', u'Watch The Throne (Deluxe)', u'Skin', u'Battle Of The Sexes (Deluxe)', u'The Life Of Pablo', u'2014 Forest Hills Drive', u'cashmere noose (Deluxe)'], 'song_name': [u'Like A G6', u'Pineapple (feat. Gucci Mane & Quavo)', u'Out Of The Woods', u'Ni**as In Paris', u'Never Be Like You (feat. Kai)', u'My Chick Bad', u'Waves', u'No Role Modelz', u'sniffing vicodin in paris'], 'artist_name': [u'Far East Movement', u'Ty Dolla $ign', u'Taylor Swift', u'JAY-Z', u'Flume', u'Ludacris', u'Kanye West', u'J. Cole', u'blackbear'], 'track_id': [u'4DvhkX2ic4zWkQeWMwQ2qf', u'2R7Gn3cjnPaVO0Oj8nsTDP', u'5OndtwLGA9O6XHFcGm2H7r', u'4Li2WHPkuyCdtmokzW2007', u'5WI2ltQIdwgzf1SNE76JyR', u'3bMNprrp2JDKZsGbiXpsJl', u'3nAq2hCr1oWsIU54tS98pL', u'62vpWI1CHwFy7tMIcSStl8', u'61wzE1frQM77SewH6w4rd1']}
+                                               image  ... energy
+8  https://i.scdn.co/image/ab67616d0000b273739fa3...  ...  0.594
+7  https://i.scdn.co/image/ab67616d0000b2736aca03...  ...  0.521
+6  https://i.scdn.co/image/ab67616d0000b2732a7db8...  ...  0.586
+5  https://i.scdn.co/image/ab67616d0000b2739bfafd...  ...  0.723
+4  https://i.scdn.co/image/ab67616d0000b273750d4a...  ...  0.557
+3  https://i.scdn.co/image/ab67616d0000b2734a7677...  ...  0.858
+2  https://i.scdn.co/image/ab67616d0000b273c79b60...  ...  0.841
+1  https://i.scdn.co/image/ab67616d0000b273969f92...  ...  0.555
+0  https://i.scdn.co/image/ab67616d0000b27358b08d...  ...  0.837
+
+[9 rows x 10 columns]
+('Rows: ', 9)
+Saved!
+
