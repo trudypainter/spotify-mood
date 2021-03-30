@@ -66652,3 +66652,24 @@ GOT THESE SONGS
 ('Rows: ', 9)
 Saved!
 
+[master af27528] updating daily data 2021-03-29 21:00:04.913181
+ 3 files changed, 37 insertions(+), 1 deletion(-)
+2021-03-29 21:00:04.019907
+Auth happening...
+Getting songs
+Creating dataframe...
+Truth Or Dare
+Run To The Sun
+Bobby James
+Oblivion
+GOT THESE SONGS
+{'played_at': ['20:14', '20:09', '20:04'], 'valence': [0.748, 0.877, 0.427], 'mood_avg': [0.774, 0.813, 0.429], 'danceability': [0.775, 0.771, 0.404], 'energy': [0.825, 0.769, 0.483], 'image': [u'https://i.scdn.co/image/ab67616d0000b273fdab242b02783baa895a5a70', u'https://i.scdn.co/image/ab67616d0000b273fdab242b02783baa895a5a70', u'https://i.scdn.co/image/ab67616d0000b273fdab242b02783baa895a5a70'], 'album_name': [u'In Search Of...', u'In Search Of...', u'In Search Of...'], 'song_name': [u'Truth Or Dare', u'Run To The Sun', u'Bobby James'], 'artist_name': [u'N.E.R.D', u'N.E.R.D', u'N.E.R.D'], 'track_id': [u'2BGSZEEWJeR0PAo7V5clSY', u'4Bjwyj8KM85xblkSt5A24j', u'6XYJ6RL7GkuDtLxXnsAPkd']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273fdab24...  ...  0.483
+1  https://i.scdn.co/image/ab67616d0000b273fdab24...  ...  0.769
+0  https://i.scdn.co/image/ab67616d0000b273fdab24...  ...  0.825
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
