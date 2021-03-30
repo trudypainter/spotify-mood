@@ -66809,3 +66809,34 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 50af3c4] updating daily data 2021-03-30 07:00:05.861677
+ 3 files changed, 24 insertions(+), 1 deletion(-)
+2021-03-30 07:00:04.209120
+Auth happening...
+Getting songs
+Creating dataframe...
+Herside Story
+Love Yourself
+Cold Water
+Bricks
+UCLA
+Teenage Dream
+White Mercedes
+Lapdance
+Truth Or Dare
+GOT THESE SONGS
+{'played_at': ['06:59', '06:56', '06:52', '06:49', '06:43', '06:39', '06:36', '06:20'], 'valence': [0.754, 0.515, 0.501, 0.419, 0.334, 0.605, 0.199, 0.714], 'mood_avg': [0.775, 0.525, 0.603, 0.634, 0.524, 0.69, 0.486, 0.763], 'danceability': [0.885, 0.609, 0.608, 0.783, 0.536, 0.719, 0.743, 0.713], 'energy': [0.595, 0.378, 0.798, 0.764, 0.879, 0.804, 0.544, 0.96], 'image': [u'https://i.scdn.co/image/ab67616d0000b2737bcd3cd54e8399ae38cc6e64', u'https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de', u'https://i.scdn.co/image/ab67616d0000b2733d2ab503fa064e2050a7d115', u'https://i.scdn.co/image/ab67616d0000b273e4ef95fb2ac56bf7d6f2da34', u'https://i.scdn.co/image/ab67616d0000b273eded2e9bae0cba9092424797', u'https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273fdab242b02783baa895a5a70'], 'album_name': [u'At What Cost', u'Purpose (Deluxe)', u'Cold Water', u'Papi Gordo', u'NOVA', u'Katy Perry - Teenage Dream: The Complete Confection', u'Charli', u'In Search Of...'], 'song_name': [u'Herside Story', u'Love Yourself', u'Cold Water', u'Bricks', u'UCLA', u'Teenage Dream', u'White Mercedes', u'Lapdance'], 'artist_name': [u'GoldLink', u'Justin Bieber', u'Major Lazer', u'Carnage', u'RL Grime', u'Katy Perry', u'Charli XCX', u'N.E.R.D'], 'track_id': [u'564oa00vY05d1uYnTEAAmE', u'50kpGaPAhYJ3sGmk6vplg0', u'7zsXy7vlHdItvUSH8EwQss', u'6VJD8tzKgfQjxy8SwneeOX', u'3OaunNUlXXs5e2PXtNAzzG', u'55qBw1900pZKfXJ6Q9A2Lc', u'7fOFeVSyL18q7RiU6cnhiM', u'6FuAe03bP2SQT4TCDKhuGx']}
+                                               image  ... energy
+7  https://i.scdn.co/image/ab67616d0000b273fdab24...  ...   0.96
+6  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.544
+5  https://i.scdn.co/image/ab67616d0000b273937af3...  ...  0.804
+4  https://i.scdn.co/image/ab67616d0000b273eded2e...  ...  0.879
+3  https://i.scdn.co/image/ab67616d0000b273e4ef95...  ...  0.764
+2  https://i.scdn.co/image/ab67616d0000b2733d2ab5...  ...  0.798
+1  https://i.scdn.co/image/ab67616d0000b273f46b9d...  ...  0.378
+0  https://i.scdn.co/image/ab67616d0000b2737bcd3c...  ...  0.595
+
+[8 rows x 10 columns]
+('Rows: ', 8)
+Saved!
+
