@@ -66764,3 +66764,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 0996349] updating daily data 2021-03-30 04:00:03.889738
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-03-30 04:00:03.202543
+Auth happening...
+Getting songs
+Creating dataframe...
+Truth Or Dare
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
