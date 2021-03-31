@@ -67310,3 +67310,32 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master 93d110a] updating daily data 2021-03-31 13:00:06.228811
+ 3 files changed, 27 insertions(+), 1 deletion(-)
+2021-03-31 13:00:03.139020
+Auth happening...
+Getting songs
+Creating dataframe...
+Pussy Talk
+Kill V. Maim
+Good Form (feat. Lil Wayne)
+Awake
+7 rings
+Lala
+Want Some More
+Asthma Pump (with Flo Milli)
+GOT THESE SONGS
+{'played_at': ['12:24', '12:21', '12:17', '12:13', '12:09', '12:06', '12:03'], 'valence': [0.242, 0.456, 0.295, 0.28, 0.327, 0.425, 0.214], 'mood_avg': [0.602, 0.603, 0.624, 0.599, 0.505, 0.549, 0.516], 'danceability': [0.943, 0.578, 0.898, 0.764, 0.778, 0.707, 0.842], 'energy': [0.641, 0.947, 0.733, 0.908, 0.317, 0.483, 0.466], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c2db305f095cf12d55d55df3', u'https://i.scdn.co/image/ab67616d0000b2734f1235383b41920e64b00a78', u'https://i.scdn.co/image/ab67616d0000b273fc8c64bfc4323ff7ce68fea8', u'https://i.scdn.co/image/ab67616d0000b2732ff16cb8c50004d7aaca646d', u'https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458'], 'album_name': [u'City On Lock', u'Art Angels', u'Queen (Deluxe)', u'Awake', u'thank u, next', u'Nasty', u'The Pinkprint (Deluxe)'], 'song_name': [u'Pussy Talk', u'Kill V. Maim', u'Good Form (feat. Lil Wayne)', u'Awake', u'7 rings', u'Lala', u'Want Some More'], 'artist_name': [u'City Girls', u'Grimes', u'Nicki Minaj', u'Tkay Maidza', u'Ariana Grande', u'Rico Nasty', u'Nicki Minaj'], 'track_id': [u'5EzL7hGT9g2Tvqsy158Lu9', u'3WXhshrs1fzwF3rQE399Gq', u'6supMAknraGpJrN5qqYfV8', u'4Puw64CYf5hi5hlrQo9mm4', u'6ocbgoVGwYJhOv1GgI9NsF', u'245hvnaN40qR26q131lG9y', u'6cJ7CoT1gJ89Xy7NJXIInt']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b2730f79d1...  ...  0.466
+5  https://i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.483
+4  https://i.scdn.co/image/ab67616d0000b27356ac7b...  ...  0.317
+3  https://i.scdn.co/image/ab67616d0000b2732ff16c...  ...  0.908
+2  https://i.scdn.co/image/ab67616d0000b273fc8c64...  ...  0.733
+1  https://i.scdn.co/image/ab67616d0000b2734f1235...  ...  0.947
+0  https://i.scdn.co/image/ab67616d0000b273c2db30...  ...  0.641
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
