@@ -67043,3 +67043,24 @@ Auth happening...
 Getting songs
 Creating dataframe...
 Jean Grey
+[master 1a45d3d] updating daily data 2021-03-30 20:00:07.557046
+ 3 files changed, 24 insertions(+), 1 deletion(-)
+2021-03-30 20:00:06.506092
+Auth happening...
+Getting songs
+Creating dataframe...
+Be Nice 2 Me
+Sleeping With the Enemy
+Cherry
+Jean Grey
+GOT THESE SONGS
+{'played_at': ['19:58', '19:56', '19:52'], 'valence': [0.332, 0.454, 0.629], 'mood_avg': [0.438, 0.527, 0.64], 'danceability': [0.449, 0.542, 0.576], 'energy': [0.63, 0.642, 0.79], 'image': [u'https://i.scdn.co/image/ab67616d0000b273407be60b024efcbabe7da815', u'https://i.scdn.co/image/ab67616d0000b273fe14ccd1ddf4d04c312a4ff1', u'https://i.scdn.co/image/ab67616d0000b273c1ac5374769f060b8a96c3c8'], 'album_name': [u'Icedancer', u'The Bastard Tape, Vol. 1', u'Cherry'], 'song_name': [u'Be Nice 2 Me', u'Sleeping With the Enemy', u'Cherry'], 'artist_name': [u'Bladee', u'BbyMutha', u'Rina Sawayama'], 'track_id': [u'2TmqHjg7uhizGndzXQdFuf', u'0ISoKjo9JVUB97JMgygRZP', u'36RGU7buus2UUtrPZ78hkR']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273c1ac53...  ...   0.79
+1  https://i.scdn.co/image/ab67616d0000b273fe14cc...  ...  0.642
+0  https://i.scdn.co/image/ab67616d0000b273407be6...  ...   0.63
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
