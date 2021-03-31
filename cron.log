@@ -67064,3 +67064,20 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master 992b8d8] updating daily data 2021-03-30 21:00:15.245299
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-03-30 21:00:04.959825
+Auth happening...
+Getting songs
+Creating dataframe...
+Believe
+Be Nice 2 Me
+GOT THESE SONGS
+{'played_at': ['20:01'], 'valence': [0.242], 'mood_avg': [0.313], 'danceability': [0.449], 'energy': [0.181], 'image': [u'https://i.scdn.co/image/ab67616d0000b27334505add7a2f76236cfb813d'], 'album_name': [u'Believe'], 'song_name': [u'Believe'], 'artist_name': [u'Okay Kaya'], 'track_id': [u'76ekLbfyuNyUFqTwr7qVLd']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b27334505a...  ...  0.181
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
