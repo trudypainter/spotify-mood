@@ -67291,3 +67291,22 @@ Beast
 Fallen Leaves
 Charm
 Meaning of Love
+[master c252486] updating daily data 2021-03-31 12:00:06.060131
+ 3 files changed, 47 insertions(+), 1 deletion(-)
+2021-03-31 12:00:03.666520
+Auth happening...
+Getting songs
+Creating dataframe...
+Asthma Pump (with Flo Milli)
+Dream Baby Dream - Four Tet Remix
+Feel My Butterfly - Ghetto Acid Mix
+GOT THESE SONGS
+{'played_at': ['11:59', '11:01'], 'valence': [0.376, 0.686], 'mood_avg': [0.65, 0.694], 'danceability': [0.918, 0.808], 'energy': [0.66, 0.484], 'image': [u'https://i.scdn.co/image/ab67616d0000b273064a1470d6d90070826d6ba1', u'https://i.scdn.co/image/ab67616d0000b2731aca67676d62b1f07b499abc'], 'album_name': [u'Asthma Pump (with Flo Milli)', u'The Cherry Thing (Remixes)'], 'song_name': [u'Asthma Pump (with Flo Milli)', u'Dream Baby Dream - Four Tet Remix'], 'artist_name': [u'Tay Money', u'Neneh Cherry'], 'track_id': [u'3Icnj3FRBYCl2m2hF6cATP', u'0ZuvDwRH9572RfgWGUvkXN']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b2731aca67...  ...  0.484
+0  https://i.scdn.co/image/ab67616d0000b273064a14...  ...   0.66
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
