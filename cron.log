@@ -67609,3 +67609,62 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master a437fd5] updating daily data 2021-04-01 07:00:04.752991
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-04-01 07:00:03.958808
+Auth happening...
+Getting songs
+Creating dataframe...
+MONTERO (Call Me By Your Name)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-04-01 08:00:03.227664
+Auth happening...
+Getting songs
+Creating dataframe...
+2021-04-01 09:00:03.390497
+Auth happening...
+Getting songs
+Creating dataframe...
+Gol-e Gandom
+Ribbons
+Our Prayer - Remastered 2001
+Gurbet
+Lullaby
+Sonnengeflecht
+AsloHop - Original Mix
+Womxn - Logic1000 Remix
+Disco 2021
+Million Dollar Mansion (feat. Young Thug)
+2021-04-01 10:00:05.788920
+Auth happening...
+Getting songs
+Creating dataframe...
+2021-04-01 11:00:03.005006
+Auth happening...
+Getting songs
+Creating dataframe...
+2021-04-01 12:00:03.569342
+Auth happening...
+Getting songs
+Creating dataframe...
+2021-04-01 13:00:03.496464
+Auth happening...
+Getting songs
+Creating dataframe...
+2021-04-01 14:00:04.312172
+Auth happening...
+Getting songs
+Creating dataframe...
+2021-04-01 15:00:03.577873
+Auth happening...
+Getting songs
+Creating dataframe...
+Rage
+Blue Pedro
