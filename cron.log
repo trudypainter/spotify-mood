@@ -67994,3 +67994,26 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 60e8576] updating daily data 2021-04-02 13:00:03.839615
+ 3 files changed, 22 insertions(+), 1 deletion(-)
+2021-04-02 13:00:02.921901
+Auth happening...
+Getting songs
+Creating dataframe...
+Never Be Like You (feat. Kai)
+STAR
+1539 N. Calvert
+This Could Be Us
+Charcoal Baby
+GOT THESE SONGS
+{'played_at': ['12:40', '12:26', '12:06', '12:04'], 'valence': [0.296, 0.294, 0.357, 0.758], 'mood_avg': [0.407, 0.506, 0.631, 0.734], 'danceability': [0.444, 0.776, 0.863, 0.732], 'energy': [0.557, 0.388, 0.717, 0.69], 'image': [u'https://i.scdn.co/image/ab67616d0000b273750d4a1b362296d1b815a223', u'https://i.scdn.co/image/ab67616d0000b273a0c4a585a7d73b4943b9bf13', u'https://i.scdn.co/image/ab67616d0000b273f8aaeba5e6dee1745371e822', u'https://i.scdn.co/image/ab67616d0000b2734ca3fb4517ff722918877460'], 'album_name': [u'Skin', u'SATURATION', u'Veteran', u'SremmLife'], 'song_name': [u'Never Be Like You (feat. Kai)', u'STAR', u'1539 N. Calvert', u'This Could Be Us'], 'artist_name': [u'Flume', u'BROCKHAMPTON', u'JPEGMAFIA', u'Rae Sremmurd'], 'track_id': [u'5WI2ltQIdwgzf1SNE76JyR', u'1xfFPJdRjgDAaMcDgbXwyh', u'6XyxCBp6x3jvtxXvMN5sAA', u'4jTiyLlOJVJj3mCr7yfPQD']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b2734ca3fb...  ...   0.69
+2  https://i.scdn.co/image/ab67616d0000b273f8aaeb...  ...  0.717
+1  https://i.scdn.co/image/ab67616d0000b273a0c4a5...  ...  0.388
+0  https://i.scdn.co/image/ab67616d0000b273750d4a...  ...  0.557
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
