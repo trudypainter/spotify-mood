@@ -68032,3 +68032,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master b015067] updating daily data 2021-04-02 15:00:03.870351
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-04-02 15:00:03.037205
+Auth happening...
+Getting songs
+Creating dataframe...
+Fun, Fun, Fun
+SAN MARCOS
+Goodie Bag
+Never Be Like You (feat. Kai)
+GOT THESE SONGS
+{'played_at': ['14:43', '14:39', '14:24'], 'valence': [0.922, 0.53, 0.619], 'mood_avg': [0.871, 0.468, 0.648], 'danceability': [0.793, 0.388, 0.739], 'energy': [0.927, 0.503, 0.522], 'image': [u'https://i.scdn.co/image/ab67616d0000b273ef2e259ee0b34f61bea33b49', u'https://i.scdn.co/image/ab67616d0000b273de91214392394303e66d1cb6', u'https://i.scdn.co/image/ab67616d0000b2735ddbd61ea4a6dab213cc97af'], 'album_name': [u'Despicable Me', u'iridescence', u'Goodie Bag'], 'song_name': [u'Fun, Fun, Fun', u'SAN MARCOS', u'Goodie Bag'], 'artist_name': [u'Pharrell Williams', u'BROCKHAMPTON', u'Still Woozy'], 'track_id': [u'0APR73JawLr7KKImPsPUsR', u'1Bn8jBSmtSQdvAFXU3ok1w', u'4vHNeBWDQpVCmGbaccrRzi']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b2735ddbd6...  ...  0.522
+1  https://i.scdn.co/image/ab67616d0000b273de9121...  ...  0.503
+0  https://i.scdn.co/image/ab67616d0000b273ef2e25...  ...  0.927
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
