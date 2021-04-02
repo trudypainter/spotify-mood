@@ -67977,3 +67977,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 03fd358] updating daily data 2021-04-02 12:00:05.142405
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-04-02 12:00:04.150896
+Auth happening...
+Getting songs
+Creating dataframe...
+YOUTH
+White Mercedes
+GOT THESE SONGS
+{'played_at': ['11:56'], 'valence': [0.592], 'mood_avg': [0.635], 'danceability': [0.628], 'energy': [0.737], 'image': [u'https://i.scdn.co/image/ab67616d0000b2731a104e8630a97b573201f655'], 'album_name': [u'Blue Neighbourhood (Deluxe)'], 'song_name': [u'YOUTH'], 'artist_name': [u'Troye Sivan'], 'track_id': [u'1cOyWWUr3oXJIxY0AjJEx9']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b2731a104e...  ...  0.737
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
