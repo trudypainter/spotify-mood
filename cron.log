@@ -67698,3 +67698,48 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master cbdd355] updating daily data 2021-04-01 18:00:04.297387
+ 3 files changed, 22 insertions(+), 1 deletion(-)
+2021-04-01 18:00:03.054333
+Auth happening...
+Getting songs
+Creating dataframe...
+Multi-Love
+Say It (feat. Tove Lo)
+If I'm Lyin', I'm Flyin'
+The Three Great Stimulants
+The Three Great Stimulants
+Avril 14th
+B*tch From Da Souf
+GOT THESE SONGS
+{'played_at': ['17:58', '17:54', '17:49', '17:47', '17:42', '17:41'], 'valence': [0.545, 0.261, 0.283, 0.756, 0.756, 0.37], 'mood_avg': [0.633, 0.45, 0.523, 0.701, 0.701, 0.376], 'danceability': [0.784, 0.598, 0.715, 0.826, 0.826, 0.558], 'energy': [0.506, 0.532, 0.617, 0.34, 0.34, 0.0259], 'image': [u'https://i.scdn.co/image/ab67616d0000b273ee70875d2ac4c16bdeba0191', u'https://i.scdn.co/image/ab67616d0000b273750d4a1b362296d1b815a223', u'https://i.scdn.co/image/ab67616d0000b273f9508eb3070b95ceeb82788b', u'https://i.scdn.co/image/ab67616d0000b27365c2484d585e847044e38d82', u'https://i.scdn.co/image/ab67616d0000b27365c2484d585e847044e38d82', u'https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a'], 'album_name': [u'Multi-Love', u'Skin', u'Dying to Live', u'Dog Eat Dog', u'Dog Eat Dog', u'Drukqs'], 'song_name': [u'Multi-Love', u'Say It (feat. Tove Lo)', u"If I'm Lyin', I'm Flyin'", u'The Three Great Stimulants', u'The Three Great Stimulants', u'Avril 14th'], 'artist_name': [u'Unknown Mortal Orchestra', u'Flume', u'Kodak Black', u'Joni Mitchell', u'Joni Mitchell', u'Aphex Twin'], 'track_id': [u'0PEXp5yk0sx9dJ8JzwvjJb', u'5aOpzm8W8zysk4asB9hxJw', u'7HdNB8nvJOBwHa8hIkzvxp', u'4qu8tJxJhTVmxyRzsfHaUl', u'4qu8tJxJhTVmxyRzsfHaUl', u'2MZSXhq4XDJWu6coGoXX1V']}
+                                               image  ...  energy
+5  https://i.scdn.co/image/ab67616d0000b273a5aef9...  ...  0.0259
+4  https://i.scdn.co/image/ab67616d0000b27365c248...  ...    0.34
+3  https://i.scdn.co/image/ab67616d0000b27365c248...  ...    0.34
+2  https://i.scdn.co/image/ab67616d0000b273f9508e...  ...   0.617
+1  https://i.scdn.co/image/ab67616d0000b273750d4a...  ...   0.532
+0  https://i.scdn.co/image/ab67616d0000b273ee7087...  ...   0.506
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
+2021-04-01 19:00:03.374467
+Auth happening...
+Getting songs
+Creating dataframe...
+Be Nice 2 Me
+Flaming Hot Cheetos
+FEFE
+Ryd
+Bad Friend
+Glitter
+2021-04-01 20:00:02.663372
+Auth happening...
+Getting songs
+Creating dataframe...
+Sober
+Can't Believe The Way We Flow
+Bad Friend
+The Three Great Stimulants
