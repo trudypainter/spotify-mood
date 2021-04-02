@@ -67932,3 +67932,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master dbdb7eb] updating daily data 2021-04-02 09:00:03.693383
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-04-02 09:00:02.997475
+Auth happening...
+Getting songs
+Creating dataframe...
+White Mercedes
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
