@@ -67743,3 +67743,26 @@ Sober
 Can't Believe The Way We Flow
 Bad Friend
 The Three Great Stimulants
+[master e75b404] updating daily data 2021-04-01 21:00:04.103824
+ 3 files changed, 50 insertions(+), 1 deletion(-)
+2021-04-01 21:00:03.177339
+Auth happening...
+Getting songs
+Creating dataframe...
+After Party
+Miserable America
+FEFE
+Almeda
+Sober
+GOT THESE SONGS
+{'played_at': ['20:09', '20:07', '20:04', '20:01'], 'valence': [0.453, 0.302, 0.376, 0.0631], 'mood_avg': [0.571, 0.504, 0.6, 0.467], 'danceability': [0.629, 0.613, 0.931, 0.827], 'energy': [0.692, 0.688, 0.387, 0.553], 'image': [u'https://i.scdn.co/image/ab67616d0000b27345190a074bef3e8ce868b60c', u'https://i.scdn.co/image/ab67616d0000b273030b3a60e1041ebec36d2a73', u'https://i.scdn.co/image/ab67616d0000b2737b4d2b0d46fc5ed7f771329b', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc'], 'album_name': [u'Heaven Or Hell', u'American Boyfriend: A Suburban Love Story', u'DUMMY BOY', u'When I Get Home'], 'song_name': [u'After Party', u'Miserable America', u'FEFE', u'Almeda'], 'artist_name': [u'Don Toliver', u'Kevin Abstract', u'6ix9ine', u'Solange'], 'track_id': [u'527k23H0A4Q0UJN3vGs0Da', u'5WPVwig7Tl6NFJ5BL6ONhd', u'2l8nEO0vsTRCRnGqQty6qx', u'6IAgarq2wDeYzpsY2Kx0Hw']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.553
+2  https://i.scdn.co/image/ab67616d0000b2737b4d2b...  ...  0.387
+1  https://i.scdn.co/image/ab67616d0000b273030b3a...  ...  0.688
+0  https://i.scdn.co/image/ab67616d0000b27345190a...  ...  0.692
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
