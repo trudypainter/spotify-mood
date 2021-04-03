@@ -68542,3 +68542,28 @@ Creating dataframe...
 Getting Down Pt II (He's Cooling Down)
 I Mind
 The Opposite of Afternoon
+[master b51fec4] updating daily data 2021-04-03 15:00:04.471808
+ 3 files changed, 38 insertions(+), 1 deletion(-)
+2021-04-03 15:00:03.271680
+Auth happening...
+Getting songs
+Creating dataframe...
+A Slide In (New Drugs)
+Snacks
+I Know Alone
+Insomnia
+Kerosene!
+William Penn
+GOT THESE SONGS
+{'played_at': ['14:54', '14:51', '14:18', '14:14', '14:11'], 'valence': [0.215, 0.272, 0.355, 0.0363, 0.299], 'mood_avg': [0.403, 0.364, 0.582, 0.157, 0.471], 'danceability': [0.595, 0.6, 0.772, 0.231, 0.506], 'energy': [0.397, 0.0738, 0.658, 0.249, 0.746], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c02d78ecd28d80920aa11f1c', u'https://i.scdn.co/image/ab67616d0000b2735225a38c3fd08bd3f61325f4', u'https://i.scdn.co/image/ab67616d0000b2731bff3b5284c581b83e918d19', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b273043864250fbec5f57c7076a7'], 'album_name': [u'The OOZ', u'Surviving Is The New Living', u'Women In Music Pt. III', u'Pang', u'Heaven To A Tortured Mind'], 'song_name': [u'A Slide In (New Drugs)', u'Snacks', u'I Know Alone', u'Insomnia', u'Kerosene!'], 'artist_name': [u'King Krule', u'Okay Kaya', u'HAIM', u'Caroline Polachek', u'Yves Tumor'], 'track_id': [u'3AA062igZ9maW6zrCh5M3p', u'2sQaIHfpwW1AFm5uNnrxQR', u'0mACL7DVghZNMTJPectgoW', u'1hEusmjsW1ZxqmBYs9AmfR', u'1Kjw0LwdniCWran4PxJqPQ']}
+                                               image  ...  energy
+4  https://i.scdn.co/image/ab67616d0000b273043864...  ...   0.746
+3  https://i.scdn.co/image/ab67616d0000b2737d983e...  ...   0.249
+2  https://i.scdn.co/image/ab67616d0000b2731bff3b...  ...   0.658
+1  https://i.scdn.co/image/ab67616d0000b2735225a3...  ...  0.0738
+0  https://i.scdn.co/image/ab67616d0000b273c02d78...  ...   0.397
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
