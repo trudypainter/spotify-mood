@@ -68294,3 +68294,31 @@ GOT THESE SONGS
 0   https://i.scdn.co/image/ab67616d0000b273f82c7e...  ...  0.669
 
 [16 rows x 10 columns]
+[master 5872f44] updating daily data 2021-04-03 00:00:06.090247
+ 4 files changed, 73 insertions(+), 2 deletions(-)
+ create mode 100644 daily-data/2021-04-03.csv
+2021-04-03 00:00:04.725811
+Auth happening...
+Getting songs
+Creating dataframe...
+Big Rings
+That's It
+MAMA
+GATTI
+JAPAN
+Zaddy
+Baby Got Back
+GOT THESE SONGS
+{'played_at': ['23:17', '23:13', '23:11', '23:08', '23:05', '23:02'], 'valence': [0.27, 0.122, 0.437, 0.472, 0.841, 0.727], 'mood_avg': [0.553, 0.44, 0.614, 0.562, 0.765, 0.727], 'danceability': [0.776, 0.671, 0.761, 0.594, 0.733, 0.82], 'energy': [0.675, 0.616, 0.672, 0.676, 0.678, 0.543], 'image': [u'https://i.scdn.co/image/ab67616d0000b273d6adfbd3f091d6f2b9af6507', u'https://i.scdn.co/image/ab67616d0000b273fac090a59ca8c44feca0073d', u'https://i.scdn.co/image/ab67616d0000b2737b4d2b0d46fc5ed7f771329b', u'https://i.scdn.co/image/ab67616d0000b273dfc2f59568272de50a257f2f', u'https://i.scdn.co/image/ab67616d0000b27324ef7429ba82789623ae8b14', u'https://i.scdn.co/image/ab67616d0000b2736fde11f8428291d7d3db0c14'], 'album_name': [u'What A Time To Be Alive', u'The Leek (Vol. 3)', u'DUMMY BOY', u'JACKBOYS', u'Dex Meets Dexter', u'Campaign'], 'song_name': [u'Big Rings', u"That's It", u'MAMA', u'GATTI', u'JAPAN', u'Zaddy'], 'artist_name': [u'Drake', u'Chief Keef', u'6ix9ine', u'JACKBOYS', u'Famous Dex', u'Ty Dolla $ign'], 'track_id': [u'7jslhIiELQkgW9IHeYNOWE', u'0v0BxvMVMiNlu938A21c6p', u'5FlmoOiXokZHJvESrFbsyg', u'40mjsnRjCpycdUw3xhS20g', u'5PTG6rrL6EPFD9E2QMI2pl', u'7n1nLaVnTdMmUY8gj7DMY7']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b2736fde11...  ...  0.543
+4  https://i.scdn.co/image/ab67616d0000b27324ef74...  ...  0.678
+3  https://i.scdn.co/image/ab67616d0000b273dfc2f5...  ...  0.676
+2  https://i.scdn.co/image/ab67616d0000b2737b4d2b...  ...  0.672
+1  https://i.scdn.co/image/ab67616d0000b273fac090...  ...  0.616
+0  https://i.scdn.co/image/ab67616d0000b273d6adfb...  ...  0.675
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
