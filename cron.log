@@ -68480,3 +68480,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master ac06cea] updating daily data 2021-04-03 11:00:03.739324
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-04-03 11:00:02.982720
+Auth happening...
+Getting songs
+Creating dataframe...
+Exit Scott (interlude)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
