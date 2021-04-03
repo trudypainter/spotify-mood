@@ -68232,4 +68232,65 @@ GOT THESE SONGS
 15  https://i.scdn.co/image/ab67616d0000b2735ee839...  ...  0.625
 14  https://i.scdn.co/image/ab67616d0000b2739c188c...  ...  0.344
 13  https://i.scdn.co/image/ab67616d0000b273e31a27...  ...  0.596
-12  https://i.scdn.co/image/ab67616d0000b27324ef74...  ... 
+12  https://i.scdn.co/image/ab67616d0000b27324ef74...  ... [master d33720d] updating daily data 2021-04-02 22:00:05.218598
+ 3 files changed, 73 insertions(+), 2 deletions(-)
+ 0.467
+11  https://i.scdn.co/image/ab67616d0000b273e31a27...  ...   0.79
+10  https://i.scdn.co/image/ab67616d0000b27399a8ab...  ...  0.674
+9   https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.903
+8   https://i.scdn.co/image/ab67616d0000b2738be071...  ...  0.568
+7   https://i.scdn.co/image/ab67616d0000b2734161f4...  ...  0.568
+6   https://i.scdn.co/image/ab67616d0000b2739c188c...  ...  0.633
+5   https://i.scdn.co/image/ab67616d0000b2731b1ea8...  ...  0.663
+4   https://i.scdn.co/image/ab67616d0000b273a875c3...  ...  0.632
+3   https://i.scdn.co/image/ab67616d0000b273626745...  ...  0.331
+2   https://i.scdn.co/image/ab67616d0000b273c5649a...  ...  0.552
+1   https://i.scdn.co/image/ab67616d0000b273915169...  ...  0.897
+0   https://i.scdn.co/image/ab67616d0000b273789e7b...  ...  0.631
+
+[16 rows x 10 columns]
+('Rows: ', 16)
+Saved!
+
+2021-04-02 23:00:03.239226
+Auth happening...
+Getting songs
+Creating dataframe...
+Baby Got Back
+Anaconda
+Donald Trump
+Marigold
+Tia Tamera (feat. Rico Nasty)
+Pussy Poppin (I Don't Really Talk Like This)
+Jealous (feat. Rico Nasty)
+TiK ToK
+Bad Company (feat. BlocBoy JB)
+Starships
+Reality
+Rasputin
+Telephone Calls (feat. A$AP Rocky, Tyler, The Creator, Playboi Carti & Yung Gleesh)
+still feel.
+Good Life
+Midnight City
+One Whole Day (feat. Wiz Khalifa)
+GOT THESE SONGS
+{'played_at': ['22:59', '22:54', '22:50', '22:47', '22:43', '22:40', '22:38', '22:34', '22:31', '22:28', '22:24', '22:22', '22:16', '22:12', '22:07', '22:04'], 'valence': [0.642, 0.646, 0.799, 0.633, 0.421, 0.896, 0.481, 0.714, 0.343, 0.751, 0.527, 0.966, 0.493, 0.715, 0.487, 0.32], 'mood_avg': [0.761, 0.765, 0.793, 0.675, 0.628, 0.897, 0.647, 0.755, 0.603, 0.742, 0.631, 0.821, 0.644, 0.701, 0.532, 0.481], 'danceability': [0.926, 0.964, 0.716, 0.788, 0.822, 0.936, 0.779, 0.755, 0.901, 0.747, 0.731, 0.639, 0.732, 0.779, 0.439, 0.526], 'energy': [0.669, 0.605, 0.936, 0.533, 0.654, 0.82, 0.714, 0.837, 0.529, 0.716, 0.639, 0.893, 0.772, 0.516, 0.808, 0.712], 'image': [u'https://i.scdn.co/image/ab67616d0000b273f82c7e4376cf8267fb396b7d', u'https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458', u'https://i.scdn.co/image/ab67616d0000b273caed626d0cb2f60220977db8', u'https://i.scdn.co/image/ab67616d0000b273677f9bbc62fb177bc1da3690', u'https://i.scdn.co/image/ab67616d0000b27305d15f02b484a462368cce63', u'https://i.scdn.co/image/ab67616d0000b273230f64a77c6d70d4067bb1c5', u'https://i.scdn.co/image/ab67616d0000b273f26e25b98a8b66c303ab89da', u'https://i.scdn.co/image/ab67616d0000b2737a6339d6ddfd579f77559b3c', u'https://i.scdn.co/image/ab67616d0000b273f669edbfecf19e5725b7af6c', u'https://i.scdn.co/image/ab67616d0000b27385235715597dcd07bb9e0f84', u'https://i.scdn.co/image/ab67616d0000b273509a6f6e25544687edcf7740', u'https://i.scdn.co/image/ab67616d0000b2739e77d65619f80436b5cc9d12', u'https://i.scdn.co/image/ab67616d0000b27330eaf29813f551d9188ad35a', u'https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c', u'https://i.scdn.co/image/ab67616d0000b2739bbd79106e510d13a9a5ec33', u'https://i.scdn.co/image/ab67616d0000b27389c5c957f376e8c87ed23dcc'], 'album_name': [u'Mack Daddy', u'The Pinkprint (Deluxe)', u'Best Day Ever (5th Anniversary Remastered Edition)', u'Marigold', u'Amala (Deluxe Version)', u'Nightmare Vacation', u'Jealous (feat. Rico Nasty)', u'Animal (Expanded Edition)', u'Bad Company (feat. BlocBoy JB)', u'Pink Friday ... Roman Reloaded', u'Less Is More', u'Nightflight to Venus', u'Cozy Tapes: Vol. 1 Friends -', u'Now, Not Yet', u'Graduation', u"Hurry Up, We're Dreaming"], 'song_name': [u'Baby Got Back', u'Anaconda', u'Donald Trump', u'Marigold', u'Tia Tamera (feat. Rico Nasty)', u"Pussy Poppin (I Don't Really Talk Like This)", u'Jealous (feat. Rico Nasty)', u'TiK ToK', u'Bad Company (feat. BlocBoy JB)', u'Starships', u'Reality', u'Rasputin', u'Telephone Calls (feat. A$AP Rocky, Tyler, The Creator, Playboi Carti & Yung Gleesh)', u'still feel.', u'Good Life', u'Midnight City'], 'artist_name': [u'Sir Mix-A-Lot', u'Nicki Minaj', u'Mac Miller', u'Jelani Aryeh', u'Doja Cat', u'Rico Nasty', u'Mahalia', u'Kesha', u'A$AP Rocky', u'Nicki Minaj', u'Lost Frequencies', u'Boney M.', u'A$AP Mob', u'half\u2022alive', u'Kanye West', u'M83'], 'track_id': [u'1SAkL1mYNJlaqnBQxVZrRl', u'794F99D5BQHS5ZGRXAs7I5', u'5oMkgWZqmKjaJHrsXcsZZy', u'0xtRShSDM9MNsaARH6hJkF', u'1uNePI826aqh9uC9pgbeHU', u'5Y5pnYbPnZzUhv3KEa6qbd', u'0IIn18QlxCeUpLPRaR6a7K', u'0HPD5WQqrq7wPWR7P7Dw1i', u'3ZYwSDF9knZI0RVlKR4PHC', u'1oHNvJVbFkexQc0BpQp7Y4', u'6rHROoXjEfuxYVw1nd7plQ', u'5jkFvD4UJrmdoezzT1FRoP', u'5VnpYqIzm02X9gOhVElQo3', u'48XkVAagIoQHCsOlJtXUd5', u'14blxrgE0VWAgv5aF2wWmx', u'1eyzqe2QqGZUmfcPZtrIyt']}
+                                                image  ... energy
+15  https://i.scdn.co/image/ab67616d0000b27389c5c9...  ...  0.712
+14  https://i.scdn.co/image/ab67616d0000b2739bbd79...  ...  0.808
+13  https://i.scdn.co/image/ab67616d0000b273f89d2d...  ...  0.516
+12  https://i.scdn.co/image/ab67616d0000b27330eaf2...  ...  0.772
+11  https://i.scdn.co/image/ab67616d0000b2739e77d6...  ...  0.893
+10  https://i.scdn.co/image/ab67616d0000b273509a6f...  ...  0.639
+9   https://i.scdn.co/image/ab67616d0000b273852357...  ...  0.716
+8   https://i.scdn.co/image/ab67616d0000b273f669ed...  ...  0.529
+7   https://i.scdn.co/image/ab67616d0000b2737a6339...  ...  0.837
+6   https://i.scdn.co/image/ab67616d0000b273f26e25...  ...  0.714
+5   https://i.scdn.co/image/ab67616d0000b273230f64...  ...   0.82
+4   https://i.scdn.co/image/ab67616d0000b27305d15f...  ...  0.654
+3   https://i.scdn.co/image/ab67616d0000b273677f9b...  ...  0.533
+2   https://i.scdn.co/image/ab67616d0000b273caed62...  ...  0.936
+1   https://i.scdn.co/image/ab67616d0000b2730f79d1...  ...  0.605
+0   https://i.scdn.co/image/ab67616d0000b273f82c7e...  ...  0.669
+
+[16 rows x 10 columns]
