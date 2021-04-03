@@ -68442,3 +68442,26 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master fe95ea3] updating daily data 2021-04-03 09:00:04.491511
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+2021-04-03 09:00:03.548484
+Auth happening...
+Getting songs
+Creating dataframe...
+Exit Scott (interlude)
+Look At Me Now
+For Her
+For Her
+Big Rings
+GOT THESE SONGS
+{'played_at': ['08:10', '08:09', '08:06', '08:04'], 'valence': [0.525, 0.2, 0.447, 0.447], 'mood_avg': [0.453, 0.392, 0.456, 0.456], 'danceability': [0.39, 0.564, 0.431, 0.431], 'energy': [0.436, 0.43, 0.522, 0.522], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9'], 'album_name': [u'When I Get Home', u'Pang', u'Fetch The Bolt Cutters', u'Fetch The Bolt Cutters'], 'song_name': [u'Exit Scott (interlude)', u'Look At Me Now', u'For Her', u'For Her'], 'artist_name': [u'Solange', u'Caroline Polachek', u'Fiona Apple', u'Fiona Apple'], 'track_id': [u'0sB95316MVikK4D0BfnirE', u'1z7Pc2fpIffOtXQh1XHMn9', u'5BBWr1LUsCH1tECJLAUGnP', u'5BBWr1LUsCH1tECJLAUGnP']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.522
+2  https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.522
+1  https://i.scdn.co/image/ab67616d0000b2737d983e...  ...   0.43
+0  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.436
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
