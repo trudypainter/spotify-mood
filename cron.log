@@ -68098,3 +68098,32 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master eecf0fc] updating daily data 2021-04-02 19:00:06.689900
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-04-02 19:00:05.349043
+Auth happening...
+Getting songs
+Creating dataframe...
+See You Again (feat. Kali Uchis)
+Herside Story
+Ben My Best Friend
+GOLD
+FEFE
+Ryd
+Perfume
+Fun, Fun, Fun
+GOT THESE SONGS
+{'played_at': ['18:56', '18:53', '18:50', '18:45', '18:41', '18:37', '18:35'], 'valence': [0.62, 0.754, 0.394, 0.29, 0.376, 0.979, 0.64], 'mood_avg': [0.583, 0.775, 0.495, 0.569, 0.6, 0.893, 0.645], 'danceability': [0.558, 0.885, 0.601, 0.808, 0.931, 0.784, 0.733], 'energy': [0.559, 0.595, 0.483, 0.647, 0.387, 0.94, 0.48], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3', u'https://i.scdn.co/image/ab67616d0000b2737bcd3cd54e8399ae38cc6e64', u'https://i.scdn.co/image/ab67616d0000b27386dc71c002042b92efbbd200', u'https://i.scdn.co/image/ab67616d0000b273a0c4a585a7d73b4943b9bf13', u'https://i.scdn.co/image/ab67616d0000b2737b4d2b0d46fc5ed7f771329b', u'https://i.scdn.co/image/ab67616d0000b273a31dd5d96b9df819e331fdcb', u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da'], 'album_name': [u'Flower Boy', u'At What Cost', u'Bossa Loser', u'SATURATION', u'DUMMY BOY', u"Steve Lacy's Demo", u'Cat Heaven'], 'song_name': [u'See You Again (feat. Kali Uchis)', u'Herside Story', u'Ben My Best Friend', u'GOLD', u'FEFE', u'Ryd', u'Perfume'], 'artist_name': [u'Tyler, The Creator', u'GoldLink', u'Pinstripe Sunny', u'BROCKHAMPTON', u'6ix9ine', u'Steve Lacy', u'Roy Blair'], 'track_id': [u'7KA4W4McWYRpgf0fWsJZWB', u'564oa00vY05d1uYnTEAAmE', u'3VfYOSHOwR8ypW15CsUaQs', u'7HRv1sYuwgoea1m0JRvChV', u'2l8nEO0vsTRCRnGqQty6qx', u'3I8yVFjvJoOBM9tX4ZpxEL', u'2tB5MNlg9RPcpEFl2Ws3IH']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b273de3c33...  ...   0.48
+5  https://i.scdn.co/image/ab67616d0000b273a31dd5...  ...   0.94
+4  https://i.scdn.co/image/ab67616d0000b2737b4d2b...  ...  0.387
+3  https://i.scdn.co/image/ab67616d0000b273a0c4a5...  ...  0.647
+2  https://i.scdn.co/image/ab67616d0000b27386dc71...  ...  0.483
+1  https://i.scdn.co/image/ab67616d0000b2737bcd3c...  ...  0.595
+0  https://i.scdn.co/image/ab67616d0000b2738940ac...  ...  0.559
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
