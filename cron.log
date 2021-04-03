@@ -68510,3 +68510,35 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 15ca46b] updating daily data 2021-04-03 13:00:04.156434
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-04-03 13:00:03.197717
+Auth happening...
+Getting songs
+Creating dataframe...
+So Hot You're Hurting My Feelings
+Ocean of Tears
+New Normal
+Hit Me Where It Hurts
+You Make Me Feel (Mighty Real)
+Exit Scott (interlude)
+GOT THESE SONGS
+{'played_at': ['12:37', '12:34', '12:31', '12:28', '12:25'], 'valence': [0.847, 0.132, 0.488, 0.261, 0.961], 'mood_avg': [0.772, 0.37, 0.567, 0.502, 0.806], 'danceability': [0.795, 0.572, 0.688, 0.732, 0.629], 'energy': [0.576, 0.442, 0.483, 0.523, 0.851], 'image': [u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b273c6619148196a323b2e41d6d4'], 'album_name': [u'Pang', u'Pang', u'Pang', u'Pang', u'Step II'], 'song_name': [u"So Hot You're Hurting My Feelings", u'Ocean of Tears', u'New Normal', u'Hit Me Where It Hurts', u'You Make Me Feel (Mighty Real)'], 'artist_name': [u'Caroline Polachek', u'Caroline Polachek', u'Caroline Polachek', u'Caroline Polachek', u'Sylvester'], 'track_id': [u'5B6Kjha6RRIMWGN7zGsAaT', u'4RqBss578GNj4u9VYZK5u0', u'3dPkaunRnlcwGiOTJpQGD1', u'2wcrQZ7ZJolYEfIaPP9yL4', u'0RnCUYXa7jhgTXtiMXF2PQ']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273c66191...  ...  0.851
+3  https://i.scdn.co/image/ab67616d0000b2737d983e...  ...  0.523
+2  https://i.scdn.co/image/ab67616d0000b2737d983e...  ...  0.483
+1  https://i.scdn.co/image/ab67616d0000b2737d983e...  ...  0.442
+0  https://i.scdn.co/image/ab67616d0000b2737d983e...  ...  0.576
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
+2021-04-03 14:00:02.828160
+Auth happening...
+Getting songs
+Creating dataframe...
+Getting Down Pt II (He's Cooling Down)
+I Mind
+The Opposite of Afternoon
