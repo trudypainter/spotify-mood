@@ -68795,3 +68795,26 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 1a05c3e] updating daily data 2021-04-04 07:00:04.324820
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+2021-04-04 07:00:03.332479
+Auth happening...
+Getting songs
+Creating dataframe...
+Can't Believe The Way We Flow
+Say It (feat. Tove Lo)
+SAD!
+New House
+No Right Thing
+GOT THESE SONGS
+{'played_at': ['06:58', '06:54', '06:49', '06:30'], 'valence': [0.29, 0.261, 0.473, 0.353], 'mood_avg': [0.327, 0.45, 0.608, 0.485], 'danceability': [0.259, 0.598, 0.74, 0.671], 'energy': [0.536, 0.532, 0.613, 0.378], 'image': [u'https://i.scdn.co/image/ab67616d0000b273534dc6aebb7cf3c04e410cc6', u'https://i.scdn.co/image/ab67616d0000b273750d4a1b362296d1b815a223', u'https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c', u'https://i.scdn.co/image/ab67616d0000b273e6afa3b111faa03806f7d257'], 'album_name': [u'Assume Form', u'Skin', u'?', u'Outer Peace'], 'song_name': [u"Can't Believe The Way We Flow", u'Say It (feat. Tove Lo)', u'SAD!', u'New House'], 'artist_name': [u'James Blake', u'Flume', u'XXXTENTACION', u'Toro y Moi'], 'track_id': [u'03NtFY8KBtBsLQg2E9rVDI', u'5aOpzm8W8zysk4asB9hxJw', u'3ee8Jmje8o58CHK66QrVC2', u'40YmyUvb5AmaAWXpXTj7VD']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273e6afa3...  ...  0.378
+2  https://i.scdn.co/image/ab67616d0000b273806c16...  ...  0.613
+1  https://i.scdn.co/image/ab67616d0000b273750d4a...  ...  0.532
+0  https://i.scdn.co/image/ab67616d0000b273534dc6...  ...  0.536
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
