@@ -68818,3 +68818,24 @@ GOT THESE SONGS
 ('Rows: ', 4)
 Saved!
 
+[master 8dc53d9] updating daily data 2021-04-04 08:00:05.325230
+ 3 files changed, 27 insertions(+), 1 deletion(-)
+2021-04-04 08:00:04.097080
+Auth happening...
+Getting songs
+Creating dataframe...
+Ryd
+Late To The Party
+All Mine
+Can't Believe The Way We Flow
+GOT THESE SONGS
+{'played_at': ['07:07', '07:04', '07:01'], 'valence': [0.979, 0.685, 0.291], 'mood_avg': [0.893, 0.666, 0.548], 'danceability': [0.784, 0.753, 0.925], 'energy': [0.94, 0.454, 0.31], 'image': [u'https://i.scdn.co/image/ab67616d0000b273a31dd5d96b9df819e331fdcb', u'https://i.scdn.co/image/ab67616d0000b2738e831c9200c5ac7cce8d60dc', u'https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2'], 'album_name': [u"Steve Lacy's Demo", u'Pageant Material', u'ye'], 'song_name': [u'Ryd', u'Late To The Party', u'All Mine'], 'artist_name': [u'Steve Lacy', u'Kacey Musgraves', u'Kanye West'], 'track_id': [u'3I8yVFjvJoOBM9tX4ZpxEL', u'1uXUAE4lmnGCufaAh6n2D5', u'3U21A07gAloCc4P7J8rxcn']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b2730cd942...  ...   0.31
+1  https://i.scdn.co/image/ab67616d0000b2738e831c...  ...  0.454
+0  https://i.scdn.co/image/ab67616d0000b273a31dd5...  ...   0.94
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
