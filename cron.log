@@ -69112,3 +69112,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 6929b42] updating daily data 2021-04-05 06:00:04.454077
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-04-05 06:00:03.736092
+Auth happening...
+Getting songs
+Creating dataframe...
+Grand Theft Auto
+Me and Michael
+GOT THESE SONGS
+{'played_at': ['05:57'], 'valence': [0.289], 'mood_avg': [0.463], 'danceability': [0.7], 'energy': [0.336], 'image': [u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da'], 'album_name': [u'Cat Heaven'], 'song_name': [u'Grand Theft Auto'], 'artist_name': [u'Roy Blair'], 'track_id': [u'6TvVM0uHHFbMtr3uhgDXyu']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273de3c33...  ...  0.336
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
