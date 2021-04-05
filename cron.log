@@ -69252,3 +69252,34 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 124647e] updating daily data 2021-04-05 14:00:12.907773
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-04-05 14:00:10.852945
+Auth happening...
+Getting songs
+Creating dataframe...
+Salad Days
+You Say I'm in Love
+Georgia
+Bubble Gum
+Happy
+Yellow
+Loner
+Love Galore (feat. Travis Scott)
+Potato Salad
+GOT THESE SONGS
+{'played_at': ['13:59', '13:56', '13:53', '13:50', '13:47', '13:44', '13:40', '13:36'], 'valence': [0.772, 0.357, 0.289, 0.229, 0.519, 0.746, 0.506, 0.409], 'mood_avg': [0.635, 0.45, 0.486, 0.299, 0.6, 0.689, 0.626, 0.6], 'danceability': [0.43, 0.625, 0.665, 0.509, 0.798, 0.56, 0.722, 0.795], 'energy': [0.771, 0.285, 0.522, 0.0167, 0.367, 0.831, 0.675, 0.594], 'image': [u'https://i.scdn.co/image/ab67616d0000b2737da53b49b2eb7b7a695d9cca', u'https://i.scdn.co/image/ab67616d0000b273a6fa743127e9cd0e58677df1', u'https://i.scdn.co/image/ab67616d0000b273595101c281d7e229e1f0e6c4', u'https://i.scdn.co/image/ab67616d0000b2735d93417bde90e0bd951dab08', u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da', u'https://i.scdn.co/image/ab67616d0000b273030b3a60e1041ebec36d2a73', u'https://i.scdn.co/image/ab67616d0000b273dbc47f8bae404ce15ffd055e', u'https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25'], 'album_name': [u'Salad Days', u"You Say I'm in Love", u'ARIZONA BABY', u'Bubble Gum', u'Cat Heaven', u'American Boyfriend: A Suburban Love Story', u'Por Vida', u'Ctrl'], 'song_name': [u'Salad Days', u"You Say I'm in Love", u'Georgia', u'Bubble Gum', u'Happy', u'Yellow', u'Loner', u'Love Galore (feat. Travis Scott)'], 'artist_name': [u'Mac DeMarco', u'Banes World', u'Kevin Abstract', u'Clairo', u'Roy Blair', u'Kevin Abstract', u'Kali Uchis', u'SZA'], 'track_id': [u'4keAoywVf4jxRvXU7ON0hV', u'5Ss6DqCldgTmIo6BekVOJT', u'3XukKy28kqKFl52GiCUSFo', u'3zksbXteOCeSusJ5Xltr3t', u'6aHTqCC2qHHs5H0rjgJVbc', u'0vv7loHDXE3dpcJjWqNm7T', u'6m6R6O2BOZDCNymhJ45spI', u'0q75NwOoFiARAVp4EXU4Bs']}
+                                               image  ...  energy
+7  https://i.scdn.co/image/ab67616d0000b2734c79d5...  ...   0.594
+6  https://i.scdn.co/image/ab67616d0000b273dbc47f...  ...   0.675
+5  https://i.scdn.co/image/ab67616d0000b273030b3a...  ...   0.831
+4  https://i.scdn.co/image/ab67616d0000b273de3c33...  ...   0.367
+3  https://i.scdn.co/image/ab67616d0000b2735d9341...  ...  0.0167
+2  https://i.scdn.co/image/ab67616d0000b273595101...  ...   0.522
+1  https://i.scdn.co/image/ab67616d0000b273a6fa74...  ...   0.285
+0  https://i.scdn.co/image/ab67616d0000b2737da53b...  ...   0.771
+
+[8 rows x 10 columns]
+('Rows: ', 8)
+Saved!
+
