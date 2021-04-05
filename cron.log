@@ -69129,3 +69129,34 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 41da69f] updating daily data 2021-04-05 07:00:08.665405
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-04-05 07:00:06.394400
+Auth happening...
+Getting songs
+Creating dataframe...
+Lets Go Surfing
+Chinese New Year
+Kickback
+Goodie Bag
+Maybe You're the Reason
+Peach Fuzz
+Crack Rock
+Best Part (feat. H.E.R.)
+Grand Theft Auto
+GOT THESE SONGS
+{'played_at': ['06:44', '06:41', '06:38', '06:35', '06:33', '06:29', '06:26', '06:23'], 'valence': [0.785, 0.749, 0.744, 0.619, 0.395, 0.88, 0.379, 0.436], 'mood_avg': [0.708, 0.766, 0.752, 0.648, 0.559, 0.724, 0.47, 0.457], 'danceability': [0.577, 0.744, 0.912, 0.739, 0.621, 0.593, 0.429, 0.524], 'energy': [0.814, 0.845, 0.448, 0.522, 0.762, 0.673, 0.736, 0.364], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e707737e51a877d351012c1e', u'https://i.scdn.co/image/ab67616d0000b2733c898f93cd0ca3f75a263b29', u'https://i.scdn.co/image/ab67616d0000b27330a4346fc409e4e6e3ef37ec', u'https://i.scdn.co/image/ab67616d0000b2735ddbd61ea4a6dab213cc97af', u'https://i.scdn.co/image/ab67616d0000b2731e7432b0c27279e2540fdf28', u'https://i.scdn.co/image/ab67616d0000b273819163623f3903ba5d39afc8', u'https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5', u'https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037'], 'album_name': [u'The Drums', u'Chinese New Year', u'Friends', u'Goodie Bag', u'Good At Falling', u'Peach Fuzz', u'channel ORANGE', u'Freudian'], 'song_name': [u'Lets Go Surfing', u'Chinese New Year', u'Kickback', u'Goodie Bag', u"Maybe You're the Reason", u'Peach Fuzz', u'Crack Rock', u'Best Part (feat. H.E.R.)'], 'artist_name': [u'The Drums', u'SALES', u'Omar Apollo', u'Still Woozy', u'The Japanese House', u'Tyler, The Creator', u'Frank Ocean', u'Daniel Caesar'], 'track_id': [u'6l6LgnyNHL3U6UgSx5Aiph', u'0SIAFU49FFHwR3QnT5Jx0k', u'5MZQIjtghyFc4sMVUzD7MD', u'4vHNeBWDQpVCmGbaccrRzi', u'5Po5YmT4RhawSeqNXx5m0o', u'0F58GE2TtHBim5o4ZTQUwK', u'5lcyIeEfwZTs8Ajw3kdF7P', u'1RMJOxR6GRPsBHL8qeC2ux']}
+                                               image  ... energy
+7  https://i.scdn.co/image/ab67616d0000b2733138f8...  ...  0.364
+6  https://i.scdn.co/image/ab67616d0000b2737aede4...  ...  0.736
+5  https://i.scdn.co/image/ab67616d0000b273819163...  ...  0.673
+4  https://i.scdn.co/image/ab67616d0000b2731e7432...  ...  0.762
+3  https://i.scdn.co/image/ab67616d0000b2735ddbd6...  ...  0.522
+2  https://i.scdn.co/image/ab67616d0000b27330a434...  ...  0.448
+1  https://i.scdn.co/image/ab67616d0000b2733c898f...  ...  0.845
+0  https://i.scdn.co/image/ab67616d0000b273e70773...  ...  0.814
+
+[8 rows x 10 columns]
+('Rows: ', 8)
+Saved!
+
