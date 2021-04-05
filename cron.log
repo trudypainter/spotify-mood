@@ -69235,3 +69235,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master b432b8f] updating daily data 2021-04-05 13:00:05.243082
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-04-05 13:00:04.383794
+Auth happening...
+Getting songs
+Creating dataframe...
+Potato Salad
+Lets Go Surfing
+GOT THESE SONGS
+{'played_at': ['12:17'], 'valence': [0.684], 'mood_avg': [0.611], 'danceability': [0.538], 'energy': [0.612], 'image': [u'https://i.scdn.co/image/ab67616d0000b273215cac8c30b47bb1bfb9d2d1'], 'album_name': [u'Potato Salad'], 'song_name': [u'Potato Salad'], 'artist_name': [u'Tyler, The Creator'], 'track_id': [u'1jzIJcHCXneHw7ojC6LXiF']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273215cac...  ...  0.612
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
