@@ -69283,3 +69283,28 @@ GOT THESE SONGS
 ('Rows: ', 8)
 Saved!
 
+[master 630daba] updating daily data 2021-04-05 15:00:04.660333
+ 3 files changed, 37 insertions(+), 1 deletion(-)
+2021-04-05 15:00:02.746301
+Auth happening...
+Getting songs
+Creating dataframe...
+2SEATER (feat. Aaron Shaw, Samantha Nelson & Austin Feinstein)
+Give A Little
+Powerslide
+Tyrant (feat. Jorja Smith)
+Lucky Strike
+Salad Days
+GOT THESE SONGS
+{'played_at': ['14:19', '14:12', '14:09', '14:06', '14:02'], 'valence': [0.348, 0.766, 0.734, 0.62, 0.798], 'mood_avg': [0.419, 0.693, 0.731, 0.511, 0.734], 'danceability': [0.352, 0.618, 0.839, 0.422, 0.768], 'energy': [0.693, 0.695, 0.511, 0.471, 0.539], 'image': [u'https://i.scdn.co/image/ab67616d0000b2730f2e9f092b4e9c4424afb446', u'https://i.scdn.co/image/ab67616d0000b273d658a02ba8931985bdc4e0da', u'https://i.scdn.co/image/ab67616d0000b273f5836791fd265b08343034cd', u'https://i.scdn.co/image/ab67616d0000b27390b4e1905b1fc48c537ec053', u'https://i.scdn.co/image/ab67616d0000b27355a906b84d93ce9911e21a2b'], 'album_name': [u'Cherry Bomb', u'Heard It In A Past Life', u'Boy in Jeans', u'Isolation', u'Lucky Strike'], 'song_name': [u'2SEATER (feat. Aaron Shaw, Samantha Nelson & Austin Feinstein)', u'Give A Little', u'Powerslide', u'Tyrant (feat. Jorja Smith)', u'Lucky Strike'], 'artist_name': [u'Tyler, The Creator', u'Maggie Rogers', u'Ryan Beatty', u'Kali Uchis', u'Berhana'], 'track_id': [u'6Xw3iWrQKgArwlRhVuU9CK', u'3D4uUFRoYDFHbkQlTKL2Om', u'5x1Ctt9JCZNU5UhJWbHoQp', u'4FZOSDwALdWxcGcRbwXWJ8', u'2JP510jyc49iWOsjGQUz2N']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b27355a906...  ...  0.539
+3  https://i.scdn.co/image/ab67616d0000b27390b4e1...  ...  0.471
+2  https://i.scdn.co/image/ab67616d0000b273f58367...  ...  0.511
+1  https://i.scdn.co/image/ab67616d0000b273d658a0...  ...  0.695
+0  https://i.scdn.co/image/ab67616d0000b2730f2e9f...  ...  0.693
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
