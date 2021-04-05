@@ -69308,3 +69308,18 @@ GOT THESE SONGS
 ('Rows: ', 5)
 Saved!
 
+[master 363d812] updating daily data 2021-04-05 16:00:03.896089
+ 2 files changed, 26 insertions(+), 1 deletion(-)
+2021-04-05 16:00:03.162919
+Auth happening...
+Getting songs
+Creating dataframe...
+2SEATER (feat. Aaron Shaw, Samantha Nelson & Austin Feinstein)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
