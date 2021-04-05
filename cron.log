@@ -68981,3 +68981,28 @@ Creating dataframe...
 Seventeen
 She Wants My Money
 I DONT KNOW ABOUT HIM
+[master 80709e6] updating daily data 2021-04-04 22:00:04.096443
+ 3 files changed, 28 insertions(+), 1 deletion(-)
+2021-04-04 22:00:03.057640
+Auth happening...
+Getting songs
+Creating dataframe...
+Me and Michael
+Peach Fuzz
+SUGAR
+Nikes
+Sidelines
+I'm Trying
+GOT THESE SONGS
+{'played_at': ['21:26', '21:21', '21:18', '21:15', '21:10'], 'valence': [0.706, 0.88, 0.516, 0.118, 0.809], 'mood_avg': [0.702, 0.724, 0.495, 0.343, 0.71], 'danceability': [0.628, 0.593, 0.453, 0.543, 0.639], 'energy': [0.841, 0.673, 0.538, 0.394, 0.655], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b47d309281c66820b7137f5d', u'https://i.scdn.co/image/ab67616d0000b273819163623f3903ba5d39afc8', u'https://i.scdn.co/image/ab67616d0000b27346f07fa4f28bf824840ddacb', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b27384feca0133d9a8e6539a8325'], 'album_name': [u'Little Dark Age', u'Peach Fuzz', u'GINGER', u'Blonde', u'Nothing Happens'], 'song_name': [u'Me and Michael', u'Peach Fuzz', u'SUGAR', u'Nikes', u'Sidelines'], 'artist_name': [u'MGMT', u'Tyler, The Creator', u'BROCKHAMPTON', u'Frank Ocean', u'Wallows'], 'track_id': [u'0t4z0WaQomQqPONghWn8c2', u'0F58GE2TtHBim5o4ZTQUwK', u'6U0FIYXCQ3TGrk4tFpLrEA', u'19YKaevk2bce4odJkP5L22', u'3gar285uWggoxHwOwO7Ng9']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b27384feca...  ...  0.655
+3  https://i.scdn.co/image/ab67616d0000b273c5649a...  ...  0.394
+2  https://i.scdn.co/image/ab67616d0000b27346f07f...  ...  0.538
+1  https://i.scdn.co/image/ab67616d0000b273819163...  ...  0.673
+0  https://i.scdn.co/image/ab67616d0000b273b47d30...  ...  0.841
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
