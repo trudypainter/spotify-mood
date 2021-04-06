@@ -69370,3 +69370,46 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 6194f3b] updating daily data 2021-04-05 20:00:07.971538
+ 3 files changed, 32 insertions(+), 1 deletion(-)
+2021-04-05 20:00:04.423473
+Auth happening...
+Getting songs
+Creating dataframe...
+Pink + White
+Loner
+3 Nights
+Hazel
+Peach Fuzz
+Shake
+THUG LIFE
+Are You Bored Yet? (feat. Clairo)
+Happy
+SUGAR
+Biking (Solo)
+Brakelights
+Too Fast
+GUMMY
+Lens
+GOT THESE SONGS
+{'played_at': ['19:58', '19:55', '19:51', '19:48', '19:44', '19:41', '19:38', '19:36', '19:33', '19:30', '19:27', '19:23', '19:20', '19:17'], 'valence': [0.554, 0.506, 0.877, 0.53, 0.88, 0.488, 0.37, 0.64, 0.519, 0.516, 0.181, 0.257, 0.294, 0.792], 'mood_avg': [0.55, 0.626, 0.78, 0.511, 0.724, 0.533, 0.526, 0.665, 0.6, 0.495, 0.438, 0.465, 0.52, 0.726], 'danceability': [0.544, 0.722, 0.815, 0.578, 0.593, 0.571, 0.576, 0.682, 0.798, 0.453, 0.64, 0.695, 0.697, 0.687], 'energy': [0.552, 0.675, 0.518, 0.338, 0.673, 0.548, 0.74, 0.683, 0.367, 0.538, 0.548, 0.42, 0.617, 0.672], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b273dbc47f8bae404ce15ffd055e', u'https://i.scdn.co/image/ab67616d0000b2734a42166d927b3acce345c5c0', u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da', u'https://i.scdn.co/image/ab67616d0000b273819163623f3903ba5d39afc8', u'https://i.scdn.co/image/ab67616d0000b2732b77dbfe33f66cd9b21b35ba', u'https://i.scdn.co/image/ab67616d0000b273de91214392394303e66d1cb6', u'https://i.scdn.co/image/ab67616d0000b27384feca0133d9a8e6539a8325', u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da', u'https://i.scdn.co/image/ab67616d0000b27346f07fa4f28bf824840ddacb', u'https://i.scdn.co/image/ab67616d0000b273d3c1a5fabc51fd62e18829fa', u'https://i.scdn.co/image/ab67616d0000b27387f18c63ade41b074946bbb5', u'https://i.scdn.co/image/ab67616d0000b273bf73f0ac1f71682725d4f61c', u'https://i.scdn.co/image/ab67616d0000b2737d15fb20303a589acc1ab98b'], 'album_name': [u'Blonde', u'Por Vida', u"Don't Forget About Me, Demos", u'Cat Heaven', u'Peach Fuzz', u'Sebastian', u'iridescence', u'Nothing Happens', u'Cat Heaven', u'GINGER', u'Biking (Solo)', u'Brakelights', u'IDK WHERE', u'SATURATION II'], 'song_name': [u'Pink + White', u'Loner', u'3 Nights', u'Hazel', u'Peach Fuzz', u'Shake', u'THUG LIFE', u'Are You Bored Yet? (feat. Clairo)', u'Happy', u'SUGAR', u'Biking (Solo)', u'Brakelights', u'Too Fast', u'GUMMY'], 'artist_name': [u'Frank Ocean', u'Kali Uchis', u'Dominic Fike', u'Roy Blair', u'Tyler, The Creator', u'Yeek', u'BROCKHAMPTON', u'Wallows', u'Roy Blair', u'BROCKHAMPTON', u'Frank Ocean', u'Omar Apollo', u'Yeek', u'BROCKHAMPTON'], 'track_id': [u'3xKsf9qdS1CyvXSMEid6g8', u'6m6R6O2BOZDCNymhJ45spI', u'1tNJrcVe6gwLEiZCtprs1u', u'6olfAuiqOGpkQLo4i5A7nd', u'0F58GE2TtHBim5o4ZTQUwK', u'3NbcZRhP7aRmlPiZZ70Xle', u'2c09gumRCmu3qmbcqdQbUN', u'57RA3JGafJm5zRtKJiKPIm', u'6aHTqCC2qHHs5H0rjgJVbc', u'6U0FIYXCQ3TGrk4tFpLrEA', u'6gtNiLJNLBcV0P6Juenstp', u'43IjtK3IEEyTM5Ek32a2Pr', u'1lKCTL2qm4eTGcVpSOUb2F', u'42tBlHWL3VfDkUM2iWcc5p']}
+                                                image  ... energy
+13  https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...  0.672
+12  https://i.scdn.co/image/ab67616d0000b273bf73f0...  ...  0.617
+11  https://i.scdn.co/image/ab67616d0000b27387f18c...  ...   0.42
+10  https://i.scdn.co/image/ab67616d0000b273d3c1a5...  ...  0.548
+9   https://i.scdn.co/image/ab67616d0000b27346f07f...  ...  0.538
+8   https://i.scdn.co/image/ab67616d0000b273de3c33...  ...  0.367
+7   https://i.scdn.co/image/ab67616d0000b27384feca...  ...  0.683
+6   https://i.scdn.co/image/ab67616d0000b273de9121...  ...   0.74
+5   https://i.scdn.co/image/ab67616d0000b2732b77db...  ...  0.548
+4   https://i.scdn.co/image/ab67616d0000b273819163...  ...  0.673
+3   https://i.scdn.co/image/ab67616d0000b273de3c33...  ...  0.338
+2   https://i.scdn.co/image/ab67616d0000b2734a4216...  ...  0.518
+1   https://i.scdn.co/image/ab67616d0000b273dbc47f...  ...  0.675
+0   https://i.scdn.co/image/ab67616d0000b273c5649a...  ...  0.552
+
+[14 rows x 10 columns]
+('Rows: ', 14)
+Saved!
+
