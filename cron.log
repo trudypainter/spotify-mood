@@ -69497,3 +69497,24 @@ GOT THESE SONGS
 ('Rows: ', 15)
 Saved!
 
+[master 09fdf50] updating daily data 2021-04-05 23:00:05.645313
+ 3 files changed, 13 insertions(+), 2 deletions(-)
+2021-04-05 23:00:03.939136
+Auth happening...
+Getting songs
+Creating dataframe...
+Lets Go Surfing
+JUNKY
+Wait a Minute!
+Patience
+GOT THESE SONGS
+{'played_at': ['22:11', '22:08', '22:03'], 'valence': [0.785, 0.675, 0.672], 'mood_avg': [0.708, 0.658, 0.715], 'danceability': [0.577, 0.638, 0.764], 'energy': [0.814, 0.662, 0.705], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e707737e51a877d351012c1e', u'https://i.scdn.co/image/ab67616d0000b2737d15fb20303a589acc1ab98b', u'https://i.scdn.co/image/ab67616d0000b2736ee651e65c3766d80e7fcab7'], 'album_name': [u'The Drums', u'SATURATION II', u'ARDIPITHECUS'], 'song_name': [u'Lets Go Surfing', u'JUNKY', u'Wait a Minute!'], 'artist_name': [u'The Drums', u'BROCKHAMPTON', u'WILLOW'], 'track_id': [u'6l6LgnyNHL3U6UgSx5Aiph', u'7ujucw8kFBPIy9mz7DlmAq', u'0y60itmpH0aPKsFiGxmtnh']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b2736ee651...  ...  0.705
+1  https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...  0.662
+0  https://i.scdn.co/image/ab67616d0000b273e70773...  ...  0.814
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
