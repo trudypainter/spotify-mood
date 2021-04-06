@@ -69413,3 +69413,79 @@ GOT THESE SONGS
 ('Rows: ', 14)
 Saved!
 
+[master 03c0f6b] updating daily data 2021-04-05 21:00:04.873450
+ 3 files changed, 56 insertions(+), 1 deletion(-)
+2021-04-05 21:00:03.222692
+Auth happening...
+Getting songs
+Creating dataframe...
+Chronic Sunshine
+Ivy
+Moodna, Once With Grace
+Sidelines
+Nights
+Moonlight on the River
+Wild Irish Roses
+Weekend at Santa Cruz
+Late To The Party
+Empty
+Fangs
+Walcott
+Pink + White
+GOT THESE SONGS
+{'played_at': ['20:58', '20:54', '20:49', '20:46', '20:34', '20:28', '20:21', '20:19', '20:16', '20:12', '20:05', '20:01'], 'valence': [0.504, 0.452, 0.148, 0.809, 0.423, 0.43, 0.634, 0.655, 0.685, 0.504, 0.471, 0.59], 'mood_avg': [0.529, 0.485, 0.255, 0.71, 0.465, 0.532, 0.568, 0.605, 0.666, 0.537, 0.542, 0.507], 'danceability': [0.431, 0.567, 0.28, 0.639, 0.466, 0.662, 0.639, 0.618, 0.753, 0.59, 0.69, 0.398], 'energy': [0.773, 0.388, 0.42, 0.655, 0.548, 0.478, 0.295, 0.48, 0.454, 0.498, 0.387, 0.56], 'image': [u'https://i.scdn.co/image/ab67616d0000b273a55f73b70360daa13f3f30c2', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b2732897ae5eb726e27e9d77c0e8', u'https://i.scdn.co/image/ab67616d0000b27384feca0133d9a8e6539a8325', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b2738be32b380765207f19d56435', u'https://i.scdn.co/image/ab67616d0000b27301bfd9cea452f6c27eaea4cb', u'https://i.scdn.co/image/ab67616d0000b27300505d736b7a5bdd7a4a29e4', u'https://i.scdn.co/image/ab67616d0000b273030b3a60e1041ebec36d2a73', u'https://i.scdn.co/image/ab67616d0000b2739a3ab81a114f5a519c2feb75', u'https://i.scdn.co/image/ab67616d0000b273f5b71e540a025bb1bdecfae8'], 'album_name': [u'Just Cosmo', u'Blonde', u'Moodna, Once With Grace', u'Nothing Happens', u'Blonde', u'This Old Dog', u'blkswn', u'Bad Bonez', u'Pageant Material', u'American Boyfriend: A Suburban Love Story', u'Fangs', u'Vampire Weekend'], 'song_name': [u'Chronic Sunshine', u'Ivy', u'Moodna, Once With Grace', u'Sidelines', u'Nights', u'Moonlight on the River', u'Wild Irish Roses', u'Weekend at Santa Cruz', u'Late To The Party', u'Empty', u'Fangs', u'Walcott'], 'artist_name': [u'Cosmo Pyke', u'Frank Ocean', u'Gus Dapperton', u'Wallows', u'Frank Ocean', u'Mac DeMarco', u'Smino', u'Michael Seyer', u'Kacey Musgraves', u'Kevin Abstract', u'Matt Champion', u'Vampire Weekend'], 'track_id': [u'3pnGJPnBptOIEa4bvdcLlG', u'2ZWlPOoWh0626oTaHrnl2a', u'08VEQesIyvMu4xIxec8lMT', u'3gar285uWggoxHwOwO7Ng9', u'7eqoqGkKwgOaWNNHx90uEZ', u'1yCJHs8UFfmqMujayg9i5y', u'6efkcs2aUBMFKxl0cl2JWQ', u'7mUpYTyfLQtu0LOZ8q0oK4', u'0E5ZrgbRKXwGvNhwzRaDGL', u'6gSw5vz7dcafda23VqMrnl', u'6T7xC3rDjOCkMkvcFVdu6Z', u'0BZY839qKXibapu4S0GYE2']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b273f5b71e...  ...   0.56
+10  https://i.scdn.co/image/ab67616d0000b2739a3ab8...  ...  0.387
+9   https://i.scdn.co/image/ab67616d0000b273030b3a...  ...  0.498
+8   https://i.scdn.co/image/ab67616d0000b27300505d...  ...  0.454
+7   https://i.scdn.co/image/ab67616d0000b27301bfd9...  ...   0.48
+6   https://i.scdn.co/image/ab67616d0000b2738be32b...  ...  0.295
+5   https://i.scdn.co/image/ab67616d0000b273985268...  ...  0.478
+4   https://i.scdn.co/image/ab67616d0000b273c5649a...  ...  0.548
+3   https://i.scdn.co/image/ab67616d0000b27384feca...  ...  0.655
+2   https://i.scdn.co/image/ab67616d0000b2732897ae...  ...   0.42
+1   https://i.scdn.co/image/ab67616d0000b273c5649a...  ...  0.388
+0   https://i.scdn.co/image/ab67616d0000b273a55f73...  ...  0.773
+
+[12 rows x 10 columns]
+('Rows: ', 12)
+Saved!
+
+2021-04-05 22:00:03.702344
+Auth happening...
+Getting songs
+Creating dataframe...
+Broken Clocks
+Erase
+Oxford Comma
+Super Rich Kids
+Scrawny
+Cleaner Air
+You Bet I Stare
+Lucky Love
+C U Girl
+Happiness
+The Less I Know The Better
+Solo
+Lovers Rock
+Hate CD
+Television / So Far So Good
+Chronic Sunshine
+GOT THESE SONGS
+{'played_at': ['21:55', '21:51', '21:47', '21:44', '21:39', '21:36', '21:34', '21:32', '21:23', '21:21', '21:17', '21:13', '21:09', '21:05', '21:03'], 'valence': [0.406, 0.575, 0.973, 0.58, 0.802, 0.849, 0.752, 0.234, 0.409, 0.197, 0.785, 0.246, 0.573, 0.771, 0.318], 'mood_avg': [0.576, 0.568, 0.809, 0.611, 0.74, 0.786, 0.622, 0.42, 0.424, 0.285, 0.718, 0.333, 0.627, 0.781, 0.39], 'danceability': [0.692, 0.657, 0.692, 0.739, 0.639, 0.717, 0.623, 0.661, 0.414, 0.399, 0.64, 0.444, 0.559, 0.824, 0.405], 'energy': [0.684, 0.376, 0.717, 0.419, 0.816, 0.797, 0.362, 0.311, 0.473, 0.235, 0.74, 0.287, 0.871, 0.716, 0.505], 'image': [u'https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25', u'https://i.scdn.co/image/ab67616d0000b273819ce0908822c84b678555f4', u'https://i.scdn.co/image/ab67616d0000b273f5b71e540a025bb1bdecfae8', u'https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5', u'https://i.scdn.co/image/ab67616d0000b27384feca0133d9a8e6539a8325', u'https://i.scdn.co/image/ab67616d0000b273a628aafe33421f50c08ed3c2', u'https://i.scdn.co/image/ab67616d0000b2736fc671dabb4e0122db157e20', u'https://i.scdn.co/image/ab67616d0000b27301bfd9cea452f6c27eaea4cb', u'https://i.scdn.co/image/ab67616d0000b273447d52024a6ac588ad418ae5', u'https://i.scdn.co/image/ab67616d0000b27394c6cd33b8be451c2372c6fa', u'https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b2733cfca71bb96dacbb1c0fb2bf', u'https://i.scdn.co/image/ab67616d0000b2739b791593e61e77e9a1c092fa', u'https://i.scdn.co/image/ab67616d0000b27394c6cd33b8be451c2372c6fa'], 'album_name': [u'Ctrl', u'Stereo', u'Vampire Weekend', u'channel ORANGE', u'Nothing Happens', u'Cleaner Air', u'Drowsy', u'Bad Bonez', u'C U Girl', u'Apricot Princess', u'Currents', u'Blonde', u'French Exit', u'Apollo XXI', u'Apricot Princess'], 'song_name': [u'Broken Clocks', u'Erase', u'Oxford Comma', u'Super Rich Kids', u'Scrawny', u'Cleaner Air', u'You Bet I Stare', u'Lucky Love', u'C U Girl', u'Happiness', u'The Less I Know The Better', u'Solo', u'Lovers Rock', u'Hate CD', u'Television / So Far So Good'], 'artist_name': [u'SZA', u'Omar Apollo', u'Vampire Weekend', u'Frank Ocean', u'Wallows', u'Yeek', u'Banes World', u'Michael Seyer', u'Steve Lacy', u'Rex Orange County', u'Tame Impala', u'Frank Ocean', u'TV Girl', u'Steve Lacy', u'Rex Orange County'], 'track_id': [u'2fXwCWkh6YG5zU1IyvQrbs', u'7AszVgcyqnhmIzo6TutnCd', u'0ful4PHfTIxzXiZSZsXQ0H', u'0725YWm6Z0TpZ6wrNk64Eb', u'1pNUmVxDiE8t6P1XxcZAv8', u'3uwrczwM9A3xX63jlcRhIC', u'5OimwnYY2jWdXc3166rJSh', u'4yxSvdt8kl6jMdvFaiNtve', u'6FBzhcfgGacfXF3AmtfEaX', u'2rXVtoLBHuXcNB5DVfIc9p', u'6K4t31amVTZDgR3sKmwUJJ', u'35xSkNIXi504fcEwz9USRB', u'1H7zdcRD0gLGQY0w5ejGgX', u'6L8EJ6DWUeQ9nsSjGB5KEX', u'5OUTFH5acycdnf8OVo21Gv']}
+                                                image  ... energy
+14  https://i.scdn.co/image/ab67616d0000b27394c6cd...  ...  0.505
+13  https://i.scdn.co/image/ab67616d0000b2739b7915...  ...  0.716
+12  https://i.scdn.co/image/ab67616d0000b2733cfca7...  ...  0.871
+11  https://i.scdn.co/image/ab67616d0000b273c5649a...  ...  0.287
+10  https://i.scdn.co/image/ab67616d0000b2739e1cfc...  ...   0.74
+9   https://i.scdn.co/image/ab67616d0000b27394c6cd...  ...  0.235
+8   https://i.scdn.co/image/ab67616d0000b273447d52...  ...  0.473
+7   https://i.scdn.co/image/ab67616d0000b27301bfd9...  ...  0.311
+6   https://i.scdn.co/image/ab67616d0000b2736fc671...  ...  0.362
+5   https://i.scdn.co/image/ab67616d0000b273a628aa...  ...  0.797
+4   https://i.scdn.co/image/ab67616d0000b27384feca...  ...  0.816
+3   https://i.scdn.co/image/ab67616d0000b2737aede4...  ...  0.419
+2   https://i.scdn.co/image/ab67616d0000b273f5b71e...  ...  0.717
+1   https:
