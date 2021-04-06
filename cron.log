@@ -69627,3 +69627,20 @@ Saved!
 2021-04-06 07:00:02.852866
 Auth happening...
 Getting songs
+[master af76a3b] updating daily data 2021-04-06 08:00:04.344324
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+2021-04-06 08:00:03.396141
+Auth happening...
+Getting songs
+Creating dataframe...
+Charcoal Baby
+After The Storm (feat. Tyler, The Creator & Bootsy Collins)
+GOT THESE SONGS
+{'played_at': ['07:02'], 'valence': [0.514], 'mood_avg': [0.546], 'danceability': [0.622], 'energy': [0.46], 'image': [u'https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6'], 'album_name': [u'Negro Swan'], 'song_name': [u'Charcoal Baby'], 'artist_name': [u'Blood Orange'], 'track_id': [u'3bBmpVl9rQKJsFFGLFilIS']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b27347dd2c...  ...   0.46
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
