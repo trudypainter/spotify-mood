@@ -69353,3 +69353,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 284ddbe] updating daily data 2021-04-05 19:00:03.808002
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-04-05 19:00:03.101943
+Auth happening...
+Getting songs
+Creating dataframe...
+Lens
+2SEATER (feat. Aaron Shaw, Samantha Nelson & Austin Feinstein)
+GOT THESE SONGS
+{'played_at': ['18:13'], 'valence': [0.564], 'mood_avg': [0.565], 'danceability': [0.681], 'energy': [0.333], 'image': [u'https://i.scdn.co/image/ab67616d0000b273d26658c4a51d65855c27e03d'], 'album_name': [u'Lens'], 'song_name': [u'Lens'], 'artist_name': [u'Frank Ocean'], 'track_id': [u'371H6HjS4SXGbQ9IVfFUIL']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273d26658...  ...  0.333
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
