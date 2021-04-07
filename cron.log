@@ -69790,3 +69790,20 @@ GOT THESE SONGS
 ('Rows: ', 13)
 Saved!
 
+[master 7286089] updating daily data 2021-04-06 21:00:05.708655
+ 3 files changed, 43 insertions(+), 1 deletion(-)
+2021-04-06 21:00:03.789977
+Auth happening...
+Getting songs
+Creating dataframe...
+My Favorite Fish
+THUG LIFE
+GOT THESE SONGS
+{'played_at': ['20:04'], 'valence': [0.677], 'mood_avg': [0.66], 'danceability': [0.647], 'energy': [0.65], 'image': [u'https://i.scdn.co/image/ab67616d0000b2730bf920e769c0b8e4ff9ac812'], 'album_name': [u'My Favorite Fish'], 'song_name': [u'My Favorite Fish'], 'artist_name': [u'Gus Dapperton'], 'track_id': [u'1bda1uGY3RK54S59aNq4f7']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b2730bf920...  ...   0.65
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
