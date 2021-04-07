@@ -70101,3 +70101,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 6e91ec4] updating daily data 2021-04-07 16:00:22.499219
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-04-07 16:00:20.435441
+Auth happening...
+Getting songs
+Creating dataframe...
+How I Roll
+Nice For What
+GOT THESE SONGS
+{'played_at': ['15:57'], 'valence': [0.791], 'mood_avg': [0.786], 'danceability': [0.818], 'energy': [0.71], 'image': [u'https://i.scdn.co/image/ab67616d0000b273fda0f2adec40250bea55101b'], 'album_name': [u'Femme Fatale (Deluxe Version)'], 'song_name': [u'How I Roll'], 'artist_name': [u'Britney Spears'], 'track_id': [u'38casNXY2G39SZRUjALtcY']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273fda0f2...  ...   0.71
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
