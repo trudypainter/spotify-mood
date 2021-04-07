@@ -70118,3 +70118,36 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master a6a7e5d] updating daily data 2021-04-07 17:00:05.878681
+ 3 files changed, 27 insertions(+), 1 deletion(-)
+2021-04-07 17:00:04.010447
+Auth happening...
+Getting songs
+Creating dataframe...
+Cannonball
+Touch Me I'm Sick
+Rock The Bells
+Tipp City
+This Town
+Head On
+Happy House
+Just like Heaven
+Bizarre Love Triangle
+Only You
+GOT THESE SONGS
+{'played_at': ['16:58', '16:54', '16:52', '16:48', '16:45', '16:42', '16:38', '16:08', '16:04'], 'valence': [0.729, 0.569, 0.285, 0.739, 0.676, 0.517, 0.334, 0.764, 0.909], 'mood_avg': [0.644, 0.557, 0.576, 0.633, 0.583, 0.605, 0.492, 0.672, 0.774], 'danceability': [0.502, 0.354, 0.896, 0.437, 0.394, 0.561, 0.543, 0.43, 0.61], 'energy': [0.758, 0.941, 0.517, 0.811, 0.776, 0.871, 0.705, 0.971, 0.832], 'image': [u'https://i.scdn.co/image/ab67616d0000b273a8fd69ab0621f19b6b36bfe0', u'https://i.scdn.co/image/ab67616d0000b273ee12dbf5c60f5da6ff45636b', u'https://i.scdn.co/image/ab67616d0000b2731cb9b88a3e8d5344a10184bc', u'https://i.scdn.co/image/ab67616d0000b2736a92b9b5bb9fece9ecfb7d7b', u'https://i.scdn.co/image/ab67616d0000b2738a25755534e84d8a604e6b38', u'https://i.scdn.co/image/ab67616d0000b2737a0914718d3b3013b491043d', u'https://i.scdn.co/image/ab67616d0000b27304272eb83a6af47cc14ccf76', u'https://i.scdn.co/image/ab67616d0000b2737f22337546d61faca55e0f4f', u'https://i.scdn.co/image/ab67616d0000b273a181571c192f83501f31d85f'], 'album_name': [u'Last Splash', u'Superfuzz Bigmuff (Deluxe Edition)', u'Radio', u'Pacer', u'Beauty And The Beat', u'Automatic (Expanded Version)', u'Kaleidoscope (Remastered & Expanded)', u'Kiss Me, Kiss Me, Kiss Me', u'Bizarre Love Triangle'], 'song_name': [u'Cannonball', u"Touch Me I'm Sick", u'Rock The Bells', u'Tipp City', u'This Town', u'Head On', u'Happy House', u'Just like Heaven', u'Bizarre Love Triangle'], 'artist_name': [u'The Breeders', u'Mudhoney', u'LL Cool J', u'The Amps', u"The Go-Go's", u'The Jesus and Mary Chain', u'Siouxsie and the Banshees', u'The Cure', u'New Order'], 'track_id': [u'1KdwPeY1WRWQGHCmRJTveb', u'2x5FYXo5rL4Phmn3UPdkK3', u'4F4neui0edP1ozygvFiCi7', u'7nEA1AJtP9GNoQeqa4Inmq', u'59Fhvzw9T3dcxTbGzbNvg2', u'7ovOXoXhWyJleZfOfsANyp', u'09LikVa6VgPYcsChqn1N0U', u'76GlO5H5RT6g7y0gev86Nk', u'40xULzahmLWaHyNaGf8RqG']}
+                                               image  ... energy
+8  https://i.scdn.co/image/ab67616d0000b273a18157...  ...  0.832
+7  https://i.scdn.co/image/ab67616d0000b2737f2233...  ...  0.971
+6  https://i.scdn.co/image/ab67616d0000b27304272e...  ...  0.705
+5  https://i.scdn.co/image/ab67616d0000b2737a0914...  ...  0.871
+4  https://i.scdn.co/image/ab67616d0000b2738a2575...  ...  0.776
+3  https://i.scdn.co/image/ab67616d0000b2736a92b9...  ...  0.811
+2  https://i.scdn.co/image/ab67616d0000b2731cb9b8...  ...  0.517
+1  https://i.scdn.co/image/ab67616d0000b273ee12db...  ...  0.941
+0  https://i.scdn.co/image/ab67616d0000b273a8fd69...  ...  0.758
+
+[9 rows x 10 columns]
+('Rows: ', 9)
+Saved!
+
