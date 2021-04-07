@@ -69749,3 +69749,44 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 20ffe66] updating daily data 2021-04-06 20:00:13.254690
+ 3 files changed, 29 insertions(+), 1 deletion(-)
+2021-04-06 20:00:04.156288
+Auth happening...
+Getting songs
+Creating dataframe...
+N Side
+White Ferrari
+Sick Feeling
+Chinese New Year
+Little Dark Age
+Seigfried
+Love Is A Wild Thing
+Ivy
+Tyrant (feat. Jorja Smith)
+Losing You
+Deep Down Body Thurst
+Drowsy
+Cleaner Air
+BLEACH
+GOT THESE SONGS
+{'played_at': ['19:58', '19:54', '19:50', '19:48', '19:45', '19:40', '19:34', '19:30', '19:26', '19:22', '19:19', '19:15', '19:12'], 'valence': [0.89, 0.219, 0.403, 0.749, 0.62, 0.37, 0.273, 0.452, 0.62, 0.811, 0.25, 0.42, 0.849], 'mood_avg': [0.798, 0.284, 0.432, 0.766, 0.672, 0.35, 0.485, 0.485, 0.511, 0.717, 0.469, 0.378, 0.786], 'danceability': [0.838, 0.444, 0.425, 0.744, 0.705, 0.377, 0.623, 0.567, 0.422, 0.597, 0.65, 0.433, 0.717], 'energy': [0.536, 0.0924, 0.504, 0.845, 0.712, 0.255, 0.631, 0.388, 0.471, 0.771, 0.545, 0.186, 0.797], 'image': [u'https://i.scdn.co/image/ab67616d0000b2739b791593e61e77e9a1c092fa', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b2738d7d3584e5220d0cd406eea4', u'https://i.scdn.co/image/ab67616d0000b2733c898f93cd0ca3f75a263b29', u'https://i.scdn.co/image/ab67616d0000b273b47d309281c66820b7137f5d', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b2732e35d25eb7288830d5540484', u'https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526', u'https://i.scdn.co/image/ab67616d0000b27390b4e1905b1fc48c537ec053', u'https://i.scdn.co/image/ab67616d0000b2738d7d3584e5220d0cd406eea4', u'https://i.scdn.co/image/ab67616d0000b273be23f47224937c9b57a004b2', u'https://i.scdn.co/image/ab67616d0000b2736fc671dabb4e0122db157e20', u'https://i.scdn.co/image/ab67616d0000b273a628aafe33421f50c08ed3c2'], 'album_name': [u'Apollo XXI', u'Blonde', u'Soy Pablo', u'Chinese New Year', u'Little Dark Age', u'Blonde', u'Golden Hour', u'Blonde', u'Isolation', u'Soy Pablo', u'NO ONE EVER REALLY DIES', u'Drowsy', u'Cleaner Air'], 'song_name': [u'N Side', u'White Ferrari', u'Sick Feeling', u'Chinese New Year', u'Little Dark Age', u'Seigfried', u'Love Is A Wild Thing', u'Ivy', u'Tyrant (feat. Jorja Smith)', u'Losing You', u'Deep Down Body Thurst', u'Drowsy', u'Cleaner Air'], 'artist_name': [u'Steve Lacy', u'Frank Ocean', u'boy pablo', u'SALES', u'MGMT', u'Frank Ocean', u'Kacey Musgraves', u'Frank Ocean', u'Kali Uchis', u'boy pablo', u'N.E.R.D', u'Banes World', u'Yeek'], 'track_id': [u'24G1PXBWoRgV0wDXZKwxzz', u'2LMkwUfqC6S6s6qDVlEuzV', u'7zxLkZbUxITHabPzGN8Xgc', u'0SIAFU49FFHwR3QnT5Jx0k', u'2Y0iGXY6m6immVb2ktbseM', u'1BViPjTT585XAhkUUrkts0', u'5F5lmpwXkxAJtvZqEguTRo', u'2ZWlPOoWh0626oTaHrnl2a', u'4FZOSDwALdWxcGcRbwXWJ8', u'7mjOxXnZYbGtgjyX0hqaLs', u'5HBcMAMVgBVUWiLyiK7q4I', u'4yp90BbE4dxPXfGGSpbFwT', u'3uwrczwM9A3xX63jlcRhIC']}
+                                                image  ...  energy
+12  https://i.scdn.co/image/ab67616d0000b273a628aa...  ...   0.797
+11  https://i.scdn.co/image/ab67616d0000b2736fc671...  ...   0.186
+10  https://i.scdn.co/image/ab67616d0000b273be23f4...  ...   0.545
+9   https://i.scdn.co/image/ab67616d0000b2738d7d35...  ...   0.771
+8   https://i.scdn.co/image/ab67616d0000b27390b4e1...  ...   0.471
+7   https://i.scdn.co/image/ab67616d0000b273c5649a...  ...   0.388
+6   https://i.scdn.co/image/ab67616d0000b2732e35d2...  ...   0.631
+5   https://i.scdn.co/image/ab67616d0000b273c5649a...  ...   0.255
+4   https://i.scdn.co/image/ab67616d0000b273b47d30...  ...   0.712
+3   https://i.scdn.co/image/ab67616d0000b2733c898f...  ...   0.845
+2   https://i.scdn.co/image/ab67616d0000b2738d7d35...  ...   0.504
+1   https://i.scdn.co/image/ab67616d0000b273c5649a...  ...  0.0924
+0   https://i.scdn.co/image/ab67616d0000b2739b7915...  ...   0.536
+
+[13 rows x 10 columns]
+('Rows: ', 13)
+Saved!
+
