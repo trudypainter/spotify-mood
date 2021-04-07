@@ -70034,3 +70034,40 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 0bfcbc8] updating daily data 2021-04-07 13:00:07.658740
+ 3 files changed, 29 insertions(+), 1 deletion(-)
+2021-04-07 13:00:05.868716
+Auth happening...
+Getting songs
+Creating dataframe...
+Nice For What
+Nice For What
+Nice For What
+Nice For What
+Pure Water (with Migos)
+Bounce Out With That
+From The D To The A (feat. Lil Yachty)
+Dior (with Gunna) - Remix
+HUMBLE.
+Girls Have Fun (feat. G-Eazy & Rich The Kid)
+ZEZE (feat. Travis Scott & Offset)
+PICK IT UP (feat. A$AP Rocky)
+GOT THESE SONGS
+{'played_at': ['12:38', '12:34', '12:30', '12:27', '12:20', '12:16', '12:14', '12:12', '12:08', '12:05', '12:02'], 'valence': [0.758, 0.758, 0.758, 0.758, 0.137, 0.396, 0.668, 0.803, 0.421, 0.664, 0.504], 'mood_avg': [0.719, 0.719, 0.719, 0.719, 0.439, 0.629, 0.733, 0.776, 0.656, 0.769, 0.667], 'danceability': [0.585, 0.585, 0.585, 0.585, 0.682, 0.865, 0.851, 0.73, 0.908, 0.888, 0.861], 'energy': [0.909, 0.909, 0.909, 0.909, 0.559, 0.624, 0.625, 0.816, 0.621, 0.74, 0.603], 'image': [u'https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5', u'https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5', u'https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5', u'https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5', u'https://i.scdn.co/image/ab67616d0000b27393b1e96fad758869d0974162', u'https://i.scdn.co/image/ab67616d0000b273183d9bca4a3c473e102f796e', u'https://i.scdn.co/image/ab67616d0000b273a64fac177809a71bf0a2ffee', u'https://i.scdn.co/image/ab67616d0000b273cd90e898c070ef21812ab363', u'https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699', u'https://i.scdn.co/image/ab67616d0000b2736a03e51cf2d8c29dcac67ebb', u'https://i.scdn.co/image/ab67616d0000b273f9508eb3070b95ceeb82788b'], 'album_name': [u'Scorpion', u'Scorpion', u'Scorpion', u'Scorpion', u'Perfect Ten', u'Bounce out With That', u'From The D To The A (feat. Lil Yachty)', u'Meet The Woo 2 (Deluxe)', u'DAMN.', u'Girls Have Fun (feat. G-Eazy & Rich The Kid)', u'Dying to Live'], 'song_name': [u'Nice For What', u'Nice For What', u'Nice For What', u'Nice For What', u'Pure Water (with Migos)', u'Bounce Out With That', u'From The D To The A (feat. Lil Yachty)', u'Dior (with Gunna) - Remix', u'HUMBLE.', u'Girls Have Fun (feat. G-Eazy & Rich The Kid)', u'ZEZE (feat. Travis Scott & Offset)'], 'artist_name': [u'Drake', u'Drake', u'Drake', u'Drake', u'Mustard', u'YBN Nahmir', u'Tee Grizzley', u'Pop Smoke', u'Kendrick Lamar', u'Tyga', u'Kodak Black'], 'track_id': [u'3CA9pLiwRIGtUBiMjbZmRw', u'3CA9pLiwRIGtUBiMjbZmRw', u'3CA9pLiwRIGtUBiMjbZmRw', u'3CA9pLiwRIGtUBiMjbZmRw', u'3j84U36KvLeXNDPv4t5pI8', u'2iWEpiPiIPf5D4f2UGBlrZ', u'2NyrXRn4tancYPW6JwtTl2', u'5R9k9x85lAYbamdUoKAJvj', u'7KXjTSCq5nL1LoYtL7XAwS', u'1NHlyKgtR4roNylOhidKSv', u'0FZ4Dmg8jJJAPJnvBIzD9z']}
+                                                image  ... energy
+10  https://i.scdn.co/image/ab67616d0000b273f9508e...  ...  0.603
+9   https://i.scdn.co/image/ab67616d0000b2736a03e5...  ...   0.74
+8   https://i.scdn.co/image/ab67616d0000b2738b52c6...  ...  0.621
+7   https://i.scdn.co/image/ab67616d0000b273cd90e8...  ...  0.816
+6   https://i.scdn.co/image/ab67616d0000b273a64fac...  ...  0.625
+5   https://i.scdn.co/image/ab67616d0000b273183d9b...  ...  0.624
+4   https://i.scdn.co/image/ab67616d0000b27393b1e9...  ...  0.559
+3   https://i.scdn.co/image/ab67616d0000b273f907de...  ...  0.909
+2   https://i.scdn.co/image/ab67616d0000b273f907de...  ...  0.909
+1   https://i.scdn.co/image/ab67616d0000b273f907de...  ...  0.909
+0   https://i.scdn.co/image/ab67616d0000b273f907de...  ...  0.909
+
+[11 rows x 10 columns]
+('Rows: ', 11)
+Saved!
+
