@@ -70017,3 +70017,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 6354c06] updating daily data 2021-04-07 12:00:09.740130
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-04-07 12:00:08.905724
+Auth happening...
+Getting songs
+Creating dataframe...
+PICK IT UP (feat. A$AP Rocky)
+PICK IT UP (feat. A$AP Rocky)
+GOT THESE SONGS
+{'played_at': ['11:58'], 'valence': [0.287], 'mood_avg': [0.577], 'danceability': [0.921], 'energy': [0.467], 'image': [u'https://i.scdn.co/image/ab67616d0000b27324ef7429ba82789623ae8b14'], 'album_name': [u'Dex Meets Dexter'], 'song_name': [u'PICK IT UP (feat. A$AP Rocky)'], 'artist_name': [u'Famous Dex'], 'track_id': [u'0dSIrRkA4PadGll16TgbnV']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b27324ef74...  ...  0.467
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
