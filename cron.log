@@ -69928,3 +69928,32 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master b82692c] updating daily data 2021-04-07 06:00:04.326578
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-04-07 06:00:03.459259
+Auth happening...
+Getting songs
+Creating dataframe...
+My Favorite Fish
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-04-07 07:00:03.876215
+Auth happening...
+Getting songs
+Creating dataframe...
+GOODMORNINGTOKYO!
+Blueberry Faygo
+My Favorite Fish
+GOT THESE SONGS
+{'played_at': ['06:47', '06:44'], 'valence': [0.664, 0.349], 'mood_avg': [0.736, 0.56], 'danceability': [0.907, 0.774], 'energy': [0.539, 0.554], 'image': [u'https://i.scdn.co/image/ab67616d0000b2737eeb7ebf33ceef9cf64f24aa', u'https://i.scdn.co/image/ab67616d0000b273ab3f9995f4f3a83e0591c940'], 'album_name': [u'GOODMORNINGTOKYO!', u'Blueberry Faygo'], 'song_name': [u'GOODMORNINGTOKYO!', u'Blueberry Faygo'], 'artist_name': [u'TOKYO\u2019S REVENGE', u'Lil Mosey'], 'track_id': [u'0Q2n5yzl2XRqYbV77tZNYp', u'6wJYhPfqk3KGhHRG76WzOh']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273ab3f99...  ...  0.554
+0  https://i.scdn.co/image/ab67616d0000b2737eeb7e...  ...  0.539
+
+[2 rows x 10 columns]
