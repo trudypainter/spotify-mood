@@ -70151,3 +70151,36 @@ GOT THESE SONGS
 ('Rows: ', 9)
 Saved!
 
+[master cc95287] updating daily data 2021-04-07 18:00:08.653569
+ 2 files changed, 34 insertions(+), 1 deletion(-)
+2021-04-07 18:00:07.644043
+Auth happening...
+Getting songs
+Creating dataframe...
+Cannonball
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-04-07 19:00:07.896663
+Auth happening...
+Getting songs
+Creating dataframe...
+The Race
+F33l Lik3 Dyin
+MALAMENTE - Cap.1: Augurio
+Age of Consent - 2015 Remaster
+Cannonball
+GOT THESE SONGS
+{'played_at': ['18:56', '18:54', '18:50', '18:50'], 'valence': [0.352, 0.0966, 0.53, 0.756], 'mood_avg': [0.568, 0.472, 0.666, 0.633], 'danceability': [0.766, 0.733, 0.893, 0.372], 'energy': [0.606, 0.703, 0.482, 0.91], 'image': [u'https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f', u'https://i.scdn.co/image/ab67616d0000b273a0bb93884823982d57cb2004'], 'album_name': [u'#SantanaWorld (+)', u'Whole Lotta Red', u'El Mal Querer', u'Power Corruption and Lies'], 'song_name': [u'The Race', u'F33l Lik3 Dyin', u'MALAMENTE - Cap.1: Augurio', u'Age of Consent - 2015 Remaster'], 'artist_name': [u'Tay-K', u'Playboi Carti', u'ROSAL\xcdA', u'New Order'], 'track_id': [u'3wGXyJGsCf1myH5MooQIqE', u'1xVVYE1ahLotRpppJViVzs', u'1B0BQaSRHxhI0AUlItY3LK', u'2EEinN4Zk8MUv4OQuLsTBj']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273a0bb93...  ...   0.91
+2  https://i.scdn.co/image/ab67616d0000b273f4d64a...  ...  0.482
+1  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.703
+0  https://i.scdn.co/image/ab67616d0000b273fbfeb7...  ...  0.606
+
+[4 rows x 10 columns]
