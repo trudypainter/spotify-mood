@@ -70335,3 +70335,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master de63983] updating daily data 2021-04-08 06:00:09.320645
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-04-08 06:00:08.364749
+Auth happening...
+Getting songs
+Creating dataframe...
+Lucky
+Track 10
+Unlock it (feat. Kim Petras and Jay Park)
+Toxic
+GOT THESE SONGS
+{'played_at': ['05:59', '05:55', '05:50'], 'valence': [0.0621, 0.273, 0.5], 'mood_avg': [0.169, 0.496, 0.544], 'danceability': [0.193, 0.64, 0.504], 'energy': [0.335, 0.652, 0.711], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c61a793955ac590e672eafe8', u'https://i.scdn.co/image/ab67616d0000b273c61a793955ac590e672eafe8', u'https://i.scdn.co/image/ab67616d0000b273c61a793955ac590e672eafe8'], 'album_name': [u'Pop 2', u'Pop 2', u'Pop 2'], 'song_name': [u'Lucky', u'Track 10', u'Unlock it (feat. Kim Petras and Jay Park)'], 'artist_name': [u'Charli XCX', u'Charli XCX', u'Charli XCX'], 'track_id': [u'4fSHrm2WrIZmtYMXQq0YwI', u'4t9PBD27dndlf6YMBK2ROc', u'3qGHAKgjQruzj6doKkyEb5']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273c61a79...  ...  0.711
+1  https://i.scdn.co/image/ab67616d0000b273c61a79...  ...  0.652
+0  https://i.scdn.co/image/ab67616d0000b273c61a79...  ...  0.335
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
