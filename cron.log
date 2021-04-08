@@ -70394,3 +70394,28 @@ Getting songs
 Creating dataframe...
 I Got It (feat. Brooke Candy, CupcakKe and Pabllo Vittar)
 Unlock it (feat. Kim Petras and Jay Park)
+[master 4234318] updating daily data 2021-04-08 10:00:10.885745
+ 3 files changed, 27 insertions(+), 1 deletion(-)
+2021-04-08 10:00:09.155045
+Auth happening...
+Getting songs
+Creating dataframe...
+Kerosene!
+2099 (feat. Troye Sivan)
+Time Will Tell
+Backseat (feat. Carly Rae Jepsen)
+Delicious (feat. Tommy Cash)
+Tears (feat. Caroline Polachek)
+GOT THESE SONGS
+{'played_at': ['09:23', '09:18', '09:15', '09:09', '09:05'], 'valence': [0.299, 0.271, 0.551, 0.339, 0.243], 'mood_avg': [0.471, 0.36, 0.625, 0.507, 0.408], 'danceability': [0.506, 0.342, 0.628, 0.626, 0.455], 'energy': [0.746, 0.573, 0.767, 0.607, 0.642], 'image': [u'https://i.scdn.co/image/ab67616d0000b273043864250fbec5f57c7076a7', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b2739d6bd2afa2987a69b7b55f72', u'https://i.scdn.co/image/ab67616d0000b273c61a793955ac590e672eafe8', u'https://i.scdn.co/image/ab67616d0000b273c61a793955ac590e672eafe8'], 'album_name': [u'Heaven To A Tortured Mind', u'Charli', u'Cupid Deluxe', u'Pop 2', u'Pop 2'], 'song_name': [u'Kerosene!', u'2099 (feat. Troye Sivan)', u'Time Will Tell', u'Backseat (feat. Carly Rae Jepsen)', u'Delicious (feat. Tommy Cash)'], 'artist_name': [u'Yves Tumor', u'Charli XCX', u'Blood Orange', u'Charli XCX', u'Charli XCX'], 'track_id': [u'1Kjw0LwdniCWran4PxJqPQ', u'2T4SAwloHxRAtpD2hgykdA', u'70tw9q994ypHb16M4Thnod', u'4HjtHraeKy5wA4DA9o92HZ', u'740PUPhgdtWhxGYbQzM3do']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273c61a79...  ...  0.642
+3  https://i.scdn.co/image/ab67616d0000b273c61a79...  ...  0.607
+2  https://i.scdn.co/image/ab67616d0000b2739d6bd2...  ...  0.767
+1  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.573
+0  https://i.scdn.co/image/ab67616d0000b273043864...  ...  0.746
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
