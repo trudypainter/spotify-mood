@@ -70436,3 +70436,30 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master dcc41b8] updating daily data 2021-04-08 12:00:04.048523
+ 3 files changed, 24 insertions(+), 1 deletion(-)
+2021-04-08 12:00:02.888435
+Auth happening...
+Getting songs
+Creating dataframe...
+Dino
+100 Bad - Charli XCX Remix
+Holding On
+BB
+AS Too Wrong
+Be Nice 2 Me
+Delete Forever
+GOT THESE SONGS
+{'played_at': ['11:31', '11:28', '11:20', '11:17', '11:14', '11:06'], 'valence': [0.194, 0.632, 0.634, 0.394, 0.134, 0.332], 'mood_avg': [0.498, 0.678, 0.657, 0.584, 0.444, 0.438], 'danceability': [0.67, 0.738, 0.789, 0.704, 0.568, 0.449], 'energy': [0.761, 0.65, 0.437, 0.726, 0.815, 0.63], 'image': [u'https://i.scdn.co/image/ab67616d0000b27300971070a55231d4867aec65', u'https://i.scdn.co/image/ab67616d0000b2736751f387ae230e690dee6f0f', u'https://i.scdn.co/image/ab67616d0000b273281b57bfec5391971863c05a', u'https://i.scdn.co/image/ab67616d0000b2730469bc6775bad5c931c97c8e', u'https://i.scdn.co/image/ab67616d0000b273a32d43635f27d146574e27cf', u'https://i.scdn.co/image/ab67616d0000b273407be60b024efcbabe7da815'], 'album_name': [u'Sol De Mi Vida', u'Tommy Genesis', u'Devotion', u'BB', u'Another Life', u'Icedancer'], 'song_name': [u'Dino', u'100 Bad - Charli XCX Remix', u'Holding On', u'BB', u'AS Too Wrong', u'Be Nice 2 Me'], 'artist_name': [u'Dinamarca', u'Tommy Genesis', u'Tirzah', u'Shygirl', u'Amnesia Scanner', u'Bladee'], 'track_id': [u'6p4KP0BRti2KcBEdHG8Qpt', u'6cLhaRJ12cEBTAGOhHhFfC', u'4RjwMyr4D2W4py79Heop9l', u'5LbZrfWzafeYlwzbHtpAqD', u'0rCbNEFbEJPWffx6BmRH9Z', u'2TmqHjg7uhizGndzXQdFuf']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b273407be6...  ...   0.63
+4  https://i.scdn.co/image/ab67616d0000b273a32d43...  ...  0.815
+3  https://i.scdn.co/image/ab67616d0000b2730469bc...  ...  0.726
+2  https://i.scdn.co/image/ab67616d0000b273281b57...  ...  0.437
+1  https://i.scdn.co/image/ab67616d0000b2736751f3...  ...   0.65
+0  https://i.scdn.co/image/ab67616d0000b273009710...  ...  0.761
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
