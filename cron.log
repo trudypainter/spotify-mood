@@ -70493,3 +70493,55 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master a51eef6] updating daily data 2021-04-08 15:00:05.244462
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-04-08 15:00:04.516420
+Auth happening...
+Getting songs
+Creating dataframe...
+Dino
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-04-08 16:00:03.414666
+Auth happening...
+Getting songs
+Creating dataframe...
+Ball & Lead
+Rich
+YAKWTFGO (feat. Kali Uchis)
+101 FM
+Bling Bling
+Money
+Rage
+Lame Niggaz
+Bitch I'm Nasty
+Elastic
+Ooo
+WAP (feat. Megan Thee Stallion)
+I Am (feat. Flo Milli)
+CLONES
+Taco Bell
+Dino
+GOT THESE SONGS
+{'played_at': ['15:43', '15:40', '15:38', '15:36', '15:32', '15:30', '15:27', '15:24', '15:21', '15:20', '15:18', '15:15', '15:12', '15:09', '15:04'], 'valence': [0.526, 0.965, 0.158, 0.969, 0.757, 0.465, 0.728, 0.46, 0.342, 0.669, 0.204, 0.357, 0.926, 0.6, 0.483], 'mood_avg': [0.669, 0.931, 0.538, 0.813, 0.793, 0.679, 0.806, 0.662, 0.645, 0.744, 0.514, 0.608, 0.91, 0.655, 0.481], 'danceability': [0.851, 0.963, 0.812, 0.79, 0.814, 0.938, 0.836, 0.901, 0.953, 0.759, 0.74, 0.935, 0.932, 0.791, 0.306], 'energy': [0.592, 0.799, 0.748, 0.547, 0.825, 0.59, 0.901, 0.586, 0.636, 0.864, 0.684, 0.454, 0.835, 0.494, 0.826], 'image': [u'https://i.scdn.co/image/ab67616d0000b273037b8155d23a710fb0570d6b', u'https://i.scdn.co/image/ab67616d0000b27320fbc17fcb9376bc76a1b510', u'https://i.scdn.co/image/ab67616d0000b273173bd8c8b4adf8d136ece70f', u'https://i.scdn.co/image/ab67616d0000b2731c54fc953531d5da04232deb', u'https://i.scdn.co/image/ab67616d0000b27399a185329c97546e89b30623', u'https://i.scdn.co/image/ab67616d0000b273ba578345104c3175c5b97625', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b273f0039cdbc38b4b4251d6bd8e', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b273ebead731f657864527cb9d75', u'https://i.scdn.co/image/ab67616d0000b2735d078b119272fb1f35cec33a', u'https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c', u'https://i.scdn.co/image/ab67616d0000b27316e46356cc3bbf168b2ca74e', u'https://i.scdn.co/image/ab67616d0000b273960eee0f3f08040cbeda44b7', u'https://i.scdn.co/image/ab67616d0000b2737d4b0a99da3a155be0350d82'], 'album_name': [u'Ball & Lead', u'Suga', u'NICE GIRLS FINISH LAST: CUIDADO', u'GREY Area', u'Satisfaction Guaranteed', u'Wash & Set', u'Nasty', u'Lame Niggaz', u'Nasty', u'Elastic', u'Hoodrich Vol. 3', u'WAP (feat. Megan Thee Stallion)', u'After The Rain', u'CLONES', u'Crush'], 'song_name': [u'Ball & Lead', u'Rich', u'YAKWTFGO (feat. Kali Uchis)', u'101 FM', u'Bling Bling', u'Money', u'Rage', u'Lame Niggaz', u"Bitch I'm Nasty", u'Elastic', u'Ooo', u'WAP (feat. Megan Thee Stallion)', u'I Am (feat. Flo Milli)', u'CLONES', u'Taco Bell'], 'artist_name': [u'K Shiday', u'Megan Thee Stallion', u'BIA', u'Little Simz', u'Junglepussy', u'Leikeli47', u'Rico Nasty', u'Asian Doll', u'Rico Nasty', u'Bali Baby', u'IAMDDB', u'Cardi B', u'Yung Baby Tate', u'Tierra Whack', u'That Kid'], 'track_id': [u'5xT5qkp8yl6sukgYK8YBnF', u'0fdQue15BjCMA3ov14ubF4', u'6rrP1mBTbBkJCP7FsBe0SM', u'4Vk4Yf7pDmB1dxLFSTjBUH', u'62NhZM0i7RrAThbBmb2vsQ', u'7wfQfnNFGWLD0BzcDngCRg', u'0d3pSVPhCfuzAJLyMUZYjT', u'24amfspED8GCMGkRQQ6FLz', u'2xXNa4tR2CronQsZ6OKQtP', u'12PTcAICWwVIkyDDbKERKD', u'5mx7woTHttNr1tbFAIJeb7', u'4Oun2ylbjFKMPTiaSbbCih', u'4E7ZbuJH3NddjnMWLstkRq', u'6zlBoRMKQv2UyrafMVoQlq', u'2JhoKa5bAvN3pb8YPHNS6T']}
+                                                image  ... energy
+14  https://i.scdn.co/image/ab67616d0000b2737d4b0a...  ...  0.826
+13  https://i.scdn.co/image/ab67616d0000b273960eee...  ...  0.494
+12  https://i.scdn.co/image/ab67616d0000b27316e463...  ...  0.835
+11  https://i.scdn.co/image/ab67616d0000b273c450c8...  ...  0.454
+10  https://i.scdn.co/image/ab67616d0000b2735d078b...  ...  0.684
+9   https://i.scdn.co/image/ab67616d0000b273ebead7...  ...  0.864
+8   https://i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.636
+7   https://i.scdn.co/image/ab67616d0000b273f0039c...  ...  0.586
+6   https://i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.901
+5   https://i.scdn.co/image/ab67616d0000b273ba5783...  ...   0.59
+4   https://i.scdn.co/image/ab67616d0000b27399a185...  ...  0.825
+3   https://i.scdn.co/image/ab67616d0000b2731c54fc...  ...  0.547
+2   https://i.scdn.co/image/ab67616d0000b273173bd8...  ...  0.748
+1   https://i.scdn
