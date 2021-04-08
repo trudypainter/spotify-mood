@@ -70373,3 +70373,24 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 0ac3b62] updating daily data 2021-04-08 08:00:04.907434
+ 2 files changed, 18 insertions(+), 1 deletion(-)
+2021-04-08 08:00:04.259240
+Auth happening...
+Getting songs
+Creating dataframe...
+Backseat (feat. Carly Rae Jepsen)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-04-08 09:00:04.451791
+Auth happening...
+Getting songs
+Creating dataframe...
+I Got It (feat. Brooke Candy, CupcakKe and Pabllo Vittar)
+Unlock it (feat. Kim Petras and Jay Park)
