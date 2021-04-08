@@ -70356,3 +70356,20 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master 883a889] updating daily data 2021-04-08 07:00:11.029141
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-04-08 07:00:09.590166
+Auth happening...
+Getting songs
+Creating dataframe...
+Backseat (feat. Carly Rae Jepsen)
+Lucky
+GOT THESE SONGS
+{'played_at': ['06:03'], 'valence': [0.339], 'mood_avg': [0.507], 'danceability': [0.626], 'energy': [0.607], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c61a793955ac590e672eafe8'], 'album_name': [u'Pop 2'], 'song_name': [u'Backseat (feat. Carly Rae Jepsen)'], 'artist_name': [u'Charli XCX'], 'track_id': [u'4HjtHraeKy5wA4DA9o92HZ']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273c61a79...  ...  0.607
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
