@@ -70568,3 +70568,42 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 9f86fd8] updating daily data 2021-04-08 18:00:04.796497
+ 3 files changed, 24 insertions(+), 1 deletion(-)
+2021-04-08 18:00:03.609127
+Auth happening...
+Getting songs
+Creating dataframe...
+Chanel Slides (feat. Kash Doll)
+Amber Alert
+Unemployed
+Beef FloMix
+might bang, might not
+Vindictive (Molly Brazy)
+Rules
+D.I.Y
+Ball & Lead
+GOT THESE SONGS
+{'played_at': ['17:39', '17:36', '17:33', '17:30', '17:28', '17:25', '17:20', '17:16'], 'valence': [0.226, 0.523, 0.139, 0.901, 0.644, 0.325, 0.483, 0.503], 'mood_avg': [0.521, 0.699, 0.481, 0.818, 0.576, 0.573, 0.68, 0.654], 'danceability': [0.809, 0.956, 0.875, 0.857, 0.431, 0.695, 0.886, 0.8], 'energy': [0.535, 0.539, 0.375, 0.575, 0.731, 0.827, 0.662, 0.665], 'image': [u'https://i.scdn.co/image/ab67616d0000b27346b4bbdb26182e0f71858f08', u'https://i.scdn.co/image/ab67616d0000b2732207ad6aa7e71310af0af65e', u'https://i.scdn.co/image/ab67616d0000b27330949562340700c914636249', u'https://i.scdn.co/image/ab67616d0000b27382936d3825648c336881418d', u'https://i.scdn.co/image/ab67616d0000b273d0bb66e4667e13d4fdc739d6', u'https://i.scdn.co/image/ab67616d0000b27343556773116c17b0a3e215d1', u'https://i.scdn.co/image/ab67616d0000b273cf560bc3349aa6f7131f8936', u'https://i.scdn.co/image/ab67616d0000b2732a3f8e09caf2824d95d7379b'], 'album_name': [u'Big Dreez', u'RESURRECTION', u'Unemployed', u'Beef FloMix', u'Drop 6', u'Vindictive (Molly Brazy)', u'Glow Kit: Blk Girl', u'Muthaz Day 3'], 'song_name': [u'Chanel Slides (feat. Kash Doll)', u'Amber Alert', u'Unemployed', u'Beef FloMix', u'might bang, might not', u'Vindictive (Molly Brazy)', u'Rules', u'D.I.Y'], 'artist_name': [u'Dreezy', u'Bali Baby', u'Tierra Whack', u'Flo Milli', u'Little Simz', u'Rocky Badd', u'BbyMutha', u'BbyMutha'], 'track_id': [u'0Q7oKGmOMygeemUaUr6lYJ', u'3TJhPCEsXx4AkMkzBLG6dy', u'70kjLeuW46xJ5pqzYRLHAf', u'4J2NxCNqehE0MiZhbu97Jx', u'0lAenyfo765pFS0irWQ0sG', u'2rGIjiyB1R2aC6SlWRTTjR', u'0deRYerzqm24qPzwlyL2qz', u'4dwlZ606zOiOWQqbEbBNZK']}
+                                               image  ... energy
+7  https://i.scdn.co/image/ab67616d0000b2732a3f8e...  ...  0.665
+6  https://i.scdn.co/image/ab67616d0000b273cf560b...  ...  0.662
+5  https://i.scdn.co/image/ab67616d0000b273435567...  ...  0.827
+4  https://i.scdn.co/image/ab67616d0000b273d0bb66...  ...  0.731
+3  https://i.scdn.co/image/ab67616d0000b27382936d...  ...  0.575
+2  https://i.scdn.co/image/ab67616d0000b273309495...  ...  0.375
+1  https://i.scdn.co/image/ab67616d0000b2732207ad...  ...  0.539
+0  https://i.scdn.co/image/ab67616d0000b27346b4bb...  ...  0.535
+
+[8 rows x 10 columns]
+('Rows: ', 8)
+Saved!
+
+2021-04-08 19:00:02.387703
+Auth happening...
+Getting songs
+Creating dataframe...
+Avril 14th
+Knock It Off
+This Could Be Us
+Look At Me!
