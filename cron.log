@@ -70832,3 +70832,40 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 6c8230a] updating daily data 2021-04-09 10:00:04.580170
+ 3 files changed, 27 insertions(+), 1 deletion(-)
+2021-04-09 10:00:03.106161
+Auth happening...
+Getting songs
+Creating dataframe...
+Where Do We Go
+When I
+Mirror Forever
+Fine Again
+Movies
+Describe
+Born To Lose
+Missed Call (1)
+Madonna
+Big Rings
+Big Rings
+Oprah's Bank Account (Lil Yachty & DaBaby feat. Drake)
+GOT THESE SONGS
+{'played_at': ['09:50', '09:46', '09:45', '09:40', '09:37', '09:31', '09:26', '09:21', '09:21', '09:14', '09:05'], 'valence': [0.412, 0.67, 0.146, 0.0891, 0.089, 0.0473, 0.36, 0.484, 0.626, 0.27, 0.27], 'mood_avg': [0.575, 0.734, 0.26, 0.155, 0.142, 0.181, 0.516, 0.664, 0.633, 0.553, 0.553], 'danceability': [0.85, 0.824, 0.362, 0.244, 0.086, 0.228, 0.545, 0.826, 0.545, 0.776, 0.776], 'energy': [0.351, 0.68, 0.284, 0.107, 0.362, 0.356, 0.768, 0.7, 0.821, 0.675, 0.675], 'image': [u'https://i.scdn.co/image/ab67616d0000b2731c4540d0ecafaa45305aa5a0', u'https://i.scdn.co/image/ab67616d0000b273c3545bbe806b845c2b52bc20', u'https://i.scdn.co/image/ab67616d0000b2730c64e752dec4c08362cc4a88', u'https://i.scdn.co/image/ab67616d0000b273281b57bfec5391971863c05a', u'https://i.scdn.co/image/ab67616d0000b2730c64e752dec4c08362cc4a88', u'https://i.scdn.co/image/ab67616d0000b27343f44b90dd0a223b06aba994', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b2734a8007933fab9c774ae4cc83', u'https://i.scdn.co/image/ab67616d0000b273b8c3e04fb7b927e5ce0da89e', u'https://i.scdn.co/image/ab67616d0000b273d6adfbd3f091d6f2b9af6507', u'https://i.scdn.co/image/ab67616d0000b273d6adfbd3f091d6f2b9af6507'], 'album_name': [u'A Seat at the Table', u'The Lo-Fis', u'Titanic Rising', u'Devotion', u'Titanic Rising', u'Set My Heart On Fire Immediately', u'We Will Always Love You', u"I'm All Ears", u'Ricky Music', u'What A Time To Be Alive', u'What A Time To Be Alive'], 'song_name': [u'Where Do We Go', u'When I', u'Mirror Forever', u'Fine Again', u'Movies', u'Describe', u'Born To Lose', u'Missed Call (1)', u'Madonna', u'Big Rings', u'Big Rings'], 'artist_name': [u'Solange', u'Steve Lacy', u'Weyes Blood', u'Tirzah', u'Weyes Blood', u'Perfume Genius', u'The Avalanches', u"Let's Eat Grandma", u'Porches', u'Drake', u'Drake'], 'track_id': [u'08MbvwVOZdMNESjkoVdXxE', u'4QUsmmXmINYXwh7UsiMX2j', u'2ujzo6cl7jAcLCnyKyYWwM', u'12hqBdxeTVT0qyhDRPieuQ', u'6f4itfvWzS59Qu7JWorhxn', u'7zZpX1EByY0CLdDFqjSEZs', u'5FI0R5JDimbYBMbMCGhWYV', u'0uTg8lJzFMlUmRveihcV0I', u'46KwKKlKlYtBfET0LPGfI4', u'7jslhIiELQkgW9IHeYNOWE', u'7jslhIiELQkgW9IHeYNOWE']}
+                                                image  ... energy
+10  https://i.scdn.co/image/ab67616d0000b273d6adfb...  ...  0.675
+9   https://i.scdn.co/image/ab67616d0000b273d6adfb...  ...  0.675
+8   https://i.scdn.co/image/ab67616d0000b273b8c3e0...  ...  0.821
+7   https://i.scdn.co/image/ab67616d0000b2734a8007...  ...    0.7
+6   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.768
+5   https://i.scdn.co/image/ab67616d0000b27343f44b...  ...  0.356
+4   https://i.scdn.co/image/ab67616d0000b2730c64e7...  ...  0.362
+3   https://i.scdn.co/image/ab67616d0000b273281b57...  ...  0.107
+2   https://i.scdn.co/image/ab67616d0000b2730c64e7...  ...  0.284
+1   https://i.scdn.co/image/ab67616d0000b273c3545b...  ...   0.68
+0   https://i.scdn.co/image/ab67616d0000b2731c4540...  ...  0.351
+
+[11 rows x 10 columns]
+('Rows: ', 11)
+Saved!
+
