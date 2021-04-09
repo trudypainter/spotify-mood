@@ -70902,3 +70902,24 @@ GOT THESE SONGS
 ('Rows: ', 9)
 Saved!
 
+[master 61e05d7] updating daily data 2021-04-09 12:00:04.291402
+ 3 files changed, 37 insertions(+), 1 deletion(-)
+2021-04-09 12:00:03.275708
+Auth happening...
+Getting songs
+Creating dataframe...
+Always
+Jason
+THE LIGHT
+BANKROLL (feat. A$AP Rocky & A$AP Ferg)
+GOT THESE SONGS
+{'played_at': ['11:56', '11:50', '11:47'], 'valence': [0.129, 0.344, 0.62], 'mood_avg': [0.215, 0.338, 0.574], 'danceability': [0.291, 0.34, 0.425], 'energy': [0.237, 0.324, 0.782], 'image': [u'https://i.scdn.co/image/ab67616d0000b273559bd53b0292ed01f789a0d8', u'https://i.scdn.co/image/ab67616d0000b27343f44b90dd0a223b06aba994', u'https://i.scdn.co/image/ab67616d0000b273bcfe3442f0a375df1d21efcf'], 'album_name': [u'The Colour In Anything', u'Set My Heart On Fire Immediately', u'ROADRUNNER: NEW LIGHT, NEW MACHINE'], 'song_name': [u'Always', u'Jason', u'THE LIGHT'], 'artist_name': [u'James Blake', u'Perfume Genius', u'BROCKHAMPTON'], 'track_id': [u'6vcqur8XelCD3GJLVQB87I', u'34B5INdEjbTXvNkCC5GtYz', u'0Gq8chvpF43Ioy2etluRcq']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273bcfe34...  ...  0.782
+1  https://i.scdn.co/image/ab67616d0000b27343f44b...  ...  0.324
+0  https://i.scdn.co/image/ab67616d0000b273559bd5...  ...  0.237
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
