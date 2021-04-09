@@ -70999,3 +70999,34 @@ GOT THESE SONGS
 ('Rows: ', 16)
 Saved!
 
+[master 2ee09f3] updating daily data 2021-04-09 15:00:04.837124
+ 3 files changed, 24 insertions(+), 2 deletions(-)
+2021-04-09 15:00:03.697032
+Auth happening...
+Getting songs
+Creating dataframe...
+Boredom (feat. Rex Orange County & Anna of the North)
+American Spirits
+Perfume
+Young Lion
+4 Seasons
+Never
+Me and Michael
+Corduroy Dreams
+Sweet to Me
+GOT THESE SONGS
+{'played_at': ['14:47', '14:42', '14:38', '14:35', '14:33', '14:19', '14:15', '14:03'], 'valence': [0.239, 0.877, 0.64, 0.363, 0.17, 0.255, 0.706, 0.222], 'mood_avg': [0.435, 0.717, 0.645, 0.302, 0.362, 0.32, 0.702, 0.393], 'danceability': [0.559, 0.503, 0.733, 0.272, 0.505, 0.341, 0.628, 0.608], 'energy': [0.578, 0.824, 0.48, 0.238, 0.458, 0.408, 0.841, 0.305], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3', u'https://i.scdn.co/image/ab67616d0000b273bb19d97e05228f69f0cbac8a', u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da', u'https://i.scdn.co/image/ab67616d0000b27363fcc0d5defd6b6da534b002', u'https://i.scdn.co/image/ab67616d0000b27394c6cd33b8be451c2372c6fa', u'https://i.scdn.co/image/ab67616d0000b2731410e6d1153122ae828140b1', u'https://i.scdn.co/image/ab67616d0000b273b47d309281c66820b7137f5d', u'https://i.scdn.co/image/ab67616d0000b273dbf3c10406ac999c39bf4a97'], 'album_name': [u'Flower Boy', u'III', u'Cat Heaven', u'Modern Vampires of the City', u'Apricot Princess', u'Never', u'Little Dark Age', u'Bcos U Will Never B Free'], 'song_name': [u'Boredom (feat. Rex Orange County & Anna of the North)', u'American Spirits', u'Perfume', u'Young Lion', u'4 Seasons', u'Never', u'Me and Michael', u'Corduroy Dreams'], 'artist_name': [u'Tyler, The Creator', u'Inner Wave', u'Roy Blair', u'Vampire Weekend', u'Rex Orange County', u'Christian Leave', u'MGMT', u'Rex Orange County'], 'track_id': [u'5WNYg3usc6H8N3MBEp4zVk', u'01w1oN1WO5aOThHnLBN8eS', u'2tB5MNlg9RPcpEFl2Ws3IH', u'1ZcI6ZPRjKhuF2fhxTCRGD', u'3AbV3JF0bJAZXeHEJZfpke', u'1bndtxMZYJH89WkjIEFQ7n', u'0t4z0WaQomQqPONghWn8c2', u'02tvc9CFnTyHuSRlGeNv9w']}
+                                               image  ... energy
+7  https://i.scdn.co/image/ab67616d0000b273dbf3c1...  ...  0.305
+6  https://i.scdn.co/image/ab67616d0000b273b47d30...  ...  0.841
+5  https://i.scdn.co/image/ab67616d0000b2731410e6...  ...  0.408
+4  https://i.scdn.co/image/ab67616d0000b27394c6cd...  ...  0.458
+3  https://i.scdn.co/image/ab67616d0000b27363fcc0...  ...  0.238
+2  https://i.scdn.co/image/ab67616d0000b273de3c33...  ...   0.48
+1  https://i.scdn.co/image/ab67616d0000b273bb19d9...  ...  0.824
+0  https://i.scdn.co/image/ab67616d0000b2738940ac...  ...  0.578
+
+[8 rows x 10 columns]
+('Rows: ', 8)
+Saved!
+
