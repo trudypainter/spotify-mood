@@ -70794,3 +70794,26 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master 2a10660] updating daily data 2021-04-09 08:00:04.034463
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-04-09 08:00:03.160767
+Auth happening...
+Getting songs
+Creating dataframe...
+Oprah's Bank Account (Lil Yachty & DaBaby feat. Drake)
+Telephone Calls (feat. A$AP Rocky, Tyler, The Creator, Playboi Carti & Yung Gleesh)
+Notice Me
+T.D (feat. Tierra Whack, A$AP Rocky & Tyler, The Creator)
+Slippery (feat. Gucci Mane)
+GOT THESE SONGS
+{'played_at': ['07:12', '07:09', '07:05', '07:01'], 'valence': [0.884, 0.493, 0.45, 0.742], 'mood_avg': [0.811, 0.644, 0.566, 0.733], 'danceability': [0.83, 0.732, 0.793, 0.775], 'energy': [0.625, 0.772, 0.344, 0.631], 'image': [u'https://i.scdn.co/image/ab67616d0000b2735ee839f6415e0d02fc4f2b49', u'https://i.scdn.co/image/ab67616d0000b27330eaf29813f551d9188ad35a', u'https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890', u'https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f'], 'album_name': [u'Lil Boat 3', u'Cozy Tapes: Vol. 1 Friends -', u'Culture II', u'Lil Boat 3.5'], 'song_name': [u"Oprah's Bank Account (Lil Yachty & DaBaby feat. Drake)", u'Telephone Calls (feat. A$AP Rocky, Tyler, The Creator, Playboi Carti & Yung Gleesh)', u'Notice Me', u'T.D (feat. Tierra Whack, A$AP Rocky & Tyler, The Creator)'], 'artist_name': [u'Lil Yachty', u'A$AP Mob', u'Migos', u'Lil Yachty'], 'track_id': [u'0LEFmgIj8ABU7CelzGh5Bs', u'5VnpYqIzm02X9gOhVElQo3', u'3OnOomd79OjqSYHchCQ6ht', u'0ibeyMz9KkAWWgPOXkv4GF']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273789e7b...  ...  0.631
+2  https://i.scdn.co/image/ab67616d0000b2739c188c...  ...  0.344
+1  https://i.scdn.co/image/ab67616d0000b27330eaf2...  ...  0.772
+0  https://i.scdn.co/image/ab67616d0000b2735ee839...  ...  0.625
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
