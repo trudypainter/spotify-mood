@@ -71030,3 +71030,24 @@ GOT THESE SONGS
 ('Rows: ', 8)
 Saved!
 
+[master 8d80a52] updating daily data 2021-04-09 16:00:04.543006
+ 3 files changed, 35 insertions(+), 1 deletion(-)
+2021-04-09 16:00:03.375329
+Auth happening...
+Getting songs
+Creating dataframe...
+Scrawny
+2SEATER (feat. Aaron Shaw, Samantha Nelson & Austin Feinstein)
+Seven
+Boredom (feat. Rex Orange County & Anna of the North)
+GOT THESE SONGS
+{'played_at': ['15:18', '15:15', '15:08'], 'valence': [0.802, 0.348, 0.832], 'mood_avg': [0.74, 0.419, 0.694], 'danceability': [0.639, 0.352, 0.692], 'energy': [0.816, 0.693, 0.421], 'image': [u'https://i.scdn.co/image/ab67616d0000b27384feca0133d9a8e6539a8325', u'https://i.scdn.co/image/ab67616d0000b2730f2e9f092b4e9c4424afb446', u'https://i.scdn.co/image/ab67616d0000b273591fa5bb8ab3ec41455d6279'], 'album_name': [u'Nothing Happens', u'Cherry Bomb', u'Seven'], 'song_name': [u'Scrawny', u'2SEATER (feat. Aaron Shaw, Samantha Nelson & Austin Feinstein)', u'Seven'], 'artist_name': [u'Wallows', u'Tyler, The Creator', u'Men I Trust'], 'track_id': [u'1pNUmVxDiE8t6P1XxcZAv8', u'6Xw3iWrQKgArwlRhVuU9CK', u'2dwvxOHnQjndZLowIR6PiS']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273591fa5...  ...  0.421
+1  https://i.scdn.co/image/ab67616d0000b2730f2e9f...  ...  0.693
+0  https://i.scdn.co/image/ab67616d0000b27384feca...  ...  0.816
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
