@@ -70773,3 +70773,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master c9435bd] updating daily data 2021-04-09 07:00:07.906401
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-04-09 07:00:06.571197
+Auth happening...
+Getting songs
+Creating dataframe...
+Slippery (feat. Gucci Mane)
+Location
+Low Life (feat. The Weeknd)
+MIDWESTEMO2
+GOT THESE SONGS
+{'played_at': ['06:57', '06:52', '06:49'], 'valence': [0.741, 0.371, 0.102], 'mood_avg': [0.799, 0.593, 0.396], 'danceability': [0.92, 0.717, 0.722], 'energy': [0.674, 0.79, 0.331], 'image': [u'https://i.scdn.co/image/ab67616d0000b27399a8ab6da9d593939302828a', u'https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1', u'https://i.scdn.co/image/ab67616d0000b273626745b3aa04899001a924ad'], 'album_name': [u'Culture', u'Playboi Carti', u'EVOL'], 'song_name': [u'Slippery (feat. Gucci Mane)', u'Location', u'Low Life (feat. The Weeknd)'], 'artist_name': [u'Migos', u'Playboi Carti', u'Future'], 'track_id': [u'6p8NuHm8uCGnn2Dtbtf7zE', u'3yk7PJnryiJ8mAPqsrujzf', u'7EiZI6JVHllARrX9PUvAdX']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273626745...  ...  0.331
+1  https://i.scdn.co/image/ab67616d0000b273e31a27...  ...   0.79
+0  https://i.scdn.co/image/ab67616d0000b27399a8ab...  ...  0.674
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
