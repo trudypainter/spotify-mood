@@ -71287,3 +71287,76 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master e53e0d3] updating daily data 2021-04-10 08:00:05.272828
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-04-10 08:00:03.819898
+Auth happening...
+Getting songs
+Creating dataframe...
+Bad Company (feat. BlocBoy JB)
+the last great american dynasty
+Summer Bummer (feat. A$AP Rocky & Playboi Carti)
+Little Green
+The Race
+Shameika Said (feat. Fiona Apple)
+Spinning (with Charli XCX & The 1975)
+Rosebud
+Can't Believe The Way We Flow
+Beautiful People Beautiful Problems (feat. Stevie Nicks)
+BIG PURR (Prrdd) (feat. Pooh Shiesty)
+GOT THESE SONGS
+{'played_at': ['07:59', '07:56', '07:52', '07:48', '07:45', '07:42', '07:39', '07:36', '07:33', '07:29'], 'valence': [0.343, 0.701, 0.137, 0.304, 0.352, 0.611, 0.742, 0.83, 0.29, 0.128], 'mood_avg': [0.603, 0.686, 0.474, 0.4, 0.568, 0.509, 0.723, 0.806, 0.327, 0.341], 'danceability': [0.901, 0.688, 0.76, 0.636, 0.766, 0.432, 0.716, 0.749, 0.259, 0.509], 'energy': [0.529, 0.653, 0.574, 0.121, 0.606, 0.46, 0.698, 0.873, 0.536, 0.43], 'image': [u'https://i.scdn.co/image/ab67616d0000b273f669edbfecf19e5725b7af6c', u'https://i.scdn.co/image/ab67616d0000b273c288028c2592f400dd0b9233', u'https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190', u'https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7', u'https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8', u'https://i.scdn.co/image/ab67616d0000b2736b54511cd0dff6818f25a646', u'https://i.scdn.co/image/ab67616d0000b2734f5549dc1dd07183ee7941ba', u'https://i.scdn.co/image/ab67616d0000b2731fe365b735112bcc5ebb4917', u'https://i.scdn.co/image/ab67616d0000b2739af56a54edacb6237b49fa2e', u'https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190'], 'album_name': [u'Bad Company (feat. BlocBoy JB)', u'folklore (deluxe version)', u'Lust For Life', u'Blue', u'#SantanaWorld (+)', u'Shameika Said (feat. Fiona Apple)', u'Spinning (with Charli XCX & The 1975)', u'In A Poem Unlimited', u'Assume Form', u'Lust For Life'], 'song_name': [u'Bad Company (feat. BlocBoy JB)', u'the last great american dynasty', u'Summer Bummer (feat. A$AP Rocky & Playboi Carti)', u'Little Green', u'The Race', u'Shameika Said (feat. Fiona Apple)', u'Spinning (with Charli XCX & The 1975)', u'Rosebud', u"Can't Believe The Way We Flow", u'Beautiful People Beautiful Problems (feat. Stevie Nicks)'], 'artist_name': [u'A$AP Rocky', u'Taylor Swift', u'Lana Del Rey', u'Joni Mitchell', u'Tay-K', u'Shameika', u'No Rome', u'U.S. Girls', u'James Blake', u'Lana Del Rey'], 'track_id': [u'3ZYwSDF9knZI0RVlKR4PHC', u'2olxzvoFI9IpxqFeUv7WOX', u'5QqyRUZeBE04yJxsD1OC0I', u'11ZNWD9Xzq9p3n07NbWSZw', u'3wGXyJGsCf1myH5MooQIqE', u'5IelFDwkj5eJEnTSfwroxa', u'56D251hqnHtPSgwSH5a0fl', u'1Rtcq2RErgV3NuQvKdCNf6', u'6voR6zsWIn7vgZYGOFKYSZ', u'3O7p9Itz8PXUoAjD2vmuM6']}
+                                               image  ... energy
+9  https://i.scdn.co/image/ab67616d0000b27395e2fd...  ...   0.43
+8  https://i.scdn.co/image/ab67616d0000b2739af56a...  ...  0.536
+7  https://i.scdn.co/image/ab67616d0000b2731fe365...  ...  0.873
+6  https://i.scdn.co/image/ab67616d0000b2734f5549...  ...  0.698
+5  https://i.scdn.co/image/ab67616d0000b2736b5451...  ...   0.46
+4  https://i.scdn.co/image/ab67616d0000b273fbfeb7...  ...  0.606
+3  https://i.scdn.co/image/ab67616d0000b273e9f77b...  ...  0.121
+2  https://i.scdn.co/image/ab67616d0000b27395e2fd...  ...  0.574
+1  https://i.scdn.co/image/ab67616d0000b273c28802...  ...  0.653
+0  https://i.scdn.co/image/ab67616d0000b273f669ed...  ...  0.529
+
+[10 rows x 10 columns]
+('Rows: ', 10)
+Saved!
+
+2021-04-10 09:00:02.688704
+Auth happening...
+Getting songs
+Creating dataframe...
+Timber (feat. Ke$ha)
+Firework
+Asexual Wellbeing
+Dior
+MALAMENTE - Cap.1: Augurio
+Agony
+How to Talk
+SAN MARCOS
+Transportin'
+Untitled (How Does It Feel)
+Girls just want to have fun
+Toxic
+Alewife
+Hit Me Where It Hurts (feat. Chino Moreno) - Toro y Moi Remix
+Bad Company (feat. BlocBoy JB)
+GOT THESE SONGS
+{'played_at': ['08:58', '08:55', '08:50', '08:47', '08:43', '08:41', '08:37', '08:27', '08:22', '08:19', '08:12', '08:10', '08:06', '08:03'], 'valence': [0.788, 0.649, 0.262, 0.648, 0.53, 0.318, 0.736, 0.53, 0.257, 0.221, 0.114, 0.924, 0.264, 0.0692], 'mood_avg': [0.74, 0.68, 0.38, 0.639, 0.666, 0.392, 0.732, 0.468, 0.556, 0.484, 0.378, 0.847, 0.345, 0.383], 'danceability': [0.581, 0.638, 0.417, 0.548, 0.893, 0.578, 0.728, 0.388, 0.804, 0.838, 0.517, 0.774, 0.433, 0.57], 'energy': [0.963, 0.826, 0.541, 0.805, 0.482, 0.166, 0.73, 0.503, 0.66, 0.304, 0.626, 0.838, 0.329, 0.637], 'image': [u'https://i.scdn.co/image/ab67616d0000b273f2486b438645e97b523e4f90', u'https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5', u'https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f', u'https://i.scdn.co/image/ab67616d0000b273fe81407d98ef67144560b96d', u'https://i.scdn.co/image/ab67616d0000b27341b41e6f7924e530a9b00f9c', u'https://i.scdn.co/image/ab67616d0000b273de91214392394303e66d1cb6', u'https://i.scdn.co/image/ab67616d0000b273583ce93dc89d84218f233ea7', u'https://i.scdn.co/image/ab67616d0000b273963416bf0f5fb7373d412780', u'https://i.scdn.co/image/ab67616d0000b273510329ed87b90bf821be6209', u'https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4', u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', u'https://i.scdn.co/image/ab67616d0000b273dd8e1bb04d7ccd8fe3704dde'], 'album_name': [u'Global Warming: Meltdown (Deluxe Version)', u'Katy Perry - Teenage Dream: The Complete Confection', u'Watch This Liquid Pour Itself', u'Meet The Woo', u'El Mal Querer', u'Stranger', u'Luv Is Rage 2', u'iridescence', u'Project Baby 2: All Grown Up', u'Voodoo', u'Girls just want to have fun', u'In The Zone', u'Immunity', u'Hit Me Where It Hurts (Toro y Moi Remix)'], 'song_name': [u'Timber (feat. Ke$ha)', u'Firework', u'Asexual Wellbeing', u'Dior', u'MALAMENTE - Cap.1: Augurio', u'Agony', u'How to Talk', u'SAN MARCOS', u"Transportin'", u'Untitled (How Does It Feel)', u'Girls just want to have fun', u'Toxic', u'Alewife', u'Hit Me Where It Hurts (feat. Chino Moreno) - Toro y Moi Remix'], 'artist_name': [u'Pitbull', u'Katy Perry', u'Okay Kaya', u'Pop Smoke', u'ROSAL\xcdA', u'Yung Lean', u'Lil Uzi Vert', u'BROCKHAMPTON', u'Kodak Black', u"D'Angelo", u'Bladee', u'Britney Spears', u'Clairo', u'Caroline Polachek'], 'track_id': [u'3cHyrEgdyYRjgJKSOiOtcS', u'4lCv7b86sLynZbXhfScfm2', u'5Hl1HecGM9yame1jI29Z2L', u'79s5XnCN4TJKTVMSmOx8Ep', u'1B0BQaSRHxhI0AUlItY3LK', u'1Wj9ZhqrnbLal0Iyqk6QH1', u'0ro5QCkSCtbfhMHnvMase3', u'1Bn8jBSmtSQdvAFXU3ok1w', u'1WIZiOuNO3woKfdlSK2gNn', u'4oPNN7syJYSjzDhRerF966', u'16aNHWdWoO9zobj4lqAoWV', u'6I9VzXrHxO9rA9A5euc8Ak', u'3jgrNd3uPU1c2PFBKYsV9d', u'1uBC1U3los3X6UI8X9e3hj']}
+                                                image  ... energy
+13  https://i.scdn.co/image/ab67616d0000b273dd8e1b...  ...  0.637
+12  https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...  0.329
+11  https://i.scdn.co/image/ab67616d0000b273efc698...  ...  0.838
+10  https://i.scdn.co/image/ab67616d0000b273510329...  ...  0.626
+9   https://i.scdn.co/image/ab67616d0000b273963416...  ...  0.304
+8   https://i.scdn.co/image/ab67616d0000b273583ce9...  ...   0.66
+7   https://i.scdn.co/image/ab67616d0000b273de9121...  ...  0.503
+6   https://i.scdn.co/image/ab67616d0000b27341b41e...  ...   0.73
+5   https://i.scdn.co/image/ab67616d0000b273fe8140...  ...  0.166
+4   https://i.scdn.co/image/ab67616d0000b273f4d64a...  ...  0.482
+3   https://i.scdn.co/image/ab67616d0000b2738fe5d0...  ...  0.805
+2   https://i.scdn.co/image/ab67616d0000b2733d3652...  ...  0.541
+1   https://i.scdn.co/image/ab67616d0000b273937af3...  ...  0.826
+0   https://i.scdn.co/image/ab67616d0000b273f2486b...  ...  0.963
+
+[14 rows x 10 columns]
