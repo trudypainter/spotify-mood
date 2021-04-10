@@ -71121,3 +71121,18 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 3e51a61] updating daily data 2021-04-09 21:00:04.206680
+ 2 files changed, 18 insertions(+), 1 deletion(-)
+2021-04-09 21:00:03.518902
+Auth happening...
+Getting songs
+Creating dataframe...
+BIG PURR (Prrdd) (feat. Pooh Shiesty)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
