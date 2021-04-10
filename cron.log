@@ -71104,3 +71104,20 @@ GOT THESE SONGS
 ('Rows: ', 4)
 Saved!
 
+[master ce35582] updating daily data 2021-04-09 20:00:03.716412
+ 3 files changed, 25 insertions(+), 1 deletion(-)
+2021-04-09 20:00:02.890888
+Auth happening...
+Getting songs
+Creating dataframe...
+BIG PURR (Prrdd) (feat. Pooh Shiesty)
+We Find Love
+GOT THESE SONGS
+{'played_at': ['19:27'], 'valence': [0.38], 'mood_avg': [0.544], 'danceability': [0.774], 'energy': [0.412], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c506665606780c4108026c6e'], 'album_name': [u'BIG PURR (Prrdd)'], 'song_name': [u'BIG PURR (Prrdd) (feat. Pooh Shiesty)'], 'artist_name': [u'Coi Leray'], 'track_id': [u'5byWPNSh2hi0ULmDxBgLyV']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273c50666...  ...  0.412
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
