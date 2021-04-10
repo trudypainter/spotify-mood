@@ -71360,3 +71360,32 @@ GOT THESE SONGS
 0   https://i.scdn.co/image/ab67616d0000b273f2486b...  ...  0.963
 
 [14 rows x 10 columns]
+[master 30661c3] updating daily data 2021-04-10 10:00:05.519005
+ 3 files changed, 99 insertions(+), 1 deletion(-)
+2021-04-10 10:00:02.793544
+Auth happening...
+Getting songs
+Creating dataframe...
+Swimming Pools (Drank)
+FRIENDS
+My Neck, My Back (Lick It)
+Never Gonna Give You Up
+Slob On My Nob
+Moves Like Jagger - Studio Recording From The Voice Performance
+My Boo - Hitman's Club Mix
+Timber (feat. Ke$ha)
+GOT THESE SONGS
+{'played_at': ['09:47', '09:43', '09:39', '09:36', '09:32', '09:07', '09:04'], 'valence': [0.201, 0.534, 0.71, 0.916, 0.556, 0.62, 0.691], 'mood_avg': [0.452, 0.64, 0.753, 0.845, 0.699, 0.688, 0.726], 'danceability': [0.699, 0.626, 0.859, 0.727, 0.861, 0.722, 0.885], 'energy': [0.459, 0.88, 0.625, 0.939, 0.661, 0.758, 0.477], 'image': [u'https://i.scdn.co/image/ab67616d0000b2730ad5098c562d43ce8211539c', u'https://i.scdn.co/image/ab67616d0000b273569f64493ca55cd96fdee412', u'https://i.scdn.co/image/ab67616d0000b273c1bcb570a5fcbdcce74c2b07', u'https://i.scdn.co/image/ab67616d0000b273237665d08de01907e82a7d8a', u'https://i.scdn.co/image/ab67616d0000b273bcdb665cc29d641449a0bf60', u'https://i.scdn.co/image/ab67616d0000b273ce70cb2d7063cf869f9f1239', u'https://i.scdn.co/image/ab67616d0000b273db060eca4487746c7307a965'], 'album_name': [u'Swimming Pools (Drank)', u'FRIENDS', u'Thug Misses (Digitally Remastered)', u'Whenever You Need Somebody', u'Most Known Hits', u'Hands All Over', u"My Boo (Hitman's Club Mix)"], 'song_name': [u'Swimming Pools (Drank)', u'FRIENDS', u'My Neck, My Back (Lick It)', u'Never Gonna Give You Up', u'Slob On My Nob', u'Moves Like Jagger - Studio Recording From The Voice Performance', u"My Boo - Hitman's Club Mix"], 'artist_name': [u'Kendrick Lamar', u'Marshmello', u'Khia', u'Rick Astley', u'Tear Da Club Up Thugs', u'Maroon 5', u'Ghost Town DJs'], 'track_id': [u'7frWizM5FgJkaUl1rXhVtO', u'08bNPGLD8AhKpnnERrAc6G', u'5r29mFrurlVBbqJzjr2XW6', u'7GhIk7Il098yCjg4BQjzvb', u'5rmFTddY4UMU6v5ievs0Zw', u'7LcfRTgAVTs5pQGEQgUEzN', u'4c0rkFPszqQTyC753tsCMU']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b273db060e...  ...  0.477
+5  https://i.scdn.co/image/ab67616d0000b273ce70cb...  ...  0.758
+4  https://i.scdn.co/image/ab67616d0000b273bcdb66...  ...  0.661
+3  https://i.scdn.co/image/ab67616d0000b273237665...  ...  0.939
+2  https://i.scdn.co/image/ab67616d0000b273c1bcb5...  ...  0.625
+1  https://i.scdn.co/image/ab67616d0000b273569f64...  ...   0.88
+0  https://i.scdn.co/image/ab67616d0000b2730ad509...  ...  0.459
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
