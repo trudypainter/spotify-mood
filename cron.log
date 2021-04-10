@@ -71485,3 +71485,40 @@ Getting songs
 Creating dataframe...
 Hey There Delilah
 FEFE
+[master 977636f] updating daily data 2021-04-10 18:00:04.065926
+ 3 files changed, 33 insertions(+), 1 deletion(-)
+2021-04-10 18:00:02.599998
+Auth happening...
+Getting songs
+Creating dataframe...
+Drew Barrymore
+Bottoms Up (feat. Nicki Minaj)
+California Gurls
+Boyfriend
+Rake It Up (feat. Nicki Minaj)
+Gotta Be Somebody
+Work
+Fire Burning
+Swang
+By Chance
+Best Friend
+Hey There Delilah
+GOT THESE SONGS
+{'played_at': ['17:41', '17:38', '17:34', '17:30', '17:27', '17:23', '17:18', '17:15', '17:11', '17:07', '17:03'], 'valence': [0.261, 0.331, 0.425, 0.332, 0.53, 0.205, 0.558, 0.888, 0.166, 0.216, 0.32], 'mood_avg': [0.522, 0.59, 0.637, 0.53, 0.665, 0.474, 0.62, 0.852, 0.402, 0.538, 0.501], 'danceability': [0.758, 0.844, 0.791, 0.717, 0.91, 0.536, 0.725, 0.839, 0.681, 0.881, 0.575], 'energy': [0.574, 0.601, 0.754, 0.55, 0.444, 0.89, 0.534, 0.804, 0.314, 0.496, 0.714], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733390cb0fc677f87704d246f3', u'https://i.scdn.co/image/ab67616d0000b27384bb915bae941f5ea159d64d', u'https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616', u'https://i.scdn.co/image/ab67616d0000b273f1d02a6cec967f8b6b78f76e', u'https://i.scdn.co/image/ab67616d0000b2732cc72b6f465812679b803638', u'https://i.scdn.co/image/ab67616d0000b273f74baf63e915712df348e647', u'https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093', u'https://i.scdn.co/image/ab67616d0000b273ea34361c4a339d474c3be057', u'https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95', u'https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95', u'https://i.scdn.co/image/ab67616d0000b27333a6b45fa8354efe37633964'], 'album_name': [u'Drew Barrymore', u'Passion, Pain & Pleasure (Deluxe Version)', u'Katy Perry - Teenage Dream: The Complete Confection', u'Believe', u'I Still Am', u'Dark Horse', u'ANTI (Deluxe)', u'Tomorrow', u'SremmLife 2 (Deluxe)', u'SremmLife 2 (Deluxe)', u'Best Friend'], 'song_name': [u'Drew Barrymore', u'Bottoms Up (feat. Nicki Minaj)', u'California Gurls', u'Boyfriend', u'Rake It Up (feat. Nicki Minaj)', u'Gotta Be Somebody', u'Work', u'Fire Burning', u'Swang', u'By Chance', u'Best Friend'], 'artist_name': [u'Bryce Vine', u'Trey Songz', u'Katy Perry', u'Justin Bieber', u'Yo Gotti', u'Nickelback', u'Rihanna', u'Sean Kingston', u'Rae Sremmurd', u'Rae Sremmurd', u'Rex Orange County'], 'track_id': [u'0OgGn1ofaj55l2PcihQQGV', u'4AYX69oFP3UOS1CFmV9UfO', u'6tS3XVuOyu10897O3ae7bi', u'3UGIZ8qcrMTwzLbx6Kttqt', u'4knL4iPxPOZjQzTUlELGSY', u'06T10fEzN8ZCcqzQZYA184', u'72TFWvU3wUYdUuxejTTIzt', u'2oENJa1T33GJ0w8dC167G4', u'6mapJIPnQ23RTAevUoE0DL', u'3eaZlarqKQ4oAceRwJHfF5', u'47Bg6IrMed1GPbxRgwH2aC']}
+                                                image  ... energy
+10  https://i.scdn.co/image/ab67616d0000b27333a6b4...  ...  0.714
+9   https://i.scdn.co/image/ab67616d0000b273881fb6...  ...  0.496
+8   https://i.scdn.co/image/ab67616d0000b273881fb6...  ...  0.314
+7   https://i.scdn.co/image/ab67616d0000b273ea3436...  ...  0.804
+6   https://i.scdn.co/image/ab67616d0000b27333c6b9...  ...  0.534
+5   https://i.scdn.co/image/ab67616d0000b273f74baf...  ...   0.89
+4   https://i.scdn.co/image/ab67616d0000b2732cc72b...  ...  0.444
+3   https://i.scdn.co/image/ab67616d0000b273f1d02a...  ...   0.55
+2   https://i.scdn.co/image/ab67616d0000b273937af3...  ...  0.754
+1   https://i.scdn.co/image/ab67616d0000b27384bb91...  ...  0.601
+0   https://i.scdn.co/image/ab67616d0000b2733390cb...  ...  0.574
+
+[11 rows x 10 columns]
+('Rows: ', 11)
+Saved!
+
