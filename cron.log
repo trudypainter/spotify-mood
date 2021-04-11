@@ -71865,3 +71865,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master b4786a5] updating daily data 2021-04-11 15:00:04.687334
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-04-11 15:00:03.856366
+Auth happening...
+Getting songs
+Creating dataframe...
+Count Your Blessings
+Revelations 19:1
+GOT THESE SONGS
+{'played_at': ['14:08'], 'valence': [0.496], 'mood_avg': [0.452], 'danceability': [0.481], 'energy': [0.306], 'image': [u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d'], 'album_name': [u'Jesus Is Born'], 'song_name': [u'Count Your Blessings'], 'artist_name': [u'Sunday Service Choir'], 'track_id': [u'5y8apzJP1xF42QHMjSauvN']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...  0.306
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
