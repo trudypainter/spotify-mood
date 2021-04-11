@@ -71816,3 +71816,22 @@ GOT THESE SONGS
 ('Rows: ', 12)
 Saved!
 
+[master 3c2b649] updating daily data 2021-04-11 12:00:03.706469
+ 3 files changed, 42 insertions(+), 1 deletion(-)
+2021-04-11 12:00:02.804063
+Auth happening...
+Getting songs
+Creating dataframe...
+Revelations 19:1
+Rain
+Excellent
+GOT THESE SONGS
+{'played_at': ['11:13', '11:03'], 'valence': [0.287, 0.211], 'mood_avg': [0.348, 0.349], 'danceability': [0.409, 0.548], 'energy': [0.349, 0.225], 'image': [u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d', u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d'], 'album_name': [u'Jesus Is Born', u'Jesus Is Born'], 'song_name': [u'Revelations 19:1', u'Rain'], 'artist_name': [u'Sunday Service Choir', u'Sunday Service Choir'], 'track_id': [u'4pSUxkUKeWFyFNkzl7XoBU', u'0kjm5DAzDidQhHgElDrdfq']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...  0.225
+0  https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...  0.349
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
