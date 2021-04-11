@@ -71703,3 +71703,22 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master d3bbc02] updating daily data 2021-04-11 07:00:09.580834
+ 3 files changed, 18 insertions(+), 1 deletion(-)
+2021-04-11 07:00:08.653073
+Auth happening...
+Getting songs
+Creating dataframe...
+Wild Thing
+Ultralight Beam
+Drew Barrymore
+GOT THESE SONGS
+{'played_at': ['06:55', '06:34'], 'valence': [0.761, 0.149], 'mood_avg': [0.617, 0.248], 'danceability': [0.453, 0.34], 'energy': [0.658, 0.26], 'image': [u'https://i.scdn.co/image/ab67616d0000b27327b24620f0b3b592472552f5', u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d'], 'album_name': [u'From Nowhere', u'Jesus Is Born'], 'song_name': [u'Wild Thing', u'Ultralight Beam'], 'artist_name': [u'The Troggs', u'Sunday Service Choir'], 'track_id': [u'7jGzYUZ2Bgg8BDfYlQRfn8', u'5anPHKl01TNpTe618GzX1m']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...   0.26
+0  https://i.scdn.co/image/ab67616d0000b27327b246...  ...  0.658
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
