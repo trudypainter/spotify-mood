@@ -71777,3 +71777,42 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master d43228e] updating daily data 2021-04-11 11:00:04.308203
+ 3 files changed, 28 insertions(+), 1 deletion(-)
+2021-04-11 11:00:02.305329
+Auth happening...
+Getting songs
+Creating dataframe...
+Excellent
+Total Praise
+More Than Anything
+Follow Me - Faith
+Paradise
+Ultralight Beam
+Count Your Blessings
+Sweet Grace
+Forgive Them Father
+Superstar
+Lost Ones
+To Zion (feat. Carlos Santana)
+To Zion (feat. Carlos Santana)
+GOT THESE SONGS
+{'played_at': ['10:58', '10:54', '10:51', '10:44', '10:37', '10:33', '10:30', '10:24', '10:17', '10:12', '10:07', '10:02'], 'valence': [0.0699, 0.0829, 0.293, 0.349, 0.15, 0.149, 0.496, 0.425, 0.691, 0.626, 0.65, 0.516], 'mood_avg': [0.197, 0.168, 0.315, 0.497, 0.245, 0.248, 0.452, 0.528, 0.72, 0.595, 0.743, 0.491], 'danceability': [0.279, 0.236, 0.311, 0.651, 0.35, 0.34, 0.481, 0.553, 0.808, 0.491, 0.832, 0.41], 'energy': [0.288, 0.202, 0.367, 0.483, 0.224, 0.26, 0.306, 0.686, 0.6, 0.74, 0.749, 0.601], 'image': [u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d', u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d', u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d', u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d', u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d', u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d', u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d', u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9'], 'album_name': [u'Jesus Is Born', u'Jesus Is Born', u'Jesus Is Born', u'Jesus Is Born', u'Jesus Is Born', u'Jesus Is Born', u'Jesus Is Born', u'Jesus Is Born', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill', u'The Miseducation of Lauryn Hill'], 'song_name': [u'Excellent', u'Total Praise', u'More Than Anything', u'Follow Me - Faith', u'Paradise', u'Ultralight Beam', u'Count Your Blessings', u'Sweet Grace', u'Forgive Them Father', u'Superstar', u'Lost Ones', u'To Zion (feat. Carlos Santana)'], 'artist_name': [u'Sunday Service Choir', u'Sunday Service Choir', u'Sunday Service Choir', u'Sunday Service Choir', u'Sunday Service Choir', u'Sunday Service Choir', u'Sunday Service Choir', u'Sunday Service Choir', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill', u'Ms. Lauryn Hill'], 'track_id': [u'077yGhj0JCilTx1aNgoAE8', u'1aXtZAX0DubViRjIDvvKOM', u'2vUNNg9K4PAY5o3OBwGUVU', u'6lfCkiP0h3KyWa7BQNoOu9', u'5p4aqYZlL44hI0imyk7AV2', u'5anPHKl01TNpTe618GzX1m', u'5y8apzJP1xF42QHMjSauvN', u'135gooUtfMruH8HFrRqhvn', u'2RPhXg9D4JOkryUznL0aaB', u'4zSmsHur194jO2hGCTt6Hn', u'71XhXay6rKPZCVAaDtFlSR', u'7x6hO9VMAee9x1iWaeNkL6']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.601
+10  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.749
+9   https://i.scdn.co/image/ab67616d0000b273e08b12...  ...   0.74
+8   https://i.scdn.co/image/ab67616d0000b273e08b12...  ...    0.6
+7   https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...  0.686
+6   https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...  0.306
+5   https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...   0.26
+4   https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...  0.224
+3   https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...  0.483
+2   https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...  0.367
+1   https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...  0.202
+0   https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...  0.288
+
+[12 rows x 10 columns]
+('Rows: ', 12)
+Saved!
+
