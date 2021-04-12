@@ -72307,3 +72307,26 @@ GOT THESE SONGS
 0   https://i.scdn.co/image/ab67616d0000b273c02d78...  ...    0.295
 
 [19 rows x 10 columns]
+[master 51c89c4] updating daily data 2021-04-12 15:00:04.414296
+ 3 files changed, 134 insertions(+), 1 deletion(-)
+2021-04-12 15:00:03.429171
+Auth happening...
+Getting songs
+Creating dataframe...
+Daytime But Darker
+Big Day Coming - Second Version
+Flight319
+Belly of the Beat
+La Lune
+GOT THESE SONGS
+{'played_at': ['14:15', '14:11', '14:06', '14:03'], 'valence': [0.872, 0.444, 0.0478, 0.618], 'mood_avg': [0.761, 0.484, 0.269, 0.61], 'danceability': [0.743, 0.4, 0.354, 0.513], 'energy': [0.575, 0.73, 0.54, 0.786], 'image': [u'https://i.scdn.co/image/ab67616d0000b273a957341d8a1a75973d22bee0', u'https://i.scdn.co/image/ab67616d0000b27375d190b89508d795e7570aaf', u'https://i.scdn.co/image/ab67616d0000b27320921767dd81e8f90ef9fc71', u'https://i.scdn.co/image/ab67616d0000b2734f1235383b41920e64b00a78'], 'album_name': [u'Sen Morimoto', u'Painful', u'Modus Vivendi', u'Art Angels'], 'song_name': [u'Daytime But Darker', u'Big Day Coming - Second Version', u'Flight319', u'Belly of the Beat'], 'artist_name': [u'Sen Morimoto', u'Yo La Tengo', u'070 Shake', u'Grimes'], 'track_id': [u'5X7A4UJFPydT2eZtxqX6sJ', u'4Rqq4GYOweJV0FUOE6DNCC', u'7p7TD0DYdVolKyKAjFxYTc', u'3tcMadg7fSfH0mFDo0408i']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b2734f1235...  ...  0.786
+2  https://i.scdn.co/image/ab67616d0000b273209217...  ...   0.54
+1  https://i.scdn.co/image/ab67616d0000b27375d190...  ...   0.73
+0  https://i.scdn.co/image/ab67616d0000b273a95734...  ...  0.575
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
