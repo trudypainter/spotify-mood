@@ -71948,3 +71948,18 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master a4273ac] updating daily data 2021-04-11 20:00:03.511303
+ 2 files changed, 22 insertions(+), 1 deletion(-)
+2021-04-11 20:00:02.909947
+Auth happening...
+Getting songs
+Creating dataframe...
+Ultralight Beam
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
