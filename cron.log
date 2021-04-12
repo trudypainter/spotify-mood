@@ -72168,3 +72168,30 @@ GOT THESE SONGS
 ('Rows: ', 4)
 Saved!
 
+[master 3eed7e5] updating daily data 2021-04-12 09:00:04.326671
+ 3 files changed, 30 insertions(+), 1 deletion(-)
+2021-04-12 09:00:03.290068
+Auth happening...
+Getting songs
+Creating dataframe...
+Famous Hoes
+NO DRIBBLE (with Stunna 4 Vegas)
+Clappers (feat. 42 Dugg)
+Opp Stoppa
+What's Da Bizness
+Faneto
+Still Trappin' (with King Von)
+GOT THESE SONGS
+{'played_at': ['08:39', '08:39', '08:36', '08:33', '08:32', '08:30'], 'valence': [0.332, 0.799, 0.249, 0.217, 0.547, 0.393], 'mood_avg': [0.551, 0.734, 0.533, 0.476, 0.672, 0.648], 'danceability': [0.732, 0.785, 0.827, 0.821, 0.87, 0.849], 'energy': [0.627, 0.504, 0.513, 0.304, 0.524, 0.755], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733ae711b1307b647a1d59f3e8', u'https://i.scdn.co/image/ab67616d0000b273e9b41d0a652e4697d563b512', u'https://i.scdn.co/image/ab67616d0000b27312b970025f0bbc1ff7e7d6ab', u'https://i.scdn.co/image/ab67616d0000b273fa90e1a538352bc8382de43d', u'https://i.scdn.co/image/ab67616d0000b273d2ac2d5b457bcad2eddef496', u'https://i.scdn.co/image/ab67616d0000b2732b78b0c234859a99498d8367'], 'album_name': [u'Famous Hoes', u'NO DRIBBLE (with Stunna 4 Vegas)', u'Clappers (feat. 42 Dugg)', u'VISIONLAND', u'Rich Slave', u'Back From The Dead 2'], 'song_name': [u'Famous Hoes', u'NO DRIBBLE (with Stunna 4 Vegas)', u'Clappers (feat. 42 Dugg)', u'Opp Stoppa', u"What's Da Bizness", u'Faneto'], 'artist_name': [u'NLE Choppa', u'DaBaby', u'Slimelife Shawty', u'YBN Nahmir', u'Young Dolph', u'Chief Keef'], 'track_id': [u'35Xf2ABjPzUXKz19akd7Jj', u'69CQe4ekUZ7txcSfEXYFW9', u'2qrcvpJgVaRPeMyXSmCn2s', u'4l8CIibQf8cVk5BcrquSiD', u'29tLKguTMysoFejk0qNjap', u'6J1SjVyNDzkZ3sF85Ndd3B']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b2732b78b0...  ...  0.755
+4  https://i.scdn.co/image/ab67616d0000b273d2ac2d...  ...  0.524
+3  https://i.scdn.co/image/ab67616d0000b273fa90e1...  ...  0.304
+2  https://i.scdn.co/image/ab67616d0000b27312b970...  ...  0.513
+1  https://i.scdn.co/image/ab67616d0000b273e9b41d...  ...  0.504
+0  https://i.scdn.co/image/ab67616d0000b2733ae711...  ...  0.627
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
