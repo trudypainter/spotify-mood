@@ -72145,3 +72145,26 @@ GOT THESE SONGS
 ('Rows: ', 8)
 Saved!
 
+[master da4262a] updating daily data 2021-04-12 08:00:04.500904
+ 3 files changed, 36 insertions(+), 1 deletion(-)
+2021-04-12 08:00:03.473701
+Auth happening...
+Getting songs
+Creating dataframe...
+Still Trappin' (with King Von)
+Cut Me Up
+Beat Box
+Earned It
+Martin & Gina
+GOT THESE SONGS
+{'played_at': ['07:11', '07:09', '07:05', '07:03'], 'valence': [0.627, 0.36, 0.201, 0.803], 'mood_avg': [0.737, 0.622, 0.494, 0.743], 'danceability': [0.877, 0.854, 0.762, 0.853], 'energy': [0.677, 0.68, 0.542, 0.401], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e67a56591cf8bcfcb1450980', u'https://i.scdn.co/image/ab67616d0000b2734b0e337b4fde35c4cca6f188', u'https://i.scdn.co/image/ab67616d0000b273cf18f0df84b3032b01c4371f', u'https://i.scdn.co/image/ab67616d0000b2734ff0223801d44f2dddcad353'], 'album_name': [u'The Voice', u'Cut Me Up', u'Beat Box', u'Earned It'], 'song_name': [u"Still Trappin' (with King Von)", u'Cut Me Up', u'Beat Box', u'Earned It'], 'artist_name': [u'Lil Durk', u'Wacotron', u'SpotemGottem', u'Chief Keef'], 'track_id': [u'43BlKpJcSrC9AsJ3F1DKg9', u'6MUiJk57uVOmeepw0qQ5kX', u'3wCx8pwK7J1LVe13dFXjPm', u'5aSTOtjXKNN45eXbHUYsCM']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b2734ff022...  ...  0.401
+2  https://i.scdn.co/image/ab67616d0000b273cf18f0...  ...  0.542
+1  https://i.scdn.co/image/ab67616d0000b2734b0e33...  ...   0.68
+0  https://i.scdn.co/image/ab67616d0000b273e67a56...  ...  0.677
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
