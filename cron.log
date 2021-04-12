@@ -72210,3 +72210,100 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master a290113] updating daily data 2021-04-12 11:00:04.777806
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-04-12 11:00:03.356418
+Auth happening...
+Getting songs
+Creating dataframe...
+Sunshine
+Weak
+Count Your Blessings
+Souls Anchored
+More Than Anything
+Rain
+Back to Life
+Famous Hoes
+GOT THESE SONGS
+{'played_at': ['10:38', '10:34', '10:30', '10:25', '10:21', '10:14', '10:09'], 'valence': [0.637, 0.374, 0.496, 0.676, 0.293, 0.211, 0.476], 'mood_avg': [0.643, 0.466, 0.452, 0.672, 0.315, 0.349, 0.442], 'danceability': [0.659, 0.638, 0.481, 0.737, 0.311, 0.548, 0.4], 'energy': [0.625, 0.305, 0.306, 0.533, 0.367, 0.225, 0.457], 'image': [u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d', u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d', u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d', u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d', u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d', u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d', u'https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d'], 'album_name': [u'Jesus Is Born', u'Jesus Is Born', u'Jesus Is Born', u'Jesus Is Born', u'Jesus Is Born', u'Jesus Is Born', u'Jesus Is Born'], 'song_name': [u'Sunshine', u'Weak', u'Count Your Blessings', u'Souls Anchored', u'More Than Anything', u'Rain', u'Back to Life'], 'artist_name': [u'Sunday Service Choir', u'Sunday Service Choir', u'Sunday Service Choir', u'Sunday Service Choir', u'Sunday Service Choir', u'Sunday Service Choir', u'Sunday Service Choir'], 'track_id': [u'35A5y8tHvRrLOleQDsNu76', u'77Ozvyd5Hb2JelgPAefv5I', u'5y8apzJP1xF42QHMjSauvN', u'3RGLwFXRrRAyTQtIxNc3cQ', u'2vUNNg9K4PAY5o3OBwGUVU', u'0kjm5DAzDidQhHgElDrdfq', u'6jCQxiqyxFKM3euH8X526R']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...  0.457
+5  https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...  0.225
+4  https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...  0.367
+3  https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...  0.533
+2  https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...  0.306
+1  https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...  0.305
+0  https://i.scdn.co/image/ab67616d0000b273cdc7eb...  ...  0.625
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
+2021-04-12 12:00:03.082366
+Auth happening...
+Getting songs
+Creating dataframe...
+Body As Wilhelm
+2021-04-12 13:00:03.064338
+Auth happening...
+Getting songs
+Creating dataframe...
+By Ourselves
+Sublunary
+XS
+Violence - Original Mix
+Rack of His
+Blue Verb Reprise
+Saturday Night Inside Out
+Garden Song
+Both Of Us
+Hummer
+Music For Physical Therapy
+2021-04-12 14:00:04.262950
+Auth happening...
+Getting songs
+Creating dataframe...
+La Lune
+Signing Off
+WHEN I GROW UP
+Palm Psalm
+MONTERO (Call Me By Your Name)
+Psalm
+Karma Police
+On I Go
+Face It
+Tired
+The Noisy Eater
+BAWDY
+Puttin It Down - Acoustic Version
+I Die Slow
+Give Me My Month
+Baby
+Green Arrow
+Do You Know
+Jello and Juggernauts
+ETOH
+GOT THESE SONGS
+{'played_at': ['13:59', '13:55', '13:55', '13:52', '13:49', '13:46', '13:45', '13:41', '13:37', '13:35', '13:31', '13:28', '13:25', '13:23', '13:19', '13:18', '13:13', '13:07', '13:04'], 'valence': [0.33, 0.0, 0.749, 0.298, 0.758, 0.221, 0.324, 0.617, 0.347, 0.589, 0.468, 0.483, 0.418, 0.155, 0.335, 0.053, 0.078, 0.149, 0.333], 'mood_avg': [0.312, 0.0, 0.672, 0.33, 0.649, 0.377, 0.374, 0.575, 0.371, 0.53, 0.61, 0.567, 0.488, 0.244, 0.354, 0.453, 0.132, 0.362, 0.54], 'danceability': [0.302, 0.0, 0.693, 0.333, 0.61, 0.324, 0.36, 0.516, 0.475, 0.417, 0.656, 0.59, 0.726, 0.417, 0.512, 0.792, 0.176, 0.631, 0.727], 'energy': [0.295, 0.00027, 0.478, 0.388, 0.508, 0.795, 0.501, 0.609, 0.213, 0.637, 0.804, 0.691, 0.151, 0.078, 0.075, 0.576, 0.15, 0.252, 0.582], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c02d78ecd28d80920aa11f1c', u'https://i.scdn.co/image/ab67616d0000b273cd7c3cba379ae624e118ebcb', u'https://i.scdn.co/image/ab67616d0000b2738ed9099f0643b99f85fa442e', u'https://i.scdn.co/image/ab67616d0000b2735225a38c3fd08bd3f61325f4', u'https://i.scdn.co/image/ab67616d0000b273ddb9cf14094fa5b3f8683b14', u'https://i.scdn.co/image/ab67616d0000b273e83cd94b8475cc0d2bd11f30', u'https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b273e46284dd97f628323a544297', u'https://i.scdn.co/image/ab67616d0000b2735a973167d72dfaaedf82a654', u'https://i.scdn.co/image/ab67616d0000b27383cd9f1352bc315536480be6', u'https://i.scdn.co/image/ab67616d0000b273eb21af039f00adb6e3c2f356', u'https://i.scdn.co/image/ab67616d0000b2736d7e970464fcaae1379ac0f8', u'https://i.scdn.co/image/ab67616d0000b27337af2ce4e0abffff0045034c', u'https://i.scdn.co/image/ab67616d0000b273a6b49ca72312383b72a8d9b4', u'https://i.scdn.co/image/ab67616d0000b273210e19d835bb0af6620256cf', u'https://i.scdn.co/image/ab67616d0000b2734599fdba5f431f3b419349a0', u'https://i.scdn.co/image/ab67616d0000b273281b57bfec5391971863c05a', u'https://i.scdn.co/image/ab67616d0000b273110090c137e40673e1466462'], 'album_name': [u'The OOZ', u'Fresh Air', u'WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358', u'Surviving Is The New Living', u'MONTERO (Call Me By Your Name)', u'When Man Fails You', u'OK Computer', u'Fetch The Bolt Cutters', u'Beware of the Dogs', u'Song of Sage: Post Panic!', u'Wildflower', u'ALIAS', u'II (Deluxe Edition)', u'Both', u'James Blake', u'Sixteen Oceans', u'I Can Hear The Heart Beating As One', u'Devotion', u'Unknown Mortal Orchestra'], 'song_name': [u'La Lune', u'Signing Off', u'WHEN I GROW UP', u'Palm Psalm', u'MONTERO (Call Me By Your Name)', u'Psalm', u'Karma Police', u'On I Go', u'Face It', u'Tired', u'The Noisy Eater', u'BAWDY', u'Puttin It Down - Acoustic Version', u'I Die Slow', u'Give Me My Month', u'Baby', u'Green Arrow', u'Do You Know', u'Jello and Juggernauts'], 'artist_name': [u'King Krule', u'HOMESHAKE', u'Yaeji', u'Okay Kaya', u'Lil Nas X', u'Yves Tumor', u'Radiohead', u'Fiona Apple', u'Stella Donnelly', u'Navy Blue', u'The Avalanches', u'Shygirl', u'Unknown Mortal Orchestra', u'Okay Kaya', u'James Blake', u'Four Tet', u'Yo La Tengo', u'Tirzah', u'Unknown Mortal Orchestra'], 'track_id': [u'7z41WUzSJJvvNfw3BO7GMZ', u'5ZU0TDaFz1ECUx8FEW7o18', u'3Q1qtbLc4UQTdWBFrK5mU5', u'4P2gUCl6qCfvWJD2Q6DwSD', u'3BZEcbdtXQSo7OrvKRJ6mb', u'3r9rB5dQ6LDxCHzxrvKcw2', u'63OQupATfueTdZMWTxW03A', u'6VU4Ys4rbbbwJ84g1ZuYA5', u'3j2fYjjqJQ3X4bVxAnXn8f', u'1bVv8MFMPbWLf3qQBSIjev', u'6StTY4G6le4w7jQsXmyY2Z', u'1bMG9DKuMJhdwTSTtphTDC', u'02mfknmIC7aStQ7dK0Pszx', u'4rJIWB2Swuc29pzedt67Wc', u'0wXiC2Qisd4DeehG8u6qqa', u'0wPfUQUkWcguy2iUH0BWOT', u'6o65Xn8X3IXf7zmxVjXDWJ', u'1kZL5Q4uzQLkhK0LUexoFQ', u'1tVns3cKYyfKbcR55f9B2G']}
+                                                image  ...   energy
+18  https://i.scdn.co/image/ab67616d0000b273110090...  ...    0.582
+17  https://i.scdn.co/image/ab67616d0000b273281b57...  ...    0.252
+16  https://i.scdn.co/image/ab67616d0000b2734599fd...  ...     0.15
+15  https://i.scdn.co/image/ab67616d0000b273210e19...  ...    0.576
+14  https://i.scdn.co/image/ab67616d0000b273a6b49c...  ...    0.075
+13  https://i.scdn.co/image/ab67616d0000b27337af2c...  ...    0.078
+12  https://i.scdn.co/image/ab67616d0000b2736d7e97...  ...    0.151
+11  https://i.scdn.co/image/ab67616d0000b273eb21af...  ...    0.691
+10  https://i.scdn.co/image/ab67616d0000b27383cd9f...  ...    0.804
+9   https://i.scdn.co/image/ab67616d0000b2735a9731...  ...    0.637
+8   https://i.scdn.co/image/ab67616d0000b273e46284...  ...    0.213
+7   https://i.scdn.co/image/ab67616d0000b273841292...  ...    0.609
+6   https://i.scdn.co/image/ab67616d0000b273c8b444...  ...    0.501
+5   https://i.scdn.co/image/ab67616d0000b273e83cd9...  ...    0.795
+4   https://i.scdn.co/image/ab67616d0000b273ddb9cf...  ...    0.508
+3   https://i.scdn.co/image/ab67616d0000b2735225a3...  ...    0.388
+2   https://i.scdn.co/image/ab67616d0000b2738ed909...  ...    0.478
+1   https://i.scdn.co/image/ab67616d0000b273cd7c3c...  ...  0.00027
+0   https://i.scdn.co/image/ab67616d0000b273c02d78...  ...    0.295
+
+[19 rows x 10 columns]
