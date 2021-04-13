@@ -72657,3 +72657,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master d5aaaba] updating daily data 2021-04-13 13:00:05.490383
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-04-13 13:00:04.650941
+Auth happening...
+Getting songs
+Creating dataframe...
+Something Special
+Sides
+GOT THESE SONGS
+{'played_at': ['12:56'], 'valence': [0.654], 'mood_avg': [0.68], 'danceability': [0.739], 'energy': [0.616], 'image': [u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369'], 'album_name': [u'Shoot For The Stars Aim For The Moon'], 'song_name': [u'Something Special'], 'artist_name': [u'Pop Smoke'], 'track_id': [u'5kkaSMcf4BFlhRRICCKZb6']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b27377ada0...  ...  0.616
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
