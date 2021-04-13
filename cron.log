@@ -72556,3 +72556,32 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 9c9b464] updating daily data 2021-04-13 08:00:04.326678
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-04-13 08:00:02.703970
+Auth happening...
+Getting songs
+Creating dataframe...
+Back In Blood (feat. Lil Durk)
+Proud Of Me Now
+I Don't Like
+Said Sum
+Famous Hoes
+44 BullDog
+I Met Tay Keith First (feat. Lil Baby & Moneybagg Yo)
+Daytime But Darker
+GOT THESE SONGS
+{'played_at': ['07:33', '07:30', '07:28', '07:23', '07:21', '07:18', '07:16'], 'valence': [0.831, 0.732, 0.416, 0.274, 0.332, 0.318, 0.618], 'mood_avg': [0.744, 0.73, 0.632, 0.615, 0.551, 0.56, 0.646], 'danceability': [0.759, 0.837, 0.742, 0.929, 0.732, 0.8, 0.709], 'energy': [0.538, 0.51, 0.844, 0.667, 0.627, 0.564, 0.577], 'image': [u'https://i.scdn.co/image/ab67616d0000b27332c5d1e207364562fe2160b7', u'https://i.scdn.co/image/ab67616d0000b273375ecc2d4e8282fb186695e3', u'https://i.scdn.co/image/ab67616d0000b2732a8cbe9e04db628271fe9558', u'https://i.scdn.co/image/ab67616d0000b273b0c27c2c071c9dbef50ee8d9', u'https://i.scdn.co/image/ab67616d0000b2733ae711b1307b647a1d59f3e8', u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369', u'https://i.scdn.co/image/ab67616d0000b27378c0a3cc84700a979a92bfef'], 'album_name': [u'Back In Blood (feat. Lil Durk)', u'Proud Of Me Now', u'Finally Rich (Deluxe)', u'Code Red', u'Famous Hoes', u'Shoot For The Stars Aim For The Moon', u'F*ck Everybody 3'], 'song_name': [u'Back In Blood (feat. Lil Durk)', u'Proud Of Me Now', u"I Don't Like", u'Said Sum', u'Famous Hoes', u'44 BullDog', u'I Met Tay Keith First (feat. Lil Baby & Moneybagg Yo)'], 'artist_name': [u'Pooh Shiesty', u'Sheff G', u'Chief Keef', u'Moneybagg Yo', u'NLE Choppa', u'Pop Smoke', u'Blac Youngsta'], 'track_id': [u'7JuHVG3qQKQKxC4doneXVW', u'0DNOrkMQjmB0W99PU2LlDe', u'2ikkgfIIM9kGKZCXzXnTpj', u'3sKz6Sd72K0ofPWcJPPk6H', u'35Xf2ABjPzUXKz19akd7Jj', u'7sjFIZ1g5QLJLGja3k592K', u'1Fo3FHnFYJ2wT0aKtp4n57']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b27378c0a3...  ...  0.577
+5  https://i.scdn.co/image/ab67616d0000b27377ada0...  ...  0.564
+4  https://i.scdn.co/image/ab67616d0000b2733ae711...  ...  0.627
+3  https://i.scdn.co/image/ab67616d0000b273b0c27c...  ...  0.667
+2  https://i.scdn.co/image/ab67616d0000b2732a8cbe...  ...  0.844
+1  https://i.scdn.co/image/ab67616d0000b273375ecc...  ...   0.51
+0  https://i.scdn.co/image/ab67616d0000b27332c5d1...  ...  0.538
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
