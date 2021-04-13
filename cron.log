@@ -72615,3 +72615,30 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 3b2bc46] updating daily data 2021-04-13 11:00:04.841733
+ 3 files changed, 22 insertions(+), 1 deletion(-)
+2021-04-13 11:00:03.771746
+Auth happening...
+Getting songs
+Creating dataframe...
+Sides
+Bit 4
+Don't Miss It
+Blue Hands
+f.o.r.e.v.e.r.
+Dawn
+Back In Blood (feat. Lil Durk)
+GOT THESE SONGS
+{'played_at': ['10:44', '10:39', '10:39', '10:34', '10:31', '10:28'], 'valence': [0.258, 0.0, 0.052, 0.193, 0.159, 0.0535], 'mood_avg': [0.269, 0.077, 0.297, 0.273, 0.239, 0.092], 'danceability': [0.153, 0.181, 0.52, 0.374, 0.42, 0.102], 'energy': [0.521, 0.0232, 0.341, 0.232, 0.0375, 0.148], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738fdf12fe7f25d791a78375da', u'https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a', u'https://i.scdn.co/image/ab67616d0000b273534dc6aebb7cf3c04e410cc6', u'https://i.scdn.co/image/ab67616d0000b27337e744667c098ff2669b4d4f', u'https://i.scdn.co/image/ab67616d0000b273559bd53b0292ed01f789a0d8', u'https://i.scdn.co/image/ab67616d0000b2736d7e970464fcaae1379ac0f8'], 'album_name': [u'No Shape', u'Drukqs', u'Assume Form', u'direct line to My Creator', u'The Colour In Anything', u'II (Deluxe Edition)'], 'song_name': [u'Sides', u'Bit 4', u"Don't Miss It", u'Blue Hands', u'f.o.r.e.v.e.r.', u'Dawn'], 'artist_name': [u'Perfume Genius', u'Aphex Twin', u'James Blake', u'duendita', u'James Blake', u'Unknown Mortal Orchestra'], 'track_id': [u'6ZNJRZiN2qUQmyQVcaxvUI', u'39Zkr5CdyAoB3vHWwlVuy1', u'5VYCCPct242jtbidE13EKK', u'4bh6IIDGqeSR1KdfVFMNnP', u'73Uc6U9BTEFoGP5ywB6MLr', u'66EHaeN4KTatnpKcK1YNXo']}
+                                               image  ...  energy
+5  https://i.scdn.co/image/ab67616d0000b2736d7e97...  ...   0.148
+4  https://i.scdn.co/image/ab67616d0000b273559bd5...  ...  0.0375
+3  https://i.scdn.co/image/ab67616d0000b27337e744...  ...   0.232
+2  https://i.scdn.co/image/ab67616d0000b273534dc6...  ...   0.341
+1  https://i.scdn.co/image/ab67616d0000b273a5aef9...  ...  0.0232
+0  https://i.scdn.co/image/ab67616d0000b2738fdf12...  ...   0.521
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
