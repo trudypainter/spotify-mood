@@ -72689,3 +72689,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 2cb142b] updating daily data 2021-04-13 15:00:03.536358
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-04-13 15:00:02.787250
+Auth happening...
+Getting songs
+Creating dataframe...
+Something Special
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
