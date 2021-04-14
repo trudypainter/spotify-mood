@@ -73025,3 +73025,32 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master f2924e2] updating daily data 2021-04-14 13:00:04.683796
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-04-14 13:00:03.493799
+Auth happening...
+Getting songs
+Creating dataframe...
+Modular Pursuits - Daphni Mix
+Fog FM
+Hospital Harpist
+Sun - Live
+Landslide
+Ida Lupino
+Webs
+Avril 14th
+GOT THESE SONGS
+{'played_at': ['12:56', '12:50', '12:41', '12:35', '12:21', '12:17', '12:03'], 'valence': [0.497, 0.883, 0.0326, 0.163, 0.669, 0.25, 0.169], 'mood_avg': [0.653, 0.852, 0.069, 0.461, 0.662, 0.309, 0.445], 'danceability': [0.755, 0.797, 0.0666, 0.562, 0.573, 0.372, 0.516], 'energy': [0.759, 0.898, 0.145, 0.856, 0.828, 0.302, 0.853], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e57280d33d6fea9368a0aaf5', u'https://i.scdn.co/image/ab67616d0000b2730bff6c8586a3946f54d36b27', u'https://i.scdn.co/image/ab67616d0000b273edb9ccbf14999434e37c312e', u'https://i.scdn.co/image/ab67616d0000b27311c6084c1b8173ae94d81ad7', u'https://i.scdn.co/image/ab67616d0000b273661f0e838e56e3d3328d85d7', u'https://i.scdn.co/image/ab67616d0000b2732bbb4bc11370a3b61a710ed9', u'https://i.scdn.co/image/ab67616d0000b27388eb9ca46034b392aa6c5124'], 'album_name': [u'Modular Pursuits Remixes', u'Fog FM', u'Hospital Harpist', u'CVE Live 2011', u'Landslide', u'Three Waves', u'Webs'], 'song_name': [u'Modular Pursuits - Daphni Mix', u'Fog FM', u'Hospital Harpist', u'Sun - Live', u'Landslide', u'Ida Lupino', u'Webs'], 'artist_name': [u'No Boundaries', u'Anthony Naples', u'Spirituals', u'Caribou Vibration Ensemble', u'Champion', u'Steve Kuhn Trio', u'RamonPang'], 'track_id': [u'0vfy0VhhOdtgoDix5RRLr3', u'3e4GljOEhMUA7Yc79YecD5', u'0GVk7dhgeqNunGpZqnqxZB', u'7dJBNd5dCRObMVplKprwCL', u'6WRgdtcl2APD30hfOvLWqy', u'0McnA3QK4SdSOkyT2LFAKV', u'5P5h3Cq2HjIkd7yARy2ME2']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b27388eb9c...  ...  0.853
+5  https://i.scdn.co/image/ab67616d0000b2732bbb4b...  ...  0.302
+4  https://i.scdn.co/image/ab67616d0000b273661f0e...  ...  0.828
+3  https://i.scdn.co/image/ab67616d0000b27311c608...  ...  0.856
+2  https://i.scdn.co/image/ab67616d0000b273edb9cc...  ...  0.145
+1  https://i.scdn.co/image/ab67616d0000b2730bff6c...  ...  0.898
+0  https://i.scdn.co/image/ab67616d0000b273e57280...  ...  0.759
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
