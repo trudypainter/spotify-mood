@@ -72740,3 +72740,42 @@ GOT THESE SONGS
 ('Rows: ', 3)
 Saved!
 
+[master 607ed0a] updating daily data 2021-04-13 20:00:06.210419
+ 3 files changed, 34 insertions(+), 1 deletion(-)
+2021-04-13 20:00:04.534849
+Auth happening...
+Getting songs
+Creating dataframe...
+Havin My Way (feat. Lil Durk)
+Cut Me Up
+Onna Come Up
+I Met Tay Keith First (feat. Lil Baby & Moneybagg Yo)
+What's Da Bizness
+Beat Box
+Save That Shit
+I Am What I Am (feat. Fivio Foreign)
+Clappers (feat. 42 Dugg)
+Something Special
+Clappers (feat. 42 Dugg)
+4EVER
+Avril 14th
+GOT THESE SONGS
+{'played_at': ['19:58', '19:55', '19:51', '19:49', '19:46', '19:44', '19:42', '19:38', '19:35', '19:05', '19:05', '19:03'], 'valence': [0.712, 0.36, 0.649, 0.618, 0.547, 0.201, 0.487, 0.421, 0.249, 0.654, 0.249, 0.584], 'mood_avg': [0.753, 0.622, 0.663, 0.646, 0.672, 0.494, 0.578, 0.624, 0.533, 0.68, 0.533, 0.651], 'danceability': [0.802, 0.854, 0.796, 0.709, 0.87, 0.762, 0.545, 0.8, 0.827, 0.739, 0.827, 0.75], 'energy': [0.737, 0.68, 0.426, 0.577, 0.524, 0.542, 0.826, 0.676, 0.513, 0.616, 0.513, 0.585], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733f0bd1cb407beb4cfb66aa69', u'https://i.scdn.co/image/ab67616d0000b2734b0e337b4fde35c4cca6f188', u'https://i.scdn.co/image/ab67616d0000b27332399fb986ec8a7f6d8b01e5', u'https://i.scdn.co/image/ab67616d0000b27378c0a3cc84700a979a92bfef', u'https://i.scdn.co/image/ab67616d0000b273d2ac2d5b457bcad2eddef496', u'https://i.scdn.co/image/ab67616d0000b273cf18f0df84b3032b01c4371f', u'https://i.scdn.co/image/ab67616d0000b273f4a78915bb0467ed5bf21ff3', u'https://i.scdn.co/image/ab67616d0000b2739d83c9c62e2a584bbcbd05b6', u'https://i.scdn.co/image/ab67616d0000b27312b970025f0bbc1ff7e7d6ab', u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369', u'https://i.scdn.co/image/ab67616d0000b27312b970025f0bbc1ff7e7d6ab', u'https://i.scdn.co/image/ab67616d0000b27371179dd3ac3cba1d14920469'], 'album_name': [u'Unbothered', u'Cut Me Up', u'Underrated', u'F*ck Everybody 3', u'Rich Slave', u'Beat Box', u'Back from the Dead', u'I Am What I Am (feat. Fivio Foreign)', u'Clappers (feat. 42 Dugg)', u'Shoot For The Stars Aim For The Moon', u'Clappers (feat. 42 Dugg)', u'4EVER'], 'song_name': [u'Havin My Way (feat. Lil Durk)', u'Cut Me Up', u'Onna Come Up', u'I Met Tay Keith First (feat. Lil Baby & Moneybagg Yo)', u"What's Da Bizness", u'Beat Box', u'Save That Shit', u'I Am What I Am (feat. Fivio Foreign)', u'Clappers (feat. 42 Dugg)', u'Something Special', u'Clappers (feat. 42 Dugg)', u'4EVER'], 'artist_name': [u'Lil Skies', u'Wacotron', u'Lil Eazzyy', u'Blac Youngsta', u'Young Dolph', u'SpotemGottem', u'Chief Keef', u'King Von', u'Slimelife Shawty', u'Pop Smoke', u'Slimelife Shawty', u'Clairo'], 'track_id': [u'3TcKJZF01kCz0yyadk3gsI', u'6MUiJk57uVOmeepw0qQ5kX', u'0e4A9Fak1nJ7RtBD8YpoEo', u'1Fo3FHnFYJ2wT0aKtp4n57', u'29tLKguTMysoFejk0qNjap', u'3wCx8pwK7J1LVe13dFXjPm', u'0uATCc7skXRKGBYp4FHdBZ', u'7MxWrgJmuEBOtEvqpo5iki', u'2qrcvpJgVaRPeMyXSmCn2s', u'5kkaSMcf4BFlhRRICCKZb6', u'2qrcvpJgVaRPeMyXSmCn2s', u'5mIOsPuQdXchVY0jB5NO9Q']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b27371179d...  ...  0.585
+10  https://i.scdn.co/image/ab67616d0000b27312b970...  ...  0.513
+9   https://i.scdn.co/image/ab67616d0000b27377ada0...  ...  0.616
+8   https://i.scdn.co/image/ab67616d0000b27312b970...  ...  0.513
+7   https://i.scdn.co/image/ab67616d0000b2739d83c9...  ...  0.676
+6   https://i.scdn.co/image/ab67616d0000b273f4a789...  ...  0.826
+5   https://i.scdn.co/image/ab67616d0000b273cf18f0...  ...  0.542
+4   https://i.scdn.co/image/ab67616d0000b273d2ac2d...  ...  0.524
+3   https://i.scdn.co/image/ab67616d0000b27378c0a3...  ...  0.577
+2   https://i.scdn.co/image/ab67616d0000b27332399f...  ...  0.426
+1   https://i.scdn.co/image/ab67616d0000b2734b0e33...  ...   0.68
+0   https://i.scdn.co/image/ab67616d0000b2733f0bd1...  ...  0.737
+
+[12 rows x 10 columns]
+('Rows: ', 12)
+Saved!
+
