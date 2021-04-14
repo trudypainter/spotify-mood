@@ -72915,3 +72915,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 81ac959] updating daily data 2021-04-14 06:00:03.712134
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-04-14 06:00:03.107915
+Auth happening...
+Getting songs
+Creating dataframe...
+Havin My Way (feat. Lil Durk)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
