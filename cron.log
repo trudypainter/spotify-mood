@@ -72719,3 +72719,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master e0654de] updating daily data 2021-04-13 19:00:10.045356
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-04-13 19:00:03.406179
+Auth happening...
+Getting songs
+Creating dataframe...
+Late To The Party
+SUMMER
+SUMMER
+Something Special
+GOT THESE SONGS
+{'played_at': ['18:58', '18:54', '18:42'], 'valence': [0.685, 0.542, 0.542], 'mood_avg': [0.666, 0.526, 0.526], 'danceability': [0.753, 0.497, 0.497], 'energy': [0.454, 0.55, 0.55], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738e831c9200c5ac7cce8d60dc', u'https://i.scdn.co/image/ab67616d0000b2737d15fb20303a589acc1ab98b', u'https://i.scdn.co/image/ab67616d0000b2737d15fb20303a589acc1ab98b'], 'album_name': [u'Pageant Material', u'SATURATION II', u'SATURATION II'], 'song_name': [u'Late To The Party', u'SUMMER', u'SUMMER'], 'artist_name': [u'Kacey Musgraves', u'BROCKHAMPTON', u'BROCKHAMPTON'], 'track_id': [u'1uXUAE4lmnGCufaAh6n2D5', u'66dQdXAbtuPdSasezCQVZE', u'66dQdXAbtuPdSasezCQVZE']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...   0.55
+1  https://i.scdn.co/image/ab67616d0000b2737d15fb...  ...   0.55
+0  https://i.scdn.co/image/ab67616d0000b2738e831c...  ...  0.454
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
