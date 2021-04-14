@@ -73108,3 +73108,32 @@ GOT THESE SONGS
 ('Rows: ', 11)
 Saved!
 
+[master f3c23c1] updating daily data 2021-04-14 16:00:05.098370
+ 3 files changed, 45 insertions(+), 1 deletion(-)
+2021-04-14 16:00:03.394740
+Auth happening...
+Getting songs
+Creating dataframe...
+Cyber Stockholm Syndrome
+party 4 u
+Count Contessa
+ICY GRL
+Awake
+Ex-Factor
+Slumber Party
+BB
+GOT THESE SONGS
+{'played_at': ['15:28', '15:24', '15:19', '15:14', '15:12', '15:09', '15:03'], 'valence': [0.259, 0.245, 0.453, 0.842, 0.28, 0.668, 0.563], 'mood_avg': [0.449, 0.434, 0.611, 0.82, 0.599, 0.628, 0.69], 'danceability': [0.527, 0.579, 0.595, 0.927, 0.764, 0.593, 0.964], 'energy': [0.672, 0.522, 0.957, 0.563, 0.908, 0.619, 0.398], 'image': [u'https://i.scdn.co/image/ab67616d0000b2730e44ad85723d06e1ecd65712', u'https://i.scdn.co/image/ab67616d0000b273664e38c99d077cc52ab48914', u'https://i.scdn.co/image/ab67616d0000b273e271c649ef92d73d64f0716d', u'https://i.scdn.co/image/ab67616d0000b2731f0b3f9a2f29efd8291a6c46', u'https://i.scdn.co/image/ab67616d0000b2732ff16cb8c50004d7aaca646d', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b27311b63834a1a557cc77403458'], 'album_name': [u'RINA', u"how i'm feeling now", u'Count Contessa', u'High Maintenance', u'Awake', u'The Miseducation of Lauryn Hill', u'DEMIDEVIL'], 'song_name': [u'Cyber Stockholm Syndrome', u'party 4 u', u'Count Contessa', u'ICY GRL', u'Awake', u'Ex-Factor', u'Slumber Party'], 'artist_name': [u'Rina Sawayama', u'Charli XCX', u'Azealia Banks', u'Saweetie', u'Tkay Maidza', u'Ms. Lauryn Hill', u'Ashnikko'], 'track_id': [u'7I9bSsqqIA0cV1nL0igGLm', u'2RdEC8Ff83WkX7kDVCHseE', u'5qc9oEjMRZvdECu3g5vU8P', u'1sl1cpix9GnwNwaVt04BIu', u'4Puw64CYf5hi5hlrQo9mm4', u'2VjXGuPVVxyhMgER3Uz2Fe', u'11ZulcYY4lowvcQm4oe3VJ']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b27311b638...  ...  0.398
+5  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.619
+4  https://i.scdn.co/image/ab67616d0000b2732ff16c...  ...  0.908
+3  https://i.scdn.co/image/ab67616d0000b2731f0b3f...  ...  0.563
+2  https://i.scdn.co/image/ab67616d0000b273e271c6...  ...  0.957
+1  https://i.scdn.co/image/ab67616d0000b273664e38...  ...  0.522
+0  https://i.scdn.co/image/ab67616d0000b2730e44ad...  ...  0.672
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
