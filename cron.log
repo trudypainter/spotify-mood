@@ -72980,3 +72980,18 @@ Avril 14th
 Provider
 Flaming Hot Cheetos
 The Kiss Of Venus (Dominic Fike)
+[master c0be692] updating daily data 2021-04-14 10:00:05.687542
+ 2 files changed, 24 insertions(+), 1 deletion(-)
+2021-04-14 10:00:04.714742
+Auth happening...
+Getting songs
+Creating dataframe...
+Avril 14th
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
