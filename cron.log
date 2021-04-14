@@ -72930,3 +72930,30 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 86ebabe] updating daily data 2021-04-14 07:00:10.352708
+ 3 files changed, 22 insertions(+), 1 deletion(-)
+2021-04-14 07:00:02.650836
+Auth happening...
+Getting songs
+Creating dataframe...
+I Used to Love Him (feat. Mary J. Blige)
+Avril 14th
+All I Wanna See
+Whip It Harder
+2SEXY
+Earned It
+Havin My Way (feat. Lil Durk)
+GOT THESE SONGS
+{'played_at': ['06:45', '06:36', '06:32', '06:30', '06:28', '06:07'], 'valence': [0.745, 0.37, 0.281, 0.474, 0.402, 0.803], 'mood_avg': [0.652, 0.376, 0.522, 0.675, 0.522, 0.743], 'danceability': [0.486, 0.558, 0.671, 0.835, 0.651, 0.853], 'energy': [0.797, 0.0259, 0.707, 0.759, 0.502, 0.401], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a', u'https://i.scdn.co/image/ab67616d0000b27326c2e031785c904ccde9c303', u'https://i.scdn.co/image/ab67616d0000b27326c2e031785c904ccde9c303', u'https://i.scdn.co/image/ab67616d0000b27326c2e031785c904ccde9c303', u'https://i.scdn.co/image/ab67616d0000b2734ff0223801d44f2dddcad353'], 'album_name': [u'The Miseducation of Lauryn Hill', u'Drukqs', u'My Parade', u'My Parade', u'My Parade', u'Earned It'], 'song_name': [u'I Used to Love Him (feat. Mary J. Blige)', u'Avril 14th', u'All I Wanna See', u'Whip It Harder', u'2SEXY', u'Earned It'], 'artist_name': [u'Ms. Lauryn Hill', u'Aphex Twin', u'ILOVEMAKONNEN', u'ILOVEMAKONNEN', u'ILOVEMAKONNEN', u'Chief Keef'], 'track_id': [u'3IRdgbdqDcmJBIa6TY2mKX', u'2MZSXhq4XDJWu6coGoXX1V', u'6r44u9dQ7D3qdzTa3ipXbm', u'0u18A6zzdajWc4pqKzywQa', u'3n5u7VlxqKA2CG890wNAU1', u'5aSTOtjXKNN45eXbHUYsCM']}
+                                               image  ...  energy
+5  https://i.scdn.co/image/ab67616d0000b2734ff022...  ...   0.401
+4  https://i.scdn.co/image/ab67616d0000b27326c2e0...  ...   0.502
+3  https://i.scdn.co/image/ab67616d0000b27326c2e0...  ...   0.759
+2  https://i.scdn.co/image/ab67616d0000b27326c2e0...  ...   0.707
+1  https://i.scdn.co/image/ab67616d0000b273a5aef9...  ...  0.0259
+0  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...   0.797
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
