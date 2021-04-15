@@ -73358,3 +73358,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master eda6705] updating daily data 2021-04-15 07:00:07.641704
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-04-15 07:00:06.288243
+Auth happening...
+Getting songs
+Creating dataframe...
+AUTOMATIC
+Hopeless Romantic (feat. Swae Lee)
+Praise The Lord (Da Shine) (feat. Skepta)
+Lame Niggaz
+Lala
+In The Party
+GOT THESE SONGS
+{'played_at': ['06:44', '06:41', '06:35', '06:30', '06:10'], 'valence': [0.374, 0.552, 0.294, 0.676, 0.425], 'mood_avg': [0.606, 0.667, 0.573, 0.728, 0.549], 'danceability': [0.818, 0.877, 0.854, 0.9, 0.707], 'energy': [0.648, 0.477, 0.569, 0.488, 0.483], 'image': [u'https://i.scdn.co/image/ab67616d0000b2735d46e4578c8e1adad9206480', u'https://i.scdn.co/image/ab67616d0000b273393d29e88d493bdab8af1617', u'https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b', u'https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e'], 'album_name': [u'ZUU', u'Rolling Papers 2', u'TESTING', u'Playboi Carti', u'Nasty'], 'song_name': [u'AUTOMATIC', u'Hopeless Romantic (feat. Swae Lee)', u'Praise The Lord (Da Shine) (feat. Skepta)', u'Lame Niggaz', u'Lala'], 'artist_name': [u'Denzel Curry', u'Wiz Khalifa', u'A$AP Rocky', u'Playboi Carti', u'Rico Nasty'], 'track_id': [u'2TqfASuL5JRds7bJX01PdZ', u'7IBSffWIu7P2MC7kMwy2FM', u'7ycWLEP1GsNjVvcjawXz3z', u'1xUQwXDDKW79z7GRUt2vMW', u'245hvnaN40qR26q131lG9y']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.483
+3  https://i.scdn.co/image/ab67616d0000b273e31a27...  ...  0.488
+2  https://i.scdn.co/image/ab67616d0000b2739feadc...  ...  0.569
+1  https://i.scdn.co/image/ab67616d0000b273393d29...  ...  0.477
+0  https://i.scdn.co/image/ab67616d0000b2735d46e4...  ...  0.648
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
