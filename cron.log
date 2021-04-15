@@ -73508,3 +73508,67 @@ GOT THESE SONGS
 ('Rows: ', 6)
 Saved!
 
+[master 79c6e86] updating daily data 2021-04-15 15:00:05.512758
+ 3 files changed, 34 insertions(+), 1 deletion(-)
+2021-04-15 15:00:02.846502
+Auth happening...
+Getting songs
+Creating dataframe...
+Good Form (feat. Lil Wayne)
+Best Friend (feat. Doja Cat)
+Gum
+1999
+OHFR?
+Warm (feat. HAIM)
+You Gotta Shake (feat. Supa)
+GOT THESE SONGS
+{'played_at': ['14:41', '14:37', '14:35', '14:31', '14:28', '14:26'], 'valence': [0.295, 0.402, 0.907, 0.625, 0.812, 0.396], 'mood_avg': [0.624, 0.65, 0.869, 0.694, 0.812, 0.482], 'danceability': [0.898, 0.84, 0.91, 0.745, 0.86, 0.518], 'energy': [0.733, 0.766, 0.713, 0.728, 0.717, 0.58], 'image': [u'https://i.scdn.co/image/ab67616d0000b273fc8c64bfc4323ff7ce68fea8', u'https://i.scdn.co/image/ab67616d0000b2739aeed9bbffaac4c99cc4c4d9', u'https://i.scdn.co/image/ab67616d0000b27347cb25099c1aaac83fe2e927', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273cd2be2be0e7e67ec390c6465', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c'], 'album_name': [u'Queen (Deluxe)', u'Best Friend (feat. Doja Cat)', u'Gum', u'Charli', u'OHFR?', u'Charli'], 'song_name': [u'Good Form (feat. Lil Wayne)', u'Best Friend (feat. Doja Cat)', u'Gum', u'1999', u'OHFR?', u'Warm (feat. HAIM)'], 'artist_name': [u'Nicki Minaj', u'Saweetie', u'cupcakKe', u'Charli XCX', u'Rico Nasty', u'Charli XCX'], 'track_id': [u'6supMAknraGpJrN5qqYfV8', u'2etHQJxIbV0soyPhelVs9Y', u'6XrtxH8dZPSSDE9A1KmN6Q', u'3WGJSY8JaGliVIJyMig5aS', u'3IBGU1NgiTjDsIJn2Jtdg4', u'2xHEAdEalJ5YcP0ur8kF6L']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...   0.58
+4  https://i.scdn.co/image/ab67616d0000b273cd2be2...  ...  0.717
+3  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.728
+2  https://i.scdn.co/image/ab67616d0000b27347cb25...  ...  0.713
+1  https://i.scdn.co/image/ab67616d0000b2739aeed9...  ...  0.766
+0  https://i.scdn.co/image/ab67616d0000b273fc8c64...  ...  0.733
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
+2021-04-15 16:00:03.797848
+Auth happening...
+Getting songs
+Creating dataframe...
+2021-04-15 17:00:02.691132
+Auth happening...
+Getting songs
+Creating dataframe...
+The Cat's Pyjamas
+Bars. 16
+Theme for the Cross
+Lifeline
+Pagan Poetry
+The Last Time I Saw Richard
+Lullaby For My Insomniac
+Airport Antenatal Airplane
+One PM Again
+Infinite Love without Fulfilment
+SLIME
+Peace Out
+Kuvasz In Snow
+2021-04-15 18:00:03.786335
+Auth happening...
+Getting songs
+Creating dataframe...
+Virile
+You've Been Flirting Again
+Time Will Tell
+The Cat's Pyjamas
+GOT THESE SONGS
+{'played_at': ['17:10', '17:05', '17:03'], 'valence': [0.189, 0.136, 0.551], 'mood_avg': [0.297, 0.153, 0.625], 'danceability': [0.187, 0.221, 0.628], 'energy': [0.735, 0.0495, 0.767], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738b40e0ef79069fb9bcc560d9', u'https://i.scdn.co/image/ab67616d0000b2736aba91ac61162caeeef14460', u'https://i.scdn.co/image/ab67616d0000b2739d6bd2afa2987a69b7b55f72'], 'album_name': [u'gr\xe6', u'Post', u'Cupid Deluxe'], 'song_name': [u'Virile', u"You've Been Flirting Again", u'Time Will Tell'], 'artist_name': [u'Moses Sumney', u'Bj\xf6rk', u'Blood Orange'], 'track_id': [u'0pR6PNm69ejQHbeDcLLf57', u'2lJSlVayNDdEZuPqlIPPcm', u'70tw9q994ypHb16M4Thnod']}
+                                               image  ...  energy
+2  https://i.scdn.co/image/ab67616d0000b2739d6bd2...  ...   0.767
+1  https://i.scdn.co/image/ab67616d0000b2736aba91...  ...  0.0495
+0  https://i.scdn.co/image/ab67616d0000b2738b40e0...  ...   0.735
+
+[3 rows x 10 columns]
