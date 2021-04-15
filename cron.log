@@ -73481,3 +73481,30 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 9665233] updating daily data 2021-04-15 14:00:04.823146
+ 3 files changed, 22 insertions(+), 1 deletion(-)
+2021-04-15 14:00:03.153993
+Auth happening...
+Getting songs
+Creating dataframe...
+You Gotta Shake (feat. Supa)
+Babyface Savage (feat. Tory Lanez)
+Ex-Factor
+Spooky Mutha Mansion
+Yikes
+In The Party
+Swang
+GOT THESE SONGS
+{'played_at': ['13:51', '13:47', '13:45', '13:39', '13:36', '13:33'], 'valence': [0.468, 0.425, 0.668, 0.604, 0.66, 0.418], 'mood_avg': [0.739, 0.644, 0.628, 0.676, 0.756, 0.657], 'danceability': [0.898, 0.907, 0.593, 0.707, 0.911, 0.919], 'energy': [0.964, 0.557, 0.619, 0.759, 0.637, 0.609], 'image': [u'https://i.scdn.co/image/ab67616d0000b2730c4e4658e5a7e7c1f76a925d', u'https://i.scdn.co/image/ab67616d0000b273afd59b8f7df2be1b94bee052', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b2735d7844b7ae4505fa170b6f6d', u'https://i.scdn.co/image/ab67616d0000b27398441652fc8a6b7ebf395ba9', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb'], 'album_name': [u'You Gotta Shake (feat. Supa)', u'Babyface Savage (feat. Tory Lanez)', u'The Miseducation of Lauryn Hill', u'Muthaland', u'Yikes', u'Ho, why is you here ?'], 'song_name': [u'You Gotta Shake (feat. Supa)', u'Babyface Savage (feat. Tory Lanez)', u'Ex-Factor', u'Spooky Mutha Mansion', u'Yikes', u'In The Party'], 'artist_name': [u'Briki Fa President', u'Bhad Bhabie', u'Ms. Lauryn Hill', u'BbyMutha', u'Nicki Minaj', u'Flo Milli'], 'track_id': [u'1eiylvr7YokF7vN2yg0Wy9', u'2xB64x7pRS8Qa9uuZktOnA', u'2VjXGuPVVxyhMgER3Uz2Fe', u'0VItfrF8eIQ9jue7ry3WMC', u'75dLEqanQTupF3dtP9exT5', u'52BJrldggFQyTiW8XrILhO']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b2733ae4c6...  ...  0.609
+4  https://i.scdn.co/image/ab67616d0000b273984416...  ...  0.637
+3  https://i.scdn.co/image/ab67616d0000b2735d7844...  ...  0.759
+2  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.619
+1  https://i.scdn.co/image/ab67616d0000b273afd59b...  ...  0.557
+0  https://i.scdn.co/image/ab67616d0000b2730c4e46...  ...  0.964
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
