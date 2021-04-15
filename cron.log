@@ -73428,3 +73428,26 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master b127228] updating daily data 2021-04-15 11:00:04.969541
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+2021-04-15 11:00:03.703949
+Auth happening...
+Getting songs
+Creating dataframe...
+Swang
+Relationship (feat. Future)
+R.I.P.
+Me or Us
+Pull Up (feat. Lil Uzi Vert & YNW Melly)
+GOT THESE SONGS
+{'played_at': ['10:46', '10:43', '10:39', '10:36'], 'valence': [0.166, 0.298, 0.515, 0.419], 'mood_avg': [0.402, 0.575, 0.641, 0.491], 'danceability': [0.681, 0.842, 0.725, 0.682], 'energy': [0.314, 0.597, 0.725, 0.251], 'image': [u'https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95', u'https://i.scdn.co/image/ab67616d0000b273419cedff7b313b962a93932e', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194', u'https://i.scdn.co/image/ab67616d0000b273419cedff7b313b962a93932e'], 'album_name': [u'SremmLife 2 (Deluxe)', u'Beautiful Thugger Girls', u'Die Lit', u'Beautiful Thugger Girls'], 'song_name': [u'Swang', u'Relationship (feat. Future)', u'R.I.P.', u'Me or Us'], 'artist_name': [u'Rae Sremmurd', u'Young Thug', u'Playboi Carti', u'Young Thug'], 'track_id': [u'6mapJIPnQ23RTAevUoE0DL', u'25oOaleife6E2MIKmFkPvg', u'3L0IKstjUgDFVQAbQIRZRv', u'0JaN65P0DapRjboDEv2g08']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273419ced...  ...  0.251
+2  https://i.scdn.co/image/ab67616d0000b273a1e867...  ...  0.725
+1  https://i.scdn.co/image/ab67616d0000b273419ced...  ...  0.597
+0  https://i.scdn.co/image/ab67616d0000b273881fb6...  ...  0.314
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
