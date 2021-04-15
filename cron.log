@@ -73298,3 +73298,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master ecda169] updating daily data 2021-04-15 03:00:03.896613
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-04-15 03:00:03.339003
+Auth happening...
+Getting songs
+Creating dataframe...
+In The Party
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
