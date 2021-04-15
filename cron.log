@@ -73182,3 +73182,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master bed9a40] updating daily data 2021-04-14 20:00:07.397166
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-04-14 20:00:06.206555
+Auth happening...
+Getting songs
+Creating dataframe...
+In The Party
+OHFR?
+Out of My Head (feat. Tove Lo and ALMA)
+NASA
+Won't Change
+Cyber Stockholm Syndrome
+GOT THESE SONGS
+{'played_at': ['19:51', '19:49', '19:47', '19:43', '19:40'], 'valence': [0.418, 0.812, 0.42, 0.47, 0.557], 'mood_avg': [0.657, 0.812, 0.65, 0.578, 0.713], 'danceability': [0.919, 0.86, 0.851, 0.747, 0.875], 'energy': [0.609, 0.717, 0.709, 0.458, 0.701], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b273cd2be2be0e7e67ec390c6465', u'https://i.scdn.co/image/ab67616d0000b273c61a793955ac590e672eafe8', u'https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e'], 'album_name': [u'Ho, why is you here ?', u'OHFR?', u'Pop 2', u'thank u, next', u'Nasty'], 'song_name': [u'In The Party', u'OHFR?', u'Out of My Head (feat. Tove Lo and ALMA)', u'NASA', u"Won't Change"], 'artist_name': [u'Flo Milli', u'Rico Nasty', u'Charli XCX', u'Ariana Grande', u'Rico Nasty'], 'track_id': [u'52BJrldggFQyTiW8XrILhO', u'3IBGU1NgiTjDsIJn2Jtdg4', u'2khkbmL11VFqKGMrcGIJB3', u'4uTvPEr01pjTbZgl7jcKBD', u'6OdV97pv0mTjwuZD51hciR']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.701
+3  https://i.scdn.co/image/ab67616d0000b27356ac7b...  ...  0.458
+2  https://i.scdn.co/image/ab67616d0000b273c61a79...  ...  0.709
+1  https://i.scdn.co/image/ab67616d0000b273cd2be2...  ...  0.717
+0  https://i.scdn.co/image/ab67616d0000b2733ae4c6...  ...  0.609
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
