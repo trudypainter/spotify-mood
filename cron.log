@@ -73787,3 +73787,30 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master d1009a2] updating daily data 2021-04-16 09:00:05.528637
+ 3 files changed, 22 insertions(+), 1 deletion(-)
+2021-04-16 09:00:04.050626
+Auth happening...
+Getting songs
+Creating dataframe...
+anthems
+pink diamond
+party 4 u
+7 years
+Agony
+Lucky
+That's It
+GOT THESE SONGS
+{'played_at': ['08:25', '08:22', '08:20', '08:15', '08:11', '08:07'], 'valence': [0.391, 0.647, 0.245, 0.659, 0.318, 0.0621], 'mood_avg': [0.587, 0.686, 0.434, 0.689, 0.392, 0.169], 'danceability': [0.643, 0.675, 0.579, 0.671, 0.578, 0.193], 'energy': [0.866, 0.787, 0.522, 0.786, 0.166, 0.335], 'image': [u'https://i.scdn.co/image/ab67616d0000b273664e38c99d077cc52ab48914', u'https://i.scdn.co/image/ab67616d0000b273664e38c99d077cc52ab48914', u'https://i.scdn.co/image/ab67616d0000b273664e38c99d077cc52ab48914', u'https://i.scdn.co/image/ab67616d0000b273664e38c99d077cc52ab48914', u'https://i.scdn.co/image/ab67616d0000b273fe81407d98ef67144560b96d', u'https://i.scdn.co/image/ab67616d0000b273c61a793955ac590e672eafe8'], 'album_name': [u"how i'm feeling now", u"how i'm feeling now", u"how i'm feeling now", u"how i'm feeling now", u'Stranger', u'Pop 2'], 'song_name': [u'anthems', u'pink diamond', u'party 4 u', u'7 years', u'Agony', u'Lucky'], 'artist_name': [u'Charli XCX', u'Charli XCX', u'Charli XCX', u'Charli XCX', u'Yung Lean', u'Charli XCX'], 'track_id': [u'2ljvO8ZpKFMT3HXwCjW4Yw', u'3V0PgcsUMlAGXwCD0084pY', u'2RdEC8Ff83WkX7kDVCHseE', u'4jQDJPgw3qkc1T2f1safdy', u'1Wj9ZhqrnbLal0Iyqk6QH1', u'4fSHrm2WrIZmtYMXQq0YwI']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b273c61a79...  ...  0.335
+4  https://i.scdn.co/image/ab67616d0000b273fe8140...  ...  0.166
+3  https://i.scdn.co/image/ab67616d0000b273664e38...  ...  0.786
+2  https://i.scdn.co/image/ab67616d0000b273664e38...  ...  0.522
+1  https://i.scdn.co/image/ab67616d0000b273664e38...  ...  0.787
+0  https://i.scdn.co/image/ab67616d0000b273664e38...  ...  0.866
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
