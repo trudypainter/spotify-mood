@@ -73946,4 +73946,71 @@ S McGregor (interlude)
 Can I Hold the Mic (interlude)
 Carrier Waves
 GOT THESE SONGS
-{'played_at': ['14:56', '14:55', '14:54', '14:54', '14:51', '14:50', '14:50', '14:49', '14:46', '14:45', '14:41', '14:41', '14:39', '14:36', '14:33', '14:29', '14:26', '14:23', '14:21', '14:17', '14:15', '14:15', '14:14', '14:11', '14:11'], 'valence': [0.0383, 0.545, 0.623, 0.218, 0.361, 0.534, 0.525, 0.211, 0.0391, 0.356, 0.166, 0.039, 0.524, 0.558, 0.38, 0.674, 0.454, 0.456, 0.0631, 0.0383, 0.545, 0.623, 0.218, 0.361, 0.534], 'mood_avg': [0.177, 0.537, 0.622, 0.301, 0.377, 0.501, 0.453, 0.422, 0.179, 0.5, 0.29, 0.21, 0.558, 0.603, 0.381, 0.71, 0.607, 0.653, 0.467, 0.177, 0.537, 0.622, 0.301, 0.377, 0.501], 'danceability': [0.26, 0.447, 0.678, 0.409, 0.422, 0.633, 0.39, 0.661, 0.313, 0.664, 0.34, 0.391, 0.724, 0.594, 0.493, 0.823, 0.8, 0.863, 0.827, 0.26, 0.447, 0.678, 0.409, 0.422, 0.633], 'energy': [0.29, 0.7, 0.506, 0.253, 0.321, 0.169, 0.436, 0.368, 0.189, 0.459, 0.436, 0.192, 0.292, 0.71, 0.159, 0.558, 0.526, 0.625, 0.553, 0.29, 0.7, 0.506, 0.253, 0.321, 0.169], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc'], 'album_name': [u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home'], 'song_name': [u"I'm a Witness", u"We Deal With the Freak'n (intermission)", u'Nothing Without Intention (interlude)', u'Jerrod', u'S McGregor (interlude)', u'Can I Hold the Mic (interlude)', u'Exit Scott (interlude)', u'Dreams', u'Beltway', u'Down With the Clique',
+{'played_at': ['14:56', '14:55', '14:54', '14:54', '14:51', '14:50', '14:50', '14:49', '14:46', '14:45', '14:41', '14:41', '14:39', '14:36', '14:33', '14:29', '14:26', '14:23', '14:21', '14:17', '14:15', '14:15', '14:14', '14:11', '14:11'], 'valence': [0.0383, 0.545, 0.623, 0.218, 0.361, 0.534, 0.525, 0.211, 0.0391, 0.356, 0.166, 0.039, 0.524, 0.558, 0.38, 0.674, 0.454, 0.456, 0.0631, 0.0383, 0.545, 0.623, 0.218, 0.361, 0.534], 'mood_avg': [0.177, 0.537, 0.622, 0.301, 0.377, 0.501, 0.453, 0.422, 0.179, 0.5, 0.29, 0.21, 0.558, 0.603, 0.381, 0.71, 0.607, 0.653, 0.467, 0.177, 0.537, 0.622, 0.301, 0.377, 0.501], 'danceability': [0.26, 0.447, 0.678, 0.409, 0.422, 0.633, 0.39, 0.661, 0.313, 0.664, 0.34, 0.391, 0.724, 0.594, 0.493, 0.823, 0.8, 0.863, 0.827, 0.26, 0.447, 0.678, 0.409, 0.422, 0.633], 'energy': [0.29, 0.7, 0.506, 0.253, 0.321, 0.169, 0.436, 0.368, 0.189, 0.459, 0.436, 0.192, 0.292, 0.71, 0.159, 0.558, 0.526, 0.625, 0.553, 0.29, 0.7, 0.506, 0.253, 0.321, 0.169], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc'], 'album_name': [u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home'], 'song_name': [u"I'm a Witness", u"We Deal With the Freak'n (intermission)", u'Nothing Without Intention (interlude)', u'Jerrod', u'S McGregor (interlude)', u'Can I Hold the Mic (interlude)', u'Exit Scott (interlude)', u'Dreams', u'Beltway', u'Down With the Clique',[master 9cc3886] updating daily data 2021-04-16 15:00:07.142143
+ 3 files changed, 73 insertions(+), 1 deletion(-)
+ u'Not Screwed! (interlude)', u'Things I Imagined', u'My Skin My Logo', u'Way to the Show', u'Time (is)', u'Stay Flo', u'Sound of Rain', u'Binz', u'Almeda', u"I'm a Witness", u"We Deal With the Freak'n (intermission)", u'Nothing Without Intention (interlude)', u'Jerrod', u'S McGregor (interlude)', u'Can I Hold the Mic (interlude)'], 'artist_name': [u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange'], 'track_id': [u'5RstG9WNSOaQ2G3ZFimUz1', u'0scYtiSe1lZlQt6vqWlcZC', u'0uKYWr9wbXWXfQtyWGMItp', u'6ZDQdAeTYt13V67K7LJXDv', u'6vOnTS8EhcUqvaRwsV2Dfn', u'6b6LmQZz9yeMnFQDFWQa5E', u'0sB95316MVikK4D0BfnirE', u'0deHsjyrgcKGMZzIuvawq3', u'4q91GjZYQAZWICmRaOu04F', u'3803fF96TYnzkSMA0M0L5H', u'1A8y9j0iVvQkjkhLFVrQFO', u'0jF4xsiVd8AQoIEUmn7KLt', u'2S8sebSU3YRqFdD7IZw7le', u'2jVLwzrzKVhcI8UmVonVas', u'6l82XaHZyodfRvNo85Pdqr', u'6GCIYIWUBSLontW6divqsw', u'4o8Rk1YzdkTxsSEXd3YhAK', u'7yvdp8dqmxExSJwT2fn6Xq', u'6IAgarq2wDeYzpsY2Kx0Hw', u'5RstG9WNSOaQ2G3ZFimUz1', u'0scYtiSe1lZlQt6vqWlcZC', u'0uKYWr9wbXWXfQtyWGMItp', u'6ZDQdAeTYt13V67K7LJXDv', u'6vOnTS8EhcUqvaRwsV2Dfn', u'6b6LmQZz9yeMnFQDFWQa5E']}
+                                                image  ... energy
+24  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.169
+23  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.321
+22  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.253
+21  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.506
+20  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...    0.7
+19  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...   0.29
+18  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.553
+17  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.625
+16  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.526
+15  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.558
+14  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.159
+13  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...   0.71
+12  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.292
+11  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.192
+10  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.436
+9   https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.459
+8   https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.189
+7   https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.368
+6   https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.436
+5   https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.169
+4   https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.321
+3   https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.253
+2   https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.506
+1   https://i.scdn.co/image/ab67616d0000b273b1150f...  ...    0.7
+0   https://i.scdn.co/image/ab67616d0000b273b1150f...  ...   0.29
+
+[25 rows x 10 columns]
+('Rows: ', 25)
+Saved!
+
+2021-04-16 16:00:04.348583
+Auth happening...
+Getting songs
+Creating dataframe...
+Midnight 01 (Deep Sea Diver)
+No Surprises
+You Make Me Feel - Mighty Real / Epilogue
+LUCID
+Bubbles at Overlook 25th March 2019
+We Go On
+Down With the Clique
+Not Screwed! (interlude)
+Things I Imagined
+My Skin My Logo
+Way to the Show
+Time (is)
+Stay Flo
+Sound of Rain
+Binz
+Almeda
+GOT THESE SONGS
+{'played_at': ['15:44', '15:41', '15:37', '15:34', '15:30', '15:29', '15:24', '15:20', '15:20', '15:18', '15:15', '15:12', '15:08', '15:05', '15:02'], 'valence': [0.223, 0.118, 0.293, 0.514, 0.562, 0.641, 0.356, 0.166, 0.039, 0.524, 0.558, 0.38, 0.674, 0.454, 0.456], 'mood_avg': [0.352, 0.228, 0.385, 0.653, 0.577, 0.677, 0.5, 0.29, 0.21, 0.558, 0.603, 0.381, 0.71, 0.607, 0.653], 'danceability': [0.34, 0.255, 0.538, 0.675, 0.525, 0.63, 0.664, 0.34, 0.391, 0.724, 0.594, 0.493, 0.823, 0.8, 0.863], 'energy': [0.636, 0.393, 0.264, 0.885, 0.712, 0.841, 0.459, 0.436, 0.192, 0.292, 0.71, 0.159, 0.558, 0.526, 0.625], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c02d78ecd28d80920aa11f1c', u'https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856', u'https://i.scdn.co/image/ab67616d0000b273c6619148196a323b2e41d6d4', u'https://i.scdn.co/image/ab67616d0000b273db0a368a7ede184a67a51b95', u'https://i.scdn.co/image/ab67616d0000b273210e19d835bb0af6620256cf', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc'], 'album_name': [u'The OOZ', u'OK Computer', u'Step II', u'SAWAYAMA (Deluxe Edition)', u'Sixteen Oceans', u'We Will Always Love You', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home'], 'song_name': [u'Midnight 01 (Deep Sea Diver)', u'No Surprises', u'You Make Me Feel - Mighty Real / Epilogue', u'LUCID', u'Bubbles at Overlook 25th March 2019', u'We Go On', u'Down With the Clique', u'Not Screwed! (interlude)', u'Things I Imagined', u'My Skin My Logo', u'Way to the Show', u'Time (is)', u'Stay Flo', u'Sound of Rain', u'Binz'], 'artist_name': [u'King Krule', u'Radiohead', u'Sylvester', u'Rina Sawayama', u'Four Tet', u'The Avalanches', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange', u'Solange'], 'track_id': [u'5wogkmCiovgDIbUqSJGMti', u'10nyNJ6zNy2YVYLrcwLccB', u'4MinlMFRawV1zIny2mN2JD', u'7BoVAJ0HuKcBBRmUGlzX6o', u'694jIrWPygAI5eAiNxNCrw', u'4k65ndzxH3tHYZSnYurgM7', u'3803fF96TYnzkSMA0M0L5H', u'1A8y9j0iVvQkjkhLFVrQFO', u'0jF4xsiVd8AQoIEUmn7KLt', u'2S8sebSU3YRqFdD7IZw7le', u'2jVLwzrzKVhcI8UmVonVas', u'6l82XaHZyodfRvNo85Pdqr', u'6GCIYIWUBSLontW6divqsw', u'4o8Rk1YzdkTxsSEXd3YhAK', u'7yvdp8dqmxExSJwT2fn6Xq']}
+                                                image  ... energy
+14  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.625
+13  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.526
+12  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.558
+11  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.159
+10  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...   0.71
+9   https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.292
+8   https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.192
+7   https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.436
+6   https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.459
+5   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.841
+4   https://i.scdn.co/image/ab67616d0000b
