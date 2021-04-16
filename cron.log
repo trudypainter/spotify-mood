@@ -73587,3 +73587,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master b0786ce] updating daily data 2021-04-15 20:00:04.462626
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-04-15 20:00:03.653001
+Auth happening...
+Getting songs
+Creating dataframe...
+Meltphace 6
+Virile
+GOT THESE SONGS
+{'played_at': ['19:06'], 'valence': [0.271], 'mood_avg': [0.527], 'danceability': [0.583], 'energy': [0.929], 'image': [u'https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a'], 'album_name': [u'Drukqs'], 'song_name': [u'Meltphace 6'], 'artist_name': [u'Aphex Twin'], 'track_id': [u'6k4rGXnm8jWGk9lEnpCIyP']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273a5aef9...  ...  0.929
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
