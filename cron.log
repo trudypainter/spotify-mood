@@ -73829,3 +73829,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 0626e8a] updating daily data 2021-04-16 11:00:06.421584
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-04-16 11:00:05.406286
+Auth happening...
+Getting songs
+Creating dataframe...
+enemy
+detonate
+c2.0
+claws
+forever
+visions
+GOT THESE SONGS
+{'played_at': ['10:26', '10:22', '10:18', '10:14', '10:11'], 'valence': [0.222, 0.68, 0.688, 0.629, 0.462], 'mood_avg': [0.497, 0.679, 0.567, 0.689, 0.601], 'danceability': [0.69, 0.648, 0.435, 0.707, 0.577], 'energy': [0.661, 0.74, 0.588, 0.771, 0.927], 'image': [u'https://i.scdn.co/image/ab67616d0000b273664e38c99d077cc52ab48914', u'https://i.scdn.co/image/ab67616d0000b273664e38c99d077cc52ab48914', u'https://i.scdn.co/image/ab67616d0000b273664e38c99d077cc52ab48914', u'https://i.scdn.co/image/ab67616d0000b273664e38c99d077cc52ab48914', u'https://i.scdn.co/image/ab67616d0000b273664e38c99d077cc52ab48914'], 'album_name': [u"how i'm feeling now", u"how i'm feeling now", u"how i'm feeling now", u"how i'm feeling now", u"how i'm feeling now"], 'song_name': [u'enemy', u'detonate', u'c2.0', u'claws', u'forever'], 'artist_name': [u'Charli XCX', u'Charli XCX', u'Charli XCX', u'Charli XCX', u'Charli XCX'], 'track_id': [u'51qNCY0lUymE88LPDUqFXd', u'1M6VHCglQ2PLWeAsyhgEUH', u'5gNTRfMRPZg1U07j7KSSaG', u'7Dexi5Z2IowCkHrnzlWysc', u'5GsJIVCBFjhCcUwJaTW2sB']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273664e38...  ...  0.927
+3  https://i.scdn.co/image/ab67616d0000b273664e38...  ...  0.771
+2  https://i.scdn.co/image/ab67616d0000b273664e38...  ...  0.588
+1  https://i.scdn.co/image/ab67616d0000b273664e38...  ...   0.74
+0  https://i.scdn.co/image/ab67616d0000b273664e38...  ...  0.661
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
