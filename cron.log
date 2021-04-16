@@ -73869,3 +73869,34 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 280a4da] updating daily data 2021-04-16 13:00:07.455095
+ 3 files changed, 24 insertions(+), 1 deletion(-)
+2021-04-16 13:00:05.512791
+Auth happening...
+Getting songs
+Creating dataframe...
+Carrier Waves
+Born To Lose
+Oh The Sunn!
+Dial D For Devotion
+Music Makes Me High
+The Divine Chord
+Ghost Story
+Blue Verb Reprise
+enemy
+GOT THESE SONGS
+{'played_at': ['12:20', '12:19', '12:14', '12:12', '12:11', '12:08', '12:05', '12:03'], 'valence': [0.0775, 0.36, 0.124, 0.338, 0.76, 0.373, 0.228, 0.202], 'mood_avg': [0.247, 0.516, 0.462, 0.392, 0.729, 0.545, 0.259, 0.371], 'danceability': [0.3, 0.545, 0.708, 0.512, 0.607, 0.557, 0.261, 0.38], 'energy': [0.481, 0.768, 0.644, 0.26, 0.911, 0.863, 0.317, 0.69], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b80f8eb7cd3776e665e77477'], 'album_name': [u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'Only Diamonds Cut Diamonds'], 'song_name': [u'Carrier Waves', u'Born To Lose', u'Oh The Sunn!', u'Dial D For Devotion', u'Music Makes Me High', u'The Divine Chord', u'Ghost Story', u'Blue Verb Reprise'], 'artist_name': [u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'Vegyn'], 'track_id': [u'501InEJ0WT4PTkvr7EVXvl', u'5FI0R5JDimbYBMbMCGhWYV', u'1Qth3TmxzsBYDpCRCffdZk', u'4bj1A0G4EZpVGeEuqm6J4e', u'4o8ssGZ37z8S93zHTNfDlD', u'3A0cAzFKPefBCz7Z02UnnO', u'4K462KpNKJKaqo4Nw4v0Xm', u'2NtxEpPbit8mjcI1K8Wnke']}
+                                               image  ... energy
+7  https://i.scdn.co/image/ab67616d0000b273b80f8e...  ...   0.69
+6  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.317
+5  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.863
+4  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.911
+3  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...   0.26
+2  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.644
+1  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.768
+0  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.481
+
+[8 rows x 10 columns]
+('Rows: ', 8)
+Saved!
+
