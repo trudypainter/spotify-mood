@@ -73900,3 +73900,50 @@ GOT THESE SONGS
 ('Rows: ', 8)
 Saved!
 
+[master 62eee18] updating daily data 2021-04-16 14:00:08.148540
+ 2 files changed, 32 insertions(+), 1 deletion(-)
+2021-04-16 14:00:05.627663
+Auth happening...
+Getting songs
+Creating dataframe...
+Carrier Waves
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-04-16 15:00:04.665000
+Auth happening...
+Getting songs
+Creating dataframe...
+I'm a Witness
+We Deal With the Freak'n (intermission)
+Nothing Without Intention (interlude)
+Jerrod
+S McGregor (interlude)
+Can I Hold the Mic (interlude)
+Exit Scott (interlude)
+Dreams
+Beltway
+Down With the Clique
+Not Screwed! (interlude)
+Things I Imagined
+My Skin My Logo
+Way to the Show
+Time (is)
+Stay Flo
+Sound of Rain
+Binz
+Almeda
+I'm a Witness
+We Deal With the Freak'n (intermission)
+Nothing Without Intention (interlude)
+Jerrod
+S McGregor (interlude)
+Can I Hold the Mic (interlude)
+Carrier Waves
+GOT THESE SONGS
+{'played_at': ['14:56', '14:55', '14:54', '14:54', '14:51', '14:50', '14:50', '14:49', '14:46', '14:45', '14:41', '14:41', '14:39', '14:36', '14:33', '14:29', '14:26', '14:23', '14:21', '14:17', '14:15', '14:15', '14:14', '14:11', '14:11'], 'valence': [0.0383, 0.545, 0.623, 0.218, 0.361, 0.534, 0.525, 0.211, 0.0391, 0.356, 0.166, 0.039, 0.524, 0.558, 0.38, 0.674, 0.454, 0.456, 0.0631, 0.0383, 0.545, 0.623, 0.218, 0.361, 0.534], 'mood_avg': [0.177, 0.537, 0.622, 0.301, 0.377, 0.501, 0.453, 0.422, 0.179, 0.5, 0.29, 0.21, 0.558, 0.603, 0.381, 0.71, 0.607, 0.653, 0.467, 0.177, 0.537, 0.622, 0.301, 0.377, 0.501], 'danceability': [0.26, 0.447, 0.678, 0.409, 0.422, 0.633, 0.39, 0.661, 0.313, 0.664, 0.34, 0.391, 0.724, 0.594, 0.493, 0.823, 0.8, 0.863, 0.827, 0.26, 0.447, 0.678, 0.409, 0.422, 0.633], 'energy': [0.29, 0.7, 0.506, 0.253, 0.321, 0.169, 0.436, 0.368, 0.189, 0.459, 0.436, 0.192, 0.292, 0.71, 0.159, 0.558, 0.526, 0.625, 0.553, 0.29, 0.7, 0.506, 0.253, 0.321, 0.169], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc'], 'album_name': [u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home', u'When I Get Home'], 'song_name': [u"I'm a Witness", u"We Deal With the Freak'n (intermission)", u'Nothing Without Intention (interlude)', u'Jerrod', u'S McGregor (interlude)', u'Can I Hold the Mic (interlude)', u'Exit Scott (interlude)', u'Dreams', u'Beltway', u'Down With the Clique',
