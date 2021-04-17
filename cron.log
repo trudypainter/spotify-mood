@@ -74070,3 +74070,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 5b090f2] updating daily data 2021-04-16 20:00:07.593652
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-04-16 20:00:06.465452
+Auth happening...
+Getting songs
+Creating dataframe...
+Flex
+Digits
+Money Longer
+Don't Touch Me (feat. KEY)
+JAPAN
+Midnight 01 (Deep Sea Diver)
+GOT THESE SONGS
+{'played_at': ['19:49', '19:45', '19:43', '19:39', '19:36'], 'valence': [0.27, 0.294, 0.478, 0.484, 0.841], 'mood_avg': [0.527, 0.552, 0.623, 0.659, 0.765], 'danceability': [0.75, 0.769, 0.795, 0.714, 0.733], 'energy': [0.596, 0.632, 0.568, 0.897, 0.678], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1', u'https://i.scdn.co/image/ab67616d0000b273a875c3ec944b4f164ab5c350', u'https://i.scdn.co/image/ab67616d0000b2738be07181aa935225a6f25d56', u'https://i.scdn.co/image/ab67616d0000b2739151691fbd8b30675e5bb315', u'https://i.scdn.co/image/ab67616d0000b27324ef7429ba82789623ae8b14'], 'album_name': [u'Playboi Carti', u'Slime Season 3', u'Lil Uzi Vert vs. The World', u'Ethernet', u'Dex Meets Dexter'], 'song_name': [u'Flex', u'Digits', u'Money Longer', u"Don't Touch Me (feat. KEY)", u'JAPAN'], 'artist_name': [u'Playboi Carti', u'Young Thug', u'Lil Uzi Vert', u'Wifisfuneral', u'Famous Dex'], 'track_id': [u'2xyBvir9n474qfsOkxXMgx', u'4cg1yakyRSIOjxKM2I7J1q', u'0B8QzDH7YWih85V5SEMnyJ', u'5hCjqEyTxhzc4ApKchwIgU', u'5PTG6rrL6EPFD9E2QMI2pl']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b27324ef74...  ...  0.678
+3  https://i.scdn.co/image/ab67616d0000b273915169...  ...  0.897
+2  https://i.scdn.co/image/ab67616d0000b2738be071...  ...  0.568
+1  https://i.scdn.co/image/ab67616d0000b273a875c3...  ...  0.632
+0  https://i.scdn.co/image/ab67616d0000b273e31a27...  ...  0.596
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
