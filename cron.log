@@ -74261,3 +74261,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 8d924c1] updating daily data 2021-04-17 08:00:03.587836
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-04-17 08:00:02.747427
+Auth happening...
+Getting songs
+Creating dataframe...
+Bad Company (feat. BlocBoy JB)
+Knock Knock
+GOT THESE SONGS
+{'played_at': ['07:51'], 'valence': [0.343], 'mood_avg': [0.603], 'danceability': [0.901], 'energy': [0.529], 'image': [u'https://i.scdn.co/image/ab67616d0000b273f669edbfecf19e5725b7af6c'], 'album_name': [u'Bad Company (feat. BlocBoy JB)'], 'song_name': [u'Bad Company (feat. BlocBoy JB)'], 'artist_name': [u'A$AP Rocky'], 'track_id': [u'3ZYwSDF9knZI0RVlKR4PHC']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273f669ed...  ...  0.529
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
