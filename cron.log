@@ -74360,3 +74360,34 @@ GOT THESE SONGS
 0   https://i.scdn.co/image/ab67616d0000b2735a9731...  ...   0.613
 
 [14 rows x 10 columns]
+[master a0df2b6] updating daily data 2021-04-17 12:00:05.007261
+ 3 files changed, 80 insertions(+), 1 deletion(-)
+2021-04-17 12:00:03.431956
+Auth happening...
+Getting songs
+Creating dataframe...
+Way Past 12 (feat. Monty)
+4th of july
+Funk U
+I Don't Want To Talk To You
+Beskhu3epnm
+Punisher
+Prep Gwarek 36
+The Darkness
+Post Panic!
+GOT THESE SONGS
+{'played_at': ['11:58', '11:54', '11:51', '11:29', '11:27', '11:25', '11:22', '11:20'], 'valence': [0.419, 0.31, 0.624, 0.865, 0.0493, 0.212, 0.0334, 0.131], 'mood_avg': [0.624, 0.42, 0.669, 0.678, 0.345, 0.301, 0.354, 0.423], 'danceability': [0.9, 0.592, 0.723, 0.435, 0.723, 0.428, 0.71, 0.735], 'energy': [0.483, 0.296, 0.653, 0.788, 0.181, 0.226, 0.284, 0.384], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733fd7c017bbf03fc718d93052', u'https://i.scdn.co/image/ab67616d0000b273c674871d5154e94966de4ae0', u'https://i.scdn.co/image/ab67616d0000b27377daac07a4988edfd1495679', u'https://i.scdn.co/image/ab67616d0000b273db59437636f1219033bdc608', u'https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a', u'https://i.scdn.co/image/ab67616d0000b27395d35bb46c2ea54d9f179bca'], 'album_name': [u'You Know The Vibes', u'4th of july', u'Funk U', u'Hair of the Dog', u'Drukqs', u'Punisher', u'Drukqs', u'Apple'], 'song_name': [u'Way Past 12 (feat. Monty)', u'4th of july', u'Funk U', u"I Don't Want To Talk To You", u'Beskhu3epnm', u'Punisher', u'Prep Gwarek 36', u'The Darkness'], 'artist_name': [u'Fetty Wap', u'Hand Habits', u'WEISS', u'ARTHUR', u'Aphex Twin', u'Phoebe Bridgers', u'Aphex Twin', u'A. G. Cook'], 'track_id': [u'5jOQciaYrQnTOX5e4Xi681', u'1jRhmp69z3clRhNjev6P6f', u'3Nu6och4FpCM0kpLqLGee0', u'2OUzGR0wBHq2IcC9TZLjyH', u'1c1684voHmF0Kbe0CL4iI1', u'7yR6GEJsPI6kmNRvFkPuN3', u'5S64J4FJvP98KaNe8kR5Ay', u'47OkYh8l1AZi5e5ARza5Ic']}
+                                               image  ... energy
+7  https://i.scdn.co/image/ab67616d0000b27395d35b...  ...  0.384
+6  https://i.scdn.co/image/ab67616d0000b273a5aef9...  ...  0.284
+5  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...  0.226
+4  https://i.scdn.co/image/ab67616d0000b273a5aef9...  ...  0.181
+3  https://i.scdn.co/image/ab67616d0000b273db5943...  ...  0.788
+2  https://i.scdn.co/image/ab67616d0000b27377daac...  ...  0.653
+1  https://i.scdn.co/image/ab67616d0000b273c67487...  ...  0.296
+0  https://i.scdn.co/image/ab67616d0000b2733fd7c0...  ...  0.483
+
+[8 rows x 10 columns]
+('Rows: ', 8)
+Saved!
+
