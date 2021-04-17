@@ -74140,3 +74140,19 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 2665861] updating daily data 2021-04-17 00:00:04.275242
+ 3 files changed, 16 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2021-04-17.csv
+2021-04-17 00:00:03.645552
+Auth happening...
+Getting songs
+Creating dataframe...
+Knock Knock
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
