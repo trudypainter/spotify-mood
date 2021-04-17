@@ -74391,3 +74391,24 @@ GOT THESE SONGS
 ('Rows: ', 8)
 Saved!
 
+[master 691bcb9] updating daily data 2021-04-17 13:00:04.333876
+ 3 files changed, 35 insertions(+), 1 deletion(-)
+2021-04-17 13:00:03.334218
+Auth happening...
+Getting songs
+Creating dataframe...
+Severed Head (feat. Goldlink and Unknown Mortal Orchestra)
+Options
+Friday 13th (feat. Octavian)
+Way Past 12 (feat. Monty)
+GOT THESE SONGS
+{'played_at': ['12:09', '12:05', '12:02'], 'valence': [0.472, 0.603, 0.484], 'mood_avg': [0.62, 0.683, 0.577], 'danceability': [0.74, 0.785, 0.753], 'energy': [0.674, 0.64, 0.411], 'image': [u'https://i.scdn.co/image/ab67616d0000b27305a3c11cb2cb7c60d30316a3', u'https://i.scdn.co/image/ab67616d0000b2731ad049762e7a984854856ea1', u'https://i.scdn.co/image/ab67616d0000b2735566386805cf4f9ce5054b20'], 'album_name': [u'Song Machine, Season One: Strange Timez (Deluxe)', u'Options', u'Song Machine Episode 4'], 'song_name': [u'Severed Head (feat. Goldlink and Unknown Mortal Orchestra)', u'Options', u'Friday 13th (feat. Octavian)'], 'artist_name': [u'Gorillaz', u'Maka Oceania', u'Gorillaz'], 'track_id': [u'0Zn0jtLj2ehkIPxlCoO65O', u'3S9EqZwFAy8nBGIzRGdWVo', u'6szrrh2IL7cgu4q6D5ryW0']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273556638...  ...  0.411
+1  https://i.scdn.co/image/ab67616d0000b2731ad049...  ...   0.64
+0  https://i.scdn.co/image/ab67616d0000b27305a3c1...  ...  0.674
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
