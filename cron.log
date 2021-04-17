@@ -74293,3 +74293,70 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 5e4f344] updating daily data 2021-04-17 10:00:03.764713
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-04-17 10:00:02.248374
+Auth happening...
+Getting songs
+Creating dataframe...
+Holding On
+La Meg
+Symbols, Tokens
+KLK
+Nearer to Thee
+Ladies
+I'ma Get You
+Bad Company (feat. BlocBoy JB)
+GOT THESE SONGS
+{'played_at': ['09:55', '09:51', '09:48', '09:46', '09:42', '09:41', '09:35'], 'valence': [0.634, 0.253, 0.645, 0.846, 0.0712, 0.28, 0.413], 'mood_avg': [0.657, 0.372, 0.683, 0.832, 0.121, 0.398, 0.439], 'danceability': [0.789, 0.576, 0.748, 0.798, 0.173, 0.562, 0.466], 'energy': [0.437, 0.2, 0.629, 0.873, 0.117, 0.307, 0.438], 'image': [u'https://i.scdn.co/image/ab67616d0000b273281b57bfec5391971863c05a', u'https://i.scdn.co/image/ab67616d0000b27337af2ce4e0abffff0045034c', u'https://i.scdn.co/image/ab67616d0000b273a957341d8a1a75973d22bee0', u'https://i.scdn.co/image/ab67616d0000b2738c894fac3d113f98885d3117', u'https://i.scdn.co/image/ab67616d0000b2730c64e752dec4c08362cc4a88', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b27337e744667c098ff2669b4d4f'], 'album_name': [u'Devotion', u'Both', u'Sen Morimoto', u'KiCk i', u'Titanic Rising', u'Fetch The Bolt Cutters', u'direct line to My Creator'], 'song_name': [u'Holding On', u'La Meg', u'Symbols, Tokens', u'KLK', u'Nearer to Thee', u'Ladies', u"I'ma Get You"], 'artist_name': [u'Tirzah', u'Okay Kaya', u'Sen Morimoto', u'Arca', u'Weyes Blood', u'Fiona Apple', u'duendita'], 'track_id': [u'4RjwMyr4D2W4py79Heop9l', u'1TenYwHUfKq18hSfcbc2Rj', u'0fC2zJ3VrSIWbPSGzdbQHp', u'2ZFu40Ik8VsUE9H87W0MmZ', u'7s9I4aCM8cfe2cSgPaPezg', u'0jH0IsCBGackT3RmHBbSUI', u'5E6j31uRzWzcIxHxPeZsX2']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b27337e744...  ...  0.438
+5  https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.307
+4  https://i.scdn.co/image/ab67616d0000b2730c64e7...  ...  0.117
+3  https://i.scdn.co/image/ab67616d0000b2738c894f...  ...  0.873
+2  https://i.scdn.co/image/ab67616d0000b273a95734...  ...  0.629
+1  https://i.scdn.co/image/ab67616d0000b27337af2c...  ...    0.2
+0  https://i.scdn.co/image/ab67616d0000b273281b57...  ...  0.437
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
+2021-04-17 11:00:02.932062
+Auth happening...
+Getting songs
+Creating dataframe...
+Post Panic!
+Teenage Birdsong
+River
+Way to the Show
+Die 4 You
+THE TH1NG
+4real
+Gold Teeth
+The Divine Chord
+Interlude: I Got So Much Magic, You Can Have It (feat. Kelly Rowland & Nia Andrews)
+Do You Know
+Me in 20 Years
+Save
+Midnight 01 (Deep Sea Diver)
+Terminal B
+GOT THESE SONGS
+{'played_at': ['10:44', '10:41', '10:38', '10:34', '10:31', '10:27', '10:23', '10:21', '10:18', '10:15', '10:14', '10:10', '10:07', '10:04'], 'valence': [0.518, 0.0625, 0.383, 0.558, 0.264, 0.181, 0.706, 0.525, 0.373, 0.639, 0.149, 0.0543, 0.124, 0.223], 'mood_avg': [0.486, 0.451, 0.346, 0.603, 0.285, 0.382, 0.758, 0.699, 0.545, 0.528, 0.362, 0.237, 0.345, 0.352], 'danceability': [0.39, 0.633, 0.405, 0.594, 0.257, 0.519, 0.698, 0.89, 0.557, 0.652, 0.631, 0.35, 0.545, 0.34], 'energy': [0.613, 0.866, 0.152, 0.71, 0.381, 0.511, 0.982, 0.665, 0.863, 0.0584, 0.252, 0.376, 0.389, 0.636], 'image': [u'https://i.scdn.co/image/ab67616d0000b2735a973167d72dfaaedf82a654', u'https://i.scdn.co/image/ab67616d0000b273210e19d835bb0af6620256cf', u'https://i.scdn.co/image/ab67616d0000b273e9f77be85457110ebf304da7', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b2738fdf12fe7f25d791a78375da', u'https://i.scdn.co/image/ab67616d0000b2738ed9099f0643b99f85fa442e', u'https://i.scdn.co/image/ab67616d0000b273c3545bbe806b845c2b52bc20', u'https://i.scdn.co/image/ab67616d0000b273c705e4061a1de1139ced6554', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b2731c4540d0ecafaa45305aa5a0', u'https://i.scdn.co/image/ab67616d0000b273281b57bfec5391971863c05a', u'https://i.scdn.co/image/ab67616d0000b2738b40e0ef79069fb9bcc560d9', u'https://i.scdn.co/image/ab67616d0000b273a957341d8a1a75973d22bee0', u'https://i.scdn.co/image/ab67616d0000b273c02d78ecd28d80920aa11f1c'], 'album_name': [u'Song of Sage: Post Panic!', u'Sixteen Oceans', u'Blue', u'When I Get Home', u'No Shape', u'WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358', u'The Lo-Fis', u"Angel's Pulse", u'We Will Always Love You', u'A Seat at the Table', u'Devotion', u'gr\xe6', u'Sen Morimoto', u'The OOZ'], 'song_name': [u'Post Panic!', u'Teenage Birdsong', u'River', u'Way to the Show', u'Die 4 You', u'THE TH1NG', u'4real', u'Gold Teeth', u'The Divine Chord', u'Interlude: I Got So Much Magic, You Can Have It (feat. Kelly Rowland & Nia Andrews)', u'Do You Know', u'Me in 20 Years', u'Save', u'Midnight 01 (Deep Sea Diver)'], 'artist_name': [u'Navy Blue', u'Four Tet', u'Joni Mitchell', u'Solange', u'Perfume Genius', u'Yaeji', u'Steve Lacy', u'Blood Orange', u'The Avalanches', u'Solange', u'Tirzah', u'Moses Sumney', u'Sen Morimoto', u'King Krule'], 'track_id': [u'6uMqJQvja5YpIWqcGOLRoj', u'4onzxTzKgnSrKUmA2YydJB', u'0DAmSYQW9kq9gQNDI002KP', u'2jVLwzrzKVhcI8UmVonVas', u'2OBY3aeK3P2iiB6tkuanRz', u'3Jlyj8Gtfg4jcuhE4QbiEX', u'0fBFp8ItmAfAqPHZx8qQsh', u'3BbWvLOFaxx0npzxfRixyO', u'3A0cAzFKPefBCz7Z02UnnO', u'1X2GmcZ5NIKnEyDdSzzJ4q', u'1kZL5Q4uzQLkhK0LUexoFQ', u'0KnvToS92AMDTaB0f0FIwf', u'3wRefitVoMrGu06gEKH8k6', u'5wogkmCiovgDIbUqSJGMti']}
+                                                image  ...  energy
+13  https://i.scdn.co/image/ab67616d0000b273c02d78...  ...   0.636
+12  https://i.scdn.co/image/ab67616d0000b273a95734...  ...   0.389
+11  https://i.scdn.co/image/ab67616d0000b2738b40e0...  ...   0.376
+10  https://i.scdn.co/image/ab67616d0000b273281b57...  ...   0.252
+9   https://i.scdn.co/image/ab67616d0000b2731c4540...  ...  0.0584
+8   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...   0.863
+7   https://i.scdn.co/image/ab67616d0000b273c705e4...  ...   0.665
+6   https://i.scdn.co/image/ab67616d0000b273c3545b...  ...   0.982
+5   https://i.scdn.co/image/ab67616d0000b2738ed909...  ...   0.511
+4   https://i.scdn.co/image/ab67616d0000b2738fdf12...  ...   0.381
+3   https://i.scdn.co/image/ab67616d0000b273b1150f...  ...    0.71
+2   https://i.scdn.co/image/ab67616d0000b273e9f77b...  ...   0.152
+1   https://i.scdn.co/image/ab67616d0000b273210e19...  ...   0.866
+0   https://i.scdn.co/image/ab67616d0000b2735a9731...  ...   0.613
+
+[14 rows x 10 columns]
