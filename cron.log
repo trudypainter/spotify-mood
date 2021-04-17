@@ -74442,3 +74442,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 0f87808] updating daily data 2021-04-17 16:00:04.387694
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-04-17 16:00:03.486163
+Auth happening...
+Getting songs
+Creating dataframe...
+New Normal
+Pang
+So Hot You're Hurting My Feelings
+Insomnia
+Are You On?
+Severed Head (feat. Goldlink and Unknown Mortal Orchestra)
+GOT THESE SONGS
+{'played_at': ['15:59', '15:56', '15:52', '15:49', '15:46'], 'valence': [0.488, 0.547, 0.847, 0.0363, 0.207], 'mood_avg': [0.567, 0.638, 0.772, 0.157, 0.452], 'danceability': [0.688, 0.707, 0.795, 0.231, 0.639], 'energy': [0.483, 0.681, 0.576, 0.249, 0.568], 'image': [u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759', u'https://i.scdn.co/image/ab67616d0000b273fd4c7605968ec2ed2a104b96'], 'album_name': [u'Pang', u'Pang', u'Pang', u'Pang', u'Are You On?'], 'song_name': [u'New Normal', u'Pang', u"So Hot You're Hurting My Feelings", u'Insomnia', u'Are You On?'], 'artist_name': [u'Caroline Polachek', u'Caroline Polachek', u'Caroline Polachek', u'Caroline Polachek', u'KAM-BU'], 'track_id': [u'3dPkaunRnlcwGiOTJpQGD1', u'5bcJwBywjaz78KTf374PCb', u'5B6Kjha6RRIMWGN7zGsAaT', u'1hEusmjsW1ZxqmBYs9AmfR', u'7vtTDys6AamkfeQkYdlZ8q']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273fd4c76...  ...  0.568
+3  https://i.scdn.co/image/ab67616d0000b2737d983e...  ...  0.249
+2  https://i.scdn.co/image/ab67616d0000b2737d983e...  ...  0.576
+1  https://i.scdn.co/image/ab67616d0000b2737d983e...  ...  0.681
+0  https://i.scdn.co/image/ab67616d0000b2737d983e...  ...  0.483
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
