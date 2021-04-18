@@ -74684,3 +74684,24 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 3e8ad31] updating daily data 2021-04-18 10:00:03.789310
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-04-18 10:00:02.995226
+Auth happening...
+Getting songs
+Creating dataframe...
+Lara (feat. Clairo)
+Love In Reverse (with Empress Of)
+Dare (AM)
+On My Vans
+GOT THESE SONGS
+{'played_at': ['09:10', '09:06', '09:01'], 'valence': [0.397, 0.341, 0.361], 'mood_avg': [0.583, 0.539, 0.55], 'danceability': [0.704, 0.693, 0.736], 'energy': [0.715, 0.626, 0.557], 'image': [u'https://i.scdn.co/image/ab67616d0000b273178cda4e2ef0055f481efeee', u'https://i.scdn.co/image/ab67616d0000b2732addf37f0b2d266f9d2677b6', u'https://i.scdn.co/image/ab67616d0000b27324a9989928c399690bf429a9'], 'album_name': [u'Lara (feat. Clairo)', u'Love In Reverse (with Empress Of)', u'Dare (AM)'], 'song_name': [u'Lara (feat. Clairo)', u'Love In Reverse (with Empress Of)', u'Dare (AM)'], 'artist_name': [u'SASSY 009', u'MNDR', u'Namasenda'], 'track_id': [u'4hOIaf53AbFr6BwcaT12S1', u'0QTTMcQe6gw0rE6r23uswv', u'0e8DKKBRXdKyWTKs8IHPYG']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b27324a998...  ...  0.557
+1  https://i.scdn.co/image/ab67616d0000b2732addf3...  ...  0.626
+0  https://i.scdn.co/image/ab67616d0000b273178cda...  ...  0.715
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
