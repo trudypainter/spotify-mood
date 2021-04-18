@@ -74751,3 +74751,26 @@ Want Some More
 Bitch I'm Nasty
 Shake That
 You Gotta Shake (feat. Supa)
+[master 661775f] updating daily data 2021-04-18 18:00:05.725012
+ 3 files changed, 36 insertions(+), 1 deletion(-)
+2021-04-18 18:00:04.470524
+Auth happening...
+Getting songs
+Creating dataframe...
+Alterlife
+Akasaka Sad
+Ladies of Cambridge
+Where U Are
+Tunnel Vision
+GOT THESE SONGS
+{'played_at': ['17:41', '17:37', '17:34', '17:31'], 'valence': [0.58, 0.477, 0.687, 0.469], 'mood_avg': [0.615, 0.64, 0.656, 0.544], 'danceability': [0.516, 0.666, 0.59, 0.553], 'energy': [0.883, 0.912, 0.727, 0.675], 'image': [u'https://i.scdn.co/image/ab67616d0000b2730e44ad85723d06e1ecd65712', u'https://i.scdn.co/image/ab67616d0000b27366a89b08608325d5a34f31d2', u'https://i.scdn.co/image/ab67616d0000b273d0ae72fdcc3f7bb0b3a7dfed', u'https://i.scdn.co/image/ab67616d0000b273d53f7c72eccea3c4223dc9ce'], 'album_name': [u'RINA', u'SAWAYAMA', u'Ladies of Cambridge', u'Where U Are'], 'song_name': [u'Alterlife', u'Akasaka Sad', u'Ladies of Cambridge', u'Where U Are'], 'artist_name': [u'Rina Sawayama', u'Rina Sawayama', u'Vampire Weekend', u'Rina Sawayama'], 'track_id': [u'0Z0y8PeCB2f9w3m9Hi6vPD', u'32umfTzGdXsWOTNaRGR5hd', u'2mdHW9nUG38Ym4khrPLGBU', u'30tie454RN2304xzAu5Din']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273d53f7c...  ...  0.675
+2  https://i.scdn.co/image/ab67616d0000b273d0ae72...  ...  0.727
+1  https://i.scdn.co/image/ab67616d0000b27366a89b...  ...  0.912
+0  https://i.scdn.co/image/ab67616d0000b2730e44ad...  ...  0.883
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
