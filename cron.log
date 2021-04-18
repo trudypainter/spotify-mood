@@ -74667,3 +74667,20 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master b8173d3] updating daily data 2021-04-18 09:00:04.068918
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-04-18 09:00:03.358983
+Auth happening...
+Getting songs
+Creating dataframe...
+On My Vans
+BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)
+GOT THESE SONGS
+{'played_at': ['08:03'], 'valence': [0.588], 'mood_avg': [0.648], 'danceability': [0.758], 'energy': [0.547], 'image': [u'https://i.scdn.co/image/ab67616d0000b2734c0127007afb7ef4c2eab927'], 'album_name': [u'On My Vans'], 'song_name': [u'On My Vans'], 'artist_name': [u'WHOKILLEDXIX'], 'track_id': [u'0iOoeOu3S6tXT9TbxP6Uie']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b2734c0127...  ...  0.547
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
