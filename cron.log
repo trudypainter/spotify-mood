@@ -74720,3 +74720,34 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 8327de8] updating daily data 2021-04-18 15:00:04.191375
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-04-18 15:00:03.220722
+Auth happening...
+Getting songs
+Creating dataframe...
+Lara (feat. Clairo)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-04-18 17:00:03.444172
+Auth happening...
+Getting songs
+Creating dataframe...
+Tunnel Vision
+Where U Are
+Time Out - Interlude
+Chosen Family - Acoustic
+10-20-40
+Love Me 4 Me
+Pussy Talk
+Want Some More
+101 FM
+Bitch I'm Nasty
+Shake That
+You Gotta Shake (feat. Supa)
