@@ -74497,3 +74497,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 911599e] updating daily data 2021-04-17 22:00:03.614475
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-04-17 22:00:02.760491
+Auth happening...
+Getting songs
+Creating dataframe...
+Provider
+After Party
+GOT THESE SONGS
+{'played_at': ['21:02'], 'valence': [0.39], 'mood_avg': [0.483], 'danceability': [0.654], 'energy': [0.325], 'image': [u'https://i.scdn.co/image/ab67616d0000b273ea6b1f7e51a387da94f51eb9'], 'album_name': [u'Provider'], 'song_name': [u'Provider'], 'artist_name': [u'Frank Ocean'], 'track_id': [u'6R6ihJhRbgu7JxJKIbW57w']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273ea6b1f...  ...  0.325
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
