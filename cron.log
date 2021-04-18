@@ -74650,3 +74650,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master aa5edea] updating daily data 2021-04-18 08:00:04.496856
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-04-18 08:00:03.453490
+Auth happening...
+Getting songs
+Creating dataframe...
+BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)
+Provider
+GOT THESE SONGS
+{'played_at': ['07:01'], 'valence': [0.112], 'mood_avg': [0.412], 'danceability': [0.745], 'energy': [0.346], 'image': [u'https://i.scdn.co/image/ab67616d0000b273f43405f32dfe1c07777c06af'], 'album_name': [u'STAY DANGEROUS'], 'song_name': [u'BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)'], 'artist_name': [u'YG'], 'track_id': [u'0ZNrc4kNeQYD9koZ3KvCsy']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273f43405...  ...  0.346
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
