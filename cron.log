@@ -74959,3 +74959,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 18d9195] updating daily data 2021-04-19 07:00:09.477228
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-04-19 07:00:08.402893
+Auth happening...
+Getting songs
+Creating dataframe...
+Bad Friend - Dream Wife Remix
+XS
+GOT THESE SONGS
+{'played_at': ['06:35'], 'valence': [0.251], 'mood_avg': [0.425], 'danceability': [0.551], 'energy': [0.522], 'image': [u'https://i.scdn.co/image/ab67616d0000b273db0a368a7ede184a67a51b95'], 'album_name': [u'SAWAYAMA (Deluxe Edition)'], 'song_name': [u'Bad Friend - Dream Wife Remix'], 'artist_name': [u'Rina Sawayama'], 'track_id': [u'476JBi0dalg0nFxQpXJPpV']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273db0a36...  ...  0.522
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
