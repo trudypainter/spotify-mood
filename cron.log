@@ -75035,3 +75035,52 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 49b559f] updating daily data 2021-04-19 11:00:03.996935
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-04-19 11:00:03.108034
+Auth happening...
+Getting songs
+Creating dataframe...
+Minnesota
+Minnesota
+GOT THESE SONGS
+{'played_at': ['10:59'], 'valence': [0.246], 'mood_avg': [0.553], 'danceability': [0.812], 'energy': [0.648], 'image': [u'https://i.scdn.co/image/ab67616d0000b27314d1a203158bed18a4ea7375'], 'album_name': [u'Lil Boat'], 'song_name': [u'Minnesota'], 'artist_name': [u'Lil Yachty'], 'track_id': [u'4XkOcWt0C2JX1s2RXybosk']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b27314d1a2...  ...  0.648
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
+2021-04-19 12:00:06.600289
+Auth happening...
+Getting songs
+Creating dataframe...
+Popeyes Bag
+Dirtknock
+Intro / Set3
+Stockholm i april
+Big Air
+Big Air
+Yamborghini High (feat. Juicy J)
+Chanel (Go Get It) [feat. Gunna & Lil Baby]
+Minnesota
+GOT THESE SONGS
+{'played_at': ['11:57', '11:54', '11:51', '11:48', '11:44', '11:43', '11:08', '11:03'], 'valence': [0.039, 0.565, 0.132, 0.324, 0.233, 0.233, 0.635, 0.462], 'mood_avg': [0.358, 0.609, 0.302, 0.401, 0.372, 0.372, 0.742, 0.66], 'danceability': [0.709, 0.713, 0.304, 0.598, 0.238, 0.238, 0.838, 0.938], 'energy': [0.296, 0.488, 0.639, 0.163, 0.92, 0.92, 0.765, 0.5], 'image': [u'https://i.scdn.co/image/ab67616d0000b273dff7cac30ec28e4adf4c6a9c', u'https://i.scdn.co/image/ab67616d0000b27389074e679d0f97261b0663d8', u'https://i.scdn.co/image/ab67616d0000b273ebcc3ef64dbef8acb47e2960', u'https://i.scdn.co/image/ab67616d0000b273975f1c79c104126c39c0e6ae', u'https://i.scdn.co/image/ab67616d0000b2731549f9e1d350c8169f92823c', u'https://i.scdn.co/image/ab67616d0000b2731549f9e1d350c8169f92823c', u'https://i.scdn.co/image/ab67616d0000b273a4b5ed5f5b9d3445eac62bad', u'https://i.scdn.co/image/ab67616d0000b273fbd8ead00d2fb0649a534212'], 'album_name': [u'Angel Hair', u'Dirtknock', u'The 1975 (Deluxe Version)', u'In the Moment', u'PXE', u'PXE', u'Yamborghini High (feat. Juicy J)', u'Slime Language'], 'song_name': [u'Popeyes Bag', u'Dirtknock', u'Intro / Set3', u'Stockholm i april', u'Big Air', u'Big Air', u'Yamborghini High (feat. Juicy J)', u'Chanel (Go Get It) [feat. Gunna & Lil Baby]'], 'artist_name': [u'Fox Academy', u'Madlib', u'The 1975', u'Erik S\xf6derlind', u'Ecco2k', u'Ecco2k', u'A$AP Mob', u'Young Thug'], 'track_id': [u'6KReWoLnlTHz5TjYQwqkQT', u'6Eo6VMANKQi3Zc1IdkDfSp', u'2fdj5KFMvuHox86ccpMnnR', u'4WrfK4yfQPIaxnCaJ0HJSv', u'0hxtOELUEDRYRKO3Iq9Ul7', u'0hxtOELUEDRYRKO3Iq9Ul7', u'2rqUblDWJKlMVwh9uJc0Vv', u'0kCBorRrKZkSztd9m0QI3r']}
+                                               image  ... energy
+7  https://i.scdn.co/image/ab67616d0000b273fbd8ea...  ...    0.5
+6  https://i.scdn.co/image/ab67616d0000b273a4b5ed...  ...  0.765
+5  https://i.scdn.co/image/ab67616d0000b2731549f9...  ...   0.92
+4  https://i.scdn.co/image/ab67616d0000b2731549f9...  ...   0.92
+3  https://i.scdn.co/image/ab67616d0000b273975f1c...  ...  0.163
+2  https://i.scdn.co/image/ab67616d0000b273ebcc3e...  ...  0.639
+1  https://i.scdn.co/image/ab67616d0000b27389074e...  ...  0.488
+0  https://i.scdn.co/image/ab67616d0000b273dff7ca...  ...  0.296
+
+[8 rows x 10 columns]
+2021-04-19 13:00:03.350482
+Auth happening...
+Getting songs
+Creating dataframe...
+Chords to Fix 002 (126 BPM)
+Ch---- Pa------- V2 (169.706 BPM)
