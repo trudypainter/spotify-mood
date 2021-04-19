@@ -74774,3 +74774,22 @@ GOT THESE SONGS
 ('Rows: ', 4)
 Saved!
 
+[master 869aee7] updating daily data 2021-04-18 19:00:04.334799
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-04-18 19:00:03.523099
+Auth happening...
+Getting songs
+Creating dataframe...
+XS
+LUCID
+Alterlife
+GOT THESE SONGS
+{'played_at': ['18:10', '18:07'], 'valence': [0.591, 0.514], 'mood_avg': [0.677, 0.653], 'danceability': [0.636, 0.675], 'energy': [0.929, 0.885], 'image': [u'https://i.scdn.co/image/ab67616d0000b27366a89b08608325d5a34f31d2', u'https://i.scdn.co/image/ab67616d0000b273db0a368a7ede184a67a51b95'], 'album_name': [u'SAWAYAMA', u'SAWAYAMA (Deluxe Edition)'], 'song_name': [u'XS', u'LUCID'], 'artist_name': [u'Rina Sawayama', u'Rina Sawayama'], 'track_id': [u'1TWNKyNQOBfNUkWWs7FooF', u'7BoVAJ0HuKcBBRmUGlzX6o']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273db0a36...  ...  0.885
+0  https://i.scdn.co/image/ab67616d0000b27366a89b...  ...  0.929
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
