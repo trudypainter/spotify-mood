@@ -74976,3 +74976,32 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 3bee65d] updating daily data 2021-04-19 08:00:04.470327
+ 3 files changed, 25 insertions(+), 1 deletion(-)
+2021-04-19 08:00:03.395953
+Auth happening...
+Getting songs
+Creating dataframe...
+HeadBand (feat. 2 Chainz)
+The Motto
+Lolly
+Walk It Talk It
+Walk
+Wyclef Jean
+Trini Dem Girls
+Bad Friend - Dream Wife Remix
+GOT THESE SONGS
+{'played_at': ['07:36', '07:33', '07:30', '07:26', '07:21', '07:20', '07:16'], 'valence': [0.308, 0.39, 0.837, 0.395, 0.744, 0.832, 0.328], 'mood_avg': [0.586, 0.551, 0.778, 0.647, 0.789, 0.793, 0.614], 'danceability': [0.92, 0.766, 0.663, 0.907, 0.831, 0.863, 0.838], 'energy': [0.472, 0.442, 0.889, 0.633, 0.795, 0.576, 0.736], 'image': [u'https://i.scdn.co/image/ab67616d0000b27365f20f572e71ba7bf8bd4e5d', u'https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550', u'https://i.scdn.co/image/ab67616d0000b27300c28b297755a6b609b0f77f', u'https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890', u'https://i.scdn.co/image/ab67616d0000b273fc22b0ce07f38f096102c1a7', u'https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8', u'https://i.scdn.co/image/ab67616d0000b2731e0a93db928b32f1992fd3e8'], 'album_name': [u'HeadBand (feat. 2 Chainz)', u'Take Care (Deluxe)', u'Lolly', u'Culture II', u'Bawskee', u'JEFFERY', u'The Pinkprint (Deluxe Edition)'], 'song_name': [u'HeadBand (feat. 2 Chainz)', u'The Motto', u'Lolly', u'Walk It Talk It', u'Walk', u'Wyclef Jean', u'Trini Dem Girls'], 'artist_name': [u'B.o.B', u'Drake', u'Maejor', u'Migos', u'Comethazine', u'Young Thug', u'Nicki Minaj'], 'track_id': [u'6gf1xlPETW9CwjsdnUzW3g', u'4Kz4RdRCceaA9VgTqBhBfa', u'2xtIAFJIMkzHGHiCrJ9iwd', u'6n4U3TlzUGhdSFbUUhTvLP', u'21kOVEG3bDCVphKhXL8XmQ', u'55OdqrG8WLmsYyY1jijD9b', u'0uWEMjPK2G0hjDTPpYYTaJ']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b2731e0a93...  ...  0.736
+5  https://i.scdn.co/image/ab67616d0000b273d0c722...  ...  0.576
+4  https://i.scdn.co/image/ab67616d0000b273fc22b0...  ...  0.795
+3  https://i.scdn.co/image/ab67616d0000b2739c188c...  ...  0.633
+2  https://i.scdn.co/image/ab67616d0000b27300c28b...  ...  0.889
+1  https://i.scdn.co/image/ab67616d0000b273c7ea04...  ...  0.442
+0  https://i.scdn.co/image/ab67616d0000b27365f20f...  ...  0.472
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
