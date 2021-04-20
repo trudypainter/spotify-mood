@@ -75502,3 +75502,67 @@ GOT THESE SONGS
 ('Rows: ', 7)
 Saved!
 
+[master a8bdadb] updating daily data 2021-04-20 08:00:04.728111
+ 3 files changed, 39 insertions(+), 1 deletion(-)
+2021-04-20 08:00:02.966030
+Auth happening...
+Getting songs
+Creating dataframe...
+Air
+Alright
+Slap Pie
+Fiero GT
+Show Me How (Album V)
+Sutedja
+It's a New Day - Loop
+Kansas
+Family
+September
+GOT THESE SONGS
+{'played_at': ['07:57', '07:54', '07:51', '07:49', '07:48', '07:40', '07:35', '07:07', '07:04'], 'valence': [0.531, 0.69, 0.952, 0.459, 0.46, 0.519, 0.714, 0.571, 0.499], 'mood_avg': [0.62, 0.669, 0.799, 0.556, 0.552, 0.593, 0.705, 0.649, 0.594], 'danceability': [0.86, 0.824, 0.781, 0.753, 0.811, 0.743, 0.673, 0.787, 0.683], 'energy': [0.316, 0.318, 0.529, 0.356, 0.217, 0.441, 0.753, 0.53, 0.608], 'image': [u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273eb34b35a03ebb597f40d8a5b', u'https://i.scdn.co/image/ab67616d0000b273dfafcca1c39d5bd2a0992fe1', u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da', u'https://i.scdn.co/image/ab67616d0000b273de3c33086dd2e75eae9a27da'], 'album_name': [u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Slag Boom Van Loon', u'Skull Snaps (Expanded Edition) [Digitally Remastered]', u'Cat Heaven', u'Cat Heaven'], 'song_name': [u'Air', u'Alright', u'Slap Pie', u'Fiero GT', u'Show Me How (Album V)', u'Sutedja', u"It's a New Day - Loop", u'Kansas', u'Family'], 'artist_name': [u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Slag Boom Van Loon', u'Skull Snaps', u'Roy Blair', u'Roy Blair'], 'track_id': [u'4TVw3QPxn7pD1YyrdbLa74', u'5cW8mZYs5mKGZP5n2azBW3', u'1TFOhZp3KF4zSLwMNmx4wO', u'3bGoOpYGILHGI9GpdkD0UY', u'6A46jG17UumVQLqodsFxuV', u'7ME7hVedfWiSXLlMjFRiri', u'5x3wrn3Rl4bCpSoLmzdfB9', u'5aJxpXrVzSPXW6T1hwaXwj', u'4LTqV1h5sYlaG6tO4ZuDXD']}
+                                               image  ... energy
+8  https://i.scdn.co/image/ab67616d0000b273de3c33...  ...  0.608
+7  https://i.scdn.co/image/ab67616d0000b273de3c33...  ...   0.53
+6  https://i.scdn.co/image/ab67616d0000b273dfafcc...  ...  0.753
+5  https://i.scdn.co/image/ab67616d0000b273eb34b3...  ...  0.441
+4  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.217
+3  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.356
+2  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.529
+1  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.318
+0  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.316
+
+[9 rows x 10 columns]
+('Rows: ', 9)
+Saved!
+
+2021-04-20 09:00:02.994918
+Auth happening...
+Getting songs
+Creating dataframe...
+Numb (Album V)
+Pines
+Poodle of Mud
+Days Go By
+All Night
+I Hope to Be Around (Album V)
+Tailwhip (Album V)
+Say Can You Hear (Album V)
+Found Me
+You Deserve This (Album V)
+Oncle Jazz
+Tailwhip Revisited
+Poplar Tree
+Norton Commander (Album V)
+Pierre
+Something in Water
+Seven (Album V)
+Porcelain
+GOT THESE SONGS
+{'played_at': ['08:58', '08:52', '08:48', '08:47', '08:43', '08:40', '08:36', '08:33', '08:29', '08:26', '08:23', '08:22', '08:18', '08:15', '08:11', '08:08', '08:04'], 'valence': [0.701, 0.277, 0.759, 0.292, 0.608, 0.758, 0.64, 0.644, 0.796, 0.237, 0.246, 0.696, 0.118, 0.436, 0.337, 0.213, 0.755], 'mood_avg': [0.654, 0.439, 0.683, 0.492, 0.603, 0.713, 0.64, 0.604, 0.713, 0.397, 0.445, 0.667, 0.169, 0.517, 0.423, 0.376, 0.68], 'danceability': [0.799, 0.645, 0.797, 0.783, 0.795, 0.825, 0.751, 0.663, 0.681, 0.629, 0.712, 0.73, 0.24, 0.632, 0.587, 0.627, 0.748], 'energy': [0.27, 0.349, 0.302, 0.312, 0.208, 0.397, 0.417, 0.406, 0.609, 0.253, 0.308, 0.483, 0.129, 0.451, 0.265, 0.198, 0.393], 'image': [u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d'], 'album_name': [u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz'], 'song_name': [u'Numb (Album V)', u'Pines', u'Poodle of Mud', u'Days Go By', u'All Night', u'I Hope to Be Around (Album V)', u'Tailwhip (Album V)', u'Say Can You Hear (Album V)', u'Found Me', u'You Deserve This (Album V)', u'Oncle Jazz', u'Tailwhip Revisited', u'Poplar Tree', u'Norton Commander (Album V)', u'Pierre', u'Something in Water', u'Seven (Album V)'], 'artist_name': [u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust'], 'track_id': [u'3nb2awsoNpohW96canbmAr', u'7qFLFQOYcytDd4hejiREzk', u'08UN66kxi1ASAf3RgSCR3K', u'1SyJuJfFyoAxuZMaTbwHJW', u'0XvoMOI25j4wODyk8nuANS', u'3g2TTPgNQhwGnkctiENsEh', u'3rRAR3YHRFShjEaHP0o9Xi', u'7j59MN6vDM9lrvQ0iGhqaa', u'4m0dj1HxXzFlnIqPkomXQB', u'36EO0BMu1EZZznRurwBMzW', u'204t5SErksNRHRhU52g5JF', u'5wAIikpUahtylFUnzz7D0o', u'4m2QnkXm7ZpPGxsExVp8h4', u'0DltZY7z8YvuDBSAbsIgPc', u'6rpgkVBjx8c7WURyY3xHWm', u'7rC4fpqWw83rw6SFSxN1Qo', u'74v28tCHJ9tRSvwKbQdqJc']}
+                                                image  ... energy
+16  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.393
+15  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.198
+14  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.265
+13  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.451
+12  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.129
+11  https://i.scdn.co/image/ab67616d000
