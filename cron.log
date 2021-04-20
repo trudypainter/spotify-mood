@@ -75690,3 +75690,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 9502914] updating daily data 2021-04-20 18:00:03.949918
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-04-20 18:00:03.163215
+Auth happening...
+Getting songs
+Creating dataframe...
+You Was Right
+New Freezer (feat. Kendrick Lamar)
+Immaterial
+Parallel 1
+GOT THESE SONGS
+{'played_at': ['17:32', '17:26', '17:21'], 'valence': [0.156, 0.575, 0.828], 'mood_avg': [0.471, 0.723, 0.785], 'danceability': [0.843, 0.884, 0.776], 'energy': [0.359, 0.698, 0.717], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738be07181aa935225a6f25d56', u'https://i.scdn.co/image/ab67616d0000b27364353426de6dfe0206f6d1d3', u'https://i.scdn.co/image/ab67616d0000b273fa3158c935aa3c01865f7150'], 'album_name': [u'Lil Uzi Vert vs. The World', u'The World Is Yours', u"OIL OF EVERY PEARL'S UN-INSIDES"], 'song_name': [u'You Was Right', u'New Freezer (feat. Kendrick Lamar)', u'Immaterial'], 'artist_name': [u'Lil Uzi Vert', u'Rich The Kid', u'SOPHIE'], 'track_id': [u'2ANLarE8yHVsLWW21nj79M', u'2EgB4n6XyBsuNUbuarr4eG', u'6GoLARmR2OZl2EldehFrsA']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273fa3158...  ...  0.717
+1  https://i.scdn.co/image/ab67616d0000b273643534...  ...  0.698
+0  https://i.scdn.co/image/ab67616d0000b2738be071...  ...  0.359
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
