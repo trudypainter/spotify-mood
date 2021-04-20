@@ -75584,3 +75584,34 @@ GOT THESE SONGS
 ('Rows: ', 17)
 Saved!
 
+[master 25ad832] updating daily data 2021-04-20 10:00:04.048655
+ 3 files changed, 28 insertions(+), 2 deletions(-)
+2021-04-20 10:00:02.931525
+Auth happening...
+Getting songs
+Creating dataframe...
+Proud of You (feat. Lil Uzi Vert & Yung Kayo)
+Light of a Clear Blue Morning
+Air
+Alright
+Slap Pie
+Fiero GT
+Show Me How (Album V)
+Dorian
+Numb (Album V)
+GOT THESE SONGS
+{'played_at': ['09:24', '09:20', '09:14', '09:10', '09:08', '09:05', '09:05', '09:01'], 'valence': [0.223, 0.421, 0.531, 0.69, 0.952, 0.459, 0.46, 0.583], 'mood_avg': [0.519, 0.497, 0.62, 0.669, 0.799, 0.556, 0.552, 0.527], 'danceability': [0.848, 0.665, 0.86, 0.824, 0.781, 0.753, 0.811, 0.607], 'energy': [0.451, 0.311, 0.316, 0.318, 0.529, 0.356, 0.217, 0.257], 'image': [u'https://i.scdn.co/image/ab67616d0000b27358cfc4b60b95074a5201dae3', u'https://i.scdn.co/image/ab67616d0000b273a00eb161f924eb38ef7257d7', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d'], 'album_name': [u'Slime Language 2', u'Saint Cloud +3', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz'], 'song_name': [u'Proud of You (feat. Lil Uzi Vert & Yung Kayo)', u'Light of a Clear Blue Morning', u'Air', u'Alright', u'Slap Pie', u'Fiero GT', u'Show Me How (Album V)', u'Dorian'], 'artist_name': [u'Young Stoner Life', u'Waxahatchee', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust'], 'track_id': [u'16eZmQoeajKH8G2nPe2chk', u'5slPetmTwOHfqpEFFDMzyn', u'4TVw3QPxn7pD1YyrdbLa74', u'5cW8mZYs5mKGZP5n2azBW3', u'1TFOhZp3KF4zSLwMNmx4wO', u'3bGoOpYGILHGI9GpdkD0UY', u'6A46jG17UumVQLqodsFxuV', u'50Qh4Ef1Wyi3qZghIibXmR']}
+                                               image  ... energy
+7  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.257
+6  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.217
+5  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.356
+4  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.529
+3  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.318
+2  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.316
+1  https://i.scdn.co/image/ab67616d0000b273a00eb1...  ...  0.311
+0  https://i.scdn.co/image/ab67616d0000b27358cfc4...  ...  0.451
+
+[8 rows x 10 columns]
+('Rows: ', 8)
+Saved!
+
