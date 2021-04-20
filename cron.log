@@ -75301,3 +75301,24 @@ Avril 14th
 Ladies of Cambridge
 Case Closed
 Unlock it (feat. Kim Petras and Jay Park)
+[master 38d4045] updating daily data 2021-04-19 20:00:04.794615
+ 3 files changed, 82 insertions(+), 2 deletions(-)
+2021-04-19 20:00:03.614219
+Auth happening...
+Getting songs
+Creating dataframe...
+Something Special
+MONTERO (Call Me By Your Name)
+Twilight In Boston
+B4 The Computer Crash
+GOT THESE SONGS
+{'played_at': ['19:11', '19:08', '19:03'], 'valence': [0.654, 0.758, 0.427], 'mood_avg': [0.68, 0.649, 0.428], 'danceability': [0.739, 0.61, 0.626], 'energy': [0.616, 0.508, 0.0334], 'image': [u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369', u'https://i.scdn.co/image/ab67616d0000b273664034dd80e91b28f773598d', u'https://i.scdn.co/image/ab67616d0000b273dde31a0c569f68ed6362825a'], 'album_name': [u'Shoot For The Stars Aim For The Moon', u'MONTERO (Call Me By Your Name)', u'I, Jonathan'], 'song_name': [u'Something Special', u'MONTERO (Call Me By Your Name)', u'Twilight In Boston'], 'artist_name': [u'Pop Smoke', u'Lil Nas X', u'Jonathan Richman'], 'track_id': [u'5kkaSMcf4BFlhRRICCKZb6', u'67BtfxlNbhBmCDR2L2l8qd', u'3kibjneJCgnKsab2SVRLuy']}
+                                               image  ...  energy
+2  https://i.scdn.co/image/ab67616d0000b273dde31a...  ...  0.0334
+1  https://i.scdn.co/image/ab67616d0000b273664034...  ...   0.508
+0  https://i.scdn.co/image/ab67616d0000b27377ada0...  ...   0.616
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
