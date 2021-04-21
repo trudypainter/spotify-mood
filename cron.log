@@ -75924,3 +75924,38 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 82bd16c] updating daily data 2021-04-21 09:00:04.641079
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-04-21 09:00:03.379739
+Auth happening...
+Getting songs
+Creating dataframe...
+Whoopty
+Opp Stoppa
+What's Da Bizness
+I Don't Like
+44 BullDog
+Back In Blood (feat. Lil Durk)
+Go Stupid
+Envy Me
+Immaterial
+FEFE
+MONTERO (Call Me By Your Name)
+GOT THESE SONGS
+{'played_at': ['08:59', '08:57', '08:56', '08:54', '08:49', '08:46', '08:43', '08:40', '08:38', '08:38'], 'valence': [0.66, 0.217, 0.547, 0.416, 0.318, 0.831, 0.645, 0.584, 0.828, 0.376], 'mood_avg': [0.681, 0.476, 0.672, 0.632, 0.56, 0.744, 0.793, 0.627, 0.785, 0.6], 'danceability': [0.719, 0.821, 0.87, 0.742, 0.8, 0.759, 0.92, 0.74, 0.776, 0.931], 'energy': [0.648, 0.304, 0.524, 0.844, 0.564, 0.538, 0.833, 0.488, 0.717, 0.387], 'image': [u'https://i.scdn.co/image/ab67616d0000b2735038c2513329a3123b62923d', u'https://i.scdn.co/image/ab67616d0000b273fa90e1a538352bc8382de43d', u'https://i.scdn.co/image/ab67616d0000b273d2ac2d5b457bcad2eddef496', u'https://i.scdn.co/image/ab67616d0000b2732a8cbe9e04db628271fe9558', u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369', u'https://i.scdn.co/image/ab67616d0000b27332c5d1e207364562fe2160b7', u'https://i.scdn.co/image/ab67616d0000b273339f780dfdbc38558ea0761d', u'https://i.scdn.co/image/ab67616d0000b2735f75220f317b41171e88209e', u'https://i.scdn.co/image/ab67616d0000b273fa3158c935aa3c01865f7150', u'https://i.scdn.co/image/ab67616d0000b2737b4d2b0d46fc5ed7f771329b'], 'album_name': [u'Whoopty', u'VISIONLAND', u'Rich Slave', u'Finally Rich (Deluxe)', u'Shoot For The Stars Aim For The Moon', u'Back In Blood (feat. Lil Durk)', u'THE GOAT', u'Wildboy', u"OIL OF EVERY PEARL'S UN-INSIDES", u'DUMMY BOY'], 'song_name': [u'Whoopty', u'Opp Stoppa', u"What's Da Bizness", u"I Don't Like", u'44 BullDog', u'Back In Blood (feat. Lil Durk)', u'Go Stupid', u'Envy Me', u'Immaterial', u'FEFE'], 'artist_name': [u'CJ', u'YBN Nahmir', u'Young Dolph', u'Chief Keef', u'Pop Smoke', u'Pooh Shiesty', u'Polo G', u'Calboy', u'SOPHIE', u'6ix9ine'], 'track_id': [u'5vGLcdRuSbUhD8ScwsGSdA', u'4l8CIibQf8cVk5BcrquSiD', u'29tLKguTMysoFejk0qNjap', u'2ikkgfIIM9kGKZCXzXnTpj', u'7sjFIZ1g5QLJLGja3k592K', u'7JuHVG3qQKQKxC4doneXVW', u'4PklAHGXT5ityno3IA8SKd', u'7rvyVWja33WG9R97oeJAjx', u'6GoLARmR2OZl2EldehFrsA', u'2l8nEO0vsTRCRnGqQty6qx']}
+                                               image  ... energy
+9  https://i.scdn.co/image/ab67616d0000b2737b4d2b...  ...  0.387
+8  https://i.scdn.co/image/ab67616d0000b273fa3158...  ...  0.717
+7  https://i.scdn.co/image/ab67616d0000b2735f7522...  ...  0.488
+6  https://i.scdn.co/image/ab67616d0000b273339f78...  ...  0.833
+5  https://i.scdn.co/image/ab67616d0000b27332c5d1...  ...  0.538
+4  https://i.scdn.co/image/ab67616d0000b27377ada0...  ...  0.564
+3  https://i.scdn.co/image/ab67616d0000b2732a8cbe...  ...  0.844
+2  https://i.scdn.co/image/ab67616d0000b273d2ac2d...  ...  0.524
+1  https://i.scdn.co/image/ab67616d0000b273fa90e1...  ...  0.304
+0  https://i.scdn.co/image/ab67616d0000b2735038c2...  ...  0.648
+
+[10 rows x 10 columns]
+('Rows: ', 10)
+Saved!
+
