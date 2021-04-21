@@ -75989,3 +75989,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master bc3d7f6] updating daily data 2021-04-21 12:00:05.117980
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-04-21 12:00:03.607856
+Auth happening...
+Getting songs
+Creating dataframe...
+Duo
+Whoopty
+GOT THESE SONGS
+{'played_at': ['11:57'], 'valence': [0.832], 'mood_avg': [0.795], 'danceability': [0.805], 'energy': [0.7], 'image': [u'https://i.scdn.co/image/ab67616d0000b2734d7cf5092f4248598448c838'], 'album_name': [u'Duo'], 'song_name': [u'Duo'], 'artist_name': [u'Sam Gellaitry'], 'track_id': [u'0KbMjhlUH1xUGDgeIQzLsn']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b2734d7cf5...  ...    0.7
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
