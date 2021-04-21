@@ -76006,3 +76006,22 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 627ae54] updating daily data 2021-04-21 13:00:04.203788
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+2021-04-21 13:00:03.380533
+Auth happening...
+Getting songs
+Creating dataframe...
+Ladies of Cambridge
+Chosen Family - Acoustic
+Blame It on Your Love (feat. Lizzo)
+GOT THESE SONGS
+{'played_at': ['12:11', '12:08'], 'valence': [0.687, 0.429], 'mood_avg': [0.656, 0.47], 'danceability': [0.59, 0.51], 'energy': [0.727, 0.471], 'image': [u'https://i.scdn.co/image/ab67616d0000b273d0ae72fdcc3f7bb0b3a7dfed', u'https://i.scdn.co/image/ab67616d0000b273db0a368a7ede184a67a51b95'], 'album_name': [u'Ladies of Cambridge', u'SAWAYAMA (Deluxe Edition)'], 'song_name': [u'Ladies of Cambridge', u'Chosen Family - Acoustic'], 'artist_name': [u'Vampire Weekend', u'Rina Sawayama'], 'track_id': [u'2mdHW9nUG38Ym4khrPLGBU', u'4XOCgGHUf5E0pMiqpXAQcO']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273db0a36...  ...  0.471
+0  https://i.scdn.co/image/ab67616d0000b273d0ae72...  ...  0.727
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
