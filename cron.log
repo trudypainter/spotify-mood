@@ -76057,3 +76057,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master c4703b8] updating daily data 2021-04-21 16:00:05.103819
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-04-21 16:00:03.993952
+Auth happening...
+Getting songs
+Creating dataframe...
+How I Roll
+Lifting You
+Avril 14th
+Diamonds Dancing (feat. Travis Scott)
+GOT THESE SONGS
+{'played_at': ['15:24', '15:20', '15:17'], 'valence': [0.791, 0.578, 0.37], 'mood_avg': [0.786, 0.637, 0.376], 'danceability': [0.818, 0.761, 0.558], 'energy': [0.71, 0.509, 0.0259], 'image': [u'https://i.scdn.co/image/ab67616d0000b273fda0f2adec40250bea55101b', u'https://i.scdn.co/image/ab67616d0000b273be23f47224937c9b57a004b2', u'https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a'], 'album_name': [u'Femme Fatale (Deluxe Version)', u'NO ONE EVER REALLY DIES', u'Drukqs'], 'song_name': [u'How I Roll', u'Lifting You', u'Avril 14th'], 'artist_name': [u'Britney Spears', u'N.E.R.D', u'Aphex Twin'], 'track_id': [u'38casNXY2G39SZRUjALtcY', u'6DddRnq5NnVFjbyopAcRnq', u'2MZSXhq4XDJWu6coGoXX1V']}
+                                               image  ...  energy
+2  https://i.scdn.co/image/ab67616d0000b273a5aef9...  ...  0.0259
+1  https://i.scdn.co/image/ab67616d0000b273be23f4...  ...   0.509
+0  https://i.scdn.co/image/ab67616d0000b273fda0f2...  ...    0.71
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
