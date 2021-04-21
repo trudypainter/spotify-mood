@@ -76025,3 +76025,20 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master 1cd084f] updating daily data 2021-04-21 14:00:04.704277
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-04-21 14:00:03.678962
+Auth happening...
+Getting songs
+Creating dataframe...
+Diamonds Dancing (feat. Travis Scott)
+Ladies of Cambridge
+GOT THESE SONGS
+{'played_at': ['13:29'], 'valence': [0.596], 'mood_avg': [0.719], 'danceability': [0.851], 'energy': [0.703], 'image': [u'https://i.scdn.co/image/ab67616d0000b27358cfc4b60b95074a5201dae3'], 'album_name': [u'Slime Language 2'], 'song_name': [u'Diamonds Dancing (feat. Travis Scott)'], 'artist_name': [u'Young Stoner Life'], 'track_id': [u'7uZqvqXzzYMKrexKxdcGmd']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b27358cfc4...  ...  0.703
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
