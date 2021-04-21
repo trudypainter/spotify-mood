@@ -75892,3 +75892,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master c6af106] updating daily data 2021-04-21 07:00:04.087390
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-04-21 07:00:03.147846
+Auth happening...
+Getting songs
+Creating dataframe...
+MONTERO (Call Me By Your Name)
+Dior
+GOT THESE SONGS
+{'played_at': ['06:55'], 'valence': [0.758], 'mood_avg': [0.649], 'danceability': [0.61], 'energy': [0.508], 'image': [u'https://i.scdn.co/image/ab67616d0000b273664034dd80e91b28f773598d'], 'album_name': [u'MONTERO (Call Me By Your Name)'], 'song_name': [u'MONTERO (Call Me By Your Name)'], 'artist_name': [u'Lil Nas X'], 'track_id': [u'67BtfxlNbhBmCDR2L2l8qd']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273664034...  ...  0.508
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
