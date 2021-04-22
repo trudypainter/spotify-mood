@@ -76093,3 +76093,56 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 2665433] updating daily data 2021-04-21 18:00:07.997406
+ 3 files changed, 24 insertions(+), 1 deletion(-)
+2021-04-21 18:00:04.640902
+Auth happening...
+Getting songs
+Creating dataframe...
+Are You In Love?
+Lullaby For My Insomniac
+Mile High (feat. Travis Scott & Metro Boomin)
+Can't Believe The Way We Flow
+Light of a Clear Blue Morning
+Summertime Magic
+Telephone Calls (feat. A$AP Rocky, Tyler, The Creator, Playboi Carti & Yung Gleesh)
+Feeling Myself
+How I Roll
+GOT THESE SONGS
+{'played_at': ['17:59', '17:54', '17:50', '17:47', '17:42', '17:37', '17:34', '17:29'], 'valence': [0.335, 0.0624, 0.228, 0.29, 0.421, 0.125, 0.493, 0.477], 'mood_avg': [0.412, 0.158, 0.467, 0.327, 0.497, 0.47, 0.644, 0.557], 'danceability': [0.557, 0.318, 0.754, 0.259, 0.665, 0.76, 0.732, 0.564], 'energy': [0.278, 0.0297, 0.37, 0.536, 0.311, 0.579, 0.772, 0.703], 'image': [u'https://i.scdn.co/image/ab67616d0000b2739af56a54edacb6237b49fa2e', u'https://i.scdn.co/image/ab67616d0000b2739af56a54edacb6237b49fa2e', u'https://i.scdn.co/image/ab67616d0000b2739af56a54edacb6237b49fa2e', u'https://i.scdn.co/image/ab67616d0000b2739af56a54edacb6237b49fa2e', u'https://i.scdn.co/image/ab67616d0000b273a00eb161f924eb38ef7257d7', u'https://i.scdn.co/image/ab67616d0000b273602ca5b83fe44b68074a74b2', u'https://i.scdn.co/image/ab67616d0000b27330eaf29813f551d9188ad35a', u'https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458'], 'album_name': [u'Assume Form', u'Assume Form', u'Assume Form', u'Assume Form', u'Saint Cloud +3', u'Summer Pack', u'Cozy Tapes: Vol. 1 Friends -', u'The Pinkprint (Deluxe)'], 'song_name': [u'Are You In Love?', u'Lullaby For My Insomniac', u'Mile High (feat. Travis Scott & Metro Boomin)', u"Can't Believe The Way We Flow", u'Light of a Clear Blue Morning', u'Summertime Magic', u'Telephone Calls (feat. A$AP Rocky, Tyler, The Creator, Playboi Carti & Yung Gleesh)', u'Feeling Myself'], 'artist_name': [u'James Blake', u'James Blake', u'James Blake', u'James Blake', u'Waxahatchee', u'Childish Gambino', u'A$AP Mob', u'Nicki Minaj'], 'track_id': [u'6uYhMShmQkRYbrnOjERpoR', u'7K9kbDWgbJmfNnN9LSoXB4', u'4cQrSREMqBSvJ8ZzBZjVb8', u'6voR6zsWIn7vgZYGOFKYSZ', u'5slPetmTwOHfqpEFFDMzyn', u'4j3GWI86JvSaF0BLdmgcfF', u'5VnpYqIzm02X9gOhVElQo3', u'5fyIGoaaKelzdyW8ELhYJZ']}
+                                               image  ...  energy
+7  https://i.scdn.co/image/ab67616d0000b2730f79d1...  ...   0.703
+6  https://i.scdn.co/image/ab67616d0000b27330eaf2...  ...   0.772
+5  https://i.scdn.co/image/ab67616d0000b273602ca5...  ...   0.579
+4  https://i.scdn.co/image/ab67616d0000b273a00eb1...  ...   0.311
+3  https://i.scdn.co/image/ab67616d0000b2739af56a...  ...   0.536
+2  https://i.scdn.co/image/ab67616d0000b2739af56a...  ...    0.37
+1  https://i.scdn.co/image/ab67616d0000b2739af56a...  ...  0.0297
+0  https://i.scdn.co/image/ab67616d0000b2739af56a...  ...   0.278
+
+[8 rows x 10 columns]
+('Rows: ', 8)
+Saved!
+
+2021-04-21 19:00:08.683004
+Auth happening...
+Getting songs
+Creating dataframe...
+Power On
+2021-04-21 20:00:03.869287
+Auth happening...
+Getting songs
+Creating dataframe...
+Are You In Love?
+Lullaby For My Insomniac
+Mile High (feat. Travis Scott & Metro Boomin)
+Can't Believe The Way We Flow
+Tell Them (feat. Moses Sumney & Metro Boomin)
+Assume Form
+2021-04-21 21:00:04.190764
+Auth happening...
+Getting songs
+Creating dataframe...
+Can't Believe The Way We Flow
+Tell Them (feat. Moses Sumney & Metro Boomin)
+Assume Form
