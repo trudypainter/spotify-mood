@@ -76282,3 +76282,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 75c5c4d] updating daily data 2021-04-22 07:00:04.398871
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-04-22 07:00:03.468317
+Auth happening...
+Getting songs
+Creating dataframe...
+Mile High (feat. Travis Scott & Metro Boomin)
+Can't Believe The Way We Flow
+GOT THESE SONGS
+{'played_at': ['06:50'], 'valence': [0.228], 'mood_avg': [0.467], 'danceability': [0.754], 'energy': [0.37], 'image': [u'https://i.scdn.co/image/ab67616d0000b2739af56a54edacb6237b49fa2e'], 'album_name': [u'Assume Form'], 'song_name': [u'Mile High (feat. Travis Scott & Metro Boomin)'], 'artist_name': [u'James Blake'], 'track_id': [u'4cQrSREMqBSvJ8ZzBZjVb8']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b2739af56a...  ...   0.37
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
