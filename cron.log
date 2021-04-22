@@ -76299,3 +76299,42 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 8fadba4] updating daily data 2021-04-22 08:00:06.775521
+ 3 files changed, 30 insertions(+), 1 deletion(-)
+2021-04-22 08:00:04.611610
+Auth happening...
+Getting songs
+Creating dataframe...
+Norton Commander (Album V)
+Slap Pie
+You Deserve This (Album V)
+Dorian
+All Night
+Value
+Dark Fantasy
+C U Girl
+With Them
+10 Freaky Girls (with 21 Savage)
+Lo Mein
+Lifting You
+Mile High (feat. Travis Scott & Metro Boomin)
+GOT THESE SONGS
+{'played_at': ['07:59', '07:56', '07:53', '07:50', '07:47', '07:38', '07:35', '07:31', '07:28', '07:25', '07:20', '07:14'], 'valence': [0.436, 0.952, 0.237, 0.583, 0.608, 0.215, 0.373, 0.409, 0.284, 0.0727, 0.509, 0.578], 'mood_avg': [0.517, 0.799, 0.397, 0.527, 0.603, 0.573, 0.506, 0.424, 0.587, 0.424, 0.681, 0.637], 'danceability': [0.632, 0.781, 0.629, 0.607, 0.795, 0.766, 0.599, 0.414, 0.926, 0.81, 0.855, 0.761], 'energy': [0.451, 0.529, 0.253, 0.257, 0.208, 0.901, 0.587, 0.473, 0.517, 0.353, 0.676, 0.509], 'image': [u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273c48097a206bf5f2a3045b002', u'https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f', u'https://i.scdn.co/image/ab67616d0000b273447d52024a6ac588ad418ae5', u'https://i.scdn.co/image/ab67616d0000b273a875c3ec944b4f164ab5c350', u'https://i.scdn.co/image/ab67616d0000b2732887f8c05b5a9f1cb105be29', u'https://i.scdn.co/image/ab67616d0000b273dea510881ec1e506485303e4', u'https://i.scdn.co/image/ab67616d0000b273be23f47224937c9b57a004b2'], 'album_name': [u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Value', u'My Beautiful Dark Twisted Fantasy', u'C U Girl', u'Slime Season 3', u'NOT ALL HEROES WEAR CAPES (Deluxe)', u'Eternal Atake (Deluxe) - LUV vs. The World 2', u'NO ONE EVER REALLY DIES'], 'song_name': [u'Norton Commander (Album V)', u'Slap Pie', u'You Deserve This (Album V)', u'Dorian', u'All Night', u'Value', u'Dark Fantasy', u'C U Girl', u'With Them', u'10 Freaky Girls (with 21 Savage)', u'Lo Mein', u'Lifting You'], 'artist_name': [u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'A$AP Ferg', u'Kanye West', u'Steve Lacy', u'Young Thug', u'Metro Boomin', u'Lil Uzi Vert', u'N.E.R.D'], 'track_id': [u'0DltZY7z8YvuDBSAbsIgPc', u'1TFOhZp3KF4zSLwMNmx4wO', u'36EO0BMu1EZZznRurwBMzW', u'50Qh4Ef1Wyi3qZghIibXmR', u'0XvoMOI25j4wODyk8nuANS', u'7im3jaJBEYivH5JKXMh1Yy', u'7yNK27ZTpHew0c55VvIJgm', u'6FBzhcfgGacfXF3AmtfEaX', u'0tISnxqgVmxqhVghsTi2Rr', u'0AluA5RNsa4Cx6XRhf2hWZ', u'6gWzuZHMKNtjLUsTPHCX10', u'6DddRnq5NnVFjbyopAcRnq']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b273be23f4...  ...  0.509
+10  https://i.scdn.co/image/ab67616d0000b273dea510...  ...  0.676
+9   https://i.scdn.co/image/ab67616d0000b2732887f8...  ...  0.353
+8   https://i.scdn.co/image/ab67616d0000b273a875c3...  ...  0.517
+7   https://i.scdn.co/image/ab67616d0000b273447d52...  ...  0.473
+6   https://i.scdn.co/image/ab67616d0000b273d9194a...  ...  0.587
+5   https://i.scdn.co/image/ab67616d0000b273c48097...  ...  0.901
+4   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.208
+3   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.257
+2   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.253
+1   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.529
+0   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.451
+
+[12 rows x 10 columns]
+('Rows: ', 12)
+Saved!
+
