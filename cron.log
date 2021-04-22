@@ -76338,3 +76338,42 @@ GOT THESE SONGS
 ('Rows: ', 12)
 Saved!
 
+[master c7043e2] updating daily data 2021-04-22 09:00:05.743801
+ 3 files changed, 52 insertions(+), 1 deletion(-)
+2021-04-22 09:00:03.698126
+Auth happening...
+Getting songs
+Creating dataframe...
+Porcelain
+Alright
+Oncle Jazz
+Pierre
+Something in Water
+Found Me
+Poodle of Mud
+Air
+Tailwhip Revisited
+Pines
+Seven (Album V)
+Days Go By
+Norton Commander (Album V)
+GOT THESE SONGS
+{'played_at': ['08:36', '08:32', '08:30', '08:29', '08:25', '08:22', '08:19', '08:17', '08:14', '08:10', '08:06', '08:02'], 'valence': [0.579, 0.69, 0.246, 0.337, 0.213, 0.796, 0.759, 0.531, 0.696, 0.277, 0.755, 0.292], 'mood_avg': [0.611, 0.669, 0.445, 0.423, 0.376, 0.713, 0.683, 0.62, 0.667, 0.439, 0.68, 0.492], 'danceability': [0.801, 0.824, 0.712, 0.587, 0.627, 0.681, 0.797, 0.86, 0.73, 0.645, 0.748, 0.783], 'energy': [0.294, 0.318, 0.308, 0.265, 0.198, 0.609, 0.302, 0.316, 0.483, 0.349, 0.393, 0.312], 'image': [u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d'], 'album_name': [u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz'], 'song_name': [u'Porcelain', u'Alright', u'Oncle Jazz', u'Pierre', u'Something in Water', u'Found Me', u'Poodle of Mud', u'Air', u'Tailwhip Revisited', u'Pines', u'Seven (Album V)', u'Days Go By'], 'artist_name': [u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust'], 'track_id': [u'2ngVZZGrIYAxyxaA2QcWTB', u'5cW8mZYs5mKGZP5n2azBW3', u'204t5SErksNRHRhU52g5JF', u'6rpgkVBjx8c7WURyY3xHWm', u'7rC4fpqWw83rw6SFSxN1Qo', u'4m0dj1HxXzFlnIqPkomXQB', u'08UN66kxi1ASAf3RgSCR3K', u'4TVw3QPxn7pD1YyrdbLa74', u'5wAIikpUahtylFUnzz7D0o', u'7qFLFQOYcytDd4hejiREzk', u'74v28tCHJ9tRSvwKbQdqJc', u'1SyJuJfFyoAxuZMaTbwHJW']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.312
+10  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.393
+9   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.349
+8   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.483
+7   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.316
+6   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.302
+5   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.609
+4   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.198
+3   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.265
+2   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.308
+1   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.318
+0   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.294
+
+[12 rows x 10 columns]
+('Rows: ', 12)
+Saved!
+
