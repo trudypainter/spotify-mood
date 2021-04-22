@@ -76377,3 +76377,24 @@ GOT THESE SONGS
 ('Rows: ', 12)
 Saved!
 
+[master bfc3917] updating daily data 2021-04-22 10:00:03.946641
+ 3 files changed, 43 insertions(+), 1 deletion(-)
+2021-04-22 10:00:03.056231
+Auth happening...
+Getting songs
+Creating dataframe...
+Slap Pie
+You Deserve This (Album V)
+Dorian
+All Night
+GOT THESE SONGS
+{'played_at': ['09:07', '09:05', '09:02'], 'valence': [0.952, 0.237, 0.583], 'mood_avg': [0.799, 0.397, 0.527], 'danceability': [0.781, 0.629, 0.607], 'energy': [0.529, 0.253, 0.257], 'image': [u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d'], 'album_name': [u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz'], 'song_name': [u'Slap Pie', u'You Deserve This (Album V)', u'Dorian'], 'artist_name': [u'Men I Trust', u'Men I Trust', u'Men I Trust'], 'track_id': [u'1TFOhZp3KF4zSLwMNmx4wO', u'36EO0BMu1EZZznRurwBMzW', u'50Qh4Ef1Wyi3qZghIibXmR']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.257
+1  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.253
+0  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.529
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
