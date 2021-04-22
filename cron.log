@@ -76469,3 +76469,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master dc5f8a9] updating daily data 2021-04-22 16:00:05.283773
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-04-22 16:00:04.446594
+Auth happening...
+Getting songs
+Creating dataframe...
+WokStar (feat. Strick & Skepta)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
