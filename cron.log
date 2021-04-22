@@ -76413,3 +76413,23 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 54977a5] updating daily data 2021-04-22 12:00:04.643594
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-04-22 12:00:03.779052
+Auth happening...
+Getting songs
+Creating dataframe...
+Norton Commander (Album V)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-04-22 13:00:04.697010
+Auth happening...
+Getting songs
+Creating dataframe...
+Kim (with Yung Baby Tate)
