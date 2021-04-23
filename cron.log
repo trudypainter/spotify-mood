@@ -76836,3 +76836,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 28f4c94] updating daily data 2021-04-23 14:00:04.373024
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-04-23 14:00:03.549314
+Auth happening...
+Getting songs
+Creating dataframe...
+Telephone Calls (feat. A$AP Rocky, Tyler, The Creator, Playboi Carti & Yung Gleesh)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
