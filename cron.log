@@ -76779,3 +76779,28 @@ GOT THESE SONGS
 ('Rows: ', 13)
 Saved!
 
+[master ff596bf] updating daily data 2021-04-23 10:00:04.830179
+ 3 files changed, 47 insertions(+), 1 deletion(-)
+2021-04-23 10:00:03.611537
+Auth happening...
+Getting songs
+Creating dataframe...
+Masochism
+Cloud Emoji
+8 Melodies
+Hadron Collider
+Take Care In Your Dreaming
+You're Not Good Enough
+GOT THESE SONGS
+{'played_at': ['09:15', '09:12', '09:11', '09:10', '09:06'], 'valence': [0.486, 0.0628, 0.41, 0.24, 0.329], 'mood_avg': [0.519, 0.136, 0.552, 0.46, 0.54], 'danceability': [0.555, 0.27, 0.717, 0.675, 0.611], 'energy': [0.514, 0.0139, 0.506, 0.471, 0.822], 'image': [u'https://i.scdn.co/image/ab67616d0000b2735ccc62529c77101d6b2f00f3', u'https://i.scdn.co/image/ab67616d0000b27337e744667c098ff2669b4d4f', u'https://i.scdn.co/image/ab67616d0000b273db59437636f1219033bdc608', u'https://i.scdn.co/image/ab67616d0000b273706a733634175d413dedfe54', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1'], 'album_name': [u'Salvador', u'direct line to My Creator', u'Hair of the Dog', u'Freetown Sound', u'We Will Always Love You'], 'song_name': [u'Masochism', u'Cloud Emoji', u'8 Melodies', u'Hadron Collider', u'Take Care In Your Dreaming'], 'artist_name': [u'Sega Bodega', u'duendita', u'ARTHUR', u'Blood Orange', u'The Avalanches'], 'track_id': [u'3X79t87FTGuDbrA6g2ke5R', u'5vbZQwCDZxWxUA6gKnIlGg', u'3HO0ICUrBVV5kWv5PI4OnJ', u'0sZBuwbeKsauQvnOuSRypq', u'1t0YL0DwYHhbW5P4BvV7j1']}
+                                               image  ...  energy
+4  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...   0.822
+3  https://i.scdn.co/image/ab67616d0000b273706a73...  ...   0.471
+2  https://i.scdn.co/image/ab67616d0000b273db5943...  ...   0.506
+1  https://i.scdn.co/image/ab67616d0000b27337e744...  ...  0.0139
+0  https://i.scdn.co/image/ab67616d0000b2735ccc62...  ...   0.514
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
