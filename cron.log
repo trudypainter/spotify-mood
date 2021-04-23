@@ -76509,3 +76509,32 @@ Getting songs
 Creating dataframe...
 Unlock it (feat. Kim Petras and Jay Park)
 2 On (feat. ScHoolboy Q)
+[master 4f48958] updating daily data 2021-04-22 20:00:04.666805
+ 3 files changed, 33 insertions(+), 1 deletion(-)
+2021-04-22 20:00:03.326728
+Auth happening...
+Getting songs
+Creating dataframe...
+Crush on You (feat. Lil' Cease) - Remix
+U.N.I.T.Y.
+Doo Wop (That Thing)
+Let Me Blow Ya Mind
+Moment 4 Life
+Moment 4 Life
+Summertime Magic
+Summertime Magic
+GOT THESE SONGS
+{'played_at': ['19:59', '19:54', '19:50', '19:45', '19:41', '19:18', '19:15'], 'valence': [0.768, 0.503, 0.495, 0.897, 0.369, 0.369, 0.125], 'mood_avg': [0.745, 0.566, 0.513, 0.833, 0.514, 0.514, 0.47], 'danceability': [0.748, 0.679, 0.535, 0.908, 0.475, 0.475, 0.76], 'energy': [0.693, 0.468, 0.505, 0.557, 0.882, 0.882, 0.579], 'image': [u'https://i.scdn.co/image/ab67616d0000b27391f6cb891257c05f4460ba7f', u'https://i.scdn.co/image/ab67616d0000b273d6834622fdef95dc4ff1594f', u'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9', u'https://i.scdn.co/image/ab67616d0000b2730a825fea8b9095572e5130ef', u'https://i.scdn.co/image/ab67616d0000b273c17570626959bfa6c2435925', u'https://i.scdn.co/image/ab67616d0000b273c17570626959bfa6c2435925', u'https://i.scdn.co/image/ab67616d0000b273602ca5b83fe44b68074a74b2'], 'album_name': [u'Not Tonight EP', u'Black Reign', u'The Miseducation of Lauryn Hill', u'Scorpion', u'Pink Friday', u'Pink Friday', u'Summer Pack'], 'song_name': [u"Crush on You (feat. Lil' Cease) - Remix", u'U.N.I.T.Y.', u'Doo Wop (That Thing)', u'Let Me Blow Ya Mind', u'Moment 4 Life', u'Moment 4 Life', u'Summertime Magic'], 'artist_name': [u"Lil' Kim", u'Queen Latifah', u'Ms. Lauryn Hill', u'Eve', u'Nicki Minaj', u'Nicki Minaj', u'Childish Gambino'], 'track_id': [u'2LP2uDQQ7eLMcUVE4aOpAV', u'4OxXBAN51tjVBEjSwuWWbv', u'0uEp9E98JB5awlA084uaIg', u'3RmKpob8xzv1pzHEQrMJah', u'1ia019RqDK2o4QiANR1Dyn', u'1ia019RqDK2o4QiANR1Dyn', u'4j3GWI86JvSaF0BLdmgcfF']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b273602ca5...  ...  0.579
+5  https://i.scdn.co/image/ab67616d0000b273c17570...  ...  0.882
+4  https://i.scdn.co/image/ab67616d0000b273c17570...  ...  0.882
+3  https://i.scdn.co/image/ab67616d0000b2730a825f...  ...  0.557
+2  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.505
+1  https://i.scdn.co/image/ab67616d0000b273d68346...  ...  0.468
+0  https://i.scdn.co/image/ab67616d0000b27391f6cb...  ...  0.693
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
