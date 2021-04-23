@@ -76851,3 +76851,24 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master cca614f] updating daily data 2021-04-23 17:00:04.360084
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-04-23 17:00:02.482311
+Auth happening...
+Getting songs
+Creating dataframe...
+How I Roll
+Girls just want to have fun
+Ghost
+Love Me 4 Me
+GOT THESE SONGS
+{'played_at': ['16:09', '16:06', '16:03'], 'valence': [0.791, 0.114, 0.657], 'mood_avg': [0.786, 0.378, 0.739], 'danceability': [0.818, 0.517, 0.889], 'energy': [0.71, 0.626, 0.604], 'image': [u'https://i.scdn.co/image/ab67616d0000b273fda0f2adec40250bea55101b', u'https://i.scdn.co/image/ab67616d0000b273510329ed87b90bf821be6209', u'https://i.scdn.co/image/ab67616d0000b273337c484b59b8abfd4cbed6ac'], 'album_name': [u'Femme Fatale (Deluxe Version)', u'Girls just want to have fun', u'In Fina We Trust'], 'song_name': [u'How I Roll', u'Girls just want to have fun', u'Ghost'], 'artist_name': [u'Britney Spears', u'Bladee', u'Awkwafina'], 'track_id': [u'38casNXY2G39SZRUjALtcY', u'16aNHWdWoO9zobj4lqAoWV', u'4XcK1wzsE4lkKQZoE84sul']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273337c48...  ...  0.604
+1  https://i.scdn.co/image/ab67616d0000b273510329...  ...  0.626
+0  https://i.scdn.co/image/ab67616d0000b273fda0f2...  ...   0.71
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
