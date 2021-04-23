@@ -76804,3 +76804,20 @@ GOT THESE SONGS
 ('Rows: ', 5)
 Saved!
 
+[master 9bc497e] updating daily data 2021-04-23 11:00:03.805550
+ 3 files changed, 27 insertions(+), 1 deletion(-)
+2021-04-23 11:00:02.997049
+Auth happening...
+Getting songs
+Creating dataframe...
+Clipped On
+Masochism
+GOT THESE SONGS
+{'played_at': ['10:37'], 'valence': [0.0798], 'mood_avg': [0.504], 'danceability': [0.813], 'energy': [0.733], 'image': [u'https://i.scdn.co/image/ab67616d0000b2739d6bd2afa2987a69b7b55f72'], 'album_name': [u'Cupid Deluxe'], 'song_name': [u'Clipped On'], 'artist_name': [u'Blood Orange'], 'track_id': [u'3YCoVXFnaF5cct0hOxFeQO']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b2739d6bd2...  ...  0.733
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
