@@ -76689,3 +76689,52 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 21682c9] updating daily data 2021-04-23 07:00:04.431967
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-04-23 07:00:03.297473
+Auth happening...
+Getting songs
+Creating dataframe...
+Get Me Home
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-04-23 08:00:02.980587
+Auth happening...
+Getting songs
+Creating dataframe...
+Where Do We Go
+Scales (feat. Kelela)
+Post Panic!
+Meltphace 6
+No Surprises
+Paradisin'
+Hyperballad
+Slinky
+Eight
+Falling Into Me
+Fantomoj de la Vitro Domo
+Oxytocin
+Get Me Home
+GOT THESE SONGS
+{'played_at': ['07:56', '07:52', '07:48', '07:46', '07:39', '07:35', '07:32', '07:27', '07:24', '07:22', '07:13', '07:11'], 'valence': [0.412, 0.255, 0.518, 0.271, 0.118, 0.61, 0.0356, 0.0903, 0.568, 0.214, 0.144, 0.302], 'mood_avg': [0.575, 0.359, 0.486, 0.527, 0.228, 0.63, 0.309, 0.245, 0.628, 0.468, 0.173, 0.522], 'danceability': [0.85, 0.459, 0.39, 0.583, 0.255, 0.59, 0.519, 0.409, 0.654, 0.527, 0.254, 0.758], 'energy': [0.351, 0.366, 0.613, 0.929, 0.393, 0.749, 0.437, 0.225, 0.697, 0.858, 0.0684, 0.489], 'image': [u'https://i.scdn.co/image/ab67616d0000b2731c4540d0ecafaa45305aa5a0', u'https://i.scdn.co/image/ab67616d0000b2731c4540d0ecafaa45305aa5a0', u'https://i.scdn.co/image/ab67616d0000b2735a973167d72dfaaedf82a654', u'https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a', u'https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856', u'https://i.scdn.co/image/ab67616d0000b273db0a368a7ede184a67a51b95', u'https://i.scdn.co/image/ab67616d0000b2736aba91ac61162caeeef14460', u'https://i.scdn.co/image/ab67616d0000b27328916ffa16f5473ac57ffe84', u'https://i.scdn.co/image/ab67616d0000b273550133f6d334ed152d75aa56', u'https://i.scdn.co/image/ab67616d0000b2734a8007933fab9c774ae4cc83', u'https://i.scdn.co/image/ab67616d0000b2735f82e07eabce580dab882a5e', u'https://i.scdn.co/image/ab67616d0000b273ccdfe0a8f507fccc213b6b37'], 'album_name': [u'A Seat at the Table', u'A Seat at the Table', u'Song of Sage: Post Panic!', u'Drukqs', u'OK Computer', u'SAWAYAMA (Deluxe Edition)', u'Post', u'Man Alive!', u'Visions', u"I'm All Ears", u'Eclipses', u'Expansion / Contraction'], 'song_name': [u'Where Do We Go', u'Scales (feat. Kelela)', u'Post Panic!', u'Meltphace 6', u'No Surprises', u"Paradisin'", u'Hyperballad', u'Slinky', u'Eight', u'Falling Into Me', u'Fantomoj de la Vitro Domo', u'Oxytocin'], 'artist_name': [u'Solange', u'Solange', u'Navy Blue', u'Aphex Twin', u'Radiohead', u'Rina Sawayama', u'Bj\xf6rk', u'King Krule', u'Grimes', u"Let's Eat Grandma", u'Robert Aiki Aubrey Lowe', u'Troy Pierce'], 'track_id': [u'08MbvwVOZdMNESjkoVdXxE', u'6gO8khQWeJcV7U0Kzo6Ynk', u'6uMqJQvja5YpIWqcGOLRoj', u'6k4rGXnm8jWGk9lEnpCIyP', u'10nyNJ6zNy2YVYLrcwLccB', u'4nxc62nacTX8zce4DTzzCm', u'4z1fNs2B7KndCsvyPgrhq5', u'1gEIHGA6lHfGgWQXnF0dJi', u'0z469se40CjMQBHosv73sz', u'6fIOgIkJNCII14BMTqSoct', u'7EWsqRDehfQKb7qYin6TR0', u'4CPpwNEMgmIwLwET90MG2i']}
+                                                image  ...  energy
+11  https://i.scdn.co/image/ab67616d0000b273ccdfe0...  ...   0.489
+10  https://i.scdn.co/image/ab67616d0000b2735f82e0...  ...  0.0684
+9   https://i.scdn.co/image/ab67616d0000b2734a8007...  ...   0.858
+8   https://i.scdn.co/image/ab67616d0000b273550133...  ...   0.697
+7   https://i.scdn.co/image/ab67616d0000b27328916f...  ...   0.225
+6   https://i.scdn.co/image/ab67616d0000b2736aba91...  ...   0.437
+5   https://i.scdn.co/image/ab67616d0000b273db0a36...  ...   0.749
+4   https://i.scdn.co/image/ab67616d0000b273c8b444...  ...   0.393
+3   https://i.scdn.co/image/ab67616d0000b273a5aef9...  ...   0.929
+2   https://i.scdn.co/image/ab67616d0000b2735a9731...  ...   0.613
+1   https://i.scdn.co/image/ab67616d0000b2731c4540...  ...   0.366
+0   https://i.scdn.co/image/ab67616d0000b2731c4540...  ...   0.351
+
+[12 rows x 10 columns]
