@@ -76738,3 +76738,44 @@ GOT THESE SONGS
 0   https://i.scdn.co/image/ab67616d0000b2731c4540...  ...   0.351
 
 [12 rows x 10 columns]
+[master f0b7154] updating daily data 2021-04-23 09:00:07.421408
+ 3 files changed, 73 insertions(+), 1 deletion(-)
+2021-04-23 09:00:04.675872
+Auth happening...
+Getting songs
+Creating dataframe...
+You're Not Good Enough
+5th Harm
+Poderoso
+Spring is Here
+Nauseous / Devilish
+Ladies
+224
+Salt Water
+Wrote Some Songs
+How It Is
+Moment Hung
+Still Dreaming
+Halloween
+Where Do We Go
+GOT THESE SONGS
+{'played_at': ['08:46', '08:42', '08:40', '08:37', '08:33', '08:30', '08:21', '08:18', '08:13', '08:12', '08:08', '08:05', '08:01'], 'valence': [0.571, 0.341, 0.485, 0.0998, 0.507, 0.28, 0.462, 0.253, 0.152, 0.603, 0.23, 0.134, 0.373], 'mood_avg': [0.684, 0.349, 0.528, 0.23, 0.553, 0.398, 0.483, 0.31, 0.338, 0.625, 0.417, 0.415, 0.374], 'danceability': [0.74, 0.464, 0.57, 0.209, 0.646, 0.562, 0.368, 0.339, 0.56, 0.694, 0.513, 0.745, 0.483], 'energy': [0.798, 0.135, 0.531, 0.532, 0.46, 0.307, 0.756, 0.368, 0.264, 0.533, 0.6, 0.318, 0.156], 'image': [u'https://i.scdn.co/image/ab67616d0000b2739d6bd2afa2987a69b7b55f72', u'https://i.scdn.co/image/ab67616d0000b2735225a38c3fd08bd3f61325f4', u'https://i.scdn.co/image/ab67616d0000b2735a973167d72dfaaedf82a654', u'https://i.scdn.co/image/ab67616d0000b273240c453ba41b82735fa1c233', u'https://i.scdn.co/image/ab67616d0000b273b80f8eb7cd3776e665e77477', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b2735a973167d72dfaaedf82a654', u'https://i.scdn.co/image/ab67616d0000b273825d2628545eaea03bf9672f', u'https://i.scdn.co/image/ab67616d0000b273b8c3e04fb7b927e5ce0da89e', u'https://i.scdn.co/image/ab67616d0000b273af071325c295f71b0d320a90', u'https://i.scdn.co/image/ab67616d0000b2735a973167d72dfaaedf82a654', u'https://i.scdn.co/image/ab67616d0000b273825d2628545eaea03bf9672f', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add'], 'album_name': [u'Cupid Deluxe', u'Surviving Is The New Living', u'Song of Sage: Post Panic!', u'Manhattan Special', u'Only Diamonds Cut Diamonds', u'Fetch The Bolt Cutters', u'Song of Sage: Post Panic!', u'Lucid', u'Ricky Music', u'Cannonball!', u'Song of Sage: Post Panic!', u'Lucid', u'Punisher'], 'song_name': [u"You're Not Good Enough", u'5th Harm', u'Poderoso', u'Spring is Here', u'Nauseous / Devilish', u'Ladies', u'224', u'Salt Water', u'Wrote Some Songs', u'How It Is', u'Moment Hung', u'Still Dreaming', u'Halloween'], 'artist_name': [u'Blood Orange', u'Okay Kaya', u'Navy Blue', u'Onyx Collective', u'Vegyn', u'Fiona Apple', u'Navy Blue', u'Raveena', u'Porches', u'Sen Morimoto', u'Navy Blue', u'Raveena', u'Phoebe Bridgers'], 'track_id': [u'7vcNp4cj4uF4AyX5aKY4Ps', u'3i4Ns8PQLUYLQHAM3awjek', u'4BKnUy9LS1RPum38u5hUQQ', u'5ow1J1NR03bq3QzkBAzqkl', u'0PN1iUBRQDWUtqwEvVfWfD', u'0jH0IsCBGackT3RmHBbSUI', u'0XCtW5TsAktTRt9cUQ5USc', u'4cf0fmpBq8kGEC8ccQHD1O', u'3Up6r0stBdhipvXk3ldTKd', u'5R8WGOSDoZaQ55zvcx6NeE', u'3XJoql5pyhwGtQYfUwKDGb', u'2GWMfWHvLixgTo9s5NGn3w', u'7FQ2JgfdkBcBb3BEbu8Axf']}
+                                                image  ... energy
+12  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...  0.156
+11  https://i.scdn.co/image/ab67616d0000b273825d26...  ...  0.318
+10  https://i.scdn.co/image/ab67616d0000b2735a9731...  ...    0.6
+9   https://i.scdn.co/image/ab67616d0000b273af0713...  ...  0.533
+8   https://i.scdn.co/image/ab67616d0000b273b8c3e0...  ...  0.264
+7   https://i.scdn.co/image/ab67616d0000b273825d26...  ...  0.368
+6   https://i.scdn.co/image/ab67616d0000b2735a9731...  ...  0.756
+5   https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.307
+4   https://i.scdn.co/image/ab67616d0000b273b80f8e...  ...   0.46
+3   https://i.scdn.co/image/ab67616d0000b273240c45...  ...  0.532
+2   https://i.scdn.co/image/ab67616d0000b2735a9731...  ...  0.531
+1   https://i.scdn.co/image/ab67616d0000b2735225a3...  ...  0.135
+0   https://i.scdn.co/image/ab67616d0000b2739d6bd2...  ...  0.798
+
+[13 rows x 10 columns]
+('Rows: ', 13)
+Saved!
+
