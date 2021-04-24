@@ -77098,3 +77098,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 93435aa] updating daily data 2021-04-24 09:00:03.193014
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-04-24 09:00:02.528854
+Auth happening...
+Getting songs
+Creating dataframe...
+Old Man
+B4 The Computer Crash
+GOT THESE SONGS
+{'played_at': ['08:48'], 'valence': [0.75], 'mood_avg': [0.686], 'danceability': [0.748], 'energy': [0.433], 'image': [u'https://i.scdn.co/image/ab67616d0000b273c4648543686a1e4ea2738629'], 'album_name': [u'Old Man'], 'song_name': [u'Old Man'], 'artist_name': [u'Breazy Daze'], 'track_id': [u'6OTDbASNjhlmMyFC557eGC']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273c46485...  ...  0.433
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
