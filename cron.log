@@ -77130,3 +77130,26 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master e8d8e88] updating daily data 2021-04-24 11:00:04.251890
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+2021-04-24 11:00:02.107206
+Auth happening...
+Getting songs
+Creating dataframe...
+Blessed
+Congratulations
+GONE, GONE / THANK YOU
+Moksha
+Old Man
+GOT THESE SONGS
+{'played_at': ['10:45', '10:41', '10:37', '10:29'], 'valence': [0.451, 0.656, 0.471, 0.445], 'mood_avg': [0.412, 0.694, 0.494, 0.544], 'danceability': [0.448, 0.761, 0.518, 0.635], 'energy': [0.263, 0.637, 0.492, 0.561], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037', u'https://i.scdn.co/image/ab67616d0000b273a38f4c1b8f53a2f792ffb561', u'https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57', u'https://i.scdn.co/image/ab67616d0000b273bd311777ed9dec3689663849'], 'album_name': [u'Freudian', u'Congratulations', u'IGOR', u'Peak'], 'song_name': [u'Blessed', u'Congratulations', u'GONE, GONE / THANK YOU', u'Moksha'], 'artist_name': [u'Daniel Caesar', u'MGMT', u'Tyler, The Creator', u'Choker'], 'track_id': [u'0KyzXQhY2yzcb1FYCHkZc2', u'6kblAEj0T0312fv5QWsXzo', u'1hz7SRTGUNAtIQ46qiNv2p', u'1JyJl8Owr9tN7MbIaMlbmq']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273bd3117...  ...  0.561
+2  https://i.scdn.co/image/ab67616d0000b273700588...  ...  0.492
+1  https://i.scdn.co/image/ab67616d0000b273a38f4c...  ...  0.637
+0  https://i.scdn.co/image/ab67616d0000b2733138f8...  ...  0.263
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
