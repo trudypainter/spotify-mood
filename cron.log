@@ -77213,3 +77213,27 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master ea1d36e] updating daily data 2021-04-24 16:00:03.376086
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+2021-04-24 16:00:02.290659
+Auth happening...
+Getting songs
+Creating dataframe...
+Erase Your Social
+Something Special
+Ladders
+Bags
+GOT THESE SONGS
+{'played_at': ['15:56', '15:53', '15:50'], 'valence': [0.718, 0.654, 0.291], 'mood_avg': [0.691, 0.68, 0.53], 'danceability': [0.705, 0.739, 0.802], 'energy': [0.609, 0.616, 0.463], 'image': [u'https://i.scdn.co/image/ab67616d0000b2732143db1c88358d70dd898aa3', u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369', u'https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534'], 'album_name': [u'The Perfect LUV Tape', u'Shoot For The Stars Aim For The Moon', u'Swimming'], 'song_name': [u'Erase Your Social', u'Something Special', u'Ladders'], 'artist_name': [u'Lil Uzi Vert', u'Pop Smoke', u'Mac Miller'], 'track_id': [u'4uhvMW7ly7tJil31YYscAN', u'5kkaSMcf4BFlhRRICCKZb6', u'39NDBdU5Xkm5pCFGa5kZtI']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b273175c57...  ...  0.463
+1  https://i.scdn.co/image/ab67616d0000b27377ada0...  ...  0.616
+0  https://i.scdn.co/image/ab67616d0000b2732143db...  ...  0.609
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
+2021-04-24 17:00:03.008005
+Auth happening...
+Getting songs
