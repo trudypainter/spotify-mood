@@ -77572,3 +77572,30 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master c8b33b95] updating daily data 2021-04-25 13:00:04.913480
+ 3 files changed, 22 insertions(+), 1 deletion(-)
+2021-04-25 13:00:03.080655
+Auth happening...
+Getting songs
+Creating dataframe...
+Hello (feat. A Boogie Wit da Hoodie)
+PTSD
+Something Special
+Mood Swings (feat. Lil Tjay)
+Hello Welcome
+Getting to Know You
+New N3on
+GOT THESE SONGS
+{'played_at': ['12:34', '12:31', '12:28', '12:24', '12:19', '12:18'], 'valence': [0.367, 0.199, 0.654, 0.269, 0.0527, 0.247], 'mood_avg': [0.638, 0.444, 0.68, 0.42, 0.388, 0.392], 'danceability': [0.905, 0.599, 0.739, 0.48, 0.831, 0.635], 'energy': [0.647, 0.622, 0.616, 0.602, 0.175, 0.196], 'image': [u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03', u'https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5', u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369', u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369', u'https://i.scdn.co/image/ab67616d0000b273cd7c3cba379ae624e118ebcb', u'https://i.scdn.co/image/ab67616d0000b273240c453ba41b82735fa1c233'], 'album_name': [u'Shoot For The Stars Aim For The Moon (Deluxe)', u'Meet The Woo', u'Shoot For The Stars Aim For The Moon', u'Shoot For The Stars Aim For The Moon', u'Fresh Air', u'Manhattan Special'], 'song_name': [u'Hello (feat. A Boogie Wit da Hoodie)', u'PTSD', u'Something Special', u'Mood Swings (feat. Lil Tjay)', u'Hello Welcome', u'Getting to Know You'], 'artist_name': [u'Pop Smoke', u'Pop Smoke', u'Pop Smoke', u'Pop Smoke', u'HOMESHAKE', u'Onyx Collective'], 'track_id': [u'2r6OAV3WsYtXuXjvJ1lIDi', u'24b6djSbUFQtXAdyb3FMbr', u'5kkaSMcf4BFlhRRICCKZb6', u'5rZlwNFl01HqLWBQGryKSm', u'4rGUG0Wk29QQyzn3V3iAG8', u'1ucirelIaRsWVh0UrdXSQ2']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b273240c45...  ...  0.196
+4  https://i.scdn.co/image/ab67616d0000b273cd7c3c...  ...  0.175
+3  https://i.scdn.co/image/ab67616d0000b27377ada0...  ...  0.602
+2  https://i.scdn.co/image/ab67616d0000b27377ada0...  ...  0.616
+1  https://i.scdn.co/image/ab67616d0000b2738fe5d0...  ...  0.622
+0  https://i.scdn.co/image/ab67616d0000b27346e130...  ...  0.647
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
