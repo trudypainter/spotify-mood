@@ -77475,3 +77475,30 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 110b2f63] updating daily data 2021-04-25 08:00:06.189647
+ 3 files changed, 22 insertions(+), 1 deletion(-)
+2021-04-25 08:00:03.492741
+Auth happening...
+Getting songs
+Creating dataframe...
+ILoveUIHateU
+Transportin'
+Agony
+the last great american dynasty
+That's It
+Alewife
+YOU WERENT ENOUGH
+GOT THESE SONGS
+{'played_at': ['07:57', '07:55', '07:52', '07:48', '07:44', '07:43'], 'valence': [0.108, 0.257, 0.318, 0.701, 0.122, 0.264], 'mood_avg': [0.455, 0.556, 0.392, 0.686, 0.44, 0.345], 'danceability': [0.684, 0.804, 0.578, 0.688, 0.671, 0.433], 'energy': [0.693, 0.66, 0.166, 0.653, 0.616, 0.329], 'image': [u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b273583ce93dc89d84218f233ea7', u'https://i.scdn.co/image/ab67616d0000b273fe81407d98ef67144560b96d', u'https://i.scdn.co/image/ab67616d0000b273c288028c2592f400dd0b9233', u'https://i.scdn.co/image/ab67616d0000b273fac090a59ca8c44feca0073d', u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc'], 'album_name': [u'Whole Lotta Red', u'Project Baby 2: All Grown Up', u'Stranger', u'folklore (deluxe version)', u'The Leek (Vol. 3)', u'Immunity'], 'song_name': [u'ILoveUIHateU', u"Transportin'", u'Agony', u'the last great american dynasty', u"That's It", u'Alewife'], 'artist_name': [u'Playboi Carti', u'Kodak Black', u'Yung Lean', u'Taylor Swift', u'Chief Keef', u'Clairo'], 'track_id': [u'1BpKJw4RZxaFB88NE5uxXf', u'1WIZiOuNO3woKfdlSK2gNn', u'1Wj9ZhqrnbLal0Iyqk6QH1', u'2olxzvoFI9IpxqFeUv7WOX', u'0v0BxvMVMiNlu938A21c6p', u'3jgrNd3uPU1c2PFBKYsV9d']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...  0.329
+4  https://i.scdn.co/image/ab67616d0000b273fac090...  ...  0.616
+3  https://i.scdn.co/image/ab67616d0000b273c28802...  ...  0.653
+2  https://i.scdn.co/image/ab67616d0000b273fe8140...  ...  0.166
+1  https://i.scdn.co/image/ab67616d0000b273583ce9...  ...   0.66
+0  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.693
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
