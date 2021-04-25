@@ -77599,3 +77599,30 @@ GOT THESE SONGS
 ('Rows: ', 6)
 Saved!
 
+[master 40a85cfd] updating daily data 2021-04-25 14:00:04.749601
+ 3 files changed, 34 insertions(+), 1 deletion(-)
+2021-04-25 14:00:03.496266
+Auth happening...
+Getting songs
+Creating dataframe...
+Backseat (feat. PnB Rock)
+Wolves (with NAV)
+Showin Off Pt.2 (feat. Fivio Foreign)
+Meet the Woo
+Like Me (with PnB Rock)
+What You Know Bout Love
+What You Know Bout Love
+GOT THESE SONGS
+{'played_at': ['13:40', '13:37', '13:34', '13:31', '13:29', '13:25'], 'valence': [0.371, 0.652, 0.611, 0.383, 0.555, 0.543], 'mood_avg': [0.538, 0.721, 0.661, 0.585, 0.588, 0.61], 'danceability': [0.704, 0.836, 0.658, 0.816, 0.61, 0.709], 'energy': [0.542, 0.627, 0.769, 0.526, 0.61, 0.548], 'image': [u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03', u'https://i.scdn.co/image/ab67616d0000b273cd90e898c070ef21812ab363', u'https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03', u'https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5', u'https://i.scdn.co/image/ab67616d0000b273cd90e898c070ef21812ab363', u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369'], 'album_name': [u'Shoot For The Stars Aim For The Moon (Deluxe)', u'Meet The Woo 2 (Deluxe)', u'Shoot For The Stars Aim For The Moon (Deluxe)', u'Meet The Woo', u'Meet The Woo 2 (Deluxe)', u'Shoot For The Stars Aim For The Moon'], 'song_name': [u'Backseat (feat. PnB Rock)', u'Wolves (with NAV)', u'Showin Off Pt.2 (feat. Fivio Foreign)', u'Meet the Woo', u'Like Me (with PnB Rock)', u'What You Know Bout Love'], 'artist_name': [u'Pop Smoke', u'Pop Smoke', u'Pop Smoke', u'Pop Smoke', u'Pop Smoke', u'Pop Smoke'], 'track_id': [u'0fj9oGrCKxVA4sXDxvbfiM', u'1dnsojUNfvhiztcITLzruj', u'6JzyJgeHSRS4aYiK5gt02M', u'4kdKKsPHWsyNrvFsZrcg52', u'7knEYd7b0UcbjgChHX7QBq', u'1tkg4EHVoqnhR6iFEXb60y']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b27377ada0...  ...  0.548
+4  https://i.scdn.co/image/ab67616d0000b273cd90e8...  ...   0.61
+3  https://i.scdn.co/image/ab67616d0000b2738fe5d0...  ...  0.526
+2  https://i.scdn.co/image/ab67616d0000b27346e130...  ...  0.769
+1  https://i.scdn.co/image/ab67616d0000b273cd90e8...  ...  0.627
+0  https://i.scdn.co/image/ab67616d0000b27346e130...  ...  0.542
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
