@@ -77237,3 +77237,48 @@ Saved!
 2021-04-24 17:00:03.008005
 Auth happening...
 Getting songs
+[master 6746dc51] updating daily data 2021-04-24 18:00:02.775903
+ 2 files changed, 25 insertions(+), 1 deletion(-)
+2021-04-24 18:00:02.050314
+Auth happening...
+Getting songs
+Creating dataframe...
+Cape Cod Kwassa Kwassa
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-04-24 19:00:02.800480
+Auth happening...
+Getting songs
+Creating dataframe...
+2021-04-24 20:00:03.973222
+Auth happening...
+Getting songs
+Creating dataframe...
+Lifting You
+Walking (feat. Knox Fortune)
+Chosen Family - Acoustic
+Avril 14th
+Risky (feat. Drakeo the Ruler)
+Control
+Something Special
+Case Closed
+Blame It on Your Love (feat. Lizzo)
+Summertime Magic
+2 On (feat. ScHoolboy Q)
+BIG PURR (Prrdd) (feat. Pooh Shiesty)
+Ladies of Cambridge
+Duo
+Love More (By Fiona Apple)
+Risky (feat. Drakeo the Ruler)
+Risky (feat. Drakeo the Ruler)
+Something Special
+Duo
+How I Roll
+GOT THESE SONGS
+{'played_at': ['19:59', '19:55', '19:53', '19:49', '19:47', '19:44', '19:41', '19:38', '19:34', '19:29', '19:26', '19:22', '19:20', '19:17', '19:15', '19:11', '19:08', '19:05', '19:03'], 'valence': [0.578, 0.914, 0.429, 0.37, 0.259, 0.388, 0.654, 0.51, 0.598, 0.125, 0.431, 0.38, 0.687, 0.832, 0.72, 0.259, 0.259, 0.654, 0.832], 'mood_avg': [0.637, 0.842, 0.47, 0.376, 0.58, 0.472, 0.68, 0.703, 0.677, 0.47, 0.588, 0.544, 0.656, 0.795, 0.618, 0.58, 0.58, 0.68, 0.795], 'danceability': [0.761, 0.812, 0.51, 0.558, 0.928, 0.354, 0.739, 0.886, 0.717, 0.76, 0.742, 0.774, 0.59, 0.805, 0.605, 0.928, 0.928, 0.739, 0.805], 'energy': [0.509, 0.756, 0.471, 0.0259, 0.528, 0.877, 0.616, 0.722, 0.755, 0.579, 0.595, 0.412, 0.727, 0.7, 0.442, 0.528, 0.528, 0.616, 0.7], 'image': [u'https://i.scdn.co/image/ab67616d0000b273be23f47224937c9b57a004b2', u'https://i.scdn.co/image/ab67616d0000b27371ca310602f66afeca847619', u'https://i.scdn.co/image/ab67616d0000b273db0a368a7ede184a67a51b95', u'https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a', u'https://i.scdn.co/image/ab67616d0000b2731e78223f20a51942e979f675', u'https://i.scdn.co/image/ab67616d0000b273d66510e9f9d1a0f1294affe8', u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369', u'https://i.scdn.co/image/ab67616d0000b2734f0c38ae8f1e11c4af859975', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273602ca5b83fe44b68074a74b2', u'https://i.scdn.co/image/ab67616d0000b27381a584f39cad5c1c6a6e9e50', u'https://i.scdn.co/image/ab67616d0000b273c506665606780c4108026c6e', u'https://i.scdn.co/image/ab67616d0000b273d0ae72fdcc3f7bb0b3a7dfed', u'https://i.scdn.co/image/ab67616d0000b2734d7cf5092f4248598448c838', u'https://i.scdn.co/image/ab67616d0000b27368d817904d1293e95da9b1f0', u'https://i.scdn.co/image/ab67616d0000b2731e78223f20a51942e979f675', u'https://i.scdn.co/image/ab67616d0000b2731e78223f20a51942e979f675', u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369', u'https://i.scdn.co/image/ab67616d0000b2734d7cf5092f4248598448c838'], 'album_name': [u'NO ONE EVER REALLY DIES', u'Walking (feat. Knox Fortune)', u'SAWAYAMA (Deluxe Edition)', u'Drukqs', u'Pretty Summer Playlist: Season 1', u'Control', u'Shoot For The Stars Aim For The Moon', u'Case Closed', u'Charli', u'Summer Pack', u'Aquarius', u'BIG PURR (Prrdd)', u'Ladies of Cambridge', u'Duo', u'Love More (By Fiona Apple)', u'Pretty Summer Playlist: Season 1', u'Pretty Summer Playlist: Season 1', u'Shoot For The Stars Aim For The Moon', u'Duo'], 'song_name': [u'Lifting You', u'Walking (feat. Knox Fortune)', u'Chosen Family - Acoustic', u'Avril 14th', u'Risky (feat. Drakeo the Ruler)', u'Control', u'Something Special', u'Case Closed', u'Blame It on Your Love (feat. Lizzo)', u'Summertime Magic', u'2 On (feat. ScHoolboy Q)', u'BIG PURR (Prrdd) (feat. Pooh Shiesty)', u'Ladies of Cambridge', u'Duo', u'Love More (By Fiona Apple)', u'Risky (feat. Drakeo the Ruler)', u'Risky (feat. Drakeo the Ruler)', u'Something Special', u'Duo'], 'artist_name': [u'N.E.R.D', u'Pomo', u'Rina Sawayama', u'Aphex Twin', u'Saweetie', u'Mannequin Pussy', u'Pop Smoke', u'Young Dolph', u'Charli XCX', u'Childish Gambino', u'Tinashe', u'Coi Leray', u'Vampire Weekend', u'Sam Gellaitry', u'Sharon Van Etten', u'Saweetie', u'Saweetie', u'Pop Smoke', u'Sam Gellaitry'], 'track_id': [u'6DddRnq5NnVFjbyopAcRnq', u'49VSoFGkW7PPGVP39f1HQJ', u'4XOCgGHUf5E0pMiqpXAQcO', u'2MZSXhq4XDJWu6coGoXX1V', u'4Y0E52nss2ZybjhMpMHTT5', u'1BrI8GZkG9Rd8Gvx4nBf9Y', u'5kkaSMcf4BFlhRRICCKZb6', u'4J8TFfkMZqOEwTuEPxkX0b', u'2RCUr24
