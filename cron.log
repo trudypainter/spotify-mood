@@ -77502,3 +77502,28 @@ GOT THESE SONGS
 ('Rows: ', 6)
 Saved!
 
+[master d57c77ba] updating daily data 2021-04-25 09:00:05.588235
+ 3 files changed, 33 insertions(+), 1 deletion(-)
+2021-04-25 09:00:03.495832
+Auth happening...
+Getting songs
+Creating dataframe...
+New N3on
+FlatBed Freestyle
+Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)
+Foreign
+Summer Bummer (feat. A$AP Rocky & Playboi Carti)
+Magnolia
+GOT THESE SONGS
+{'played_at': ['08:16', '08:13', '08:10', '08:07', '08:05'], 'valence': [0.948, 0.402, 0.312, 0.264, 0.137], 'mood_avg': [0.901, 0.573, 0.583, 0.551, 0.474], 'danceability': [0.888, 0.755, 0.883, 0.762, 0.76], 'energy': [0.833, 0.552, 0.525, 0.705, 0.574], 'image': [u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194', u'https://i.scdn.co/image/ab67616d0000b27393b1e96fad758869d0974162', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194', u'https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190'], 'album_name': [u'Whole Lotta Red', u'Die Lit', u'Perfect Ten', u'Die Lit', u'Lust For Life'], 'song_name': [u'New N3on', u'FlatBed Freestyle', u'Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)', u'Foreign', u'Summer Bummer (feat. A$AP Rocky & Playboi Carti)'], 'artist_name': [u'Playboi Carti', u'Playboi Carti', u'Mustard', u'Playboi Carti', u'Lana Del Rey'], 'track_id': [u'7ejepEh5DJ79YI6owGRfkk', u'5nayhWICkQGMTkisxVMbRw', u'2zjGJ0dChMR0KxBZS15aqo', u'500l6Cwe40hkPqS7Sf7ufY', u'5QqyRUZeBE04yJxsD1OC0I']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b27395e2fd...  ...  0.574
+3  https://i.scdn.co/image/ab67616d0000b273a1e867...  ...  0.705
+2  https://i.scdn.co/image/ab67616d0000b27393b1e9...  ...  0.525
+1  https://i.scdn.co/image/ab67616d0000b273a1e867...  ...  0.552
+0  https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.833
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
