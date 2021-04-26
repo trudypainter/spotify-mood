@@ -77754,3 +77754,28 @@ GOT THESE SONGS
 ('Rows: ', 5)
 Saved!
 
+[master 95720d9b] updating daily data 2021-04-25 22:00:04.102316
+ 3 files changed, 31 insertions(+), 1 deletion(-)
+2021-04-25 22:00:03.107431
+Auth happening...
+Getting songs
+Creating dataframe...
+I Know The End
+Moon Song
+Garden Song
+Kyoto
+Halloween
+ICU
+GOT THESE SONGS
+{'played_at': ['21:20', '21:14', '21:09', '21:06', '21:03'], 'valence': [0.259, 0.172, 0.158, 0.493, 0.373], 'mood_avg': [0.299, 0.269, 0.329, 0.585, 0.374], 'danceability': [0.328, 0.38, 0.528, 0.599, 0.483], 'energy': [0.32, 0.24, 0.273, 0.742, 0.156], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add'], 'album_name': [u'Punisher', u'Punisher', u'Punisher', u'Punisher', u'Punisher'], 'song_name': [u'I Know The End', u'Moon Song', u'Garden Song', u'Kyoto', u'Halloween'], 'artist_name': [u'Phoebe Bridgers', u'Phoebe Bridgers', u'Phoebe Bridgers', u'Phoebe Bridgers', u'Phoebe Bridgers'], 'track_id': [u'3cr3oAP4bQFNjZBV7ElKaB', u'6sALLrBPX30ptG1HWH6vmW', u'5uQRmdIqyMmKPWJcot4UmV', u'49UDOG8DoBajXTJSTqfRMg', u'7FQ2JgfdkBcBb3BEbu8Axf']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...  0.156
+3  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...  0.742
+2  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...  0.273
+1  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.24
+0  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.32
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
