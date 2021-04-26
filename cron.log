@@ -77952,3 +77952,22 @@ GOT THESE SONGS
 ('Rows: ', 4)
 Saved!
 
+[master e11b268a] updating daily data 2021-04-26 09:00:08.865564
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-04-26 09:00:06.007477
+Auth happening...
+Getting songs
+Creating dataframe...
+BALD!
+Nobody's Business (148 BPM)
+FIRST DAY IN LA (feat. Pooh Shiesty)
+GOT THESE SONGS
+{'played_at': ['08:33', '08:30'], 'valence': [0.632, 0.492], 'mood_avg': [0.67, 0.68], 'danceability': [0.582, 0.751], 'energy': [0.92, 0.914], 'image': [u'https://i.scdn.co/image/ab67616d0000b27366d8ddd534a933d37fac01d4', u'https://i.scdn.co/image/ab67616d0000b273680a31871f1e3267e0e9e01b'], 'album_name': [u'BALD!', u'Text While Driving If You Want to Meet God!'], 'song_name': [u'BALD!', u"Nobody's Business (148 BPM)"], 'artist_name': [u'JPEGMAFIA', u'Vegyn'], 'track_id': [u'5QAUGlyYPPnis3e8ln0qiz', u'4Di5aTbqeWwm007bB3fOK6']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273680a31...  ...  0.914
+0  https://i.scdn.co/image/ab67616d0000b27366d8dd...  ...   0.92
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
