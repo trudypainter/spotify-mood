@@ -78053,3 +78053,40 @@ u'I Hope to Be Around (Album V)', u'Yo This Is the Next Tune Yah Get Me (124 BPM
 ('Rows: ', 23)
 Saved!
 
+[master ef633a99] updating daily data 2021-04-26 13:00:04.303645
+ 2 files changed, 27 insertions(+), 1 deletion(-)
+2021-04-26 13:00:02.388535
+Auth happening...
+Getting songs
+Creating dataframe...
+Porcelain
+Air
+Show Me How (Album V)
+Pines
+Pierre
+Alright
+Numb (Album V)
+Slap Pie
+Dorian
+Oncle Jazz
+Tailwhip (Album V)
+Tailwhip Revisited
+GOT THESE SONGS
+{'played_at': ['12:32', '12:29', '12:26', '12:22', '12:18', '12:15', '12:12', '12:09', '12:06', '12:03', '12:02'], 'valence': [0.579, 0.531, 0.46, 0.277, 0.337, 0.69, 0.701, 0.952, 0.583, 0.246, 0.64], 'mood_avg': [0.611, 0.62, 0.552, 0.439, 0.423, 0.669, 0.654, 0.799, 0.527, 0.445, 0.64], 'danceability': [0.801, 0.86, 0.811, 0.645, 0.587, 0.824, 0.799, 0.781, 0.607, 0.712, 0.751], 'energy': [0.294, 0.316, 0.217, 0.349, 0.265, 0.318, 0.27, 0.529, 0.257, 0.308, 0.417], 'image': [u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d'], 'album_name': [u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz'], 'song_name': [u'Porcelain', u'Air', u'Show Me How (Album V)', u'Pines', u'Pierre', u'Alright', u'Numb (Album V)', u'Slap Pie', u'Dorian', u'Oncle Jazz', u'Tailwhip (Album V)'], 'artist_name': [u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust'], 'track_id': [u'2ngVZZGrIYAxyxaA2QcWTB', u'4TVw3QPxn7pD1YyrdbLa74', u'6A46jG17UumVQLqodsFxuV', u'7qFLFQOYcytDd4hejiREzk', u'6rpgkVBjx8c7WURyY3xHWm', u'5cW8mZYs5mKGZP5n2azBW3', u'3nb2awsoNpohW96canbmAr', u'1TFOhZp3KF4zSLwMNmx4wO', u'50Qh4Ef1Wyi3qZghIibXmR', u'204t5SErksNRHRhU52g5JF', u'3rRAR3YHRFShjEaHP0o9Xi']}
+                                                image  ... energy
+10  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.417
+9   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.308
+8   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.257
+7   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.529
+6   https://i.scdn.co/image/ab67616d0000b273412e18...  ...   0.27
+5   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.318
+4   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.265
+3   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.349
+2   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.217
+1   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.316
+0   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.294
+
+[11 rows x 10 columns]
+('Rows: ', 11)
+Saved!
+
