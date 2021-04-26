@@ -78090,3 +78090,84 @@ GOT THESE SONGS
 ('Rows: ', 11)
 Saved!
 
+[master 8cf9d127] updating daily data 2021-04-26 14:00:04.818903
+ 3 files changed, 52 insertions(+), 1 deletion(-)
+2021-04-26 14:00:02.345289
+Auth happening...
+Getting songs
+Creating dataframe...
+I Hope to Be Around (Album V)
+You Deserve This (Album V)
+Air
+Found Me
+Alright
+Something in Water
+Tailwhip (Album V)
+Tailwhip (Album V)
+Found Me
+Seven (Album V)
+Numb (Album V)
+Porcelain
+Pines
+Found Me
+Porcelain
+GOT THESE SONGS
+{'played_at': ['13:53', '13:50', '13:46', '13:43', '13:40', '13:37', '13:34', '13:34', '13:34', '13:30', '13:26', '13:22', '13:19', '13:15'], 'valence': [0.758, 0.237, 0.531, 0.796, 0.69, 0.213, 0.64, 0.64, 0.796, 0.755, 0.701, 0.579, 0.277, 0.796], 'mood_avg': [0.713, 0.397, 0.62, 0.713, 0.669, 0.376, 0.64, 0.64, 0.713, 0.68, 0.654, 0.611, 0.439, 0.713], 'danceability': [0.825, 0.629, 0.86, 0.681, 0.824, 0.627, 0.751, 0.751, 0.681, 0.748, 0.799, 0.801, 0.645, 0.681], 'energy': [0.397, 0.253, 0.316, 0.609, 0.318, 0.198, 0.417, 0.417, 0.609, 0.393, 0.27, 0.294, 0.349, 0.609], 'image': [u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d'], 'album_name': [u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz'], 'song_name': [u'I Hope to Be Around (Album V)', u'You Deserve This (Album V)', u'Air', u'Found Me', u'Alright', u'Something in Water', u'Tailwhip (Album V)', u'Tailwhip (Album V)', u'Found Me', u'Seven (Album V)', u'Numb (Album V)', u'Porcelain', u'Pines', u'Found Me'], 'artist_name': [u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust'], 'track_id': [u'3g2TTPgNQhwGnkctiENsEh', u'36EO0BMu1EZZznRurwBMzW', u'4TVw3QPxn7pD1YyrdbLa74', u'4m0dj1HxXzFlnIqPkomXQB', u'5cW8mZYs5mKGZP5n2azBW3', u'7rC4fpqWw83rw6SFSxN1Qo', u'3rRAR3YHRFShjEaHP0o9Xi', u'3rRAR3YHRFShjEaHP0o9Xi', u'4m0dj1HxXzFlnIqPkomXQB', u'74v28tCHJ9tRSvwKbQdqJc', u'3nb2awsoNpohW96canbmAr', u'2ngVZZGrIYAxyxaA2QcWTB', u'7qFLFQOYcytDd4hejiREzk', u'4m0dj1HxXzFlnIqPkomXQB']}
+                                                image  ... energy
+13  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.609
+12  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.349
+11  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.294
+10  https://i.scdn.co/image/ab67616d0000b273412e18...  ...   0.27
+9   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.393
+8   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.609
+7   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.417
+6   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.417
+5   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.198
+4   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.318
+3   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.609
+2   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.316
+1   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.253
+0   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.397
+
+[14 rows x 10 columns]
+('Rows: ', 14)
+Saved!
+
+2021-04-26 15:00:03.388565
+Auth happening...
+Getting songs
+Creating dataframe...
+Alright
+Sunshine Girl - Pt. 2
+2021-04-26 16:00:03.315896
+Auth happening...
+Getting songs
+Creating dataframe...
+Fry Queen
+June
+Courtside
+Clueless
+Break for Lovers (feat. Helena)
+Slap Pie
+ABQ
+Ladypants
+Show Me How (Album V)
+Ben My Best Friend
+Numb (Album V)
+Alright
+GOT THESE SONGS
+{'played_at': ['15:39', '15:36', '15:31', '15:28', '15:25', '15:21', '15:19', '15:14', '15:11', '15:07', '15:03'], 'valence': [0.44, 0.268, 0.621, 0.52, 0.813, 0.952, 0.175, 0.668, 0.46, 0.394, 0.701], 'mood_avg': [0.603, 0.478, 0.62, 0.586, 0.734, 0.799, 0.347, 0.616, 0.552, 0.495, 0.654], 'danceability': [0.846, 0.691, 0.668, 0.829, 0.858, 0.781, 0.54, 0.575, 0.811, 0.601, 0.799], 'energy': [0.442, 0.472, 0.524, 0.232, 0.326, 0.529, 0.307, 0.595, 0.217, 0.483, 0.27], 'image': [u'https://i.scdn.co/image/ab67616d0000b27386dc71c002042b92efbbd200', u'https://i.scdn.co/image/ab67616d0000b2734c4c1c83c93939c45bb5ed1d', u'https://i.scdn.co/image/ab67616d0000b273d42a7bb4e092b8a61b7a4f20', u'https://i.scdn.co/image/ab67616d0000b273e1f8dfae32fdcbffbb726260', u'https://i.scdn.co/image/ab67616d0000b27338af97753b8b89cbd1d05096', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273a64b06c0eb30ce15c3e6edc1', u'https://i.scdn.co/image/ab67616d0000b27386dc71c002042b92efbbd200', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b27386dc71c002042b92efbbd200', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d'], 'album_name': [u'Bossa Loser', u'Natalie Green is my Lover', u'Courtside', u'Clueless', u'Headroom', u'Oncle Jazz', u'Superclean, Vol. II', u'Bossa Loser', u'Oncle Jazz', u'Bossa Loser', u'Oncle Jazz'], 'song_name': [u'Fry Queen', u'June', u'Courtside', u'Clueless', u'Break for Lovers (feat. Helena)', u'Slap Pie', u'ABQ', u'Ladypants', u'Show Me How (Album V)', u'Ben My Best Friend', u'Numb (Album V)'], 'artist_name': [u'Pinstripe Sunny', u'Natalie Green', u'Triathalon', u'The Mar\xedas', u'Men I Trust', u'Men I Trust', u'The Mar\xedas', u'Pinstripe Sunny', u'Men I Trust', u'Pinstripe Sunny', u'Men I Trust'], 'track_id': [u'3CScCdfOMppcovFhc91DBC', u'6URCJJRPQAJyxKhzILWllf', u'4QBs03zMdjDtS6ZRAdojDv', u'7mrEpwmQJ7qK1ik7ZjjcdD', u'1mXE3amJxqLBPBUBYQi55e', u'1TFOhZp3KF4zSLwMNmx4wO', u'5P9PQR7CM5YPEU2I3EypWM', u'4Jrjl6ukYUCaVpjyKZMbXc', u'6A46jG17UumVQLqodsFxuV', u'3VfYOSHOwR8ypW15CsUaQs', u'3nb2awsoNpohW96canbmAr']}
+                                                image  ... energy
+10  https://i.scdn.co/image/ab67616d0000b273412e18...  ...   0.27
+9   https://i.scdn.co/image/ab67616d0000b27386dc71...  ...  0.483
+8   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.217
+7   https://i.scdn.co/image/ab67616d0000b27386dc71...  ...  0.595
+6   https://i.scdn.co/image/ab67616d0000b273a64b06...  ...  0.307
+5   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.529
+4   https://i.scdn.co/image/ab67616d0000b27338af97...  ...  0.326
+3   https://i.scdn.co/image/ab67616d0000b273e1f8df...  ...  0.232
+2   https://i.scdn.co/image/ab67616d0000b273d42a7b...  ...  0.524
+1   https://i.scdn.co/image/ab67616d0000b2734c4c1c...  ...  0.472
+0   https://i.scdn.co/image/ab67616d0000b27386dc71...  ...  0.442
+
+[11 rows x 10 columns]
