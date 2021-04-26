@@ -77729,3 +77729,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 1d962322] updating daily data 2021-04-25 21:00:04.871883
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-04-25 21:00:02.617422
+Auth happening...
+Getting songs
+Creating dataframe...
+ICU
+DVD Menu
+Graceland Too
+Steeeam
+Plastic Love
+ART SCHOOL CRUSH
+GOT THESE SONGS
+{'played_at': ['20:58', '20:55', '20:54', '20:49', '20:46'], 'valence': [0.429, 0.111, 0.361, 0.923, 0.697], 'mood_avg': [0.506, 0.147, 0.388, 0.849, 0.709], 'danceability': [0.507, 0.213, 0.44, 0.817, 0.705], 'energy': [0.658, 0.0864, 0.34, 0.763, 0.741], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b273d711a839a6e39efda6b6ba88', u'https://i.scdn.co/image/ab67616d0000b2734ed6086f0ed6511a1efee7ef'], 'album_name': [u'Punisher', u'Punisher', u'Punisher', u'Shelly', u'Plastic Love'], 'song_name': [u'ICU', u'DVD Menu', u'Graceland Too', u'Steeeam', u'Plastic Love'], 'artist_name': [u'Phoebe Bridgers', u'Phoebe Bridgers', u'Phoebe Bridgers', u'Shelly', u'CHAI'], 'track_id': [u'38KCyQcBswyAd7xSQnDIU4', u'6Tz8qANEIf4aCGEEjcxgKg', u'44spdItKKM7rOtKswbBG0U', u'09RamrocZneYcLYLRIxYha', u'0hbp7VBH4vQaBm2Dx1giG8']}
+                                               image  ...  energy
+4  https://i.scdn.co/image/ab67616d0000b2734ed608...  ...   0.741
+3  https://i.scdn.co/image/ab67616d0000b273d711a8...  ...   0.763
+2  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...    0.34
+1  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...  0.0864
+0  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...   0.658
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
