@@ -77929,3 +77929,26 @@ GOT THESE SONGS
 ('Rows: ', 7)
 Saved!
 
+[master 7364f9b4] updating daily data 2021-04-26 08:00:04.364872
+ 3 files changed, 34 insertions(+), 1 deletion(-)
+2021-04-26 08:00:03.369107
+Auth happening...
+Getting songs
+Creating dataframe...
+FIRST DAY IN LA (feat. Pooh Shiesty)
+Nasty Freestyle
+Backwards (feat. Meek Mill)
+Knocked Off (feat. Birdman)
+What's Da Bizness
+GOT THESE SONGS
+{'played_at': ['07:12', '07:08', '07:05', '07:02'], 'valence': [0.575, 0.412, 0.438, 0.578], 'mood_avg': [0.664, 0.571, 0.657, 0.686], 'danceability': [0.814, 0.779, 0.95, 0.866], 'energy': [0.54, 0.472, 0.508, 0.543], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b1ab991569ec70908f530cb9', u'https://i.scdn.co/image/ab67616d0000b273f77cce79bf033cc73f9c5b7d', u'https://i.scdn.co/image/ab67616d0000b2735c84824e9f16ff026c180b8b', u'https://i.scdn.co/image/ab67616d0000b27388053a98d0abb8ed3a02efe1'], 'album_name': [u'Gutta Baby', u'Nasty Freestyle', u'Delusions of Grandeur', u'Barter 6'], 'song_name': [u'FIRST DAY IN LA (feat. Pooh Shiesty)', u'Nasty Freestyle', u'Backwards (feat. Meek Mill)', u'Knocked Off (feat. Birdman)'], 'artist_name': [u'Foogiano', u'T-Wayne', u'Gucci Mane', u'Young Thug'], 'track_id': [u'0uVL5wuKl9ADKy1cnV66bU', u'0PT7nlpo11hYYyfnBgtilT', u'4Aw3DJWMTGXVgAdAzAAI02', u'4c3krD3VpZ0FvJgpE57wVD']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b27388053a...  ...  0.543
+2  https://i.scdn.co/image/ab67616d0000b2735c8482...  ...  0.508
+1  https://i.scdn.co/image/ab67616d0000b273f77cce...  ...  0.472
+0  https://i.scdn.co/image/ab67616d0000b273b1ab99...  ...   0.54
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
