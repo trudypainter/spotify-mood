@@ -77714,3 +77714,18 @@ GOT THESE SONGS
 0  https://i.scdn.co/image/ab67616d0000b273499427...  ...  0.481
 
 [7 rows x 10 columns]
+[master 77c45e2d] updating daily data 2021-04-25 20:00:03.551025
+ 3 files changed, 56 insertions(+), 1 deletion(-)
+2021-04-25 20:00:02.817376
+Auth happening...
+Getting songs
+Creating dataframe...
+ART SCHOOL CRUSH
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
