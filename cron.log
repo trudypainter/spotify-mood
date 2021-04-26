@@ -77855,3 +77855,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master e1858fa3] updating daily data 2021-04-26 04:00:04.595278
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-04-26 04:00:03.775071
+Auth happening...
+Getting songs
+Creating dataframe...
+I Know The End
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
