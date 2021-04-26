@@ -78171,3 +78171,18 @@ GOT THESE SONGS
 0   https://i.scdn.co/image/ab67616d0000b27386dc71...  ...  0.442
 
 [11 rows x 10 columns]
+[master 31f46156] updating daily data 2021-04-26 17:00:03.896750
+ 3 files changed, 90 insertions(+), 1 deletion(-)
+2021-04-26 17:00:02.988271
+Auth happening...
+Getting songs
+Creating dataframe...
+Fry Queen
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
