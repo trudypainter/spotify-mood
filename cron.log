@@ -77971,3 +77971,54 @@ GOT THESE SONGS
 ('Rows: ', 2)
 Saved!
 
+[master 7510b5fa] updating daily data 2021-04-26 10:00:04.499522
+ 2 files changed, 20 insertions(+), 1 deletion(-)
+2021-04-26 10:00:03.790404
+Auth happening...
+Getting songs
+Creating dataframe...
+BALD!
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-04-26 11:00:09.440915
+Auth happening...
+Getting songs
+Creating dataframe...
+Three Man Weave
+Nowhere2go
+2021-04-26 12:00:02.615497
+Auth happening...
+Getting songs
+Creating dataframe...
+Tailwhip Revisited
+Poplar Tree
+Something in Water
+Seven (Album V)
+Fiero GT
+All Night
+Days Go By
+You Deserve This (Album V)
+I Hope to Be Around (Album V)
+Yo This Is the Next Tune Yah Get Me (124 BPM)
+To All the Photos Going up Online Rn (118 BPM)
+First of 2018 002 (140 BPM)
+It's All in the Eyes of (124 BPM)
+Get This Thang Right Here 003 (170 BPM)
+Go Tow Work (134 BPM)
+If Not Someone Then Somewhere 004 (89.797 BPM)
+Deep Deep Throwaway 003 (100 BPM)
+BasicBitchTearGas
+Iphone Speakerz (112 BPM)
+1539 N. Calvert
+A.P.I.D.T.A.
+Ns10 + Sub Combo Classic V2 (120 BPM)
+Deep Down Body Thurst
+Houthi
+GOT THESE SONGS
+{'played_at': ['11:59', '11:55', '11:53', '11:50', '11:46', '11:45', '11:42', '11:39', '11:36', '11:32', '11:30', '11:29', '11:28', '11:26', '11:25', '11:23', '11:22', '11:16', '11:14', '11:13', '11:11', '11:05', '11:04'], 'valence': [0.696, 0.118, 0.213, 0.755, 0.459, 0.608, 0.292, 0.237, 0.758, 0.214, 0.298, 0.228, 0.545, 0.178, 0.261, 0.852, 0.171, 0.366, 0.0513, 0.357, 0.403, 0.144, 0.25], 'mood_avg': [0.667, 0.169, 0.376, 0.68, 0.556, 0.603, 0.492, 0.397, 0.713, 0.54, 0.479, 0.325, 0.681, 0.499, 0.497, 0.677, 0.346, 0.477, 0.231, 0.631, 0.485, 0.225, 0.469], 'danceability': [0.73, 0.24, 0.627, 0.748, 0.753, 0.795, 0.783, 0.629, 0.825, 0.8, 0.649, 0.353, 0.908, 0.702, 0.762, 0.487, 0.546, 0.505, 0.323, 0.863, 0.498, 0.391, 0.65], 'energy': [0.483, 0.129, 0.198, 0.393, 0.356, 0.208, 0.312, 0.253, 0.397, 0.674, 0.5, 0.464, 0.497, 0.734, 0.44, 0.706, 0.296, 0.644, 0.405, 0.717, 0.625, 0.053, 0.545], 'image': [u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273680a31871f1e3267e0e9e01b', u'https://i.scdn.co/image/ab67616d0000b273680a31871f1e3267e0e9e01b', u'https://i.scdn.co/image/ab67616d0000b273680a31871f1e3267e0e9e01b', u'https://i.scdn.co/image/ab67616d0000b273680a31871f1e3267e0e9e01b', u'https://i.scdn.co/image/ab67616d0000b273680a31871f1e3267e0e9e01b', u'https://i.scdn.co/image/ab67616d0000b273680a31871f1e3267e0e9e01b', u'https://i.scdn.co/image/ab67616d0000b273680a31871f1e3267e0e9e01b', u'https://i.scdn.co/image/ab67616d0000b273680a31871f1e3267e0e9e01b', u'https://i.scdn.co/image/ab67616d0000b273c0f5083c53e881de8dec3d70', u'https://i.scdn.co/image/ab67616d0000b273680a31871f1e3267e0e9e01b', u'https://i.scdn.co/image/ab67616d0000b273f8aaeba5e6dee1745371e822', u'https://i.scdn.co/image/ab67616d0000b273dc25254953d3e29508b27363', u'https://i.scdn.co/image/ab67616d0000b273680a31871f1e3267e0e9e01b', u'https://i.scdn.co/image/ab67616d0000b273be23f47224937c9b57a004b2'], 'album_name': [u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Text While Driving If You Want to Meet God!', u'Text While Driving If You Want to Meet God!', u'Text While Driving If You Want to Meet God!', u'Text While Driving If You Want to Meet God!', u'Text While Driving If You Want to Meet God!', u'Text While Driving If You Want to Meet God!', u'Text While Driving If You Want to Meet God!', u'Text While Driving If You Want to Meet God!', u'All My Heroes Are Cornballs', u'Text While Driving If You Want to Meet God!', u'Veteran', u'A Written Testimony', u'Text While Driving If You Want to Meet God!', u'NO ONE EVER REALLY DIES'], 'song_name': [u'Tailwhip Revisited', u'Poplar Tree', u'Something in Water', u'Seven (Album V)', u'Fiero GT', u'All Night', u'Days Go By', u'You Deserve This (Album V)', 
