@@ -77900,3 +77900,32 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 7548c65f] updating daily data 2021-04-26 07:00:07.927733
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-04-26 07:00:04.035785
+Auth happening...
+Getting songs
+Creating dataframe...
+What's Da Bizness
+Swimming Pools (Drank)
+Back In Blood (feat. Lil Durk)
+Walked In
+Said Sum
+Stick Talk
+Danny Glover
+Savior Complex
+GOT THESE SONGS
+{'played_at': ['06:55', '06:52', '06:48', '06:45', '06:42', '06:39', '06:36'], 'valence': [0.547, 0.201, 0.831, 0.768, 0.274, 0.595, 0.198], 'mood_avg': [0.672, 0.452, 0.744, 0.793, 0.615, 0.664, 0.54], 'danceability': [0.87, 0.699, 0.759, 0.969, 0.929, 0.729, 0.864], 'energy': [0.524, 0.459, 0.538, 0.491, 0.667, 0.672, 0.578], 'image': [u'https://i.scdn.co/image/ab67616d0000b273d2ac2d5b457bcad2eddef496', u'https://i.scdn.co/image/ab67616d0000b2730ad5098c562d43ce8211539c', u'https://i.scdn.co/image/ab67616d0000b27332c5d1e207364562fe2160b7', u'https://i.scdn.co/image/ab67616d0000b27329f3849573d619fd12f4f29a', u'https://i.scdn.co/image/ab67616d0000b273b0c27c2c071c9dbef50ee8d9', u'https://i.scdn.co/image/ab67616d0000b273b2592bea12d840fd096ef965', u'https://i.scdn.co/image/ab67616d0000b2736c93b18e2b198ee3ece40a99'], 'album_name': [u'Rich Slave', u'Swimming Pools (Drank)', u'Back In Blood (feat. Lil Durk)', u'Life Of A Hot Boy 2 : Real Trapper', u'Code Red', u'DS2 (Deluxe)', u"Trap Still Boomin' 2"], 'song_name': [u"What's Da Bizness", u'Swimming Pools (Drank)', u'Back In Blood (feat. Lil Durk)', u'Walked In', u'Said Sum', u'Stick Talk', u'Danny Glover'], 'artist_name': [u'Young Dolph', u'Kendrick Lamar', u'Pooh Shiesty', u'Bankroll Fresh', u'Moneybagg Yo', u'Future', u'Young Thug'], 'track_id': [u'29tLKguTMysoFejk0qNjap', u'7frWizM5FgJkaUl1rXhVtO', u'7JuHVG3qQKQKxC4doneXVW', u'252gJUec2oDsGBPcxZs4nX', u'3sKz6Sd72K0ofPWcJPPk6H', u'20fAoPjfYltmd3K3bO7gbt', u'0VL32DjEZZiOj2dYo9a0NX']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b2736c93b1...  ...  0.578
+5  https://i.scdn.co/image/ab67616d0000b273b2592b...  ...  0.672
+4  https://i.scdn.co/image/ab67616d0000b273b0c27c...  ...  0.667
+3  https://i.scdn.co/image/ab67616d0000b27329f384...  ...  0.491
+2  https://i.scdn.co/image/ab67616d0000b27332c5d1...  ...  0.538
+1  https://i.scdn.co/image/ab67616d0000b2730ad509...  ...  0.459
+0  https://i.scdn.co/image/ab67616d0000b273d2ac2d...  ...  0.524
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
