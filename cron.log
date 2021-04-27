@@ -78483,3 +78483,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 84145fbe] updating daily data 2021-04-27 12:00:04.540203
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-04-27 12:00:03.207445
+Auth happening...
+Getting songs
+Creating dataframe...
+Good Form (feat. Lil Wayne)
+Bitch I'm Nasty
+GOT THESE SONGS
+{'played_at': ['11:43'], 'valence': [0.295], 'mood_avg': [0.624], 'danceability': [0.898], 'energy': [0.733], 'image': [u'https://i.scdn.co/image/ab67616d0000b273fc8c64bfc4323ff7ce68fea8'], 'album_name': [u'Queen (Deluxe)'], 'song_name': [u'Good Form (feat. Lil Wayne)'], 'artist_name': [u'Nicki Minaj'], 'track_id': [u'6supMAknraGpJrN5qqYfV8']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273fc8c64...  ...  0.733
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
