@@ -78257,3 +78257,18 @@ Auth happening...
 Getting songs
 Creating dataframe...
 Alex
+[master e649e342] updating daily data 2021-04-26 23:00:02.735838
+ 2 files changed, 43 insertions(+), 1 deletion(-)
+2021-04-26 23:00:02.109712
+Auth happening...
+Getting songs
+Creating dataframe...
+Alex
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
