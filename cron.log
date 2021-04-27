@@ -78449,3 +78449,22 @@ GOT THESE SONGS
 ('Rows: ', 4)
 Saved!
 
+[master 88d0c12d] updating daily data 2021-04-27 10:00:05.306085
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-04-27 10:00:04.201889
+Auth happening...
+Getting songs
+Creating dataframe...
+Bitch I'm Nasty
+Barbie Dreams
+1999
+GOT THESE SONGS
+{'played_at': ['09:17', '09:16'], 'valence': [0.342, 0.694], 'mood_avg': [0.645, 0.774], 'danceability': [0.953, 0.848], 'energy': [0.636, 0.786], 'image': [u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b273fc8c64bfc4323ff7ce68fea8'], 'album_name': [u'Nasty', u'Queen (Deluxe)'], 'song_name': [u"Bitch I'm Nasty", u'Barbie Dreams'], 'artist_name': [u'Rico Nasty', u'Nicki Minaj'], 'track_id': [u'2xXNa4tR2CronQsZ6OKQtP', u'28eiD8ukLWhTvoDm1ZFPK0']}
+                                               image  ... energy
+1  https://i.scdn.co/image/ab67616d0000b273fc8c64...  ...  0.786
+0  https://i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.636
+
+[2 rows x 10 columns]
+('Rows: ', 2)
+Saved!
+
