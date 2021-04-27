@@ -78530,3 +78530,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 712a7c77] updating daily data 2021-04-27 17:00:04.531041
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-04-27 17:00:03.568753
+Auth happening...
+Getting songs
+Creating dataframe...
+Good Form (feat. Lil Wayne)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
