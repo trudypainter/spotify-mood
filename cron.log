@@ -78215,3 +78215,45 @@ Getting songs
 Creating dataframe...
 Moonlight
 From The D To The A (feat. Lil Yachty)
+[master 6d090c4c] updating daily data 2021-04-26 20:00:03.784656
+ 3 files changed, 39 insertions(+), 1 deletion(-)
+2021-04-26 20:00:02.431672
+Auth happening...
+Getting songs
+Creating dataframe...
+Every Single Thing
+Charcoal Baby
+Lord Pretty Flacko Jodye 2 (LPFJ2)
+MIDWESTEMO2
+Bad Friend
+Avril 14th
+Deep Down Body Thurst
+Girl Like You
+SAD!
+Moonlight
+GOT THESE SONGS
+{'played_at': ['19:58', '19:34', '19:30', '19:28', '19:26', '19:22', '19:10', '19:05', '19:02'], 'valence': [0.323, 0.514, 0.0471, 0.308, 0.454, 0.37, 0.25, 0.397, 0.473], 'mood_avg': [0.507, 0.546, 0.357, 0.446, 0.545, 0.376, 0.469, 0.575, 0.608], 'danceability': [0.816, 0.622, 0.485, 0.403, 0.549, 0.558, 0.65, 0.629, 0.74], 'energy': [0.255, 0.46, 0.72, 0.81, 0.72, 0.0259, 0.545, 0.823, 0.613], 'image': [u'https://i.scdn.co/image/ab67616d0000b273cd7c3cba379ae624e118ebcb', u'https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6', u'https://i.scdn.co/image/ab67616d0000b27381a6a2cafab2e7a4066b5eec', u'https://i.scdn.co/image/ab67616d0000b273a4feea99c67d1b0198e0410a', u'https://i.scdn.co/image/ab67616d0000b273db0a368a7ede184a67a51b95', u'https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a', u'https://i.scdn.co/image/ab67616d0000b273be23f47224937c9b57a004b2', u'https://i.scdn.co/image/ab67616d0000b2736bdf32d53f9f5dccc09dbcbe', u'https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c'], 'album_name': [u'Fresh Air', u'Negro Swan', u'AT.LONG.LAST.A$AP', u'"things happen, it\'s okay!"', u'SAWAYAMA (Deluxe Edition)', u'Drukqs', u'NO ONE EVER REALLY DIES', u'Boo Boo', u'?'], 'song_name': [u'Every Single Thing', u'Charcoal Baby', u'Lord Pretty Flacko Jodye 2 (LPFJ2)', u'MIDWESTEMO2', u'Bad Friend', u'Avril 14th', u'Deep Down Body Thurst', u'Girl Like You', u'SAD!'], 'artist_name': [u'HOMESHAKE', u'Blood Orange', u'A$AP Rocky', u'FROMTHEHEART', u'Rina Sawayama', u'Aphex Twin', u'N.E.R.D', u'Toro y Moi', u'XXXTENTACION'], 'track_id': [u'7yZTPEXSUqWw7sEYKKDv2N', u'3bBmpVl9rQKJsFFGLFilIS', u'1j6kDJttn6wbVyMaM42Nxm', u'6JNVWsFlvjlmgsSqRLszjV', u'72AmnIAgci6MxHFMXoPRJM', u'2MZSXhq4XDJWu6coGoXX1V', u'5HBcMAMVgBVUWiLyiK7q4I', u'6TFUZ8Bt1brEwomY90SKXi', u'3ee8Jmje8o58CHK66QrVC2']}
+                                               image  ...  energy
+8  https://i.scdn.co/image/ab67616d0000b273806c16...  ...   0.613
+7  https://i.scdn.co/image/ab67616d0000b2736bdf32...  ...   0.823
+6  https://i.scdn.co/image/ab67616d0000b273be23f4...  ...   0.545
+5  https://i.scdn.co/image/ab67616d0000b273a5aef9...  ...  0.0259
+4  https://i.scdn.co/image/ab67616d0000b273db0a36...  ...    0.72
+3  https://i.scdn.co/image/ab67616d0000b273a4feea...  ...    0.81
+2  https://i.scdn.co/image/ab67616d0000b27381a6a2...  ...    0.72
+1  https://i.scdn.co/image/ab67616d0000b27347dd2c...  ...    0.46
+0  https://i.scdn.co/image/ab67616d0000b273cd7c3c...  ...   0.255
+
+[9 rows x 10 columns]
+('Rows: ', 9)
+Saved!
+
+2021-04-26 21:00:01.496420
+Auth happening...
+Getting songs
+Creating dataframe...
+2021-04-26 22:00:01.615984
+Auth happening...
+Getting songs
+Creating dataframe...
+Alex
