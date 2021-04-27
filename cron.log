@@ -78186,3 +78186,32 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 520d4cd4] updating daily data 2021-04-26 18:00:05.093614
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+2021-04-26 18:00:03.282160
+Auth happening...
+Getting songs
+Creating dataframe...
+Be Nice 2 Me
+Say It (feat. Tove Lo)
+Sooner or Later
+Multi-Love
+Fry Queen
+GOT THESE SONGS
+{'played_at': ['17:57', '17:55', '17:51', '17:44'], 'valence': [0.332, 0.261, 0.48, 0.545], 'mood_avg': [0.438, 0.45, 0.501, 0.633], 'danceability': [0.449, 0.598, 0.422, 0.784], 'energy': [0.63, 0.532, 0.701, 0.506], 'image': [u'https://i.scdn.co/image/ab67616d0000b273407be60b024efcbabe7da815', u'https://i.scdn.co/image/ab67616d0000b273750d4a1b362296d1b815a223', u'https://i.scdn.co/image/ab67616d0000b2732bcca9fe8ad40625bcd1fbf3', u'https://i.scdn.co/image/ab67616d0000b273ee70875d2ac4c16bdeba0191'], 'album_name': [u'Icedancer', u'Skin', u'Seeing Sounds', u'Multi-Love'], 'song_name': [u'Be Nice 2 Me', u'Say It (feat. Tove Lo)', u'Sooner or Later', u'Multi-Love'], 'artist_name': [u'Bladee', u'Flume', u'N.E.R.D', u'Unknown Mortal Orchestra'], 'track_id': [u'2TmqHjg7uhizGndzXQdFuf', u'5aOpzm8W8zysk4asB9hxJw', u'4JMYfwYULOoWTaIW3CTvvT', u'0PEXp5yk0sx9dJ8JzwvjJb']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273ee7087...  ...  0.506
+2  https://i.scdn.co/image/ab67616d0000b2732bcca9...  ...  0.701
+1  https://i.scdn.co/image/ab67616d0000b273750d4a...  ...  0.532
+0  https://i.scdn.co/image/ab67616d0000b273407be6...  ...   0.63
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
+2021-04-26 19:00:02.586978
+Auth happening...
+Getting songs
+Creating dataframe...
+Moonlight
+From The D To The A (feat. Lil Yachty)
