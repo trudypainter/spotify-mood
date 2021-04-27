@@ -78393,3 +78393,36 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 46c4e5b5] updating daily data 2021-04-27 08:00:04.613809
+ 3 files changed, 25 insertions(+), 1 deletion(-)
+2021-04-27 08:00:03.162367
+Auth happening...
+Getting songs
+Creating dataframe...
+Yikes
+Like That Bitch
+party 4 u
+In The Party
+Lala
+Dark Horse
+Roaring 20s
+223 Remix
+sweetener
+Alex
+GOT THESE SONGS
+{'played_at': ['07:26', '07:24', '07:21', '07:16', '07:14', '07:11', '07:07', '07:05', '07:02'], 'valence': [0.66, 0.76, 0.245, 0.418, 0.425, 0.353, 0.786, 0.442, 0.46], 'mood_avg': [0.756, 0.786, 0.434, 0.657, 0.549, 0.516, 0.812, 0.665, 0.564], 'danceability': [0.911, 0.782, 0.579, 0.919, 0.707, 0.645, 0.91, 0.921, 0.721], 'energy': [0.637, 0.844, 0.522, 0.609, 0.483, 0.585, 0.67, 0.598, 0.459], 'image': [u'https://i.scdn.co/image/ab67616d0000b27398441652fc8a6b7ebf395ba9', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b273664e38c99d077cc52ab48914', u'https://i.scdn.co/image/ab67616d0000b2733ae4c6b039dd0433a53631bb', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b27347f930accd8ac01686401fa2', u'https://i.scdn.co/image/ab67616d0000b2733eee02e04b08d2c415ae63a5', u'https://i.scdn.co/image/ab67616d0000b273d7445441ad80d77b1d15a666', u'https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394'], 'album_name': [u'Yikes', u'Ho, why is you here ?', u"how i'm feeling now", u'Ho, why is you here ?', u'Nasty', u'PRISM (Deluxe)', u'Roaring 20s', u'Dumb Shit: The Album', u'Sweetener'], 'song_name': [u'Yikes', u'Like That Bitch', u'party 4 u', u'In The Party', u'Lala', u'Dark Horse', u'Roaring 20s', u'223 Remix', u'sweetener'], 'artist_name': [u'Nicki Minaj', u'Flo Milli', u'Charli XCX', u'Flo Milli', u'Rico Nasty', u'Katy Perry', u'Flo Milli', u'S3nsi Molly', u'Ariana Grande'], 'track_id': [u'75dLEqanQTupF3dtP9exT5', u'7zoZd2MuTaQEdF1rlq6Vv1', u'2RdEC8Ff83WkX7kDVCHseE', u'52BJrldggFQyTiW8XrILhO', u'245hvnaN40qR26q131lG9y', u'5jrdCoLpJSvHHorevXBATy', u'5N4oNpf3YH76vNhXKc5usy', u'0BhjjRVSL5LWwmlz72rfgY', u'70khXICDeTTxgYtw3EysKH']}
+                                               image  ... energy
+8  https://i.scdn.co/image/ab67616d0000b273c3af0c...  ...  0.459
+7  https://i.scdn.co/image/ab67616d0000b273d74454...  ...  0.598
+6  https://i.scdn.co/image/ab67616d0000b2733eee02...  ...   0.67
+5  https://i.scdn.co/image/ab67616d0000b27347f930...  ...  0.585
+4  https://i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.483
+3  https://i.scdn.co/image/ab67616d0000b2733ae4c6...  ...  0.609
+2  https://i.scdn.co/image/ab67616d0000b273664e38...  ...  0.522
+1  https://i.scdn.co/image/ab67616d0000b2733ae4c6...  ...  0.844
+0  https://i.scdn.co/image/ab67616d0000b273984416...  ...  0.637
+
+[9 rows x 10 columns]
+('Rows: ', 9)
+Saved!
+
