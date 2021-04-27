@@ -78500,3 +78500,18 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 881a8de7] updating daily data 2021-04-27 13:00:08.932531
+ 2 files changed, 18 insertions(+), 1 deletion(-)
+2021-04-27 13:00:06.217778
+Auth happening...
+Getting songs
+Creating dataframe...
+Good Form (feat. Lil Wayne)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
