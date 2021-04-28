@@ -78814,3 +78814,40 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 3499a64d] updating daily data 2021-04-28 11:00:04.362353
+ 3 files changed, 27 insertions(+), 1 deletion(-)
+2021-04-28 11:00:02.830271
+Auth happening...
+Getting songs
+Creating dataframe...
+Holy Will
+Not U
+(Something)
+Nighttime Drive
+My Willing Heart
+Fotzepolitic
+All That Ever Mattered
+Go Now
+Debold
+On the Line
+Rip the Slit
+Throw Sum Mo
+GOT THESE SONGS
+{'played_at': ['10:55', '10:50', '10:47', '10:45', '10:42', '10:38', '10:34', '10:32', '10:29', '10:26', '10:21'], 'valence': [0.182, 0.415, 0.0356, 0.799, 0.31, 0.133, 0.874, 0.462, 0.388, 0.434, 0.85], 'mood_avg': [0.245, 0.542, 0.256, 0.683, 0.359, 0.324, 0.783, 0.552, 0.519, 0.581, 0.689], 'danceability': [0.303, 0.753, 0.234, 0.641, 0.5, 0.311, 0.726, 0.797, 0.553, 0.775, 0.521], 'energy': [0.255, 0.373, 0.742, 0.535, 0.177, 0.731, 0.713, 0.241, 0.711, 0.487, 0.702], 'image': [u'https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6', u'https://i.scdn.co/image/ab67616d0000b273cd7c3cba379ae624e118ebcb', u'https://i.scdn.co/image/ab67616d0000b273101d15fad6d71a729df900ea', u'https://i.scdn.co/image/ab67616d0000b273c1dac7ae46fd825d2ac71fff', u'https://i.scdn.co/image/ab67616d0000b273559bd53b0292ed01f789a0d8', u'https://i.scdn.co/image/ab67616d0000b273dd65e48e39cbd75ee8dd81a3', u'https://i.scdn.co/image/ab67616d0000b2731bff3b5284c581b83e918d19', u'https://i.scdn.co/image/ab67616d0000b273281b57bfec5391971863c05a', u'https://i.scdn.co/image/ab67616d0000b273b80f8eb7cd3776e665e77477', u'https://i.scdn.co/image/ab67616d0000b2739d6bd2afa2987a69b7b55f72', u'https://i.scdn.co/image/ab67616d0000b2738c894fac3d113f98885d3117'], 'album_name': [u'Negro Swan', u'Fresh Air', u'Every Bad (Expanded Edition)', u'Anak Ko', u'The Colour In Anything', u'Heaven or Las Vegas', u'Women In Music Pt. III', u'Devotion', u'Only Diamonds Cut Diamonds', u'Cupid Deluxe', u'KiCk i'], 'song_name': [u'Holy Will', u'Not U', u'(Something)', u'Nighttime Drive', u'My Willing Heart', u'Fotzepolitic', u'All That Ever Mattered', u'Go Now', u'Debold', u'On the Line', u'Rip the Slit'], 'artist_name': [u'Blood Orange', u'HOMESHAKE', u'Porridge Radio', u'Jay Som', u'James Blake', u'Cocteau Twins', u'HAIM', u'Tirzah', u'Vegyn', u'Blood Orange', u'Arca'], 'track_id': [u'6ImkphIMAbZRkZOJuVrTA2', u'0L69GfeRq90IeRGwRXQH6g', u'4mNNopjO0LpBUD8gbfnTce', u'2ttbJjs66iPCMylfsK1EF0', u'6JHqijXeoR9S3DzvDm4VO5', u'5SuIuaAjFbaxJq9W1qKGw2', u'24VIbXVX71uwU54CYPV6tM', u'2Lp6Vp03T7zLAWbl6jyUB8', u'6TNBx9lvDcqLq1GQCPNJqH', u'0geNERhyAP47qUaTaRz2o0', u'1A8edTRLJyN0tHwoDTaR9H']}
+                                                image  ... energy
+10  https://i.scdn.co/image/ab67616d0000b2738c894f...  ...  0.702
+9   https://i.scdn.co/image/ab67616d0000b2739d6bd2...  ...  0.487
+8   https://i.scdn.co/image/ab67616d0000b273b80f8e...  ...  0.711
+7   https://i.scdn.co/image/ab67616d0000b273281b57...  ...  0.241
+6   https://i.scdn.co/image/ab67616d0000b2731bff3b...  ...  0.713
+5   https://i.scdn.co/image/ab67616d0000b273dd65e4...  ...  0.731
+4   https://i.scdn.co/image/ab67616d0000b273559bd5...  ...  0.177
+3   https://i.scdn.co/image/ab67616d0000b273c1dac7...  ...  0.535
+2   https://i.scdn.co/image/ab67616d0000b273101d15...  ...  0.742
+1   https://i.scdn.co/image/ab67616d0000b273cd7c3c...  ...  0.373
+0   https://i.scdn.co/image/ab67616d0000b27347dd2c...  ...  0.255
+
+[11 rows x 10 columns]
+('Rows: ', 11)
+Saved!
+
