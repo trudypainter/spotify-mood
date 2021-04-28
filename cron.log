@@ -78979,3 +78979,28 @@ GOT THESE SONGS
 ('Rows: ', 17)
 Saved!
 
+[master facf1b89] updating daily data 2021-04-28 18:00:05.310894
+ 3 files changed, 25 insertions(+), 2 deletions(-)
+2021-04-28 18:00:03.505064
+Auth happening...
+Getting songs
+Creating dataframe...
+Oprah's Bank Account (Lil Yachty & DaBaby feat. Drake)
+JAPAN
+T.D (feat. Tierra Whack, A$AP Rocky & Tyler, The Creator)
+Quiet (feat. Odile)
+Plain View
+Tides
+GOT THESE SONGS
+{'played_at': ['17:52', '17:49', '17:47', '17:43', '17:39'], 'valence': [0.884, 0.841, 0.742, 0.77, 0.308], 'mood_avg': [0.811, 0.765, 0.733, 0.707, 0.445], 'danceability': [0.83, 0.733, 0.775, 0.783, 0.563], 'energy': [0.625, 0.678, 0.631, 0.428, 0.483], 'image': [u'https://i.scdn.co/image/ab67616d0000b2735ee839f6415e0d02fc4f2b49', u'https://i.scdn.co/image/ab67616d0000b27324ef7429ba82789623ae8b14', u'https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f', u'https://i.scdn.co/image/ab67616d0000b27338af97753b8b89cbd1d05096', u'https://i.scdn.co/image/ab67616d0000b273d6bce55403de7a8fadaa455d'], 'album_name': [u'Lil Boat 3', u'Dex Meets Dexter', u'Lil Boat 3.5', u'Headroom', u'Plain View'], 'song_name': [u"Oprah's Bank Account (Lil Yachty & DaBaby feat. Drake)", u'JAPAN', u'T.D (feat. Tierra Whack, A$AP Rocky & Tyler, The Creator)', u'Quiet (feat. Odile)', u'Plain View'], 'artist_name': [u'Lil Yachty', u'Famous Dex', u'Lil Yachty', u'Men I Trust', u'Men I Trust'], 'track_id': [u'0LEFmgIj8ABU7CelzGh5Bs', u'5PTG6rrL6EPFD9E2QMI2pl', u'0ibeyMz9KkAWWgPOXkv4GF', u'2p132CMDRBL3m7M52NV2o5', u'3XkxqQ02BchQiJvC99GuDR']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273d6bce5...  ...  0.483
+3  https://i.scdn.co/image/ab67616d0000b27338af97...  ...  0.428
+2  https://i.scdn.co/image/ab67616d0000b273789e7b...  ...  0.631
+1  https://i.scdn.co/image/ab67616d0000b27324ef74...  ...  0.678
+0  https://i.scdn.co/image/ab67616d0000b2735ee839...  ...  0.625
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
