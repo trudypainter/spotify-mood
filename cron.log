@@ -78893,3 +78893,71 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 2f6892c4] updating daily data 2021-04-28 16:00:09.132609
+ 3 files changed, 27 insertions(+), 1 deletion(-)
+2021-04-28 16:00:05.017570
+Auth happening...
+Getting songs
+Creating dataframe...
+Show Me How
+A Prayer (feat. Odile)
+Dorian
+Morse Code (feat. Odile & Geoffroy)
+Out in Myself (feat. Emmanuelle)
+Aquarelle
+Pines
+Norton Commander (Album V)
+Break for Lovers (feat. Helena)
+Tailwhip (Live)
+Pierre
+Crash
+GOT THESE SONGS
+{'played_at': ['15:57', '15:54', '15:49', '15:47', '15:43', '15:33', '15:30', '15:26', '15:23', '15:20', '15:16'], 'valence': [0.544, 0.276, 0.583, 0.762, 0.531, 0.242, 0.277, 0.436, 0.813, 0.654, 0.337], 'mood_avg': [0.587, 0.44, 0.527, 0.702, 0.594, 0.487, 0.439, 0.517, 0.734, 0.683, 0.423], 'danceability': [0.791, 0.729, 0.607, 0.746, 0.744, 0.796, 0.645, 0.632, 0.858, 0.797, 0.587], 'energy': [0.267, 0.191, 0.257, 0.496, 0.422, 0.359, 0.349, 0.451, 0.326, 0.515, 0.265], 'image': [u'https://i.scdn.co/image/ab67616d0000b27340faefaf8ebe0e1564c60faa', u'https://i.scdn.co/image/ab67616d0000b273ce63864a608e9dec28caca1b', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b27338af97753b8b89cbd1d05096', u'https://i.scdn.co/image/ab67616d0000b27338af97753b8b89cbd1d05096', u'https://i.scdn.co/image/ab67616d0000b27338af97753b8b89cbd1d05096', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273c238f49628feae6a9028a752', u'https://i.scdn.co/image/ab67616d0000b273ce96d8c3a9df2bf2e5eefae6', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d'], 'album_name': [u'Show Me How', u'Men I Trust', u'Oncle Jazz', u'Headroom', u'Headroom', u'Headroom', u'Oncle Jazz', u'Oncle Jazz', u'Break for Lovers (feat. Helena)', u'Forever Live Sessions', u'Oncle Jazz'], 'song_name': [u'Show Me How', u'A Prayer (feat. Odile)', u'Dorian', u'Morse Code (feat. Odile & Geoffroy)', u'Out in Myself (feat. Emmanuelle)', u'Aquarelle', u'Pines', u'Norton Commander (Album V)', u'Break for Lovers (feat. Helena)', u'Tailwhip (Live)', u'Pierre'], 'artist_name': [u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust'], 'track_id': [u'01TyFEZu6mHbffsVfxgrFn', u'08cMODBUeCYMOH5X7gBD4i', u'50Qh4Ef1Wyi3qZghIibXmR', u'6Hg4shhNiovAnaXle7IS0f', u'3zGyOfZTXJVCq492Q9bnEO', u'5dJPIMizpBWyGivbdNo11v', u'7qFLFQOYcytDd4hejiREzk', u'0DltZY7z8YvuDBSAbsIgPc', u'5VU9zOQmK4dbHs0J8PRlPe', u'086phGDPrbMKYDxB74XvVQ', u'6rpgkVBjx8c7WURyY3xHWm']}
+                                                image  ... energy
+10  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.265
+9   https://i.scdn.co/image/ab67616d0000b273ce96d8...  ...  0.515
+8   https://i.scdn.co/image/ab67616d0000b273c238f4...  ...  0.326
+7   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.451
+6   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.349
+5   https://i.scdn.co/image/ab67616d0000b27338af97...  ...  0.359
+4   https://i.scdn.co/image/ab67616d0000b27338af97...  ...  0.422
+3   https://i.scdn.co/image/ab67616d0000b27338af97...  ...  0.496
+2   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.257
+1   https://i.scdn.co/image/ab67616d0000b273ce6386...  ...  0.191
+0   https://i.scdn.co/image/ab67616d0000b27340faef...  ...  0.267
+
+[11 rows x 10 columns]
+('Rows: ', 11)
+Saved!
+
+2021-04-28 17:00:02.833728
+Auth happening...
+Getting songs
+Creating dataframe...
+Tides
+Say, Can You Hear
+Show Me How (Album V)
+Seven (Album V)
+Show Me How (Album V)
+Numb (Garage Session)
+Something in Water
+Introit (feat. Odile)
+All Night
+Seven
+Slap Pie
+Lauren
+Sad Organ
+I Hope to Be Around (Live)
+You Deserve This
+A Cycle (feat. Odile)
+Tailwhip
+Show Me How
+GOT THESE SONGS
+{'played_at': ['16:54', '16:51', '16:48', '16:44', '16:41', '16:37', '16:33', '16:30', '16:27', '16:24', '16:20', '16:18', '16:14', '16:12', '16:08', '16:05', '16:01'], 'valence': [0.577, 0.49, 0.46, 0.755, 0.46, 0.389, 0.213, 0.0454, 0.608, 0.832, 0.952, 0.558, 0.973, 0.59, 0.264, 0.178, 0.598], 'mood_avg': [0.565, 0.526, 0.552, 0.68, 0.552, 0.445, 0.376, 0.094, 0.603, 0.694, 0.799, 0.629, 0.791, 0.542, 0.414, 0.475, 0.69], 'danceability': [0.643, 0.623, 0.811, 0.748, 0.811, 0.565, 0.627, 0.11, 0.795, 0.692, 0.781, 0.762, 0.723, 0.588, 0.559, 0.834, 0.8], 'energy': [0.386, 0.403, 0.217, 0.393, 0.217, 0.317, 0.198, 0.16, 0.208, 0.421, 0.529, 0.503, 0.565, 0.355, 0.422, 0.35, 0.655], 'image': [u'https://i.scdn.co/image/ab67616d0000b273730d0358af9027743bac0c57', u'https://i.scdn.co/image/ab67616d0000b273eeae78397dd4ed3b988560e4', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273ce96d8c3a9df2bf2e5eefae6', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273ce63864a608e9dec28caca1b', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273591fa5bb8ab3ec41455d6279', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b2734bf3b48e615335264b9fcb22', u'https://i.scdn.co/image/ab67616d0000b27338af97753b8b89cbd1d05096', u'https://i.scdn.co/image/ab67616d0000b273ce96d8c3a9df2bf2e5eefae6', u'https://i.scdn.co/image/ab67616d0000b2739cf1ebba67a6ef744c66577d', u'https://i.scdn.co/image/ab67616d0000b273ce63864a608e9dec28caca1b', u'https://i.scdn.co/image/ab67616d0000b273b5d2a7e29794ff7e91305aa8'], 'album_name': [u'Tides', u'Say, Can You Hear', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Forever Live Sessions', u'Oncle Jazz', u'Men I Trust', u'Oncle Jazz', u'Seven', u'Oncle Jazz', u'Lauren', u'Headroom', u'Forever Live Sessions', u'You Deserve This', u'Men I Trust', u'Tailwhip'], 'song_name': [u'Tides', u'Say, Can You Hear', u'Show Me How (Album V)', u'Seven (Album V)', u'Show Me How (Album V)', u'Numb (Garage Session)', u'Something in Water', u'Introit (feat. Odile)', u'All Night', u'Seven', u'Slap Pie', u'Lauren', u'Sad Organ', u'I Hope to Be Around (Live)', u'You Deserve This', u'A Cycle (feat. Odile)', u'Tailwhip'], 'artist_name': [u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust'], 'track_id': [u'4M7XuOexX6DotCYbEVsDf9', u'7JvjjlZ5R1I1xRDsEkPuJ7', u'6A46jG17UumVQLqodsFxuV', u'74v28tCHJ9tRSvwKbQdqJc', u'6A46jG17UumVQLqodsFxuV', u'7BkMaeJDM9G257DFTvjlCX', u'7rC4fpqWw83rw6SFSxN1Qo', u'7szmkrQbZcvyYFzCe1Mv7w', u'0XvoMOI25j4wODyk8nuANS', u'2dwvxOHnQjndZLowIR6PiS', u'1TFOhZp3KF4zSLwMNmx4wO', u'7vptmeNwSEVkcwDdqk7UQO', u'4z8WheUV9mwdaNWD8eFWwg', u'1EOC47ETkQCedpxemcJpal', u'254ybNwQUpo3zbyBb41KMk', u'2wbtHZqSmhKpxrqcfZIh2a', u'2DoO0sn4SbUrz7Uay9ACTM']}
+                                                image  ... energy
+16  https://i.scdn.co/image/ab67616d0000b273b5d2a7...  ...  0.655
+15  https://i.scdn.co/image/ab67616d0000b273ce6386...  ...   0.35
+14  https://i.scdn.co/image/ab67616d0000b2739cf1eb...  ...  0.422
+13  https://i.scdn.co/image/ab67616d0000b273ce96d8...  ...  0.355
+12  https://i.scdn.co/image/ab67616d0000b27338af97...  ...  0.565
+11  https://i.scdn.co/image/ab67616d0000b2734bf3b4..
