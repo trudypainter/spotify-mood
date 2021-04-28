@@ -78878,3 +78878,18 @@ Creating dataframe...
 Crash
 Butterfly
 Gladly
+[master ca8e4fac] updating daily data 2021-04-28 15:00:04.880154
+ 2 files changed, 28 insertions(+), 1 deletion(-)
+2021-04-28 15:00:03.912079
+Auth happening...
+Getting songs
+Creating dataframe...
+Crash
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
