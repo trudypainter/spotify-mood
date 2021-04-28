@@ -78763,3 +78763,24 @@ GOT THESE SONGS
 ('Rows: ', 11)
 Saved!
 
+[master 254ad6b7] updating daily data 2021-04-28 08:00:04.003740
+ 3 files changed, 41 insertions(+), 1 deletion(-)
+2021-04-28 08:00:03.055038
+Auth happening...
+Getting songs
+Creating dataframe...
+Throw Sum Mo
+Trap Queen
+Legend
+YuNg BrAtZ
+GOT THESE SONGS
+{'played_at': ['07:10', '07:06', '07:02'], 'valence': [0.594, 0.817, 0.31], 'mood_avg': [0.707, 0.8, 0.522], 'danceability': [0.859, 0.746, 0.714], 'energy': [0.627, 0.873, 0.563], 'image': [u'https://i.scdn.co/image/ab67616d0000b2734ca3fb4517ff722918877460', u'https://i.scdn.co/image/ab67616d0000b273de6bd09b07e2b4af4e409f6c', u'https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733'], 'album_name': [u'SremmLife', u'Fetty Wap (Deluxe)', u"If You're Reading This It's Too Late"], 'song_name': [u'Throw Sum Mo', u'Trap Queen', u'Legend'], 'artist_name': [u'Rae Sremmurd', u'Fetty Wap', u'Drake'], 'track_id': [u'5uqphUYsR45kPYplrYSAQh', u'2d8JP84HNLKhmd6IYOoupQ', u'1ID1QFSNNxi0hiZCNcwjUC']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b2732090f4...  ...  0.563
+1  https://i.scdn.co/image/ab67616d0000b273de6bd0...  ...  0.873
+0  https://i.scdn.co/image/ab67616d0000b2734ca3fb...  ...  0.627
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
