@@ -79019,3 +79019,34 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 50adff3d] updating daily data 2021-04-28 20:00:04.170255
+ 3 files changed, 24 insertions(+), 1 deletion(-)
+2021-04-28 20:00:02.978960
+Auth happening...
+Getting songs
+Creating dataframe...
+2 On (feat. ScHoolboy Q)
+Love My Way
+Control
+Unlock it (feat. Kim Petras and Jay Park)
+Unlock it (feat. Kim Petras and Jay Park)
+Unlock it (feat. Kim Petras and Jay Park)
+Control
+Maria I'm Drunk (feat. Justin Bieber & Young Thug)
+Oprah's Bank Account (Lil Yachty & DaBaby feat. Drake)
+GOT THESE SONGS
+{'played_at': ['19:50', '19:46', '19:43', '19:39', '19:34', '19:32', '19:32', '19:31'], 'valence': [0.431, 0.52, 0.388, 0.5, 0.5, 0.5, 0.388, 0.142], 'mood_avg': [0.588, 0.633, 0.472, 0.544, 0.544, 0.544, 0.472, 0.442], 'danceability': [0.742, 0.637, 0.354, 0.504, 0.504, 0.504, 0.354, 0.648], 'energy': [0.595, 0.85, 0.877, 0.711, 0.711, 0.711, 0.877, 0.631], 'image': [u'https://i.scdn.co/image/ab67616d0000b27381a584f39cad5c1c6a6e9e50', u'https://i.scdn.co/image/ab67616d0000b2730faf6c6f66c3ba57e7dbf33b', u'https://i.scdn.co/image/ab67616d0000b273d66510e9f9d1a0f1294affe8', u'https://i.scdn.co/image/ab67616d0000b273c61a793955ac590e672eafe8', u'https://i.scdn.co/image/ab67616d0000b273c61a793955ac590e672eafe8', u'https://i.scdn.co/image/ab67616d0000b273c61a793955ac590e672eafe8', u'https://i.scdn.co/image/ab67616d0000b273d66510e9f9d1a0f1294affe8', u'https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f'], 'album_name': [u'Aquarius', u'Forever Now', u'Control', u'Pop 2', u'Pop 2', u'Pop 2', u'Control', u'Rodeo (Expanded Edition)'], 'song_name': [u'2 On (feat. ScHoolboy Q)', u'Love My Way', u'Control', u'Unlock it (feat. Kim Petras and Jay Park)', u'Unlock it (feat. Kim Petras and Jay Park)', u'Unlock it (feat. Kim Petras and Jay Park)', u'Control', u"Maria I'm Drunk (feat. Justin Bieber & Young Thug)"], 'artist_name': [u'Tinashe', u'The Psychedelic Furs', u'Mannequin Pussy', u'Charli XCX', u'Charli XCX', u'Charli XCX', u'Mannequin Pussy', u'Travis Scott'], 'track_id': [u'3jVtllWS5CFFWLQng8sKsr', u'4dk40nfaQav6b4ZsJ9OYUo', u'1BrI8GZkG9Rd8Gvx4nBf9Y', u'3qGHAKgjQruzj6doKkyEb5', u'3qGHAKgjQruzj6doKkyEb5', u'3qGHAKgjQruzj6doKkyEb5', u'1BrI8GZkG9Rd8Gvx4nBf9Y', u'6Yqmv7XJLCrQEauMbPGZSw']}
+                                               image  ... energy
+7  https://i.scdn.co/image/ab67616d0000b273743317...  ...  0.631
+6  https://i.scdn.co/image/ab67616d0000b273d66510...  ...  0.877
+5  https://i.scdn.co/image/ab67616d0000b273c61a79...  ...  0.711
+4  https://i.scdn.co/image/ab67616d0000b273c61a79...  ...  0.711
+3  https://i.scdn.co/image/ab67616d0000b273c61a79...  ...  0.711
+2  https://i.scdn.co/image/ab67616d0000b273d66510...  ...  0.877
+1  https://i.scdn.co/image/ab67616d0000b2730faf6c...  ...   0.85
+0  https://i.scdn.co/image/ab67616d0000b27381a584...  ...  0.595
+
+[8 rows x 10 columns]
+('Rows: ', 8)
+Saved!
+
