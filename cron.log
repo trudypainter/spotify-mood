@@ -79410,3 +79410,38 @@ GOT THESE SONGS
 ('Rows: ', 14)
 Saved!
 
+[master 7f8e4037] updating daily data 2021-04-29 17:00:06.397943
+ 3 files changed, 54 insertions(+), 1 deletion(-)
+2021-04-29 17:00:04.641887
+Auth happening...
+Getting songs
+Creating dataframe...
+Sarah
+For the First Time
+Still Beating
+A Wolf Who Wears Sheeps Clothes
+Night Ride
+Ordinary Pleasure
+On the Level
+Trophy
+Blondie
+You're Not Good Enough
+Pepperoni Playboy
+GOT THESE SONGS
+{'played_at': ['16:33', '16:30', '16:27', '16:24', '16:21', '16:17', '16:14', '16:10', '16:07', '16:03'], 'valence': [0.497, 0.522, 0.469, 0.701, 0.569, 0.778, 0.515, 0.658, 0.865, 0.571], 'mood_avg': [0.596, 0.535, 0.57, 0.719, 0.621, 0.818, 0.53, 0.582, 0.781, 0.684], 'danceability': [0.65, 0.551, 0.709, 0.828, 0.608, 0.878, 0.573, 0.542, 0.776, 0.74], 'energy': [0.686, 0.529, 0.496, 0.538, 0.752, 0.779, 0.473, 0.511, 0.625, 0.798], 'image': [u'https://i.scdn.co/image/ab67616d0000b273efcb38f6e6b28f81f836ec6a', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b273bb09cba8a0ce270c134a59e9', u'https://i.scdn.co/image/ab67616d0000b273e6afa3b111faa03806f7d257', u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b2730ac7ebcb3139d86cf7d42676', u'https://i.scdn.co/image/ab67616d0000b273ecb7a21c411eb8671a200ac7', u'https://i.scdn.co/image/ab67616d0000b2739d6bd2afa2987a69b7b55f72'], 'album_name': [u'Trick', u'This Old Dog', u'This Old Dog', u'This Old Dog', u'City Club', u'Outer Peace', u'This Old Dog', u'Trophy', u'Wild Heart', u'Cupid Deluxe'], 'song_name': [u'Sarah', u'For the First Time', u'Still Beating', u'A Wolf Who Wears Sheeps Clothes', u'Night Ride', u'Ordinary Pleasure', u'On the Level', u'Trophy', u'Blondie', u"You're Not Good Enough"], 'artist_name': [u'Alex G', u'Mac DeMarco', u'Mac DeMarco', u'Mac DeMarco', u'The Growlers', u'Toro y Moi', u'Mac DeMarco', u'Crumb', u'Current Joys', u'Blood Orange'], 'track_id': [u'0Xmz2shisTG8peoqnFj5tu', u'4LB5cNN7f18wIJA2RU4iIO', u'2N4idqj9TT3HnH2OFT9j0v', u'1xpnkMYroPcpCwQmf9Z5sS', u'2O07FF1DMc1oRDlkIo33FC', u'31F0KxmTD4rz3o0tJht5RL', u'36rqjSUBaArtMBLWrzwInc', u'4zBc604ytzPmwin9VbsvUd', u'4UkCtBCYh6VMsucGMQZyh9', u'7vcNp4cj4uF4AyX5aKY4Ps']}
+                                               image  ... energy
+9  https://i.scdn.co/image/ab67616d0000b2739d6bd2...  ...  0.798
+8  https://i.scdn.co/image/ab67616d0000b273ecb7a2...  ...  0.625
+7  https://i.scdn.co/image/ab67616d0000b2730ac7eb...  ...  0.511
+6  https://i.scdn.co/image/ab67616d0000b273985268...  ...  0.473
+5  https://i.scdn.co/image/ab67616d0000b273e6afa3...  ...  0.779
+4  https://i.scdn.co/image/ab67616d0000b273bb09cb...  ...  0.752
+3  https://i.scdn.co/image/ab67616d0000b273985268...  ...  0.538
+2  https://i.scdn.co/image/ab67616d0000b273985268...  ...  0.496
+1  https://i.scdn.co/image/ab67616d0000b273985268...  ...  0.529
+0  https://i.scdn.co/image/ab67616d0000b273efcb38...  ...  0.686
+
+[10 rows x 10 columns]
+('Rows: ', 10)
+Saved!
+
