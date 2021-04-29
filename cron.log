@@ -79275,3 +79275,63 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master e144df36] updating daily data 2021-04-29 11:00:04.256055
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-04-29 11:00:03.256445
+Auth happening...
+Getting songs
+Creating dataframe...
+Blame It on Your Love (feat. Lizzo)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-04-29 12:00:02.982404
+Auth happening...
+Getting songs
+Creating dataframe...
+Show Me How (Album V)
+I Hope to Be Around (Album V)
+I Don't Know You
+Say Can You Hear (Album V)
+Poplar Tree
+You Deserve This
+Take It Easy
+You Deserve This (Album V)
+Pierre
+All Night
+All Night
+Best Friend
+Blame It on Your Love (feat. Lizzo)
+GOT THESE SONGS
+{'played_at': ['11:58', '11:55', '11:51', '11:48', '11:45', '11:43', '11:40', '11:37', '11:34', '11:30', '11:27', '11:27'], 'valence': [0.46, 0.758, 0.587, 0.644, 0.118, 0.264, 0.0658, 0.237, 0.337, 0.608, 0.608, 0.741], 'mood_avg': [0.552, 0.713, 0.655, 0.604, 0.169, 0.414, 0.218, 0.397, 0.423, 0.603, 0.603, 0.532], 'danceability': [0.811, 0.825, 0.884, 0.663, 0.24, 0.559, 0.411, 0.629, 0.587, 0.795, 0.795, 0.35], 'energy': [0.217, 0.397, 0.333, 0.406, 0.129, 0.422, 0.134, 0.253, 0.265, 0.208, 0.208, 0.48], 'image': [u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273b8cca972978cb4f2f7be74ad', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b2739cf1ebba67a6ef744c66577d', u'https://i.scdn.co/image/ab67616d0000b2737bcab10b2d8a3fb3a32ed013', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273c3d6b13c3c3d93fe62188615'], 'album_name': [u'Oncle Jazz', u'Oncle Jazz', u"I Don't Know You", u'Oncle Jazz', u'Oncle Jazz', u'You Deserve This', u'Nothing Bothers Me', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Oncle Jazz', u'Jazzie Robinson'], 'song_name': [u'Show Me How (Album V)', u'I Hope to Be Around (Album V)', u"I Don't Know You", u'Say Can You Hear (Album V)', u'Poplar Tree', u'You Deserve This', u'Take It Easy', u'You Deserve This (Album V)', u'Pierre', u'All Night', u'All Night', u'Best Friend'], 'artist_name': [u'Men I Trust', u'Men I Trust', u'The Mar\xedas', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Triathalon', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Men I Trust', u'Mellow Fellow'], 'track_id': [u'6A46jG17UumVQLqodsFxuV', u'3g2TTPgNQhwGnkctiENsEh', u'4cJOLN346rtOty3UPACsao', u'7j59MN6vDM9lrvQ0iGhqaa', u'4m2QnkXm7ZpPGxsExVp8h4', u'254ybNwQUpo3zbyBb41KMk', u'7yl0ItOwlAnALSctbUiavO', u'36EO0BMu1EZZznRurwBMzW', u'6rpgkVBjx8c7WURyY3xHWm', u'0XvoMOI25j4wODyk8nuANS', u'0XvoMOI25j4wODyk8nuANS', u'7EYPiPZx49CZ73yvt4vm2x']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b273c3d6b1...  ...   0.48
+10  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.208
+9   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.208
+8   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.265
+7   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.253
+6   https://i.scdn.co/image/ab67616d0000b2737bcab1...  ...  0.134
+5   https://i.scdn.co/image/ab67616d0000b2739cf1eb...  ...  0.422
+4   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.129
+3   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.406
+2   https://i.scdn.co/image/ab67616d0000b273b8cca9...  ...  0.333
+1   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.397
+0   https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.217
+
+[12 rows x 10 columns]
+2021-04-29 13:00:03.372670
+Auth happening...
+Getting songs
+Creating dataframe...
+Atomic Vomit
+Multi-Love
+Every Single Thing
+Moonlight on the River
+For the First Time
+Norton Commander (Album V)
+Tailwhip (Album V)
