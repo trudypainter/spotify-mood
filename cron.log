@@ -79201,3 +79201,32 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 4709c495] updating daily data 2021-04-29 07:00:04.103724
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-04-29 07:00:02.702239
+Auth happening...
+Getting songs
+Creating dataframe...
+Thoughts
+February 2017 (feat. Clairo and Yaeji)
+Silver Cross
+Gone
+Shake It (feat. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar)
+Numb Numb Juice
+Blame It on Your Love (feat. Lizzo)
+Love More (By Fiona Apple)
+GOT THESE SONGS
+{'played_at': ['06:48', '06:45', '06:42', '06:39', '06:27', '06:22', '06:20'], 'valence': [0.157, 0.482, 0.623, 0.66, 0.422, 0.203, 0.598], 'mood_avg': [0.399, 0.571, 0.655, 0.716, 0.522, 0.534, 0.677], 'danceability': [0.492, 0.692, 0.597, 0.91, 0.577, 0.885, 0.717], 'energy': [0.696, 0.506, 0.835, 0.441, 0.613, 0.492, 0.755], 'image': [u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273f2149422121d1674c6f4c009', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c'], 'album_name': [u'Charli', u'Charli', u'Charli', u'Charli', u'Charli', u'CrasH Talk', u'Charli'], 'song_name': [u'Thoughts', u'February 2017 (feat. Clairo and Yaeji)', u'Silver Cross', u'Gone', u'Shake It (feat. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar)', u'Numb Numb Juice', u'Blame It on Your Love (feat. Lizzo)'], 'artist_name': [u'Charli XCX', u'Charli XCX', u'Charli XCX', u'Charli XCX', u'Charli XCX', u'ScHoolboy Q', u'Charli XCX'], 'track_id': [u'7A32ilnCkeWlDNM0xsBUfw', u'3fTEcn7Jt6Dq3NVVdNvl4w', u'25x38hVatSDa5ptfbKwdn5', u'1yUJK3qxPiFiPeAG2gLfuW', u'3XbNseJrIK8LzoTh4eA0Xf', u'6tByydPskASjm9jTPkNQq0', u'2RCUr24WkEe2r5Vv4oDKlN']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.755
+5  https://i.scdn.co/image/ab67616d0000b273f21494...  ...  0.492
+4  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.613
+3  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.441
+2  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.835
+1  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.506
+0  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.696
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
