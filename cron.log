@@ -79186,3 +79186,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master c44b2e3f] updating daily data 2021-04-29 06:00:04.117080
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-04-29 06:00:03.482881
+Auth happening...
+Getting songs
+Creating dataframe...
+Love More (By Fiona Apple)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
