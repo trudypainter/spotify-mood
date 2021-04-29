@@ -79350,3 +79350,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 68a13cae] updating daily data 2021-04-29 15:00:04.087876
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-04-29 15:00:02.814960
+Auth happening...
+Getting songs
+Creating dataframe...
+On the Level
+Atomic Vomit
+GOT THESE SONGS
+{'played_at': ['14:59'], 'valence': [0.515], 'mood_avg': [0.53], 'danceability': [0.573], 'energy': [0.473], 'image': [u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818'], 'album_name': [u'This Old Dog'], 'song_name': [u'On the Level'], 'artist_name': [u'Mac DeMarco'], 'track_id': [u'36rqjSUBaArtMBLWrzwInc']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273985268...  ...  0.473
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
