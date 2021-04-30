@@ -79727,3 +79727,30 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 9687f484] updating daily data 2021-04-30 11:00:14.882307
+ 3 files changed, 22 insertions(+), 1 deletion(-)
+2021-04-30 11:00:12.902481
+Auth happening...
+Getting songs
+Creating dataframe...
+Ladies of Cambridge
+How I Roll
+Don't Don't Do It!
+Don't Don't Do It!
+Chosen Family - Acoustic
+Light of a Clear Blue Morning
+Violence - Original Mix
+GOT THESE SONGS
+{'played_at': ['10:35', '10:33', '10:29', '10:22', '10:21', '10:16'], 'valence': [0.687, 0.791, 0.811, 0.811, 0.429, 0.421], 'mood_avg': [0.656, 0.786, 0.818, 0.818, 0.47, 0.497], 'danceability': [0.59, 0.818, 0.799, 0.799, 0.51, 0.665], 'energy': [0.727, 0.71, 0.871, 0.871, 0.471, 0.311], 'image': [u'https://i.scdn.co/image/ab67616d0000b273d0ae72fdcc3f7bb0b3a7dfed', u'https://i.scdn.co/image/ab67616d0000b273fda0f2adec40250bea55101b', u'https://i.scdn.co/image/ab67616d0000b273be23f47224937c9b57a004b2', u'https://i.scdn.co/image/ab67616d0000b273be23f47224937c9b57a004b2', u'https://i.scdn.co/image/ab67616d0000b273db0a368a7ede184a67a51b95', u'https://i.scdn.co/image/ab67616d0000b273a00eb161f924eb38ef7257d7'], 'album_name': [u'Ladies of Cambridge', u'Femme Fatale (Deluxe Version)', u'NO ONE EVER REALLY DIES', u'NO ONE EVER REALLY DIES', u'SAWAYAMA (Deluxe Edition)', u'Saint Cloud +3'], 'song_name': [u'Ladies of Cambridge', u'How I Roll', u"Don't Don't Do It!", u"Don't Don't Do It!", u'Chosen Family - Acoustic', u'Light of a Clear Blue Morning'], 'artist_name': [u'Vampire Weekend', u'Britney Spears', u'N.E.R.D', u'N.E.R.D', u'Rina Sawayama', u'Waxahatchee'], 'track_id': [u'2mdHW9nUG38Ym4khrPLGBU', u'38casNXY2G39SZRUjALtcY', u'2svutFGaCycRmYc1mWbfQh', u'2svutFGaCycRmYc1mWbfQh', u'4XOCgGHUf5E0pMiqpXAQcO', u'5slPetmTwOHfqpEFFDMzyn']}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b273a00eb1...  ...  0.311
+4  https://i.scdn.co/image/ab67616d0000b273db0a36...  ...  0.471
+3  https://i.scdn.co/image/ab67616d0000b273be23f4...  ...  0.871
+2  https://i.scdn.co/image/ab67616d0000b273be23f4...  ...  0.871
+1  https://i.scdn.co/image/ab67616d0000b273fda0f2...  ...   0.71
+0  https://i.scdn.co/image/ab67616d0000b273d0ae72...  ...  0.727
+
+[6 rows x 10 columns]
+('Rows: ', 6)
+Saved!
+
