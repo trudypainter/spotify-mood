@@ -79687,3 +79687,28 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master d29ffcaf] updating daily data 2021-04-30 09:00:04.709497
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-04-30 09:00:02.708387
+Auth happening...
+Getting songs
+Creating dataframe...
+Violence - Original Mix
+Things I Imagined
+My Name is Dark - Algorithm Mix
+Garden Song
+Love It If We Made It
+Ned Flanders (feat. A$AP Ferg)
+GOT THESE SONGS
+{'played_at': ['08:28', '08:26', '08:24', '08:20', '08:12'], 'valence': [0.0795, 0.039, 0.486, 0.158, 0.285], 'mood_avg': [0.425, 0.21, 0.567, 0.329, 0.466], 'danceability': [0.533, 0.391, 0.518, 0.528, 0.563], 'energy': [0.9, 0.192, 0.828, 0.273, 0.636], 'image': [u'https://i.scdn.co/image/ab67616d0000b2731a302aafa2ea587960e27951', u'https://i.scdn.co/image/ab67616d0000b273b1150f77ae2fbf0d5b4715fc', u'https://i.scdn.co/image/ab67616d0000b2731a302aafa2ea587960e27951', u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b273db0a368a7ede184a67a51b95'], 'album_name': [u'Miss Anthropocene (Deluxe Edition)', u'When I Get Home', u'Miss Anthropocene (Deluxe Edition)', u'Punisher', u'SAWAYAMA (Deluxe Edition)'], 'song_name': [u'Violence - Original Mix', u'Things I Imagined', u'My Name is Dark - Algorithm Mix', u'Garden Song', u'Love It If We Made It'], 'artist_name': [u'Grimes', u'Solange', u'Grimes', u'Phoebe Bridgers', u'Rina Sawayama'], 'track_id': [u'3KeOFns3LGJuh1lapMm9eA', u'0jF4xsiVd8AQoIEUmn7KLt', u'437CZPz3PTVkbMONkEcgDX', u'5uQRmdIqyMmKPWJcot4UmV', u'6fhqgtrrMU7JSHXjo5KOlC']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b273db0a36...  ...  0.636
+3  https://i.scdn.co/image/ab67616d0000b2733040ca...  ...  0.273
+2  https://i.scdn.co/image/ab67616d0000b2731a302a...  ...  0.828
+1  https://i.scdn.co/image/ab67616d0000b273b1150f...  ...  0.192
+0  https://i.scdn.co/image/ab67616d0000b2731a302a...  ...    0.9
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
