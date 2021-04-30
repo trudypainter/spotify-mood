@@ -79626,3 +79626,20 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master b5839daf] updating daily data 2021-04-30 06:00:04.227964
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+2021-04-30 06:00:03.437434
+Auth happening...
+Getting songs
+Creating dataframe...
+Ryd
+Sarah
+GOT THESE SONGS
+{'played_at': ['05:41'], 'valence': [0.979], 'mood_avg': [0.893], 'danceability': [0.784], 'energy': [0.94], 'image': [u'https://i.scdn.co/image/ab67616d0000b273a31dd5d96b9df819e331fdcb'], 'album_name': [u"Steve Lacy's Demo"], 'song_name': [u'Ryd'], 'artist_name': [u'Steve Lacy'], 'track_id': [u'3I8yVFjvJoOBM9tX4ZpxEL']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273a31dd5...  ...   0.94
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
