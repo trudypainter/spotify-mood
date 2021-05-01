@@ -79986,3 +79986,19 @@ GOT THESE SONGS
 ('Rows: ', 5)
 Saved!
 
+[master 762f59eb] updating daily data 2021-05-01 00:00:04.760641
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2021-05-01.csv
+2021-05-01 00:00:03.893519
+Auth happening...
+Getting songs
+Creating dataframe...
+Moonlight on the River
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
