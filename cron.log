@@ -80047,3 +80047,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 5fb405c1] updating daily data 2021-05-01 04:00:03.593599
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-05-01 04:00:03.026417
+Auth happening...
+Getting songs
+Creating dataframe...
+Moonlight on the River
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
