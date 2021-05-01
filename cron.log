@@ -79938,3 +79938,26 @@ GOT THESE SONGS
 ('Rows: ', 17)
 Saved!
 
+[master 7fa1d64a] updating daily data 2021-04-30 22:00:03.999668
+ 3 files changed, 25 insertions(+), 2 deletions(-)
+2021-04-30 22:00:02.763713
+Auth happening...
+Getting songs
+Creating dataframe...
+Provider
+FANTAZIA
+CYANIDE
+RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)
+Kyoto
+GOT THESE SONGS
+{'played_at': ['21:58', '21:54', '21:48', '21:45'], 'valence': [0.39, 0.651, 0.486, 0.333], 'mood_avg': [0.483, 0.712, 0.56, 0.605], 'danceability': [0.654, 0.866, 0.589, 0.848], 'energy': [0.325, 0.526, 0.652, 0.663], 'image': [u'https://i.scdn.co/image/ab67616d0000b273ea6b1f7e51a387da94f51eb9', u'https://i.scdn.co/image/ab67616d0000b2730e288cb9664445a2c073c3d6', u'https://i.scdn.co/image/ab67616d0000b2737607aa9ae7904e1b12907c93', u'https://i.scdn.co/image/ab67616d0000b273ce9a92efb0c3ad4c2fb33072'], 'album_name': [u'Provider', u'GRAFFITI', u'CASE STUDY 01', u'Cozy Tapes Vol. 2: Too Cozy'], 'song_name': [u'Provider', u'FANTAZIA', u'CYANIDE', u'RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)'], 'artist_name': [u'Frank Ocean', u'Roy Blair', u'Daniel Caesar', u'A$AP Mob'], 'track_id': [u'6R6ihJhRbgu7JxJKIbW57w', u'3XetDJxSDARsex7zU9KEpM', u'3uouaAVXpQR3X8RYkJyitQ', u'4pdgV8qr9Oytcv6thCdiIZ']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273ce9a92...  ...  0.663
+2  https://i.scdn.co/image/ab67616d0000b2737607aa...  ...  0.652
+1  https://i.scdn.co/image/ab67616d0000b2730e288c...  ...  0.526
+0  https://i.scdn.co/image/ab67616d0000b273ea6b1f...  ...  0.325
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
