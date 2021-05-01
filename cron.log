@@ -80092,3 +80092,112 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 0a26edff] updating daily data 2021-05-01 07:00:04.118554
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+2021-05-01 07:00:02.578639
+Auth happening...
+Getting songs
+Creating dataframe...
+Easily
+IDORU - Algorithm Mix
+Sprained My Ankle in Gristedes Juice Aisle
+Valentino Couture Crusty Crayon
+Kladfvgbung Mischk
+Kiss This Sky
+The Internet of Love (That Way)
+Cosmic Freeway
+GOT THESE SONGS
+{'played_at': ['06:58', '06:55', '06:50', '06:46', '06:42', '06:39', '06:37'], 'valence': [0.308, 0.474, 0.925, 0.297, 0.162, 0.47, 0.54], 'mood_avg': [0.478, 0.536, 0.866, 0.452, 0.5, 0.422, 0.644], 'danceability': [0.595, 0.422, 0.75, 0.359, 0.816, 0.438, 0.847], 'energy': [0.585, 0.889, 0.98, 0.95, 0.544, 0.292, 0.445], 'image': [u'https://i.scdn.co/image/ab67616d0000b2734f1235383b41920e64b00a78', u'https://i.scdn.co/image/ab67616d0000b2731a302aafa2ea587960e27951', u'https://i.scdn.co/image/ab67616d0000b27385c476434306b26394f9a53f', u'https://i.scdn.co/image/ab67616d0000b27385c476434306b26394f9a53f', u'https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a', u'https://i.scdn.co/image/ab67616d0000b2735225a38c3fd08bd3f61325f4', u'https://i.scdn.co/image/ab67616d0000b273aa839bb04931542d830c73b1'], 'album_name': [u'Art Angels', u'Miss Anthropocene (Deluxe Edition)', u'Clam Day', u'Clam Day', u'Drukqs', u'Surviving Is The New Living', u'Sex & Food'], 'song_name': [u'Easily', u'IDORU - Algorithm Mix', u'Sprained My Ankle in Gristedes Juice Aisle', u'Valentino Couture Crusty Crayon', u'Kladfvgbung Mischk', u'Kiss This Sky', u'The Internet of Love (That Way)'], 'artist_name': [u'Grimes', u'Grimes', u'OTTO', u'OTTO', u'Aphex Twin', u'Okay Kaya', u'Unknown Mortal Orchestra'], 'track_id': [u'6NEyZ1rdMgO90cZ7U4UjO5', u'3CFGhT3iQpSzCA9TicZo4v', u'7MHCG2WI51X2BRcW6ZPNy8', u'7j57Qg5SVovcw1900I2xqp', u'7jTTSsyqpAEHYaMl8Fydrq', u'0krksc8spDRvIgAU71mbbq', u'10FFk6OGMIKbpUe89cTEAg']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b273aa839b...  ...  0.445
+5  https://i.scdn.co/image/ab67616d0000b2735225a3...  ...  0.292
+4  https://i.scdn.co/image/ab67616d0000b273a5aef9...  ...  0.544
+3  https://i.scdn.co/image/ab67616d0000b27385c476...  ...   0.95
+2  https://i.scdn.co/image/ab67616d0000b27385c476...  ...   0.98
+1  https://i.scdn.co/image/ab67616d0000b2731a302a...  ...  0.889
+0  https://i.scdn.co/image/ab67616d0000b2734f1235...  ...  0.585
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
+2021-05-01 08:00:03.144575
+Auth happening...
+Getting songs
+Creating dataframe...
+Rip the Slit
+Hyperballad
+4T Recordings
+U Owe Me
+Bad Friend - Dream Wife Remix
+This Way
+Aspenz
+Beautiful Superstar
+Valley
+Nani's Interlude
+Comet Face
+Entrance
+jill/jack
+Do U Wanna
+Undo
+Don't Ask Me Twice
+Out Of Your League
+goodbye
+GOT THESE SONGS
+{'played_at': ['07:57', '07:54', '07:48', '07:45', '07:42', '07:38', '07:33', '07:30', '07:25', '07:22', '07:20', '07:17', '07:16', '07:14', '07:11', '07:06', '07:02'], 'valence': [0.85, 0.0356, 0.0275, 0.165, 0.251, 0.537, 0.176, 0.394, 0.441, 0.392, 0.292, 0.295, 0.1, 0.458, 0.0595, 0.654, 0.676], 'mood_avg': [0.689, 0.309, 0.229, 0.301, 0.425, 0.476, 0.441, 0.457, 0.529, 0.396, 0.522, 0.257, 0.26, 0.528, 0.287, 0.632, 0.723], 'danceability': [0.521, 0.519, 0.346, 0.495, 0.551, 0.523, 0.6, 0.558, 0.755, 0.469, 0.588, 0.274, 0.298, 0.668, 0.477, 0.488, 0.896], 'energy': [0.702, 0.437, 0.397, 0.184, 0.522, 0.259, 0.652, 0.382, 0.253, 0.256, 0.85, 0.146, 0.503, 0.389, 0.364, 0.875, 0.469], 'image': [u'https://i.scdn.co/image/ab67616d0000b2738c894fac3d113f98885d3117', u'https://i.scdn.co/image/ab67616d0000b2736aba91ac61162caeeef14460', u'https://i.scdn.co/image/ab67616d0000b273210e19d835bb0af6620256cf', u'https://i.scdn.co/image/ab67616d0000b273e46284dd97f628323a544297', u'https://i.scdn.co/image/ab67616d0000b273db0a368a7ede184a67a51b95', u'https://i.scdn.co/image/ab67616d0000b273cd7c3cba379ae624e118ebcb', u'https://i.scdn.co/image/ab67616d0000b273b80f8eb7cd3776e665e77477', u'https://i.scdn.co/image/ab67616d0000b27395d35bb46c2ea54d9f179bca', u'https://i.scdn.co/image/ab67616d0000b2738fdf12fe7f25d791a78375da', u'https://i.scdn.co/image/ab67616d0000b273825d2628545eaea03bf9672f', u'https://i.scdn.co/image/ab67616d0000b27328916ffa16f5473ac57ffe84', u'https://i.scdn.co/image/ab67616d0000b2732c8696d7273aae34bf911007', u'https://i.scdn.co/image/ab67616d0000b2738b40e0ef79069fb9bcc560d9', u'https://i.scdn.co/image/ab67616d0000b273b8c3e04fb7b927e5ce0da89e', u'https://i.scdn.co/image/ab67616d0000b273bc31229deb79f896eb9fee84', u'https://i.scdn.co/image/ab67616d0000b273101d15fad6d71a729df900ea', u'https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6'], 'album_name': [u'KiCk i', u'Post', u'Sixteen Oceans', u'Beware of the Dogs', u'SAWAYAMA (Deluxe Edition)', u'Fresh Air', u'Only Diamonds Cut Diamonds', u'Apple', u'No Shape', u'Lucid', u'Man Alive!', u'Boys by Girls', u'gr\xe6', u'Ricky Music', u'Vespertine', u'Every Bad (Expanded Edition)', u'Negro Swan'], 'song_name': [u'Rip the Slit', u'Hyperballad', u'4T Recordings', u'U Owe Me', u'Bad Friend - Dream Wife Remix', u'This Way', u'Aspenz', u'Beautiful Superstar', u'Valley', u"Nani's Interlude", u'Comet Face', u'Entrance', u'jill/jack', u'Do U Wanna', u'Undo', u"Don't Ask Me Twice", u'Out Of Your League'], 'artist_name': [u'Arca', u'Bj\xf6rk', u'Four Tet', u'Stella Donnelly', u'Rina Sawayama', u'HOMESHAKE', u'Vegyn', u'A. G. Cook', u'Perfume Genius', u'Raveena', u'King Krule', u'Instupendo', u'Moses Sumney', u'Porches', u'Bj\xf6rk', u'Porridge Radio', u'Blood Orange'], 'track_id': [u'1A8edTRLJyN0tHwoDTaR9H', u'4z1fNs2B7KndCsvyPgrhq5', u'3LIyGYQtnSubOEZQPLgDTe', u'0Lsc9dEHExL6WEutRKUkgg', u'476JBi0dalg0nFxQpXJPpV', u'048gchV6MNZSLX3TNMHGWb', u'3gu4cKDRP40rVsP3gr7KcG', u'1Xi9QfGYto4OLfX5SkXYNE', u'6QNqIj7AZCjqVgpvEzhupG', u'7d764yeYwCDr6injUcEh18', u'37NhTqdEWadpZ6tdYOtI6w', u'5q2ZHFAXCNCYQR0MffKiRs', u'2mxbNF9Ui4bwf7vIO8wXPU', u'22MqBhjCzF6Lwgh6v35COU', u'5eacHz9AJcozOn3KuqzPQz', u'2jH20EEx0HGJ9nF3aIyazF', u'4qdbCACEpbFWIpKSMa2fZC']}
+                                                image  ... energy
+16  https://i.scdn.co/image/ab67616d0000b27347dd2c...  ...  0.469
+15  https://i.scdn.co/image/ab67616d0000b273101d15...  ...  0.875
+14  https://i.scdn.co/image/ab67616d0000b273bc3122...  ...  0.364
+13  https://i.scdn.co/image/ab67616d0000b273b8c3e0...  ...  0.389
+12  https://i.scdn.co/image/ab67616d0000b2738b40e0...  ...  0.503
+11  https://i.scdn.co/image/ab67616d0000b2732c8696...  ...  0.146
+10  https://i.scdn.co/image/ab67616d0000b27328916f...  ...   0.85
+9   https://i.scdn.co/image/ab67616d0000b273825d26...  ...  0.256
+8   https://i.scdn.co/image/ab67616d0000b2738fdf12...  ...  0.253
+7   https://i.scdn.co/image/ab67616d0000b27395d35b...  ...  0.382
+6   https://i.scdn.co/image/ab67616d0000b273b80f8e...  ...  0.652
+5   https://i.scdn.co/image/ab67616d0000b273cd7c3c...  ...  0.259
+4   https://i.scdn.co/image/ab67616d0000b273db0a36...  ...  0.522
+3   https://i.scdn.co/image/ab67616d0000b273e46284...  ...  0.184
+2   https://i.scdn.co/image/ab67616d0000b273210e19...  ...  0.397
+1   https://i.scdn.co/image/ab67616d0000b2736aba91...  ...  0.437
+0   https://i.scdn.co/image/ab67616d0000b2738c894f...  ...  0.702
+
+[17 rows x 10 columns]
+2021-05-01 09:00:03.272596
+Auth happening...
+Getting songs
+Creating dataframe...
+Remember Me
+Stone (Reprise)
+Kaleidoscopic Lovers
+Exit Music (For A Film)
+La Meg
+Stoned Again
+Sea Bass
+Hallelujah - Bonus Track
+Overstimulated
+High Street
+Minetta Creek
+I Wanna C U
+Hope
+Movies
+Closing: The Chosen Ones
+Kingston
+GOT THESE SONGS
+{'played_at': ['08:54', '08:47', '08:46', '08:36', '08:31', '08:28', '08:25', '08:23', '08:20', '08:17', '08:14', '08:12', '08:11', '08:07', '08:01'], 'valence': [0.526, 0.174, 0.655, 0.195, 0.253, 0.0795, 0.519, 0.531, 0.545, 0.303, 0.905, 0.72, 0.354, 0.089, 0.612], 'mood_avg': [0.615, 0.274, 0.598, 0.25, 0.372, 0.313, 0.515, 0.391, 0.506, 0.526, 0.778, 0.666, 0.352, 0.142, 0.506], 'danceability': [0.84, 0.462, 0.469, 0.293, 0.576, 0.399, 0.427, 0.258, 0.596, 0.707, 0.761, 0.793, 0.413, 0.086, 0.402], 'energy': [0.344, 0.099, 0.74, 0.276, 0.2, 0.606, 0.683, 0.376, 0.25, 0.609, 0.556, 0.304, 0.227, 0.362, 0.502], 'image': [u'https://i.scdn.co/image/ab67616d0000b2732b2fe53607e28f85e928fd14', u'https://i.scdn.co/image/ab67616d0000b273825d2628545eaea03bf9672f', u'https://i.scdn.co/image/ab67616d0000b27383cd9f1352bc315536480be6', u'https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856', u'https://i.scdn.co/image/ab67616d0000b27337af2ce4e0abffff0045034c', u'https://i.scdn.co/image/ab67616d0000b27328916ffa16f5473ac57ffe84', u'https://i.scdn.co/image/ab67616d0000b2735a973167d72dfaaedf82a654', u'https://i.scdn.co/image/ab67616d0000b2731bff3b5284c581b83e918d19', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b2739d6bd2afa2987a69b7b55f72', u'https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6', u'https://i.scdn.co/image/ab67616d0000b273c705e4061a1de1139ced6554', u'https://i.scdn.co/image/ab67616d0000b27347dd2ca47ec9bf14559e17c6', u'https://i.scdn.co/image/ab67616d0000b2730c64e752dec4c08362cc4a88', u'https://i.scdn.co/image/ab67616d0000b2731c4540d0ecafaa45305aa5a0'], 'album_name': [u'Remember Me', u'Lucid', u'Wildflower', u'OK Computer', u'Both', u'Man Alive!', u'Song of Sage: Post Panic!', u'Women In Music Pt. III', u'Watch This Liquid Pour Itself', u'Cupid Deluxe', u'Negro Swan', u"Angel's Pulse", u'Negro Swan', u'Titanic Rising', u'A Seat at the Table'], 'song_name': [u'Remember Me', u'Stone (Reprise)', u'Kaleidoscopic Lovers', u'Exit Music (For A Film)', u'La Meg', u'Stoned Again', u'Sea Bass', u'Hallelujah - Bonus Track', u'Overstimulated', u'High Street', u'Minetta Creek', u'I Wanna C U', u'Hope', u'Movies', u'Closing: The Chosen Ones'], 'artist_name': [u'UMI', u'Raveena', u'The Avalanches', u'Radiohead', u'Okay Kaya', u'King Krule', u'Navy Blue', u'HAIM', u'Okay Kaya', u'Blood Orange', u'Blood Orange', u'Blood Orange', u'Blood Orange', u'Weyes Blood', u'Solange'], 'track_id': [u'630Ug0XtmhhFvAKo0PNuEI', u'7y8iLmxJCdvy43daCDo1YM', u'2FXyHAkNkIym2sZVRuJuTd', u'0z1o5L7HJx562xZSATcIpY', u'1TenYwHUfKq18hSfcbc2Rj', u'1jk6tbx0xFuEq1eHGTDMv3', u'5q62dk7ggnKqpFOkiNsGUA', u'3ag4ODA4AwOhHG5pGcX0Lk', u'1yjgSzpuL8mRhDTcSzM3tZ', u'2NewVZgMr1DLTMJlIsAVDv', u'7Kt7c9Q2B7hSyiTZvGQ37D', u'4BD3sl4HjTAzWGVIP8LLm4', u'2QLNDKL7hZyh2OZ8UL9WrV', u'6f4itfvWzS59Qu7JWorhxn', u'2KdT8BSu7sViL2G5vQiWB6']}
+                                                image  ... energy
+14  https://i.scdn.co/image/ab67616d0000b2731c4540...  ...  0.502
+13  https://i.scdn.co/image/ab67616d0000b2730c64e7...  ...  0.362
+12  https://i.scdn.co/image/ab67616d0000b27347dd2c...  ...  0.227
+11  https://i.scdn.co/image/ab67616d0000b273c705e4...  ...  0.304
+10  https://i.scdn.co/image/ab67616d0000b27347dd2c...  ...  0.556
+9   https://i.scdn.co/image/ab67616d0000b2739d6bd2...  ...  0.609
+8   https://i.scdn.co/image/ab67616d0000b2733d3652...  ...   0.25
+7   https://i.scdn.co/image/ab67616d0000b2731bff3b...  ...  0.376
+6   https://i.scdn.co/image/ab67616d0000b2735a9731...  ...  0.683
+5   https://i.scdn.co/image/ab67616d0000b27328916f...  ...  0.606
+4   https://i.scdn.co/image/ab67616d0000b27337af2c...  ...    0.2
+3   https://i.scdn.co/image/ab67616d0000b273c8b444...  ...  0.276
+2   http
