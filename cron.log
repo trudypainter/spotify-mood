@@ -80298,3 +80298,42 @@ XF3AmtfEaX', u'01TyFEZu6mHbffsVfxgrFn', u'4QBs03zMdjDtS6ZRAdojDv', u'3fTEcn7Jt6D
 ('Rows: ', 21)
 Saved!
 
+[master 043eab34] updating daily data 2021-05-01 12:00:04.095712
+ 3 files changed, 43 insertions(+), 2 deletions(-)
+2021-05-01 12:00:02.668926
+Auth happening...
+Getting songs
+Creating dataframe...
+Love My Way
+Blame It on Your Love (feat. Lizzo)
+Fire
+Freeee (Ghost Town Pt. 2)
+Reborn
+Fire
+4th Dimension
+Feel The Love
+Rage
+Why Oh Why
+Life Back
+Transformer (feat. Lil Gnar)
+Trust Issues
+GOT THESE SONGS
+{'played_at': ['11:51', '11:47', '11:42', '11:39', '11:37', '11:32', '11:30', '11:27', '11:10', '11:08', '11:05', '11:02'], 'valence': [0.52, 0.598, 0.37, 0.306, 0.227, 0.37, 0.734, 0.369, 0.728, 0.492, 0.535, 0.16], 'mood_avg': [0.633, 0.677, 0.582, 0.418, 0.444, 0.582, 0.708, 0.473, 0.806, 0.646, 0.688, 0.521], 'danceability': [0.637, 0.717, 0.709, 0.334, 0.585, 0.709, 0.765, 0.58, 0.836, 0.712, 0.823, 0.837], 'energy': [0.85, 0.755, 0.751, 0.81, 0.597, 0.751, 0.542, 0.469, 0.901, 0.822, 0.723, 0.611], 'image': [u'https://i.scdn.co/image/ab67616d0000b2730faf6c6f66c3ba57e7dbf33b', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273013c00ee367dd85396f79c82', u'https://i.scdn.co/image/ab67616d0000b273013c00ee367dd85396f79c82', u'https://i.scdn.co/image/ab67616d0000b273013c00ee367dd85396f79c82', u'https://i.scdn.co/image/ab67616d0000b273013c00ee367dd85396f79c82', u'https://i.scdn.co/image/ab67616d0000b273013c00ee367dd85396f79c82', u'https://i.scdn.co/image/ab67616d0000b273013c00ee367dd85396f79c82', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e'], 'album_name': [u'Forever Now', u'Charli', u'KIDS SEE GHOSTS', u'KIDS SEE GHOSTS', u'KIDS SEE GHOSTS', u'KIDS SEE GHOSTS', u'KIDS SEE GHOSTS', u'KIDS SEE GHOSTS', u'Nasty', u'Nasty', u'Nasty', u'Nasty'], 'song_name': [u'Love My Way', u'Blame It on Your Love (feat. Lizzo)', u'Fire', u'Freeee (Ghost Town Pt. 2)', u'Reborn', u'Fire', u'4th Dimension', u'Feel The Love', u'Rage', u'Why Oh Why', u'Life Back', u'Transformer (feat. Lil Gnar)'], 'artist_name': [u'The Psychedelic Furs', u'Charli XCX', u'KIDS SEE GHOSTS', u'KIDS SEE GHOSTS', u'KIDS SEE GHOSTS', u'KIDS SEE GHOSTS', u'KIDS SEE GHOSTS', u'KIDS SEE GHOSTS', u'Rico Nasty', u'Rico Nasty', u'Rico Nasty', u'Rico Nasty'], 'track_id': [u'4dk40nfaQav6b4ZsJ9OYUo', u'2RCUr24WkEe2r5Vv4oDKlN', u'7oHkit3F3vimtsBbnZkU0G', u'7GRTrWsP3yo2Fx8umJfA1X', u'4RVbK6cV0VqWdpCDcx3hiT', u'7oHkit3F3vimtsBbnZkU0G', u'6JyEh4kl9DLwmSAoNDRn5b', u'3aUFrxO1B8EW63QchEl3wX', u'0d3pSVPhCfuzAJLyMUZYjT', u'70LCyCmpKbhlyoiGmAqv9E', u'5lqzQQ75CDYUZDhG21oFKE', u'35T7XHCp4LD4IhEKXqypPv']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.611
+10  https://i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.723
+9   https://i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.822
+8   https://i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.901
+7   https://i.scdn.co/image/ab67616d0000b273013c00...  ...  0.469
+6   https://i.scdn.co/image/ab67616d0000b273013c00...  ...  0.542
+5   https://i.scdn.co/image/ab67616d0000b273013c00...  ...  0.751
+4   https://i.scdn.co/image/ab67616d0000b273013c00...  ...  0.597
+3   https://i.scdn.co/image/ab67616d0000b273013c00...  ...   0.81
+2   https://i.scdn.co/image/ab67616d0000b273013c00...  ...  0.751
+1   https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.755
+0   https://i.scdn.co/image/ab67616d0000b2730faf6c...  ...   0.85
+
+[12 rows x 10 columns]
+('Rows: ', 12)
+Saved!
+
