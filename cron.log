@@ -80200,4 +80200,13 @@ GOT THESE SONGS
 5   https://i.scdn.co/image/ab67616d0000b27328916f...  ...  0.606
 4   https://i.scdn.co/image/ab67616d0000b27337af2c...  ...    0.2
 3   https://i.scdn.co/image/ab67616d0000b273c8b444...  ...  0.276
-2   http
+2   http[master 20fee2af] updating daily data 2021-05-01 09:00:05.472023
+ 3 files changed, 129 insertions(+), 1 deletion(-)
+s://i.scdn.co/image/ab67616d0000b27383cd9f...  ...   0.74
+1   https://i.scdn.co/image/ab67616d0000b273825d26...  ...  0.099
+0   https://i.scdn.co/image/ab67616d0000b2732b2fe5...  ...  0.344
+
+[15 rows x 10 columns]
+('Rows: ', 15)
+Saved!
+
