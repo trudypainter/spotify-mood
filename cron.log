@@ -80337,3 +80337,42 @@ GOT THESE SONGS
 ('Rows: ', 12)
 Saved!
 
+[master 0dd4ac9d] updating daily data 2021-05-01 13:00:04.912312
+ 3 files changed, 52 insertions(+), 1 deletion(-)
+2021-05-01 13:00:03.408748
+Auth happening...
+Getting songs
+Creating dataframe...
+Meh
+New N3on
+Go2DaMoon (feat. Kanye West)
+New Tank
+JumpOutTheHouse
+New N3on
+Meh
+No Sl33p
+Die4Guy
+Dreams from the Hood
+Don't Stop 'Til You Get Enough
+Lit (feat. A$AP Ferg)
+Love My Way
+GOT THESE SONGS
+{'played_at': ['12:55', '12:54', '12:52', '12:48', '12:46', '12:45', '12:43', '12:41', '12:39', '12:37', '12:34', '12:28'], 'valence': [0.586, 0.948, 0.542, 0.167, 0.485, 0.948, 0.586, 0.432, 0.418, 0.566, 0.947, 0.558], 'mood_avg': [0.642, 0.901, 0.581, 0.522, 0.634, 0.901, 0.642, 0.631, 0.605, 0.618, 0.894, 0.711], 'danceability': [0.764, 0.888, 0.693, 0.819, 0.87, 0.888, 0.764, 0.719, 0.759, 0.605, 0.878, 0.95], 'energy': [0.512, 0.833, 0.434, 0.638, 0.461, 0.833, 0.512, 0.852, 0.67, 0.749, 0.821, 0.54], 'image': [u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb', u'https://i.scdn.co/image/ab67616d0000b27394717274880c726fcbebde97', u'https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac', u'https://i.scdn.co/image/ab67616d0000b273f3eadbd4a68c11b0c8fe7143'], 'album_name': [u'Whole Lotta Red', u'Whole Lotta Red', u'Whole Lotta Red', u'Whole Lotta Red', u'Whole Lotta Red', u'Whole Lotta Red', u'Whole Lotta Red', u'Whole Lotta Red', u'Whole Lotta Red', u'Ghost in the Blue', u'Off the Wall', u'Endorphins'], 'song_name': [u'Meh', u'New N3on', u'Go2DaMoon (feat. Kanye West)', u'New Tank', u'JumpOutTheHouse', u'New N3on', u'Meh', u'No Sl33p', u'Die4Guy', u'Dreams from the Hood', u"Don't Stop 'Til You Get Enough", u'Lit (feat. A$AP Ferg)'], 'artist_name': [u'Playboi Carti', u'Playboi Carti', u'Playboi Carti', u'Playboi Carti', u'Playboi Carti', u'Playboi Carti', u'Playboi Carti', u'Playboi Carti', u'Playboi Carti', u'Ezro', u'Michael Jackson', u'Octavian'], 'track_id': [u'15JRvf02KKGHKgC31jrpuh', u'7ejepEh5DJ79YI6owGRfkk', u'0F13K9dwYH2zpTWiR8d628', u'4txKMpsSfZRV6durPuHVq0', u'0cgD36xPIJBdKUNJRHYDgP', u'7ejepEh5DJ79YI6owGRfkk', u'15JRvf02KKGHKgC31jrpuh', u'6i6whmV36EJmxs5zFahMrb', u'7rbalRuIx7sIXFHYTphE0n', u'0Yf4d7221l2d6m4ffy6KLI', u'46eu3SBuFCXWsPT39Yg3tJ', u'1dCeTKR5OsVP4uayEYFwuR']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b273f3eadb...  ...   0.54
+10  https://i.scdn.co/image/ab67616d0000b273702729...  ...  0.821
+9   https://i.scdn.co/image/ab67616d0000b273947172...  ...  0.749
+8   https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...   0.67
+7   https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.852
+6   https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.512
+5   https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.833
+4   https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.461
+3   https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.638
+2   https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.434
+1   https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.833
+0   https://i.scdn.co/image/ab67616d0000b27398ea0e...  ...  0.512
+
+[12 rows x 10 columns]
+('Rows: ', 12)
+Saved!
+
