@@ -79859,3 +79859,63 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 14cb5a7e] updating daily data 2021-04-30 19:00:11.257317
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-04-30 19:00:10.449707
+Auth happening...
+Getting songs
+Creating dataframe...
+Ladies of Cambridge
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-04-30 20:00:06.086124
+Auth happening...
+Getting songs
+Creating dataframe...
+OUT WEST (feat. Young Thug)
+Jason
+I Wouldn't Ask You
+Introspection
+why u look mad
+Break for Lovers (feat. Helena)
+Immaterial
+Control
+Case Closed
+Risky (feat. Drakeo the Ruler)
+Feeling Myself
+2021-04-30 21:00:06.385447
+Auth happening...
+Getting songs
+Creating dataframe...
+Kyoto
+Hopeless Romantic (feat. Swae Lee)
+Slip Away
+Seven
+Gretel
+February 2017 (feat. Clairo and Yaeji)
+Digits
+Everyone Acts Crazy Nowadays
+SideLine Watching (Hold Up)
+Lo Mein
+N Side
+WHATS POPPIN
+Dr. Miami
+Worth It
+Slippery (feat. Gucci Mane)
+Asexual Wellbeing
+Dark Red
+Closer To You
+GOT THESE SONGS
+{'played_at': ['20:55', '20:52', '20:48', '20:45', '20:42', '20:39', '20:36', '20:33', '20:29', '20:26', '20:22', '20:19', '20:16', '20:14', '20:11', '20:06', '20:03'], 'valence': [0.493, 0.552, 0.572, 0.832, 0.43, 0.482, 0.294, 0.735, 0.262, 0.509, 0.89, 0.826, 0.466, 0.112, 0.741, 0.262, 0.775], 'mood_avg': [0.585, 0.667, 0.572, 0.694, 0.527, 0.571, 0.552, 0.771, 0.514, 0.681, 0.798, 0.82, 0.674, 0.373, 0.799, 0.38, 0.708], 'danceability': [0.599, 0.877, 0.603, 0.692, 0.449, 0.692, 0.769, 0.816, 0.747, 0.855, 0.838, 0.923, 0.942, 0.604, 0.92, 0.417, 0.603], 'energy': [0.742, 0.477, 0.509, 0.421, 0.875, 0.506, 0.632, 0.755, 0.553, 0.676, 0.536, 0.604, 0.552, 0.435, 0.674, 0.541, 0.783], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733040ca980277cf1445934add', u'https://i.scdn.co/image/ab67616d0000b273393d29e88d493bdab8af1617', u'https://i.scdn.co/image/ab67616d0000b2738fdf12fe7f25d791a78375da', u'https://i.scdn.co/image/ab67616d0000b273591fa5bb8ab3ec41455d6279', u'https://i.scdn.co/image/ab67616d0000b273be5fb0d9169e28ac819cee1d', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273a875c3ec944b4f164ab5c350', u'https://i.scdn.co/image/ab67616d0000b273aa839bb04931542d830c73b1', u'https://i.scdn.co/image/ab67616d0000b2732143db1c88358d70dd898aa3', u'https://i.scdn.co/image/ab67616d0000b273dea510881ec1e506485303e4', u'https://i.scdn.co/image/ab67616d0000b2739b791593e61e77e9a1c092fa', u'https://i.scdn.co/image/ab67616d0000b27305a448540b069450ccfba889', u'https://i.scdn.co/image/ab67616d0000b27304ac270bded20462887ede7b', u'https://i.scdn.co/image/ab67616d0000b273a875c3ec944b4f164ab5c350', u'https://i.scdn.co/image/ab67616d0000b27399a8ab6da9d593939302828a', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b273263886a4992c39704c601409'], 'album_name': [u'Punisher', u'Rolling Papers 2', u'No Shape', u'Seven', u'House of Sugar', u'Charli', u'Slime Season 3', u'Sex & Food', u'The Perfect LUV Tape', u'Eternal Atake (Deluxe) - LUV vs. The World 2', u'Apollo XXI', u'Sweet Action', u'Dr. Miami', u'Slime Season 3', u'Culture', u'Watch This Liquid Pour Itself', u'Dark Red'], 'song_name': [u'Kyoto', u'Hopeless Romantic (feat. Swae Lee)', u'Slip Away', u'Seven', u'Gretel', u'February 2017 (feat. Clairo and Yaeji)', u'Digits', u'Everyone Acts Crazy Nowadays', u'SideLine Watching (Hold Up)', u'Lo Mein', u'N Side', u'WHATS POPPIN', u'Dr. Miami', u'Worth It', u'Slippery (feat. Gucci Mane)', u'Asexual Wellbeing', u'Dark Red'], 'artist_name': [u'Phoebe Bridgers', u'Wiz Khalifa', u'Perfume Genius', u'Men I Trust', u'Alex G', u'Charli XCX', u'Young Thug', u'Unknown Mortal Orchestra', u'Lil Uzi Vert', u'Lil Uzi Vert', u'Steve Lacy', u'Jack Harlow', u'Lil Saint', u'Young Thug', u'Migos', u'Okay Kaya', u'Steve Lacy'], 'track_id': [u'49UDOG8DoBajXTJSTqfRMg', u'7IBSffWIu7P2MC7kMwy2FM', u'13yxz52EwElyue9PLrqcZY', u'2dwvxOHnQjndZLowIR6PiS', u'36zqSzaPzQWZYDCNm1klgY', u'3fTEcn7Jt6Dq3NVVdNvl4w', u'4cg1yakyRSIOjxKM2I7J1q', u'6VPvz8SZWRFEoawyUTvQTt', u'0VYhxVxH9ijmdHUKsON9Bk', u'6gWzuZHMKNtjLUsTPHCX10', u'24G1PXBWoRgV0wDXZKwxzz', u'1jaTQ3nqY3oAAYyCTbIvnM', u'6WaaeggMSHNbxQiAAQQ00b', u'5QCr1xFufKJOTkpcR9ih24', u'6p8NuHm8uCGnn2Dtbtf7zE', u'5Hl1HecGM9yame1jI29Z2L', u'37y7iDayfwm3WXn5BiAoRk']}
+                                                image  ... energy
+16  https://i.scdn.co/image/ab67616d0000b273263886...  ...  0.783
+15  https://i.scdn.co/image/ab67616d0000b2733d3652...  ...  0.541
+14  https://i.scdn.co/image/ab67616d0000b27399a8ab...  ...  0.674
+13  https://i.scdn.co/image/ab67616d0000b273a875c3...  ...  0.435
+12  https://i.scdn.co/image/ab67616d0000b27304ac27... 
