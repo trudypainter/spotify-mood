@@ -80210,3 +80210,62 @@ s://i.scdn.co/image/ab67616d0000b27383cd9f...  ...   0.74
 ('Rows: ', 15)
 Saved!
 
+[master 50d93023] updating daily data 2021-05-01 10:00:05.258537
+ 3 files changed, 19 insertions(+), 2 deletions(-)
+2021-05-01 10:00:03.907672
+Auth happening...
+Getting songs
+Creating dataframe...
+Motion Sickness
+2099 (feat. Troye Sivan)
+Colder & Closer
+Elastic
+Hopeless Romantic (feat. Swae Lee)
+WHATS POPPIN
+Glow
+North
+HAD ENOUGH (feat. Quavo & Offset)
+GOT THESE SONGS
+{'played_at': ['09:57', '09:53', '09:50', '09:16', '09:14', '09:10', '09:07', '09:04'], 'valence': [0.626, 0.271, 0.494, 0.561, 0.552, 0.826, 0.432, 0.54], 'mood_avg': [0.62, 0.36, 0.654, 0.698, 0.667, 0.82, 0.525, 0.483], 'danceability': [0.652, 0.342, 0.71, 0.966, 0.877, 0.923, 0.688, 0.352], 'energy': [0.545, 0.573, 0.86, 0.435, 0.477, 0.604, 0.384, 0.632], 'image': [u'https://i.scdn.co/image/ab67616d0000b273bbc87dd5388d9a98e80650a4', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b2734748163fe5bc80b8b317d939', u'https://i.scdn.co/image/ab67616d0000b273c038cc146b4418bf3ddfdbb9', u'https://i.scdn.co/image/ab67616d0000b273393d29e88d493bdab8af1617', u'https://i.scdn.co/image/ab67616d0000b27305a448540b069450ccfba889', u'https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700', u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc'], 'album_name': [u'Stranger in the Alps', u'Charli', u'I Feel Alive', u'QUARTERTHING', u'Rolling Papers 2', u'Sweet Action', u'More Life', u'Immunity'], 'song_name': [u'Motion Sickness', u'2099 (feat. Troye Sivan)', u'Colder & Closer', u'Elastic', u'Hopeless Romantic (feat. Swae Lee)', u'WHATS POPPIN', u'Glow', u'North'], 'artist_name': [u'Phoebe Bridgers', u'Charli XCX', u'TOPS', u'Joey Purp', u'Wiz Khalifa', u'Jack Harlow', u'Drake', u'Clairo'], 'track_id': [u'6LxcPUqx6noURdA5qc4BAT', u'2T4SAwloHxRAtpD2hgykdA', u'0LSmREPpR26M7uCUk57AjX', u'4MAADpR6MjelkaZqe3Mgnv', u'7IBSffWIu7P2MC7kMwy2FM', u'1jaTQ3nqY3oAAYyCTbIvnM', u'28irpKCCK9nn9DZSik2zEx', u'0zzz9l8ZX5vDBJmNHnWOom']}
+                                               image  ... energy
+7  https://i.scdn.co/image/ab67616d0000b27333ccb6...  ...  0.632
+6  https://i.scdn.co/image/ab67616d0000b2734f0fd9...  ...  0.384
+5  https://i.scdn.co/image/ab67616d0000b27305a448...  ...  0.604
+4  https://i.scdn.co/image/ab67616d0000b273393d29...  ...  0.477
+3  https://i.scdn.co/image/ab67616d0000b273c038cc...  ...  0.435
+2  https://i.scdn.co/image/ab67616d0000b273474816...  ...   0.86
+1  https://i.scdn.co/image/ab67616d0000b273cee4ac...  ...  0.573
+0  https://i.scdn.co/image/ab67616d0000b273bbc87d...  ...  0.545
+
+[8 rows x 10 columns]
+('Rows: ', 8)
+Saved!
+
+2021-05-01 11:00:05.337135
+Auth happening...
+Getting songs
+Creating dataframe...
+Trust Issues
+Oreo
+Colder & Closer
+Ice Cream
+Won't Change
+In The Air (feat. BlocBoy JB)
+Hockey
+Countin' Up
+Lala
+Pressing Me
+Bitch I'm Nasty
+Lauren
+No Idea
+C U Girl
+Show Me How
+Courtside
+February 2017 (feat. Clairo and Yaeji)
+HONEST
+Feels Like We Only Go Backwards
+SideLine Watching (Hold Up)
+Sofia
+Suspirium
+GOT THESE SONGS
+{'played_at': ['10:59', '10:56', '10:55', '10:53', '10:51', '10:49', '10:46', '10:43', '10:40', '10:38', '10:35', '10:30', '10:27', '10:24', '10:22', '10:18', '10:15', '10:13', '10:10', '10:07', '10:03'], 'valence': [0.165, 0.721, 0.494, 0.54, 0.557, 0.849, 0.667, 0.757, 0.425, 0.278, 0.342, 0.558, 0.35, 0.409, 0.544, 0.621, 0.482, 0.373, 0.491, 0.262, 0.641], 'mood_avg': [0.562, 0.803, 0.654, 0.722, 0.713, 0.863, 0.726, 0.829, 0.549, 0.59, 0.645, 0.629, 0.527, 0.424, 0.587, 0.62, 0.571, 0.527, 0.498, 0.514, 0.678], 'danceability': [0.929, 0.857, 0.71, 0.858, 0.875, 0.844, 0.734, 0.891, 0.707, 0.936, 0.953, 0.762, 0.652, 0.414, 0.791, 0.668, 0.692, 0.676, 0.303, 0.747, 0.744], 'energy': [0.621, 0.861, 0.86, 0.816, 0.701, 0.931, 0.826, 0.851, 0.483, 0.523, 0.636, 0.503, 0.631, 0.473, 0.267, 0.524, 0.506, 0.536, 0.9, 0.553, 0.619], 'image': [u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b2734748163fe5bc80b8b317d939', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b2734bf3b48e615335264b9fcb22', u'https://i.scdn.co/image/ab67616d0000b27345190a074bef3e8ce868b60c', u'https://i.scdn.co/image/ab67616d0000b273447d52024a6ac588ad418ae5', u'https://i.scdn.co/image/ab67616d0000b27340faefaf8ebe0e1564c60faa', u'https://i.scdn.co/image/ab67616d0000b273d42a7bb4e092b8a61b7a4f20', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1', u'https://i.scdn.co/image/ab67616d0000b273370c12f82872c9cfaee80193', u'https://i.scdn.co/image/ab67616d0000b2732143db1c88358d70dd898aa3', u'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc'], 'album_name': [u'Nasty', u'Nasty', u'I Feel Alive', u'Nasty', u'Nasty', u'Nasty', u'Nasty', u'Nasty', u'Nasty', u'Nasty', u'Nasty', u'Lauren', u'Heaven Or Hell', u'C U Girl', u'Show Me How', u'Courtside', u'Charli', u'DIE FOR MY BITCH', u'Lonerism', u'The Perfect LUV Tape', u'Immunity'], 'song_name': [u'Trust Issues', u'Oreo', u'Colder & Closer', u'Ice Cream', u"Won't Change", u'In The Air (feat. BlocBoy JB)', u'Hockey', u"Countin' Up", u'Lala', u'Pressing Me', u"Bitch I'm Nasty", u'Lauren', u'No Idea', u'C U Girl', u'Show Me How', u'Courtside', u'February 2017 (feat. Clairo and Yaeji)', u'HONEST', u'Feels Like We Only Go Backwards', u'SideLine Watching (Hold Up)', u'Sofia'], 'artist_name': [u'Rico Nasty', u'Rico Nasty', u'TOPS', u'Rico Nasty', u'Rico Nasty', u'Rico Nasty', u'Rico Nasty', u'Rico Nasty', u'Rico Nasty', u'Rico Nasty', u'Rico Nasty', u'Men I Trust', u'Don Toliver', u'Steve Lacy', u'Men I Trust', u'Triathalon', u'Charli XCX', u'Baby Keem', u'Tame Impala', u'Lil Uzi Vert', u'Clairo'], 'track_id': [u'3U1er6n2pSve0xcNVn9eUu', u'0ySsnl4gQSzA5qgu3qNKBZ', u'0LSmREPpR26M7uCUk57AjX', u'0ZuxznxNDb5yKYmpgVWWK3', u'6OdV97pv0mTjwuZD51hciR', u'4rNcajJ4guG6OnbMp7TkgK', u'1L7rClADTUuFglXj0D8pEb', u'6UFG7GbMAeeMijEyrp6f1D', u'245hvnaN40qR26q131lG9y', u'3wtVRcrYtWJVs0rBTabJJ8', u'2xXNa4tR2CronQsZ6OKQtP', u'7vptmeNwSEVkcwDdqk7UQO', u'7AzlLxHn24DxjgQX73F9fU', u'6FBzhcfgGacf
