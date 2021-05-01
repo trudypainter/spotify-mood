@@ -79961,3 +79961,28 @@ GOT THESE SONGS
 ('Rows: ', 4)
 Saved!
 
+[master a3c58881] updating daily data 2021-04-30 23:00:04.211601
+ 3 files changed, 29 insertions(+), 1 deletion(-)
+2021-04-30 23:00:02.868835
+Auth happening...
+Getting songs
+Creating dataframe...
+Moonlight on the River
+Mile High (feat. Travis Scott & Metro Boomin)
+EARFQUAKE
+Saw You In A Dream
+Scrawny
+Provider
+GOT THESE SONGS
+{'played_at': ['22:18', '22:10', '22:07', '22:04', '22:01'], 'valence': [0.43, 0.228, 0.413, 0.676, 0.802], 'mood_avg': [0.532, 0.467, 0.486, 0.603, 0.74], 'danceability': [0.662, 0.754, 0.554, 0.607, 0.639], 'energy': [0.478, 0.37, 0.498, 0.451, 0.816], 'image': [u'https://i.scdn.co/image/ab67616d0000b27398526846ff341ae71e5c3818', u'https://i.scdn.co/image/ab67616d0000b2739af56a54edacb6237b49fa2e', u'https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57', u'https://i.scdn.co/image/ab67616d0000b2734408ede3829b9cbcaea9f3b8', u'https://i.scdn.co/image/ab67616d0000b27384feca0133d9a8e6539a8325'], 'album_name': [u'This Old Dog', u'Assume Form', u'IGOR', u'Saw You In A Dream', u'Nothing Happens'], 'song_name': [u'Moonlight on the River', u'Mile High (feat. Travis Scott & Metro Boomin)', u'EARFQUAKE', u'Saw You In A Dream', u'Scrawny'], 'artist_name': [u'Mac DeMarco', u'James Blake', u'Tyler, The Creator', u'The Japanese House', u'Wallows'], 'track_id': [u'1yCJHs8UFfmqMujayg9i5y', u'4cQrSREMqBSvJ8ZzBZjVb8', u'5hVghJ4KaYES3BFUATCYn0', u'0U3u0HdRQjD8mAMYBak4Ok', u'1pNUmVxDiE8t6P1XxcZAv8']}
+                                               image  ... energy
+4  https://i.scdn.co/image/ab67616d0000b27384feca...  ...  0.816
+3  https://i.scdn.co/image/ab67616d0000b2734408ed...  ...  0.451
+2  https://i.scdn.co/image/ab67616d0000b273700588...  ...  0.498
+1  https://i.scdn.co/image/ab67616d0000b2739af56a...  ...   0.37
+0  https://i.scdn.co/image/ab67616d0000b273985268...  ...  0.478
+
+[5 rows x 10 columns]
+('Rows: ', 5)
+Saved!
+
