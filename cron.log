@@ -80780,3 +80780,42 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 0e6fc2aa] updating daily data 2021-05-04 18:00:04.818453
+ 3 files changed, 28 insertions(+), 1 deletion(-)
+2021-05-04 18:00:03.121215
+Auth happening...
+Getting songs
+Creating dataframe...
+Corrlinks and JPay
+Twenty 8
+U Ain't Never
+Up in Here
+Candy Paint (feat. Bun B)
+Day for Day
+Coolin and Booted
+Why They Call You Kodak
+Tunnel Vision
+Won't Change
+Slumber Party (feat. Princess Nokia)
+Hello Kitty
+Feeling Myself
+GOT THESE SONGS
+{'played_at': ['17:58', '17:55', '17:51', '17:48', '17:45', '17:41', '17:37', '17:34', '17:29', '17:20', '17:17', '17:14'], 'valence': [0.237, 0.317, 0.422, 0.409, 0.703, 0.457, 0.494, 0.635, 0.231, 0.557, 0.563, 0.591], 'mood_avg': [0.553, 0.594, 0.614, 0.604, 0.799, 0.59, 0.626, 0.631, 0.389, 0.713, 0.69, 0.655], 'danceability': [0.887, 0.767, 0.836, 0.772, 0.863, 0.737, 0.808, 0.626, 0.497, 0.875, 0.964, 0.725], 'energy': [0.517, 0.803, 0.556, 0.659, 0.862, 0.562, 0.526, 0.635, 0.489, 0.701, 0.398, 0.641], 'image': [u'https://i.scdn.co/image/ab67616d0000b2731541a676423805fc68ff3e66', u'https://i.scdn.co/image/ab67616d0000b2731541a676423805fc68ff3e66', u'https://i.scdn.co/image/ab67616d0000b2731541a676423805fc68ff3e66', u'https://i.scdn.co/image/ab67616d0000b2731541a676423805fc68ff3e66', u'https://i.scdn.co/image/ab67616d0000b2731541a676423805fc68ff3e66', u'https://i.scdn.co/image/ab67616d0000b2731541a676423805fc68ff3e66', u'https://i.scdn.co/image/ab67616d0000b2731541a676423805fc68ff3e66', u'https://i.scdn.co/image/ab67616d0000b2731541a676423805fc68ff3e66', u'https://i.scdn.co/image/ab67616d0000b2731541a676423805fc68ff3e66', u'https://i.scdn.co/image/ab67616d0000b27341e7c5b95a9d860b5d868b0e', u'https://i.scdn.co/image/ab67616d0000b27311b63834a1a557cc77403458', u'https://i.scdn.co/image/ab67616d0000b27385e1a4e3692d910ddb8416e6'], 'album_name': [u'Painting Pictures', u'Painting Pictures', u'Painting Pictures', u'Painting Pictures', u'Painting Pictures', u'Painting Pictures', u'Painting Pictures', u'Painting Pictures', u'Painting Pictures', u'Nasty', u'DEMIDEVIL', u'Hello Kitty'], 'song_name': [u'Corrlinks and JPay', u'Twenty 8', u"U Ain't Never", u'Up in Here', u'Candy Paint (feat. Bun B)', u'Day for Day', u'Coolin and Booted', u'Why They Call You Kodak', u'Tunnel Vision', u"Won't Change", u'Slumber Party (feat. Princess Nokia)', u'Hello Kitty'], 'artist_name': [u'Kodak Black', u'Kodak Black', u'Kodak Black', u'Kodak Black', u'Kodak Black', u'Kodak Black', u'Kodak Black', u'Kodak Black', u'Kodak Black', u'Rico Nasty', u'Ashnikko', u'Slayyyter'], 'track_id': [u'189SCF7XFCfIQybq5CZwD9', u'0aLo146zdEelBv1dc5YyME', u'6scsBF1tws6Dg8VL3Xu5bS', u'4rcDP7pcJ9TN3LDeFSfUav', u'5Su82DCebDzhL88yWyUasx', u'0rGipWrGwAnZsaVkyiJpap', u'1Nh5WUisukhSNgwXLRoyZf', u'2QnCQRQ2UKKhiMJwh7967M', u'4Q3N4Ct4zCuIHuZ65E3BD4', u'6OdV97pv0mTjwuZD51hciR', u'11ZulcYY4lowvcQm4oe3VJ', u'2EZHO9OoxZoaBs669GtWZv']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b27385e1a4...  ...  0.641
+10  https://i.scdn.co/image/ab67616d0000b27311b638...  ...  0.398
+9   https://i.scdn.co/image/ab67616d0000b27341e7c5...  ...  0.701
+8   https://i.scdn.co/image/ab67616d0000b2731541a6...  ...  0.489
+7   https://i.scdn.co/image/ab67616d0000b2731541a6...  ...  0.635
+6   https://i.scdn.co/image/ab67616d0000b2731541a6...  ...  0.526
+5   https://i.scdn.co/image/ab67616d0000b2731541a6...  ...  0.562
+4   https://i.scdn.co/image/ab67616d0000b2731541a6...  ...  0.862
+3   https://i.scdn.co/image/ab67616d0000b2731541a6...  ...  0.659
+2   https://i.scdn.co/image/ab67616d0000b2731541a6...  ...  0.556
+1   https://i.scdn.co/image/ab67616d0000b2731541a6...  ...  0.803
+0   https://i.scdn.co/image/ab67616d0000b2731541a6...  ...  0.517
+
+[12 rows x 10 columns]
+('Rows: ', 12)
+Saved!
+
