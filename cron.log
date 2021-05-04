@@ -80606,3 +80606,42 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 892ed135] updating daily data 2021-05-03 20:00:09.785796
+ 3 files changed, 28 insertions(+), 1 deletion(-)
+2021-05-03 20:00:08.223554
+Auth happening...
+Getting songs
+Creating dataframe...
+Until Daylight Comes
+Dial D For Devotion
+Music Is The Light
+Interstellar Love
+Music Makes Me High
+The Divine Chord
+We Will Always Love You
+Song For Barbara Payton
+Ghost Story
+Drumset
+On I Go
+Rack of His
+Relay
+GOT THESE SONGS
+{'played_at': ['19:52', '19:49', '19:49', '19:46', '19:42', '19:37', '19:34', '19:31', '19:29', '19:26', '19:07', '19:04'], 'valence': [0.584, 0.338, 0.257, 0.27, 0.76, 0.373, 0.176, 0.22, 0.228, 0.822, 0.617, 0.552], 'mood_avg': [0.639, 0.392, 0.42, 0.453, 0.729, 0.545, 0.41, 0.302, 0.259, 0.761, 0.575, 0.521], 'danceability': [0.675, 0.512, 0.603, 0.448, 0.607, 0.557, 0.535, 0.355, 0.261, 0.75, 0.516, 0.44], 'energy': [0.678, 0.26, 0.379, 0.83, 0.911, 0.863, 0.626, 0.358, 0.317, 0.661, 0.609, 0.619], 'image': [u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9'], 'album_name': [u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'We Will Always Love You', u'Fetch The Bolt Cutters', u'Fetch The Bolt Cutters', u'Fetch The Bolt Cutters'], 'song_name': [u'Until Daylight Comes', u'Dial D For Devotion', u'Music Is The Light', u'Interstellar Love', u'Music Makes Me High', u'The Divine Chord', u'We Will Always Love You', u'Song For Barbara Payton', u'Ghost Story', u'Drumset', u'On I Go', u'Rack of His'], 'artist_name': [u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'The Avalanches', u'Fiona Apple', u'Fiona Apple', u'Fiona Apple'], 'track_id': [u'7gwBRAx69q9pBzfmC8AbKP', u'4bj1A0G4EZpVGeEuqm6J4e', u'5eDLEMBoefYrDbhAycL5LK', u'4PUGAmAvt5VxbbefkhV0x5', u'4o8ssGZ37z8S93zHTNfDlD', u'3A0cAzFKPefBCz7Z02UnnO', u'51wxtCuipwjvvT99wsSmCc', u'5ImMXrczU0jwRgEuWBJDqz', u'4K462KpNKJKaqo4Nw4v0Xm', u'4baGw8dAfqNl7RrmlMtzb5', u'6VU4Ys4rbbbwJ84g1ZuYA5', u'17QLp5uadHptxnmq9clK8U']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.619
+10  https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.609
+9   https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.661
+8   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.317
+7   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.358
+6   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.626
+5   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.863
+4   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.911
+3   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...   0.83
+2   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.379
+1   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...   0.26
+0   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.678
+
+[12 rows x 10 columns]
+('Rows: ', 12)
+Saved!
+
