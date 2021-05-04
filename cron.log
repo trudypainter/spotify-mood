@@ -80645,3 +80645,27 @@ GOT THESE SONGS
 ('Rows: ', 12)
 Saved!
 
+[master d1e7257b] updating daily data 2021-05-04 09:00:05.288208
+ 3 files changed, 44 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2021-05-04.csv
+2021-05-04 09:00:03.514978
+Auth happening...
+Getting songs
+Creating dataframe...
+Bounce Out With That
+Up In My Cocina - From SR3MM
+Relay
+PASS OUT (feat. 21 Savage)
+PASS OUT (feat. 21 Savage)
+GOT THESE SONGS
+{'played_at': ['08:16', '08:14', '08:10', '08:05'], 'valence': [0.381, 0.462, 0.474, 0.441], 'mood_avg': [0.631, 0.694, 0.505, 0.7], 'danceability': [0.864, 0.898, 0.502, 0.917], 'energy': [0.664, 0.751, 0.574, 0.786], 'image': [u'https://i.scdn.co/image/ab67616d0000b273cdd6b4660945702c5573035b', u'https://i.scdn.co/image/ab67616d0000b273ba9015f4504a9dfd7560bfa9', u'https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9', u'https://i.scdn.co/image/ab67616d0000b273a1fc738279f01eb8086fc44d'], 'album_name': [u'YBN: The Mixtape', u'SR3MM', u'Fetch The Bolt Cutters', u'QUAVO HUNCHO'], 'song_name': [u'Bounce Out With That', u'Up In My Cocina - From SR3MM', u'Relay', u'PASS OUT (feat. 21 Savage)'], 'artist_name': [u'YBN Nahmir', u'Rae Sremmurd', u'Fiona Apple', u'Quavo'], 'track_id': [u'5gQcxYXqnofyocKgEbGYKt', u'4669wTPqp7Xwz2H7v4QKi1', u'5hnOzmFuGltDDAm008jFDh', u'3edzl4zvKFi0D3iuF6cs2f']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273a1fc73...  ...  0.786
+2  https://i.scdn.co/image/ab67616d0000b273841292...  ...  0.574
+1  https://i.scdn.co/image/ab67616d0000b273ba9015...  ...  0.751
+0  https://i.scdn.co/image/ab67616d0000b273cdd6b4...  ...  0.664
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
