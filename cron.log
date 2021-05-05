@@ -80819,3 +80819,38 @@ GOT THESE SONGS
 ('Rows: ', 12)
 Saved!
 
+[master 92866807] updating daily data 2021-05-04 19:00:05.428237
+ 3 files changed, 50 insertions(+), 1 deletion(-)
+2021-05-04 19:00:03.487452
+Auth happening...
+Getting songs
+Creating dataframe...
+Mack Truck (feat. Jim Jones)
+Yessirskii (feat. MEGO)
+Explosion (feat. Yak Gotti & FN DaDealer)
+Mil In Vegas (feat. NAV)
+No Surprise (feat. Don Toliver & Bslime)
+Litty (feat. DaBaby)
+Slam The Door
+Off the Land
+Side Nigga
+Reminiscing (feat. A Boogie wit da Hoodie)
+Corrlinks and JPay
+GOT THESE SONGS
+{'played_at': ['18:59', '18:53', '18:52', '18:49', '18:47', '18:43', '18:39', '18:09', '18:05', '18:02'], 'valence': [0.753, 0.344, 0.0559, 0.342, 0.36, 0.464, 0.764, 0.477, 0.463, 0.182], 'mood_avg': [0.657, 0.589, 0.456, 0.609, 0.577, 0.638, 0.777, 0.577, 0.545, 0.426], 'danceability': [0.502, 0.875, 0.858, 0.893, 0.813, 0.894, 0.915, 0.767, 0.621, 0.577], 'energy': [0.777, 0.507, 0.452, 0.575, 0.541, 0.472, 0.527, 0.397, 0.555, 0.611], 'image': [u'https://i.scdn.co/image/ab67616d0000b273dfde584d83607f7904d3105e', u'https://i.scdn.co/image/ab67616d0000b273dfde584d83607f7904d3105e', u'https://i.scdn.co/image/ab67616d0000b273dfde584d83607f7904d3105e', u'https://i.scdn.co/image/ab67616d0000b273dfde584d83607f7904d3105e', u'https://i.scdn.co/image/ab67616d0000b273dfde584d83607f7904d3105e', u'https://i.scdn.co/image/ab67616d0000b273dfde584d83607f7904d3105e', u'https://i.scdn.co/image/ab67616d0000b273dfde584d83607f7904d3105e', u'https://i.scdn.co/image/ab67616d0000b2731541a676423805fc68ff3e66', u'https://i.scdn.co/image/ab67616d0000b2731541a676423805fc68ff3e66', u'https://i.scdn.co/image/ab67616d0000b2731541a676423805fc68ff3e66'], 'album_name': [u'Slime Language 2 (Deluxe)', u'Slime Language 2 (Deluxe)', u'Slime Language 2 (Deluxe)', u'Slime Language 2 (Deluxe)', u'Slime Language 2 (Deluxe)', u'Slime Language 2 (Deluxe)', u'Slime Language 2 (Deluxe)', u'Painting Pictures', u'Painting Pictures', u'Painting Pictures'], 'song_name': [u'Mack Truck (feat. Jim Jones)', u'Yessirskii (feat. MEGO)', u'Explosion (feat. Yak Gotti & FN DaDealer)', u'Mil In Vegas (feat. NAV)', u'No Surprise (feat. Don Toliver & Bslime)', u'Litty (feat. DaBaby)', u'Slam The Door', u'Off the Land', u'Side Nigga', u'Reminiscing (feat. A Boogie wit da Hoodie)'], 'artist_name': [u'Young Stoner Life', u'Young Stoner Life', u'Young Stoner Life', u'Young Stoner Life', u'Young Stoner Life', u'Young Stoner Life', u'Young Stoner Life', u'Kodak Black', u'Kodak Black', u'Kodak Black'], 'track_id': [u'6hzihWgC6jDEni8JPGMnAn', u'7MQmvvbYpEXvLe8tPlvGxv', u'0SRLuNuokXllJdy0bLC5BI', u'7hCVWrRyGPNsjrwfgXCO3u', u'5yjcHfRu0LWD9XpvWabQGj', u'2Zza7LeJBNz3R2xprlfrFS', u'07Vwzgzl5dRyU7AMpJbIE3', u'4i32ns3wiz22LjTDkoED08', u'2NkrrS0VjAE1D8V6JtkZlt', u'3Aa4thPgwXgOlyEBTF4yzj']}
+                                               image  ... energy
+9  https://i.scdn.co/image/ab67616d0000b2731541a6...  ...  0.611
+8  https://i.scdn.co/image/ab67616d0000b2731541a6...  ...  0.555
+7  https://i.scdn.co/image/ab67616d0000b2731541a6...  ...  0.397
+6  https://i.scdn.co/image/ab67616d0000b273dfde58...  ...  0.527
+5  https://i.scdn.co/image/ab67616d0000b273dfde58...  ...  0.472
+4  https://i.scdn.co/image/ab67616d0000b273dfde58...  ...  0.541
+3  https://i.scdn.co/image/ab67616d0000b273dfde58...  ...  0.575
+2  https://i.scdn.co/image/ab67616d0000b273dfde58...  ...  0.452
+1  https://i.scdn.co/image/ab67616d0000b273dfde58...  ...  0.507
+0  https://i.scdn.co/image/ab67616d0000b273dfde58...  ...  0.777
+
+[10 rows x 10 columns]
+('Rows: ', 10)
+Saved!
+
