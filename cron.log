@@ -80967,3 +80967,20 @@ GOT THESE SONGS
 ('Rows: ', 14)
 Saved!
 
+[master 5b9e6836] updating daily data 2021-05-05 10:00:03.685571
+ 3 files changed, 10 insertions(+), 2 deletions(-)
+2021-05-05 10:00:03.068084
+Auth happening...
+Getting songs
+Creating dataframe...
+Why Did You Do That?
+DROPPED OUTTA COLLEGE
+GOT THESE SONGS
+{'played_at': ['09:02'], 'valence': [0.445], 'mood_avg': [0.604], 'danceability': [0.792], 'energy': [0.548], 'image': [u'https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342'], 'album_name': [u'A Star Is Born Soundtrack'], 'song_name': [u'Why Did You Do That?'], 'artist_name': [u'Lady Gaga'], 'track_id': [u'2FoSFSX2W1p8ri1Wj1Wavn']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b273e2d156...  ...  0.548
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
