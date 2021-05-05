@@ -81014,3 +81014,33 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 47f1021c] updating daily data 2021-05-05 13:00:07.124885
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+2021-05-05 13:00:06.166639
+Auth happening...
+Getting songs
+Creating dataframe...
+Multi-Love
+I Heard
+Flim
+Chunky
+Why Did You Do That?
+GOT THESE SONGS
+{'played_at': ['12:21', '12:08', '12:07', '12:04'], 'valence': [0.545, 0.571, 0.4, 0.727], 'mood_avg': [0.633, 0.596, 0.591, 0.627], 'danceability': [0.784, 0.671, 0.71, 0.571], 'energy': [0.506, 0.495, 0.734, 0.539], 'image': [u'https://i.scdn.co/image/ab67616d0000b273ee70875d2ac4c16bdeba0191', u'https://i.scdn.co/image/ab67616d0000b273f8c4e9db7885ae452ca39bf3', u'https://i.scdn.co/image/ab67616d0000b273c4d5de8930bbc762a68c0bc7', u'https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5'], 'album_name': [u'Multi-Love', u'Bobby & Bobby, Vol. 1', u'Come To Daddy', u'24K Magic'], 'song_name': [u'Multi-Love', u'I Heard', u'Flim', u'Chunky'], 'artist_name': [u'Unknown Mortal Orchestra', u'Knxwledge', u'Aphex Twin', u'Bruno Mars'], 'track_id': [u'0PEXp5yk0sx9dJ8JzwvjJb', u'0UcYNTeGXilqjMBBCbb1Ce', u'4q650OiSDQIwccxDFpuuBm', u'0mBKv9DkYfQHjdMcw2jdyI']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273232711...  ...  0.539
+2  https://i.scdn.co/image/ab67616d0000b273c4d5de...  ...  0.734
+1  https://i.scdn.co/image/ab67616d0000b273f8c4e9...  ...  0.495
+0  https://i.scdn.co/image/ab67616d0000b273ee7087...  ...  0.506
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
+2021-05-05 14:00:02.800781
+Auth happening...
+Getting songs
+Creating dataframe...
+One Thing Left to Try
+Keep It Cool
+We Talk all the Time
