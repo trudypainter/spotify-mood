@@ -80854,3 +80854,40 @@ GOT THESE SONGS
 ('Rows: ', 10)
 Saved!
 
+[master c619ad25] updating daily data 2021-05-04 20:00:05.960875
+ 3 files changed, 47 insertions(+), 1 deletion(-)
+2021-05-04 20:00:04.522232
+Auth happening...
+Getting songs
+Creating dataframe...
+Foreign
+Fell In Luv (feat. Bryson Tiller)
+Home (KOD)
+Poke It Out (with Nicki Minaj)
+Right Now (feat. Pi'erre Bourne)
+Shoota (feat. Lil Uzi Vert)
+Love Hurts (feat. Travis Scott)
+Old Money
+Lean 4 Real (feat. Skepta)
+R.I.P.
+Long Time - Intro
+Mack Truck (feat. Jim Jones)
+GOT THESE SONGS
+{'played_at': ['19:34', '19:31', '19:28', '19:25', '19:21', '19:17', '19:15', '19:12', '19:09', '19:06', '19:03'], 'valence': [0.264, 0.227, 0.435, 0.576, 0.309, 0.47, 0.464, 0.584, 0.159, 0.515, 0.358], 'mood_avg': [0.551, 0.487, 0.6, 0.706, 0.519, 0.587, 0.565, 0.644, 0.52, 0.641, 0.504], 'danceability': [0.762, 0.657, 0.722, 0.894, 0.687, 0.673, 0.724, 0.716, 0.754, 0.725, 0.472], 'energy': [0.705, 0.668, 0.686, 0.59, 0.602, 0.649, 0.45, 0.619, 0.775, 0.725, 0.861], 'image': [u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194', u'https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194'], 'album_name': [u'Die Lit', u'Die Lit', u'Die Lit', u'Die Lit', u'Die Lit', u'Die Lit', u'Die Lit', u'Die Lit', u'Die Lit', u'Die Lit', u'Die Lit'], 'song_name': [u'Foreign', u'Fell In Luv (feat. Bryson Tiller)', u'Home (KOD)', u'Poke It Out (with Nicki Minaj)', u"Right Now (feat. Pi'erre Bourne)", u'Shoota (feat. Lil Uzi Vert)', u'Love Hurts (feat. Travis Scott)', u'Old Money', u'Lean 4 Real (feat. Skepta)', u'R.I.P.', u'Long Time - Intro'], 'artist_name': [u'Playboi Carti', u'Playboi Carti', u'Playboi Carti', u'Playboi Carti', u'Playboi Carti', u'Playboi Carti', u'Playboi Carti', u'Playboi Carti', u'Playboi Carti', u'Playboi Carti', u'Playboi Carti'], 'track_id': [u'500l6Cwe40hkPqS7Sf7ufY', u'1s9DTymg5UQrdorZf43JQm', u'5wPyd3IQAZft1vmxoIqGrU', u'2rPSFKzGeqUWwfcCFVkkq3', u'475jSz0H6U3duJyNiDS0tT', u'2BJSMvOGABRxokHKB0OI8i', u'3K6U7TamNyVSWcFH8pCQHX', u'0syXbGoFZbTMXm8hGCEvW0', u'1JgkiUg9mSXSwcb5Gbi4Ur', u'3L0IKstjUgDFVQAbQIRZRv', u'4IO2X2YoXoUMv0M2rwomLC']}
+                                                image  ... energy
+10  https://i.scdn.co/image/ab67616d0000b273a1e867...  ...  0.861
+9   https://i.scdn.co/image/ab67616d0000b273a1e867...  ...  0.725
+8   https://i.scdn.co/image/ab67616d0000b273a1e867...  ...  0.775
+7   https://i.scdn.co/image/ab67616d0000b273a1e867...  ...  0.619
+6   https://i.scdn.co/image/ab67616d0000b273a1e867...  ...   0.45
+5   https://i.scdn.co/image/ab67616d0000b273a1e867...  ...  0.649
+4   https://i.scdn.co/image/ab67616d0000b273a1e867...  ...  0.602
+3   https://i.scdn.co/image/ab67616d0000b273a1e867...  ...   0.59
+2   https://i.scdn.co/image/ab67616d0000b273a1e867...  ...  0.686
+1   https://i.scdn.co/image/ab67616d0000b273a1e867...  ...  0.668
+0   https://i.scdn.co/image/ab67616d0000b273a1e867...  ...  0.705
+
+[11 rows x 10 columns]
+('Rows: ', 11)
+Saved!
+
