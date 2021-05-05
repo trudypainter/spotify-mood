@@ -80906,3 +80906,57 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 28aaf8b0] updating daily data 2021-05-05 08:00:04.599420
+ 3 files changed, 17 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2021-05-05.csv
+2021-05-05 08:00:03.701424
+Auth happening...
+Getting songs
+Creating dataframe...
+Hot Boyz
+Bands (feat. OhGeesy, Fenix Flexin & Master Kato)
+GOT THESE SONGS
+{'played_at': ['07:03'], 'valence': [0.74], 'mood_avg': [0.752], 'danceability': [0.852], 'energy': [0.575], 'image': [u'https://i.scdn.co/image/ab67616d0000b2739c7fff5da09082969fa7493b'], 'album_name': [u'Hot Boyz'], 'song_name': [u'Hot Boyz'], 'artist_name': [u'ZaeHD & CEO'], 'track_id': [u'5cLI6WtJtbiHOSCCpCXKmF']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b2739c7fff...  ...  0.575
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
+2021-05-05 09:00:03.596258
+Auth happening...
+Getting songs
+Creating dataframe...
+DROPPED OUTTA COLLEGE
+Get With U
+Wild Thing Runs Free
+AllPraise
+Flim
+Carrie & Lowell
+Are You Feeling Sad?
+Kerosene!
+Chewing Cotton Wool
+One Thing Left to Try
+LazyEaterBetsOnHerLikeness
+Everywhereigo
+Hey
+6locc 6a6y
+Hot Boyz
+GOT THESE SONGS
+{'played_at': ['08:59', '08:57', '08:55', '08:53', '08:51', '08:48', '08:44', '08:42', '08:37', '08:33', '08:29', '08:27', '08:24', '08:21'], 'valence': [0.191, 0.298, 0.591, 0.588, 0.4, 0.266, 0.462, 0.299, 0.143, 0.667, 0.628, 0.512, 0.306, 0.675], 'mood_avg': [0.517, 0.432, 0.568, 0.503, 0.591, 0.376, 0.621, 0.471, 0.23, 0.685, 0.458, 0.638, 0.433, 0.759], 'danceability': [0.911, 0.747, 0.44, 0.463, 0.71, 0.551, 0.767, 0.506, 0.348, 0.576, 0.285, 0.892, 0.59, 0.871], 'energy': [0.379, 0.0676, 0.778, 0.415, 0.734, 0.248, 0.646, 0.746, 0.17, 0.94, 0.466, 0.384, 0.372, 0.702], 'image': [u'https://i.scdn.co/image/ab67616d0000b273fe9008022f3f54d81dcc8030', u'https://i.scdn.co/image/ab67616d0000b2738d3099da3437c4b3f43e6239', u'https://i.scdn.co/image/ab67616d0000b2738189f85d992cc4f7563ee68f', u'https://i.scdn.co/image/ab67616d0000b273c7cf0f512f11047dc5dc5b50', u'https://i.scdn.co/image/ab67616d0000b273c4d5de8930bbc762a68c0bc7', u'https://i.scdn.co/image/ab67616d0000b2734dfbe36486a0e8655b119660', u'https://i.scdn.co/image/ab67616d0000b273541e78f99d65fd16899447c7', u'https://i.scdn.co/image/ab67616d0000b273b75a4f76e55bc057408b7c52', u'https://i.scdn.co/image/ab67616d0000b2738935646998a8d28d13bc348d', u'https://i.scdn.co/image/ab67616d0000b273b47d309281c66820b7137f5d', u'https://i.scdn.co/image/ab67616d0000b273bd7997f86b6bc760d7833c58', u'https://i.scdn.co/image/ab67616d0000b2739b84fb41222f14328b9bc8ab', u'https://i.scdn.co/image/ab67616d0000b273cafe9404f872e4c0e91a8cc8', u'https://i.scdn.co/image/ab67616d0000b273e525a12c694913dd033d9f6f'], 'album_name': [u'DROPPED OUTTA COLLEGE', u'Get With U', u"It's the Big Joyous Celebration, Let's Stir the Honeypot", u'Try Again', u'Come To Daddy', u'Carrie & Lowell', u'Are You Feeling Sad?', u'Kerosene!', u'Chewing Cotton Wool', u'Little Dark Age', u'LazyEaterBetsOnHerLikeness', u'Everywhereigo', u'Doolittle', u'6locc 6a6y'], 'song_name': [u'DROPPED OUTTA COLLEGE', u'Get With U', u'Wild Thing Runs Free', u'AllPraise', u'Flim', u'Carrie & Lowell', u'Are You Feeling Sad?', u'Kerosene!', u'Chewing Cotton Wool', u'One Thing Left to Try', u'LazyEaterBetsOnHerLikeness', u'Everywhereigo', u'Hey', u'6locc 6a6y'], 'artist_name': [u'24kGoldn', u'Clairo', u'Teen Suicide', u'Ovrkast.', u'Aphex Twin', u'Sufjan Stevens', u'Little Dragon', u'Yves Tumor', u'The Japanese House', u'MGMT', u'Liv.e', u'Babyxsosa', u'Pixies', u'Lil Loaded'], 'track_id': [u'2aV5ZEAvHwvL332EsJ1gWc', u'4JHCLFKkuvNMb67DYuAjUU', u'1ntvSMT0qlkiOy1rP0uUOK', u'4IrclpFMuv9ajQzia65iIl', u'4q650OiSDQIwccxDFpuuBm', u'5puPIY11QYhuuQJ9T7vND0', u'6iTHsvN6Mi2xaQ0igLNvTD', u'52vVxJeUJUPMkETpTfhHO5', u'3XxI16XYIjNhbvMFSN6Mlg', u'52pWggDlN5mVeX111i06PP', u'4cWONOSH4hgsMtRXgXFZ2u', u'3DICBZOMaEWbCxwUfPGcE5', u'0p5eZCY0R7uNCZS1YDtIYI', u'3WCXvxgQ7U3mznWsQjiEMu']}
+                                                image  ...  energy
+13  https://i.scdn.co/image/ab67616d0000b273e525a1...  ...   0.702
+12  https://i.scdn.co/image/ab67616d0000b273cafe94...  ...   0.372
+11  https://i.scdn.co/image/ab67616d0000b2739b84fb...  ...   0.384
+10  https://i.scdn.co/image/ab67616d0000b273bd7997...  ...   0.466
+9   https://i.scdn.co/image/ab67616d0000b273b47d30...  ...    0.94
+8   https://i.scdn.co/image/ab67616d0000b273893564...  ...    0.17
+7   https://i.scdn.co/image/ab67616d0000b273b75a4f...  ...   0.746
+6   https://i.scdn.co/image/ab67616d0000b273541e78...  ...   0.646
+5   https://i.scdn.co/image/ab67616d0000b2734dfbe3...  ...   0.248
+4   https://i.scdn.co/image/ab67616d0000b273c4d5de...  ...   0.734
+3   https://i.scdn.co/image/ab67616d0000b273c7cf0f...  ...   0.415
+2   https://i.scdn.co/image/ab67616d0000b2738189f8...  ...   0.778
+1   https://i.scdn.co/image/ab67616d0000b2738d3099...  ...  0.0676
+0   https://i.scdn.co/image/ab67616d0000b273fe900
