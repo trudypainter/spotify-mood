@@ -81137,3 +81137,80 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master ee907b0a] updating daily data 2021-05-06 07:00:03.365265
+ 3 files changed, 16 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2021-05-06.csv
+2021-05-06 07:00:02.767551
+Auth happening...
+Getting songs
+Creating dataframe...
+Throw Sum Mo
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-05-06 12:00:03.752960
+Auth happening...
+Getting songs
+Creating dataframe...
+Hit Me Where It Hurts (feat. Chino Moreno) - Toro y Moi Remix
+Mother Nature's Bitch
+Asexual Wellbeing
+Unlock it (Lock It) - feat. Kim Petras and Jay Park
+Slap Pie
+Let Me Know (I Wonder Why Freestyle)
+I Met Tay Keith First (feat. Lil Baby & Moneybagg Yo)
+Compensating (feat. Young Thug)
+Babushka Boi
+GOT THESE SONGS
+{'played_at': ['11:30', '11:27', '11:25', '11:22', '11:18', '11:11', '11:08', '11:03'], 'valence': [0.0692, 0.683, 0.262, 0.5, 0.952, 0.383, 0.618, 0.495], 'mood_avg': [0.383, 0.676, 0.38, 0.544, 0.799, 0.515, 0.646, 0.668], 'danceability': [0.57, 0.714, 0.417, 0.504, 0.781, 0.635, 0.709, 0.868], 'energy': [0.637, 0.588, 0.541, 0.711, 0.529, 0.537, 0.577, 0.616], 'image': [u'https://i.scdn.co/image/ab67616d0000b273dd8e1bb04d7ccd8fe3704dde', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b273c61a793955ac590e672eafe8', u'https://i.scdn.co/image/ab67616d0000b273412e18ab5452ac84eafe5c9d', u'https://i.scdn.co/image/ab67616d0000b273401ea2c7ac7ef87bd32c990f', u'https://i.scdn.co/image/ab67616d0000b27378c0a3cc84700a979a92bfef', u'https://i.scdn.co/image/ab67616d0000b273ea9bbdf9f1433e68c7dffbad'], 'album_name': [u'Hit Me Where It Hurts (Toro y Moi Remix)', u'Watch This Liquid Pour Itself', u'Watch This Liquid Pour Itself', u'Pop 2', u'Oncle Jazz', u'Let Me Know (I Wonder Why Freestyle)', u'F*ck Everybody 3', u'Limbo'], 'song_name': [u'Hit Me Where It Hurts (feat. Chino Moreno) - Toro y Moi Remix', u"Mother Nature's Bitch", u'Asexual Wellbeing', u'Unlock it (Lock It) - feat. Kim Petras and Jay Park', u'Slap Pie', u'Let Me Know (I Wonder Why Freestyle)', u'I Met Tay Keith First (feat. Lil Baby & Moneybagg Yo)', u'Compensating (feat. Young Thug)'], 'artist_name': [u'Caroline Polachek', u'Okay Kaya', u'Okay Kaya', u'Charli XCX', u'Men I Trust', u'Juice WRLD', u'Blac Youngsta', u'Amin\xe9'], 'track_id': [u'1uBC1U3los3X6UI8X9e3hj', u'3TsNXF2EbIUS6zlfm5Ju3M', u'5Hl1HecGM9yame1jI29Z2L', u'3qGHAKgjQruzj6doKkyEb5', u'1TFOhZp3KF4zSLwMNmx4wO', u'3wwo0bJvDSorOpNfzEkfXx', u'1Fo3FHnFYJ2wT0aKtp4n57', u'61KoN6PlBhQD7sivCcf0hA']}
+                                               image  ... energy
+7  https://i.scdn.co/image/ab67616d0000b273ea9bbd...  ...  0.616
+6  https://i.scdn.co/image/ab67616d0000b27378c0a3...  ...  0.577
+5  https://i.scdn.co/image/ab67616d0000b273401ea2...  ...  0.537
+4  https://i.scdn.co/image/ab67616d0000b273412e18...  ...  0.529
+3  https://i.scdn.co/image/ab67616d0000b273c61a79...  ...  0.711
+2  https://i.scdn.co/image/ab67616d0000b2733d3652...  ...  0.541
+1  https://i.scdn.co/image/ab67616d0000b2733d3652...  ...  0.588
+0  https://i.scdn.co/image/ab67616d0000b273dd8e1b...  ...  0.637
+
+[8 rows x 10 columns]
+2021-05-06 13:00:03.733580
+Auth happening...
+Getting songs
+Creating dataframe...
+Need Your Love
+Blame It on Your Love (feat. Lizzo)
+Something In The Way
+I WAS JUST IN THE MARA
+Hallelu Ya Hallelu Me
+So.Incredible.pkg
+Zero Interaction Ramen Bar
+Sore Throat
+Flip Flop
+Dough
+Stupid Love
+Flyest Highest Coolest Smoothest
+Lottery (Renegade)
+Everybody
+Hit Me Where It Hurts (feat. Chino Moreno) - Toro y Moi Remix
+GOT THESE SONGS
+{'played_at': ['12:59', '12:59', '12:56', '12:52', '12:49', '12:46', '12:43', '12:41', '12:39', '12:37', '12:24', '12:21', '12:18', '12:16'], 'valence': [0.946, 0.598, 0.0668, 0.66, 0.199, 0.787, 0.294, 0.168, 0.529, 0.32, 0.784, 0.378, 0.67, 0.112], 'mood_avg': [0.66, 0.677, 0.238, 0.728, 0.264, 0.725, 0.286, 0.292, 0.623, 0.571, 0.751, 0.65, 0.745, 0.515], 'danceability': [0.374, 0.717, 0.427, 0.692, 0.319, 0.599, 0.336, 0.48, 0.753, 0.876, 0.68, 0.94, 0.915, 0.875], 'energy': [0.661, 0.755, 0.201, 0.934, 0.282, 0.851, 0.168, 0.165, 0.55, 0.463, 0.825, 0.616, 0.556, 0.599], 'image': [u'https://i.scdn.co/image/ab67616d0000b273638788c6653daca3b047dd60', u'https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c', u'https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf', u'https://i.scdn.co/image/ab67616d0000b273d85e57385ffe2f5e2dbd6b3f', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b273922a12ba0b5a66f034dc9959', u'https://i.scdn.co/image/ab67616d0000b2733d3652c36b8d72f24c2231d7', u'https://i.scdn.co/image/ab67616d0000b273c0231c62e698b4aa78695020', u'https://i.scdn.co/image/ab67616d0000b273aa75bdfbfeff9c01d37f0fb6', u'https://i.scdn.co/image/ab67616d0000b27377d6678d66fd48ecfed2cfe8', u'https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a', u'https://i.scdn.co/image/ab67616d0000b27377d6678d66fd48ecfed2cfe8', u'https://i.scdn.co/image/ab67616d0000b273de7c8cf6e1979da0df4323bb', u'https://i.scdn.co/image/ab67616d0000b27326b7dd89810cc1a40ada642c'], 'album_name': [u'Swimmer', u'Charli', u'Nevermind (Remastered)', u'FULL CIRCLE', u'Watch This Liquid Pour Itself', u'UNLOCKED', u'Watch This Liquid Pour Itself', u'Cardboard City', u'Planet Swajjur', u'Yellow Tape', u'Chromatica', u'Yellow Tape', u'Wayy 2 Kritical', u'Circles'], 'song_name': [u'Need Your Love', u'Blame It on Your Love (feat. Lizzo)', u'Something In The Way', u'I WAS JUST IN THE MARA', u'Hallelu Ya Hallelu Me', u'So.Incredible.pkg', u'Zero Interaction Ramen Bar', u'Sore Throat', u'Flip Flop', u'Dough', u'Stupid Love', u'Flyest Highest Coolest Smoothest', u'Lottery (Renegade)', u'Everybody'], 'artist_name': [u'Tennis', u'Charli XCX', u'Nirvana', u'Medhane', u'Okay Kaya', u'Denzel Curry', u'Okay Kaya', u'Zack Villere', u'10k.Caash', u'Key Glock', u'Lady Gaga', u'Key Glock', u'K CAMP', u'Mac Miller'], 'track_id': [u'7sMn5JJ7rzgl9MmgucEXsZ', u'2RCUr24WkEe2r5Vv4oDKlN', u'1nFtiJxYdhtFfFtfXBv06s', u'20HbrZz4W7ILlMToIE83x4', u'3J71WHeltpl32eh26tSl2B', u'10qp2g1jvHn79HiDUsaAb1', u'2rp5PZpFq0kAI7JEt1f8yf', u'28klpa8QdmdIFRA07yAFpg', u'6Nfq9LpVWCt2P6Y6msJ0XQ', u'2rw5cbtHTyzy8iruujD28d', u'7yBbV2k2S2uhaQc24NF2xt', u'3Rs4dQ3VkW1vSQrh4JXRD5', u'4dZTZbmJBCCofAExHwefda', u'1OuN92HcVG6NVpWbeESNB3']}
+                                                image  ... energy
+13  https://i.scdn.co/image/ab67616d0000b27326b7dd...  ...  0.599
+12  https://i.scdn.co/image/ab67616d0000b273de7c8c...  ...  0.556
+11  https://i.scdn.co/image/ab67616d0000b27377d667...  ...  0.616
+10  https://i.scdn.co/image/ab67616d0000b2736040ef...  ...  0.825
+9   https://i.scdn.co/image/ab67616d0000b27377d667...  ...  0.463
+8   https://i.scdn.co/image/ab67616d0000b273aa75bd...  ...   0.55
+7   https://i.scdn.co/image/ab67616d0000b273c0231c...  ...  0.165
+6   https://i.scdn.co/image/ab67616d0000b2733d3652...  ...  0.168
+5   https://i.scdn.co/image/ab67616d0000b273922a12...  ...  0.851
+4   https://i.scdn.co/image/ab67616d0000b2733d3652...  ...  0.282
+3   https://i.scdn.co/image/ab67616d0000b273d85e57...  ...  0.934
+2   https://i.scdn.co/image/ab67616d0000b273e175a1...  ...  0.201
+1   https://i.scdn.co/image/ab67616d0
