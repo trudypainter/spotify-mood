@@ -81318,3 +81318,18 @@ GOT THESE SONGS
 ('Rows: ', 10)
 Saved!
 
+[master 84341007] updating daily data 2021-05-06 18:00:03.972034
+ 2 files changed, 36 insertions(+), 1 deletion(-)
+2021-05-06 18:00:03.268208
+Auth happening...
+Getting songs
+Creating dataframe...
+MONTERO (Call Me By Your Name)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
