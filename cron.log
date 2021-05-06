@@ -81089,3 +81089,36 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master e8333a70] updating daily data 2021-05-05 19:00:04.792896
+ 3 files changed, 25 insertions(+), 1 deletion(-)
+2021-05-05 19:00:03.766997
+Auth happening...
+Getting songs
+Creating dataframe...
+I Like Girls (feat. Lil Skies)
+Me or Us
+Dark Queen
+Sweepstakes (feat. Mos Def and Hypnotic Brass Ensemble)
+Cloud of Unknowing (feat. Bobby Womack and Sinfonia ViVA)
+Some Kind of Nature (feat. Lou Reed)
+To Binge (feat. Little Dragon)
+Superfast Jellyfish (feat. Gruff Rhys and De La Soul)
+Strawberry Peels (feat. Young Thug & Gunna)
+One Thing Left to Try
+GOT THESE SONGS
+{'played_at': ['18:43', '18:40', '18:37', '18:31', '18:27', '18:24', '18:21', '18:17', '18:14'], 'valence': [0.784, 0.419, 0.2, 0.565, 0.064, 0.942, 0.957, 0.819, 0.658], 'mood_avg': [0.749, 0.491, 0.5, 0.676, 0.182, 0.834, 0.715, 0.76, 0.738], 'danceability': [0.702, 0.682, 0.747, 0.724, 0.261, 0.769, 0.576, 0.705, 0.862], 'energy': [0.775, 0.251, 0.606, 0.803, 0.259, 0.75, 0.511, 0.751, 0.65], 'image': [u'https://i.scdn.co/image/ab67616d0000b273aaed5e3d5768ee00f07003bf', u'https://i.scdn.co/image/ab67616d0000b273419cedff7b313b962a93932e', u'https://i.scdn.co/image/ab67616d0000b27341b41e6f7924e530a9b00f9c', u'https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985', u'https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985', u'https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985', u'https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985', u'https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985', u'https://i.scdn.co/image/ab67616d0000b273dea510881ec1e506485303e4'], 'album_name': [u'TrapStar Turnt PopStar', u'Beautiful Thugger Girls', u'Luv Is Rage 2', u'Plastic Beach', u'Plastic Beach', u'Plastic Beach', u'Plastic Beach', u'Plastic Beach', u'Eternal Atake (Deluxe) - LUV vs. The World 2'], 'song_name': [u'I Like Girls (feat. Lil Skies)', u'Me or Us', u'Dark Queen', u'Sweepstakes (feat. Mos Def and Hypnotic Brass Ensemble)', u'Cloud of Unknowing (feat. Bobby Womack and Sinfonia ViVA)', u'Some Kind of Nature (feat. Lou Reed)', u'To Binge (feat. Little Dragon)', u'Superfast Jellyfish (feat. Gruff Rhys and De La Soul)', u'Strawberry Peels (feat. Young Thug & Gunna)'], 'artist_name': [u'PnB Rock', u'Young Thug', u'Lil Uzi Vert', u'Gorillaz', u'Gorillaz', u'Gorillaz', u'Gorillaz', u'Gorillaz', u'Lil Uzi Vert'], 'track_id': [u'7cWh3ScxjhvasLI0CBRoZk', u'0JaN65P0DapRjboDEv2g08', u'2ZdCrBA52bb4pIG3tOOZiQ', u'5SM5amC17V4itA5jxIICjS', u'0NDOVMOT6ah2k6HuXLrq5x', u'4M88Wd7Aps5LGRWMOC7gSH', u'1dvOwoHwZB9SwvRw2Gv3nz', u'1UJNbgfTzG1gZZTWFJdMf1', u'4lAQfuREAHG8IC0PiiigBt']}
+                                               image  ... energy
+8  https://i.scdn.co/image/ab67616d0000b273dea510...  ...   0.65
+7  https://i.scdn.co/image/ab67616d0000b273661d01...  ...  0.751
+6  https://i.scdn.co/image/ab67616d0000b273661d01...  ...  0.511
+5  https://i.scdn.co/image/ab67616d0000b273661d01...  ...   0.75
+4  https://i.scdn.co/image/ab67616d0000b273661d01...  ...  0.259
+3  https://i.scdn.co/image/ab67616d0000b273661d01...  ...  0.803
+2  https://i.scdn.co/image/ab67616d0000b27341b41e...  ...  0.606
+1  https://i.scdn.co/image/ab67616d0000b273419ced...  ...  0.251
+0  https://i.scdn.co/image/ab67616d0000b273aaed5e...  ...  0.775
+
+[9 rows x 10 columns]
+('Rows: ', 9)
+Saved!
+
