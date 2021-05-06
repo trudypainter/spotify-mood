@@ -81222,3 +81222,26 @@ GOT THESE SONGS
 ('Rows: ', 14)
 Saved!
 
+[master d33d8d08] updating daily data 2021-05-06 14:00:04.626870
+ 3 files changed, 14 insertions(+), 2 deletions(-)
+2021-05-06 14:00:03.728559
+Auth happening...
+Getting songs
+Creating dataframe...
+Plastic Beach (feat. Mick Jones and Paul Simonon)
+Cloud of Unknowing (feat. Bobby Womack and Sinfonia ViVA)
+Empire Ants (feat. Little Dragon)
+Stylo (feat. Mos Def and Bobby Womack)
+Need Your Love
+GOT THESE SONGS
+{'played_at': ['13:44', '13:41', '13:38', '13:33'], 'valence': [0.499, 0.064, 0.294, 0.851], 'mood_avg': [0.593, 0.182, 0.512, 0.765], 'danceability': [0.537, 0.261, 0.601, 0.686], 'energy': [0.893, 0.259, 0.772, 0.751], 'image': [u'https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985', u'https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985', u'https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985', u'https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985'], 'album_name': [u'Plastic Beach', u'Plastic Beach', u'Plastic Beach', u'Plastic Beach'], 'song_name': [u'Plastic Beach (feat. Mick Jones and Paul Simonon)', u'Cloud of Unknowing (feat. Bobby Womack and Sinfonia ViVA)', u'Empire Ants (feat. Little Dragon)', u'Stylo (feat. Mos Def and Bobby Womack)'], 'artist_name': [u'Gorillaz', u'Gorillaz', u'Gorillaz', u'Gorillaz'], 'track_id': [u'2nZ33CKRbgpJQJJQKHuGXb', u'0NDOVMOT6ah2k6HuXLrq5x', u'3a6PN6BRB8PP3ms48s7kU1', u'6LUfuyLgvgqrykiTE6sJHY']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273661d01...  ...  0.751
+2  https://i.scdn.co/image/ab67616d0000b273661d01...  ...  0.772
+1  https://i.scdn.co/image/ab67616d0000b273661d01...  ...  0.259
+0  https://i.scdn.co/image/ab67616d0000b273661d01...  ...  0.893
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
