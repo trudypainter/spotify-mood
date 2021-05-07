@@ -81394,3 +81394,26 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 5c8925d5] updating daily data 2021-05-07 07:00:02.849957
+ 3 files changed, 21 insertions(+), 1 deletion(-)
+2021-05-07 07:00:02.128675
+Auth happening...
+Getting songs
+Creating dataframe...
+Best Part (feat. H.E.R.)
+Roses
+Post to Be (feat. Chris Brown & Jhene Aiko)
+Low Life (feat. The Weeknd)
+Case Closed
+GOT THESE SONGS
+{'played_at': ['06:31', '06:27', '06:23', '06:19'], 'valence': [0.436, 0.343, 0.701, 0.102], 'mood_avg': [0.457, 0.583, 0.709, 0.396], 'danceability': [0.524, 0.713, 0.733, 0.722], 'energy': [0.364, 0.802, 0.676, 0.331], 'image': [u'https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037', u'https://i.scdn.co/image/ab67616d0000b2738d2cfad007b9431f48aef135', u'https://i.scdn.co/image/ab67616d0000b2731fee82228aa487380e1ee1dc', u'https://i.scdn.co/image/ab67616d0000b273626745b3aa04899001a924ad'], 'album_name': [u'Freudian', u'Roses', u'Sex Playlist', u'EVOL'], 'song_name': [u'Best Part (feat. H.E.R.)', u'Roses', u'Post to Be (feat. Chris Brown & Jhene Aiko)', u'Low Life (feat. The Weeknd)'], 'artist_name': [u'Daniel Caesar', u'The Chainsmokers', u'Omarion', u'Future'], 'track_id': [u'1RMJOxR6GRPsBHL8qeC2ux', u'3vv9phIu6Y1vX3jcqaGz5Z', u'0fgZUSa7D7aVvv3GfO0A1n', u'7EiZI6JVHllARrX9PUvAdX']}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273626745...  ...  0.331
+2  https://i.scdn.co/image/ab67616d0000b2731fee82...  ...  0.676
+1  https://i.scdn.co/image/ab67616d0000b2738d2cfa...  ...  0.802
+0  https://i.scdn.co/image/ab67616d0000b2733138f8...  ...  0.364
+
+[4 rows x 10 columns]
+('Rows: ', 4)
+Saved!
+
