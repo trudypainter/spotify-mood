@@ -81333,3 +81333,18 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master efcce91d] updating daily data 2021-05-06 19:00:04.047429
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-05-06 19:00:03.569617
+Auth happening...
+Getting songs
+Creating dataframe...
+MONTERO (Call Me By Your Name)
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
