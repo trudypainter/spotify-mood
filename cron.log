@@ -81484,3 +81484,27 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 8d229420] updating daily data 2021-05-08 11:00:02.485106
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+2021-05-08 11:00:01.838586
+Auth happening...
+Getting songs
+Creating dataframe...
+STAR
+GOT THESE SONGS
+{'played_at': [], 'valence': [], 'mood_avg': [], 'danceability': [], 'energy': [], 'image': [], 'album_name': [], 'song_name': [], 'artist_name': [], 'track_id': []}
+Empty DataFrame
+Columns: [image, song_name, album_name, artist_name, track_id, played_at, valence, mood_avg, danceability, energy]
+Index: []
+('Rows: ', 0)
+Saved!
+
+2021-05-08 12:00:02.350823
+Auth happening...
+Getting songs
+Creating dataframe...
+Sober
+Ur So Gay
+This Could Be Us
+So Much Time - So Little Time
+Coolin and Booted
