@@ -81508,3 +81508,20 @@ Ur So Gay
 This Could Be Us
 So Much Time - So Little Time
 Coolin and Booted
+[master 0559d5e9] updating daily data 2021-05-08 13:00:04.187008
+ 3 files changed, 26 insertions(+), 1 deletion(-)
+2021-05-08 13:00:03.195203
+Auth happening...
+Getting songs
+Creating dataframe...
+Sooner or Later
+Sober
+GOT THESE SONGS
+{'played_at': ['12:02'], 'valence': [0.48], 'mood_avg': [0.501], 'danceability': [0.422], 'energy': [0.701], 'image': [u'https://i.scdn.co/image/ab67616d0000b2732bcca9fe8ad40625bcd1fbf3'], 'album_name': [u'Seeing Sounds'], 'song_name': [u'Sooner or Later'], 'artist_name': [u'N.E.R.D'], 'track_id': [u'4JMYfwYULOoWTaIW3CTvvT']}
+                                               image  ... energy
+0  https://i.scdn.co/image/ab67616d0000b2732bcca9...  ...  0.701
+
+[1 rows x 10 columns]
+('Rows: ', 1)
+Saved!
+
