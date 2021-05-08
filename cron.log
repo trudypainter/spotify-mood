@@ -81554,3 +81554,42 @@ GOT THESE SONGS
 ('Rows: ', 7)
 Saved!
 
+[master ca401367] updating daily data 2021-05-08 15:00:04.948256
+ 3 files changed, 42 insertions(+), 1 deletion(-)
+2021-05-08 15:00:03.823383
+Auth happening...
+Getting songs
+Creating dataframe...
+Time Alone With You (feat. Daniel Caesar)
+In My Bones (feat. Kimbra & Tank and The Bangas)
+To Sleep
+Sleeping On My Dreams
+We Will Always Love You
+Location
+Multi-Love
+Ribs
+Bad Company (feat. BlocBoy JB)
+Deep Down Body Thurst
+Ryd
+Golden Hour
+Neon Guts (feat. Pharrell Williams)
+GOT THESE SONGS
+{'played_at': ['14:58', '14:53', '14:49', '14:46', '14:27', '14:24', '14:21', '14:17', '14:13', '14:09', '14:05', '14:03'], 'valence': [0.586, 0.767, 0.0551, 0.582, 0.176, 0.371, 0.545, 0.0399, 0.343, 0.25, 0.979, 0.413], 'mood_avg': [0.547, 0.83, 0.214, 0.645, 0.41, 0.593, 0.633, 0.315, 0.603, 0.469, 0.893, 0.521], 'danceability': [0.567, 0.897, 0.299, 0.769, 0.535, 0.717, 0.784, 0.511, 0.901, 0.65, 0.784, 0.611], 'energy': [0.429, 0.823, 0.36, 0.523, 0.626, 0.79, 0.506, 0.472, 0.529, 0.545, 0.94, 0.555], 'image': [u'https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465', u'https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465', u'https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465', u'https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465', u'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', u'https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1', u'https://i.scdn.co/image/ab67616d0000b273ee70875d2ac4c16bdeba0191', u'https://i.scdn.co/image/ab67616d0000b27333a859e36fdc9a27ed86516e', u'https://i.scdn.co/image/ab67616d0000b273f669edbfecf19e5725b7af6c', u'https://i.scdn.co/image/ab67616d0000b273be23f47224937c9b57a004b2', u'https://i.scdn.co/image/ab67616d0000b273a31dd5d96b9df819e331fdcb', u'https://i.scdn.co/image/ab67616d0000b2732e35d25eb7288830d5540484'], 'album_name': [u'Djesse Vol. 3', u'Djesse Vol. 3', u'Djesse Vol. 3', u'Djesse Vol. 3', u'We Will Always Love You', u'Playboi Carti', u'Multi-Love', u'Pure Heroine (Extended)', u'Bad Company (feat. BlocBoy JB)', u'NO ONE EVER REALLY DIES', u"Steve Lacy's Demo", u'Golden Hour'], 'song_name': [u'Time Alone With You (feat. Daniel Caesar)', u'In My Bones (feat. Kimbra & Tank and The Bangas)', u'To Sleep', u'Sleeping On My Dreams', u'We Will Always Love You', u'Location', u'Multi-Love', u'Ribs', u'Bad Company (feat. BlocBoy JB)', u'Deep Down Body Thurst', u'Ryd', u'Golden Hour'], 'artist_name': [u'Jacob Collier', u'Jacob Collier', u'Jacob Collier', u'Jacob Collier', u'The Avalanches', u'Playboi Carti', u'Unknown Mortal Orchestra', u'Lorde', u'A$AP Rocky', u'N.E.R.D', u'Steve Lacy', u'Kacey Musgraves'], 'track_id': [u'1iTiSQWPJNqthOMG8HG6gI', u'06PNiDGtPIMOq9VU2ftVCk', u'2yURdflFgT9fkD4dDp3Z94', u'4mTd21pyWajN252LcouVIm', u'51wxtCuipwjvvT99wsSmCc', u'3yk7PJnryiJ8mAPqsrujzf', u'0PEXp5yk0sx9dJ8JzwvjJb', u'0TEekvXTomKt3hdXDZxxeW', u'3ZYwSDF9knZI0RVlKR4PHC', u'5HBcMAMVgBVUWiLyiK7q4I', u'3I8yVFjvJoOBM9tX4ZpxEL', u'0pMfPzdRiPAoSM9yWF4OcT']}
+                                                image  ... energy
+11  https://i.scdn.co/image/ab67616d0000b2732e35d2...  ...  0.555
+10  https://i.scdn.co/image/ab67616d0000b273a31dd5...  ...   0.94
+9   https://i.scdn.co/image/ab67616d0000b273be23f4...  ...  0.545
+8   https://i.scdn.co/image/ab67616d0000b273f669ed...  ...  0.529
+7   https://i.scdn.co/image/ab67616d0000b27333a859...  ...  0.472
+6   https://i.scdn.co/image/ab67616d0000b273ee7087...  ...  0.506
+5   https://i.scdn.co/image/ab67616d0000b273e31a27...  ...   0.79
+4   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.626
+3   https://i.scdn.co/image/ab67616d0000b27334de22...  ...  0.523
+2   https://i.scdn.co/image/ab67616d0000b27334de22...  ...   0.36
+1   https://i.scdn.co/image/ab67616d0000b27334de22...  ...  0.823
+0   https://i.scdn.co/image/ab67616d0000b27334de22...  ...  0.429
+
+[12 rows x 10 columns]
+('Rows: ', 12)
+Saved!
+
