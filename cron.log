@@ -81447,3 +81447,25 @@ Index: []
 ('Rows: ', 0)
 Saved!
 
+[master 9ec2fb1d] updating daily data 2021-05-08 09:00:07.392863
+ 3 files changed, 19 insertions(+), 1 deletion(-)
+ create mode 100644 daily-data/2021-05-08.csv
+2021-05-08 09:00:05.194923
+Auth happening...
+Getting songs
+Creating dataframe...
+STAR
+Glitter
+YOUTH
+1539 N. Calvert
+GOT THESE SONGS
+{'played_at': ['08:09', '08:06', '08:02'], 'valence': [0.294, 0.371, 0.592], 'mood_avg': [0.506, 0.415, 0.635], 'danceability': [0.776, 0.449, 0.628], 'energy': [0.388, 0.434, 0.737], 'image': [u'https://i.scdn.co/image/ab67616d0000b273a0c4a585a7d73b4943b9bf13', u'https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3', u'https://i.scdn.co/image/ab67616d0000b2731a104e8630a97b573201f655'], 'album_name': [u'SATURATION', u'Flower Boy', u'Blue Neighbourhood (Deluxe)'], 'song_name': [u'STAR', u'Glitter', u'YOUTH'], 'artist_name': [u'BROCKHAMPTON', u'Tyler, The Creator', u'Troye Sivan'], 'track_id': [u'1xfFPJdRjgDAaMcDgbXwyh', u'0qtK3XwbuG153dmwB8iepL', u'1cOyWWUr3oXJIxY0AjJEx9']}
+                                               image  ... energy
+2  https://i.scdn.co/image/ab67616d0000b2731a104e...  ...  0.737
+1  https://i.scdn.co/image/ab67616d0000b2738940ac...  ...  0.434
+0  https://i.scdn.co/image/ab67616d0000b273a0c4a5...  ...  0.388
+
+[3 rows x 10 columns]
+('Rows: ', 3)
+Saved!
+
