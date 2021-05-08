@@ -81525,3 +81525,32 @@ GOT THESE SONGS
 ('Rows: ', 1)
 Saved!
 
+[master 1dd8b9a2] updating daily data 2021-05-08 14:00:04.407758
+ 3 files changed, 25 insertions(+), 1 deletion(-)
+2021-05-08 14:00:03.433674
+Auth happening...
+Getting songs
+Creating dataframe...
+Neon Guts (feat. Pharrell Williams)
+From The D To The A (feat. Lil Yachty)
+Drop The Game
+The Kiss Of Venus (Dominic Fike)
+Summer's End - Spotify Singles
+Something Special
+Something Special
+Sooner or Later
+GOT THESE SONGS
+{'played_at': ['13:59', '13:55', '13:52', '13:49', '13:41', '13:38', '13:30'], 'valence': [0.412, 0.668, 0.438, 0.633, 0.342, 0.654, 0.654], 'mood_avg': [0.621, 0.733, 0.533, 0.614, 0.386, 0.68, 0.68], 'danceability': [0.859, 0.851, 0.559, 0.715, 0.471, 0.739, 0.739], 'energy': [0.563, 0.625, 0.67, 0.374, 0.302, 0.616, 0.616], 'image': [u'https://i.scdn.co/image/ab67616d0000b2730d5a84e4e47399d2726c330c', u'https://i.scdn.co/image/ab67616d0000b273a64fac177809a71bf0a2ffee', u'https://i.scdn.co/image/ab67616d0000b273e22ce077d8cb2d990aced237', u'https://i.scdn.co/image/ab67616d0000b2734eb40ecfe1775ac0bcae0e6b', u'https://i.scdn.co/image/ab67616d0000b273a5b8c651627eb5f17c8c7db0', u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369', u'https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369'], 'album_name': [u'Luv Is Rage 2 (Deluxe)', u'From The D To The A (feat. Lil Yachty)', u'Lockjaw', u'The Kiss Of Venus (Dominic Fike)', u'Spotify Singles', u'Shoot For The Stars Aim For The Moon', u'Shoot For The Stars Aim For The Moon'], 'song_name': [u'Neon Guts (feat. Pharrell Williams)', u'From The D To The A (feat. Lil Yachty)', u'Drop The Game', u'The Kiss Of Venus (Dominic Fike)', u"Summer's End - Spotify Singles", u'Something Special', u'Something Special'], 'artist_name': [u'Lil Uzi Vert', u'Tee Grizzley', u'Flume', u'Paul McCartney', u'Phoebe Bridgers', u'Pop Smoke', u'Pop Smoke'], 'track_id': [u'2BUXjDhEuVLvEzFI6tabOF', u'2NyrXRn4tancYPW6JwtTl2', u'06WnUZymWyJamDivTWqJZA', u'3gCYle76USfbHa7VDTDg5V', u'2lVPHHSn8elKFEf1d6evFG', u'5kkaSMcf4BFlhRRICCKZb6', u'5kkaSMcf4BFlhRRICCKZb6']}
+                                               image  ... energy
+6  https://i.scdn.co/image/ab67616d0000b27377ada0...  ...  0.616
+5  https://i.scdn.co/image/ab67616d0000b27377ada0...  ...  0.616
+4  https://i.scdn.co/image/ab67616d0000b273a5b8c6...  ...  0.302
+3  https://i.scdn.co/image/ab67616d0000b2734eb40e...  ...  0.374
+2  https://i.scdn.co/image/ab67616d0000b273e22ce0...  ...   0.67
+1  https://i.scdn.co/image/ab67616d0000b273a64fac...  ...  0.625
+0  https://i.scdn.co/image/ab67616d0000b2730d5a84...  ...  0.563
+
+[7 rows x 10 columns]
+('Rows: ', 7)
+Saved!
+
