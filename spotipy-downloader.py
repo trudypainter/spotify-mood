@@ -99,11 +99,11 @@ song_dict = {'image':[],
 
 for song in recent_songs["items"]:
     print(song["track"]["name"])
-    print(song.get("played_at"))
     
     #break out of loop if the song was not played in the last hour
     try:
         time_played = datetime.strptime(song["played_at"],"%Y-%m-%dT%H:%M:%S.%fZ")
+        print("got time...")
     except:
         pass        
     time_elapsed = time_played - datetime.now()
@@ -112,7 +112,7 @@ for song in recent_songs["items"]:
     #to account for daylight savings time - need to change
     daylight_savings = 0
     if time_elapsed < timedelta(hours=3 + daylight_savings, minutes=1):
-        break
+        pass
     
     #spotify has weird hours/time zone going on
     #and i need to make it pretty for the table
