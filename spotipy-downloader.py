@@ -99,6 +99,7 @@ song_dict = {'image':[],
 
 for song in recent_songs["items"]:
     print(song["track"]["name"])
+    print(song.items())
     
     #break out of loop if the song was not played in the last hour
     try:
