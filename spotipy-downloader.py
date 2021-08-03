@@ -120,10 +120,10 @@ for song in recent_songs["items"]:
     time_elapsed = time_played - datetime.now()
 
     #to account for daylight savings time - need to change
+    daylight_savings = 0
     if is_dst():
-        daylight_savings = 1
-    else:
-        daylight_savings = 0
+        daylight_savings = -1
+    
     
     if time_elapsed < timedelta(hours=3 + daylight_savings, minutes=1):
         print("time elapsed incorrect!")
