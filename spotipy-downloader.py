@@ -20,16 +20,16 @@ from sh import git, cd
 def push_to_github():
     #push to github
 
-    os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood add .")
-    os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood commit -m 'updating daily data "+ str(datetime.now())+ "'")
-    os.system("git -C /Users/tpainter/Desktop/personal-projects/spotify-mood push")
+    os.system("git -C ~/Desktop/Github/spotify-mood add .")
+    os.system("git -C ~/Desktop/Github/spotify-mood commit -m 'updating daily data "+ str(datetime.now())+ "'")
+    os.system("git -C ~/Desktop/Github/spotify-mood push")
 
     # rw_dir = '/Users/tpainter/Desktop/personal-projects/spotify-mood'
     # repo = Repo(rw_dir)
     # origin = repo.remote(name='origin')
     # origin.push()
 
-    dir_name = '/Users/tpainter/Desktop/personal-projects/spotify-mood/.git'
+    dir_name = '~/Desktop/Github/spotify-mood/.git'
     # cd(dir_name)
     # git("add")
     # git("commit -m 'adding daily data'")
@@ -157,7 +157,7 @@ cols = df.columns.to_list()
 df = df[['image',  'song_name', 'album_name', 'artist_name', 'track_id', 'played_at', 'valence', 'mood_avg', 'danceability', 'energy']]
 print(df)
 
-filename = "~/Desktop/personal-projects/spotify-mood/daily-data/" + datetime.now().strftime('%Y-%m-%d/')[:10] + ".csv"
+filename = "~/Desktop/Github/spotify-mood/daily-data/" + datetime.now().strftime('%Y-%m-%d/')[:10] + ".csv"
 
 # add the dataframe to a csv
 try:
