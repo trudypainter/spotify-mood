@@ -1,0 +1,47 @@
+[master c38fcf9b] updating daily data 2021-08-03 14:23:43.846387
+ 1 file changed, 10 insertions(+)
+2021-08-03 14:23:43.064418
+Auth happening...
+Getting songs
+Creating dataframe...
+Strandbar
+got time...
+Flyby Vfr
+got time...
+Ecifircas
+got time...
+Angel
+got time...
+Icon Killer
+got time...
+Mystic Bounce
+got time...
+Element
+got time...
+10%
+got time...
+Get Right Witcha
+got time...
+To Zion (feat. Carlos Santana)
+got time...
+Old Peel
+got time...
+time elapsed incorrect!
+GOT THESE SONGS
+{'image': ['https://i.scdn.co/image/ab67616d0000b273e92e2ccb32e1b3e58766bd93', 'https://i.scdn.co/image/ab67616d0000b273b5658daa8f91e2c40d00581b', 'https://i.scdn.co/image/ab67616d0000b273647e8069c98c7b23b6c80648', 'https://i.scdn.co/image/ab67616d0000b27356219eaddf4dbe5f4a39c364', 'https://i.scdn.co/image/ab67616d0000b27313a441e9c0375d2d891b4ba4', 'https://i.scdn.co/image/ab67616d0000b2735b5fd439a9153812a169877e', 'https://i.scdn.co/image/ab67616d0000b27362a57823eced1cb4fd93b2c1', 'https://i.scdn.co/image/ab67616d0000b2739b6375bad39943011986c247', 'https://i.scdn.co/image/ab67616d0000b27399a8ab6da9d593939302828a', 'https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9'], 'song_name': ['Strandbar', 'Flyby Vfr', 'Ecifircas', 'Angel', 'Icon Killer', 'Mystic Bounce', 'Element', '10%', 'Get Right Witcha', 'To Zion (feat. Carlos Santana)'], 'album_name': ["It's Album Time", 'Compro', 'Draining Love Story', 'Angel', 'Icon Killer', 'Shades Of Blue: Madlib Invades Blue Note', 'Meet The Woo 2', 'BUBBA', 'Culture', 'The Miseducation of Lauryn Hill'], 'artist_name': ['Todd Terje', 'Skee Mask', 'Sewerslvt', 'Metaroom', 'Metaroom', 'Madlib', 'Pop Smoke', 'KAYTRANADA', 'Migos', 'Ms. Lauryn Hill'], 'track_id': ['6reLfBSO38qmFgHgz6kAs0', '4G3G1y9JmUsv4we3v7YapO', '0ROexSyivb8X5LLLzsTFuB', '7GdAzd0WQypZOd7pcwUhxf', '1X4PTm5rnTNmLqdqyt7dD7', '6e6lDhigjHGm6zQM3C1ezN', '57BGVV6wcyhbn3hsjlqEZB', '41SwdQIX8Hy2u6fuEDgvWr', '76Y0gxtTxN0FyDCYh5qYQj', '7x6hO9VMAee9x1iWaeNkL6'], 'played_at': ['14:14', '14:09', '14:04', '13:58', '13:56', '13:53', '13:49', '13:47', '13:44', '13:39'], 'valence': [0.685, 0.214, 0.0898, 0.388, 0.579, 0.581, 0.305, 0.615, 0.62, 0.516], 'danceability': [0.742, 0.636, 0.34, 0.432, 0.589, 0.78, 0.772, 0.794, 0.95, 0.41], 'energy': [0.889, 0.878, 0.982, 0.68, 0.914, 0.43, 0.878, 0.757, 0.743, 0.601], 'mood_avg': [0.749, 0.516, 0.368, 0.464, 0.65, 0.63, 0.606, 0.715, 0.777, 0.491]}
+                                               image  ... energy
+9  https://i.scdn.co/image/ab67616d0000b273e08b12...  ...  0.601
+8  https://i.scdn.co/image/ab67616d0000b27399a8ab...  ...  0.743
+7  https://i.scdn.co/image/ab67616d0000b2739b6375...  ...  0.757
+6  https://i.scdn.co/image/ab67616d0000b27362a578...  ...  0.878
+5  https://i.scdn.co/image/ab67616d0000b2735b5fd4...  ...   0.43
+4  https://i.scdn.co/image/ab67616d0000b27313a441...  ...  0.914
+3  https://i.scdn.co/image/ab67616d0000b27356219e...  ...   0.68
+2  https://i.scdn.co/image/ab67616d0000b273647e80...  ...  0.982
+1  https://i.scdn.co/image/ab67616d0000b273b5658d...  ...  0.878
+0  https://i.scdn.co/image/ab67616d0000b273e92e2c...  ...  0.889
+
+[10 rows x 10 columns]
+Rows:  10
+Saved!
+
