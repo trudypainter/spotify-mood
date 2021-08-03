@@ -1,0 +1,33 @@
+[master 6cac7302] updating daily data 2021-08-03 16:08:52.113865
+ 4 files changed, 9 insertions(+), 50 deletions(-)
+ rewrite .cache-trudypaintet (72%)
+ rewrite cron.log (100%)
+2021-08-03 16:08:50.100362
+Auth happening...
+Getting songs
+Creating dataframe...
+You Said (feat. Quavo)
+Break from Toronto
+Ayo
+No Flockin'
+Chosen Family - Acoustic
+Wicked
+Tales of the Future
+time elapsed incorrect!
+GOT THESE SONGS
+{'image': ['https://i.scdn.co/image/ab67616d0000b273419cedff7b313b962a93932e', 'https://i.scdn.co/image/ab67616d0000b2730a4fd8aa50652821b1a2a054', 'https://i.scdn.co/image/ab67616d0000b273770842637a8e7348fc4687a3', 'https://i.scdn.co/image/ab67616d0000b27318f77961dfb9d67895bd9ddb', 'https://i.scdn.co/image/ab67616d0000b273db0a368a7ede184a67a51b95', 'https://i.scdn.co/image/ab67616d0000b273626745b3aa04899001a924ad'], 'song_name': ['You Said (feat. Quavo)', 'Break from Toronto', 'Ayo', "No Flockin'", 'Chosen Family - Acoustic', 'Wicked'], 'album_name': ['Beautiful Thugger Girls', 'PARTYNEXTDOOR', 'Fan of A Fan The Album (Expanded Edition)', "No Flockin'", 'SAWAYAMA (Deluxe Edition)', 'EVOL'], 'artist_name': ['Young Thug', 'PARTYNEXTDOOR', 'Chris Brown', 'Kodak Black', 'Rina Sawayama', 'Future'], 'track_id': ['1gUakci7HwPcImtp0i79N3', '79MSEdtXuudhGhC5AtG07g', '0k6DnZMLoEUH8NGD5zh2SE', '34oWbFBfGEElvgO0a5c9V4', '4XOCgGHUf5E0pMiqpXAQcO', '6BbINUfGabVyiNFJpQXn3x'], 'played_at': ['16:41', '16:34', '16:31', '16:27', '16:24', '16:20'], 'valence': [0.177, 0.259, 0.682, 0.815, 0.429, 0.205], 'danceability': [0.577, 0.596, 0.823, 0.943, 0.51, 0.718], 'energy': [0.557, 0.678, 0.563, 0.595, 0.471, 0.679], 'mood_avg': [0.413, 0.478, 0.715, 0.822, 0.47, 0.505]}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b273626745...  ...  0.679
+4  https://i.scdn.co/image/ab67616d0000b273db0a36...  ...  0.471
+3  https://i.scdn.co/image/ab67616d0000b27318f779...  ...  0.595
+2  https://i.scdn.co/image/ab67616d0000b273770842...  ...  0.563
+1  https://i.scdn.co/image/ab67616d0000b2730a4fd8...  ...  0.678
+0  https://i.scdn.co/image/ab67616d0000b273419ced...  ...  0.557
+
+[6 rows x 10 columns]
+checking /Users/trudypainter/Desktop/GitHub/spotify-mood/daily-data/2021-08-03.csv  for duplicates....
+There were no duplicates!
+
+Rows:  6
+Saved!
+
