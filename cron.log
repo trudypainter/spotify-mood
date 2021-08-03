@@ -31,3 +31,30 @@ There were no duplicates!
 Rows:  6
 Saved!
 
+[master a1a95478] updating daily data 2021-08-03 17:02:38.534190
+ 3 files changed, 37 insertions(+)
+2021-08-03 17:02:37.963006
+Auth happening...
+Getting songs
+Creating dataframe...
+Song For Barbara Payton
+Don't Break The Silence
+Breathing Food
+Power Trip (feat. Miguel)
+You Said (feat. Quavo)
+time elapsed incorrect!
+GOT THESE SONGS
+{'image': ['https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', 'https://i.scdn.co/image/ab67616d0000b27320921767dd81e8f90ef9fc71', 'https://i.scdn.co/image/ab67616d0000b27385c476434306b26394f9a53f', 'https://i.scdn.co/image/ab67616d0000b273c1bb124f993488cf21b269fc'], 'song_name': ['Song For Barbara Payton', "Don't Break The Silence", 'Breathing Food', 'Power Trip (feat. Miguel)'], 'album_name': ['We Will Always Love You', 'Modus Vivendi', 'Clam Day', 'Born Sinner (Deluxe Version)'], 'artist_name': ['The Avalanches', '070 Shake', 'OTTO', 'J. Cole'], 'track_id': ['5ImMXrczU0jwRgEuWBJDqz', '7fTEiF3rNCc8TDagCAXjhd', '6zXnEFlVW6iCT7fv5Unhkc', '2uwnP6tZVVmTovzX5ELooy'], 'played_at': ['17:40', '17:38', '17:37', '17:32'], 'valence': [0.22, 0.0677, 0.669, 0.475], 'danceability': [0.355, 0.15, 0.798, 0.667], 'energy': [0.358, 0.252, 0.898, 0.608], 'mood_avg': [0.302, 0.137, 0.766, 0.578]}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b273c1bb12...  ...  0.608
+2  https://i.scdn.co/image/ab67616d0000b27385c476...  ...  0.898
+1  https://i.scdn.co/image/ab67616d0000b273209217...  ...  0.252
+0  https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...  0.358
+
+[4 rows x 10 columns]
+checking /Users/trudypainter/Desktop/GitHub/spotify-mood/daily-data/2021-08-03.csv  for duplicates....
+There were no duplicates!
+
+Rows:  4
+Saved!
+
