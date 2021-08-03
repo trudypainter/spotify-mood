@@ -12,6 +12,7 @@ from datetime import timedelta
 import pandas as pd
 
 import os
+import csv
 
 from sh import git, cd
 # from git import Repo,remote
@@ -20,9 +21,9 @@ from sh import git, cd
 def push_to_github():
     #push to github
 
-    os.system("git -C ~/Desktop/Github/spotify-mood add .")
-    os.system("git -C ~/Desktop/Github/spotify-mood commit -m 'updating daily data "+ str(datetime.now())+ "'")
-    os.system("git -C ~/Desktop/Github/spotify-mood push")
+    os.system("git -C ~/Desktop/GitHub/spotify-mood add .")
+    os.system("git -C ~/Desktop/GitHub/spotify-mood commit -m 'updating daily data "+ str(datetime.now())+ "'")
+    os.system("git -C ~/Desktop/GitHub/spotify-mood push")
 
     # rw_dir = '/Users/tpainter/Desktop/personal-projects/spotify-mood'
     # repo = Repo(rw_dir)
@@ -103,7 +104,6 @@ for song in recent_songs["items"]:
     #break out of loop if the song was not played in the last hour
     try:
         time_played = datetime.strptime(song["played_at"],"%Y-%m-%dT%H:%M:%S.%fZ")
-        print("got time...")
     except:
         pass        
     time_elapsed = time_played - datetime.now()
@@ -159,7 +159,7 @@ cols = df.columns.to_list()
 df = df[['image',  'song_name', 'album_name', 'artist_name', 'track_id', 'played_at', 'valence', 'mood_avg', 'danceability', 'energy']]
 print(df)
 
-filename = "~/Desktop/Github/spotify-mood/daily-data/" + datetime.now().strftime('%Y-%m-%d/')[:10] + ".csv"
+filename = "/Users/trudypainter/Desktop/GitHub/spotify-mood/daily-data/" + datetime.now().strftime('%Y-%m-%d/')[:10] + ".csv"
 
 # add the dataframe to a csv
 try:
@@ -204,7 +204,7 @@ def remove_duplicates(filename):
         num_removed = line_count-len(unique_songs)     
     print("Completed removal of", num_removed, "duplicates!\n ")
 
-# remove_duplicates(filename)
+remove_duplicates(filename)
 
 print("Rows: ", len(df.index))
 print("Saved!\n")
