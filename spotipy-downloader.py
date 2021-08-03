@@ -112,6 +112,7 @@ for song in recent_songs["items"]:
     #to account for daylight savings time - need to change
     daylight_savings = 0
     if time_elapsed < timedelta(hours=3 + daylight_savings, minutes=1):
+        print("time elapsed incorrect!")
         break
     
     #spotify has weird hours/time zone going on
