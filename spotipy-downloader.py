@@ -8,6 +8,7 @@ from spotipy.oauth2 import SpotifyClientCredentials
 
 from datetime import datetime
 from datetime import timedelta
+import pytz
 
 import pandas as pd
 
@@ -50,6 +51,16 @@ def push_to_github():
     #     print('Some error occured while pushing the code\n')
 
 # ## spotify auth flow
+
+def is_dst ():
+    """Determine whether or not Daylight Savings Time (DST)
+    is currently in effect"""
+
+    x = datetime(datetime.now().year, 1, 1, 0, 0, 0, tzinfo=pytz.timezone('US/Eastern')) # Jan 1 of this year
+    y = datetime.now(pytz.timezone('US/Eastern'))
+
+    # if DST is in effect, their offsets will be different
+    return not (y.utcoffset() == x.utcoffset())
 
 print(datetime.now())
 
@@ -108,16 +119,19 @@ for song in recent_songs["items"]:
         pass        
     time_elapsed = time_played - datetime.now()
 
-    
     #to account for daylight savings time - need to change
-    daylight_savings = 0
+    if is_dst():
+        daylight_savings = 1
+    else:
+        daylight_savings = 0
+    
     if time_elapsed < timedelta(hours=3 + daylight_savings, minutes=1):
         print("time elapsed incorrect!")
         break
     
     #spotify has weird hours/time zone going on
     #and i need to make it pretty for the table
-    adjusted_played_at = time_played - timedelta(hours=4 + daylight_savings)
+    adjusted_played_at = time_played - timedelta(hours=3 + daylight_savings)
     readable_time = adjusted_played_at.strftime("%H") + ":" + adjusted_played_at.strftime("%M")
     
     count+=1
