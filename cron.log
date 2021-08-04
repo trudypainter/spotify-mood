@@ -89,3 +89,32 @@ Completed removal of 4 duplicates!
 Rows:  4
 Saved!
 
+[master 4c0721ff] updating daily data 2021-08-04 08:55:40.487655
+ 3 files changed, 36 insertions(+), 1 deletion(-)
+ rewrite .cache-trudypaintet (72%)
+ create mode 100644 daily-data/2021-08-04.csv
+2021-08-04 08:55:39.845901
+Auth happening...
+Getting songs
+Creating dataframe...
+E. Coli (feat. Earl Sweatshirt)
+Los Angeles
+Trap Mode (feat. Pooh Shiesty)
+Work Some
+Charcoal Baby
+time elapsed incorrect!
+GOT THESE SONGS
+{'image': ['https://i.scdn.co/image/ab67616d0000b273795e7069de7cb188b7c821b4', 'https://i.scdn.co/image/ab67616d0000b273d8ee998e25bee3185346cc81', 'https://i.scdn.co/image/ab67616d0000b2731e50423d8d9dd421211abbc9', 'https://i.scdn.co/image/ab67616d0000b27307385ea7b295b86c3072711c'], 'song_name': ['E. Coli (feat. Earl Sweatshirt)', 'Los Angeles', 'Trap Mode (feat. Pooh Shiesty)', 'Work Some'], 'album_name': ['Bread', 'The Big 3', 'Undeniable (Deluxe)', 'Work Some'], 'artist_name': ['The Alchemist', '3ohBlack', 'Yg Teck', 'No Savage'], 'track_id': ['3GXSywNvYLAVUCtjMHkKDh', '5bHSy67qhVtvkbTIXAmEnV', '1AY3gNeAvJUpWvlXkOW5ZM', '77GRUMiOoO6N7m5z4t5CKz'], 'played_at': ['09:54', '09:49', '09:47', '09:43'], 'valence': [0.397, 0.552, 0.407, 0.492], 'danceability': [0.322, 0.884, 0.678, 0.81], 'energy': [0.555, 0.709, 0.51, 0.549], 'mood_avg': [0.399, 0.716, 0.536, 0.631]}
+                                               image  ... energy
+3  https://i.scdn.co/image/ab67616d0000b27307385e...  ...  0.549
+2  https://i.scdn.co/image/ab67616d0000b2731e5042...  ...   0.51
+1  https://i.scdn.co/image/ab67616d0000b273d8ee99...  ...  0.709
+0  https://i.scdn.co/image/ab67616d0000b273795e70...  ...  0.555
+
+[4 rows x 10 columns]
+checking /Users/trudypainter/Desktop/GitHub/spotify-mood/daily-data/2021-08-04.csv  for duplicates....
+There were no duplicates!
+
+Rows:  4
+Saved!
+
