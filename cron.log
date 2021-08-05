@@ -118,3 +118,39 @@ There were no duplicates!
 Rows:  4
 Saved!
 
+[master 752c3b28] updating daily data 2021-08-04 09:10:14.437034
+ 2 files changed, 32 insertions(+)
+2021-08-04 09:10:13.756608
+Auth happening...
+Getting songs
+Creating dataframe...
+Jackie
+Immaterial
+Avril 14th
+E. Coli (feat. Earl Sweatshirt)
+Los Angeles
+Trap Mode (feat. Pooh Shiesty)
+Work Some
+Charcoal Baby
+time elapsed incorrect!
+GOT THESE SONGS
+{'image': ['https://i.scdn.co/image/ab67616d0000b27321d47e008203774bfca29434', 'https://i.scdn.co/image/ab67616d0000b273fa3158c935aa3c01865f7150', 'https://i.scdn.co/image/ab67616d0000b273a5aef98a1762d0f64bb6ed9a', 'https://i.scdn.co/image/ab67616d0000b273795e7069de7cb188b7c821b4', 'https://i.scdn.co/image/ab67616d0000b273d8ee998e25bee3185346cc81', 'https://i.scdn.co/image/ab67616d0000b2731e50423d8d9dd421211abbc9', 'https://i.scdn.co/image/ab67616d0000b27307385ea7b295b86c3072711c'], 'song_name': ['Jackie', 'Immaterial', 'Avril 14th', 'E. Coli (feat. Earl Sweatshirt)', 'Los Angeles', 'Trap Mode (feat. Pooh Shiesty)', 'Work Some'], 'album_name': ['Jackie', "OIL OF EVERY PEARL'S UN-INSIDES", 'Drukqs', 'Bread', 'The Big 3', 'Undeniable (Deluxe)', 'Work Some'], 'artist_name': ['Yves Tumor', 'SOPHIE', 'Aphex Twin', 'The Alchemist', '3ohBlack', 'Yg Teck', 'No Savage'], 'track_id': ['1tEePg2AqDdRWLgYovr3yE', '6GoLARmR2OZl2EldehFrsA', '2MZSXhq4XDJWu6coGoXX1V', '3GXSywNvYLAVUCtjMHkKDh', '5bHSy67qhVtvkbTIXAmEnV', '1AY3gNeAvJUpWvlXkOW5ZM', '77GRUMiOoO6N7m5z4t5CKz'], 'played_at': ['10:03', '10:00', '09:56', '09:54', '09:49', '09:47', '09:43'], 'valence': [0.614, 0.828, 0.37, 0.397, 0.552, 0.407, 0.492], 'danceability': [0.55, 0.776, 0.558, 0.322, 0.884, 0.678, 0.81], 'energy': [0.893, 0.717, 0.0259, 0.555, 0.709, 0.51, 0.549], 'mood_avg': [0.644, 0.785, 0.376, 0.399, 0.716, 0.536, 0.631]}
+                                               image  ...  energy
+6  https://i.scdn.co/image/ab67616d0000b27307385e...  ...   0.549
+5  https://i.scdn.co/image/ab67616d0000b2731e5042...  ...    0.51
+4  https://i.scdn.co/image/ab67616d0000b273d8ee99...  ...   0.709
+3  https://i.scdn.co/image/ab67616d0000b273795e70...  ...   0.555
+2  https://i.scdn.co/image/ab67616d0000b273a5aef9...  ...  0.0259
+1  https://i.scdn.co/image/ab67616d0000b273fa3158...  ...   0.717
+0  https://i.scdn.co/image/ab67616d0000b27321d47e...  ...   0.893
+
+[7 rows x 10 columns]
+checking /Users/trudypainter/Desktop/GitHub/spotify-mood/daily-data/2021-08-04.csv  for duplicates....
+DUPLICATES FOR  /Users/trudypainter/Desktop/GitHub/spotify-mood/daily-data/2021-08-04.csv
+11
+7
+Completed removal of 4 duplicates!
+ 
+Rows:  7
+Saved!
+
