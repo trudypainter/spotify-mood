@@ -154,3 +154,64 @@ Completed removal of 4 duplicates!
 Rows:  7
 Saved!
 
+[master 18fa5469] updating daily data 2021-08-05 10:01:01.064615
+ 4 files changed, 57 insertions(+), 1 deletion(-)
+ rewrite .cache-trudypaintet (72%)
+ create mode 100644 daily-data/2021-08-05.csv
+2021-08-05 10:00:59.522567
+Auth happening...
+Getting songs
+Creating dataframe...
+Poison (feat. Bakar)
+Agony
+Dazed
+Jackie
+Victim
+Victim
+Wett (Water2)
+Knightsbridge
+Legendary Member
+That Thing You Do
+Special Place
+Famous
+Bliss Fields
+Unlock it (Lock It) - feat. Kim Petras and Jay Park
+Venom
+Finally I Will Know Myself
+On Your Side
+Larabar
+Don't Wanna Be Your Girl
+Door
+Salv Goes To Hollywood
+time elapsed incorrect!
+GOT THESE SONGS
+{'image': ['https://i.scdn.co/image/ab67616d0000b273ec3fc38848ea511571101101', 'https://i.scdn.co/image/ab67616d0000b273fe81407d98ef67144560b96d', 'https://i.scdn.co/image/ab67616d0000b273b7ae522bd79067f8f23a16ec', 'https://i.scdn.co/image/ab67616d0000b27321d47e008203774bfca29434', 'https://i.scdn.co/image/ab67616d0000b27319563ecc58f00c90957132b5', 'https://i.scdn.co/image/ab67616d0000b27319563ecc58f00c90957132b5', 'https://i.scdn.co/image/ab67616d0000b273f664eec223173eebb1673243', 'https://i.scdn.co/image/ab67616d0000b273b6698e821aa02a4e4df00817', 'https://i.scdn.co/image/ab67616d0000b2736c0c81e359043365975c3e82', 'https://i.scdn.co/image/ab67616d0000b273044128ab156930cd23562992', 'https://i.scdn.co/image/ab67616d0000b273407be60b024efcbabe7da815', 'https://i.scdn.co/image/ab67616d0000b273d5e50e506b680a431c1edb77', 'https://i.scdn.co/image/ab67616d0000b273d10fd2514a37d436538a74be', 'https://i.scdn.co/image/ab67616d0000b273c61a793955ac590e672eafe8', 'https://i.scdn.co/image/ab67616d0000b273c9131003f26485c8016e3024', 'https://i.scdn.co/image/ab67616d0000b273b4206c1d219cfcee069113f2', 'https://i.scdn.co/image/ab67616d0000b273dcd41f4cd5f725fbe15e7672', 'https://i.scdn.co/image/ab67616d0000b273ad77b799b86d8737d503f4c7', 'https://i.scdn.co/image/ab67616d0000b2732bd855e2168fa407f14becd6', 'https://i.scdn.co/image/ab67616d0000b2737d983e7bf67c2806218c2759'], 'song_name': ['Poison (feat. Bakar)', 'Agony', 'Dazed', 'Jackie', 'Victim', 'Victim', 'Wett (Water2)', 'Knightsbridge', 'Legendary Member', 'That Thing You Do', 'Special Place', 'Famous', 'Bliss Fields', 'Unlock it (Lock It) - feat. Kim Petras and Jay Park', 'Venom', 'Finally I Will Know Myself', 'On Your Side', 'Larabar', "Don't Wanna Be Your Girl", 'Door'], 'album_name': ['Poison (feat. Bakar)', 'Stranger', 'Dazed', 'Jackie', 'Trash Island', 'Trash Island', 'The Fool', 'Working on Dying', 'Legendary Member', 'Red Light', 'Icedancer', 'Famous', 'E', 'Pop 2', 'Troubled Paradise', 'Woof Woof', 'On Your Side', 'Larabar', 'Wet', 'Pang'], 'artist_name': ['Lancey Foux', 'Yung Lean', 'Matt Ox', 'Yves Tumor', 'Bladee', 'Bladee', 'Bladee', 'Bladee', 'Thaiboy Digital', 'Bladee', 'Bladee', 'Sickboyrari', 'Ecco2k', 'Charli XCX', 'Slayyyter', 'ARTHUR', 'Wet', 'Wet', 'Wet', 'Caroline Polachek'], 'track_id': ['4Yn9dAUqxOzmhl7BWUNvpX', '1Wj9ZhqrnbLal0Iyqk6QH1', '0yvzGLzdyJIJ294lbt5ESc', '1tEePg2AqDdRWLgYovr3yE', '3lecQmgaZ9X5VLApFoHBYf', '3lecQmgaZ9X5VLApFoHBYf', '1XFIN971i9gzmsAow0IDIi', '4r9EVrwyVpbOtyTmcOVUkq', '5u1dcvaMTFU9Vto7L1TrU0', '1YSwfmoIvbtMeWmjBEoFp4', '6yaYV3wo595zZWFwhC8s5T', '5jwkJkXOxEwFslMfyeBBmr', '779Wd2zuFcEDhwgX1Jtwq3', '3qGHAKgjQruzj6doKkyEb5', '2Ay7YxUp7OsXbx7sa5KXLI', '12x0AEoGxNzAsJiA4bACPn', '4QaNcBEEzo8iTetgnZ1PUj', '5wNVNjLNMX0jhefWFOqgT2', '3JBB92odunFru2gOvI91x9', '5YIVVzQcJG7pFhyNo0Ytlh'], 'played_at': ['10:59', '10:56', '10:53', '10:50', '10:48', '10:45', '10:43', '10:41', '10:39', '10:36', '10:29', '10:27', '10:25', '10:23', '10:19', '10:17', '10:15', '10:11', '10:08', '10:05'], 'valence': [0.229, 0.318, 0.403, 0.614, 0.229, 0.229, 0.133, 0.425, 0.784, 0.408, 0.475, 0.207, 0.305, 0.5, 0.66, 0.661, 0.187, 0.152, 0.155, 0.253], 'danceability': [0.679, 0.578, 0.589, 0.55, 0.63, 0.63, 0.54, 0.621, 0.699, 0.611, 0.753, 0.725, 0.572, 0.504, 0.7, 0.621, 0.501, 0.491, 0.62, 0.684], 'energy': [0.615, 0.166, 0.754, 0.893, 0.344, 0.344, 0.755, 0.743, 0.841, 0.683, 0.621, 0.669, 0.073, 0.711, 0.81, 0.706, 0.265, 0.318, 0.193, 0.438], 'mood_avg': [0.486, 0.392, 0.548, 0.644, 0.412, 0.412, 0.42, 0.567, 0.761, 0.544, 0.615, 0.507, 0.365, 0.544, 0.706, 0.654, 0.328, 0.321, 0.349, 0.462]}
+                                                image  ... energy
+19  https://i.scdn.co/image/ab67616d0000b2737d983e...  ...  0.438
+18  https://i.scdn.co/image/ab67616d0000b2732bd855...  ...  0.193
+17  https://i.scdn.co/image/ab67616d0000b273ad77b7...  ...  0.318
+16  https://i.scdn.co/image/ab67616d0000b273dcd41f...  ...  0.265
+15  https://i.scdn.co/image/ab67616d0000b273b4206c...  ...  0.706
+14  https://i.scdn.co/image/ab67616d0000b273c91310...  ...   0.81
+13  https://i.scdn.co/image/ab67616d0000b273c61a79...  ...  0.711
+12  https://i.scdn.co/image/ab67616d0000b273d10fd2...  ...  0.073
+11  https://i.scdn.co/image/ab67616d0000b273d5e50e...  ...  0.669
+10  https://i.scdn.co/image/ab67616d0000b273407be6...  ...  0.621
+9   https://i.scdn.co/image/ab67616d0000b273044128...  ...  0.683
+8   https://i.scdn.co/image/ab67616d0000b2736c0c81...  ...  0.841
+7   https://i.scdn.co/image/ab67616d0000b273b6698e...  ...  0.743
+6   https://i.scdn.co/image/ab67616d0000b273f664ee...  ...  0.755
+5   https://i.scdn.co/image/ab67616d0000b27319563e...  ...  0.344
+4   https://i.scdn.co/image/ab67616d0000b27319563e...  ...  0.344
+3   https://i.scdn.co/image/ab67616d0000b27321d47e...  ...  0.893
+2   https://i.scdn.co/image/ab67616d0000b273b7ae52...  ...  0.754
+1   https://i.scdn.co/image/ab67616d0000b273fe8140...  ...  0.166
+0   https://i.scdn.co/image/ab67616d0000b273ec3fc3...  ...  0.615
+
+[20 rows x 10 columns]
+checking /Users/trudypainter/Desktop/GitHub/spotify-mood/daily-data/2021-08-05.csv  for duplicates....
+There were no duplicates!
+
+Rows:  20
+Saved!
+
