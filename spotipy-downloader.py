@@ -18,20 +18,22 @@ import csv
 from sh import git, cd
 # from git import Repo,remote
 
-
 def push_to_github():
     #push to github
 
-    os.system("git -C ~/Desktop/GitHub/spotify-mood add .")
-    os.system("git -C ~/Desktop/GitHub/spotify-mood commit -m 'updating daily data "+ str(datetime.now())+ "'")
-    os.system("git -C ~/Desktop/GitHub/spotify-mood push")
+    try:
+        os.system("git -C ~/Desktop/GitHub/spotify-mood add .")
+        os.system("git -C ~/Desktop/GitHub/spotify-mood commit -m 'updating daily data "+ str(datetime.now())+ "'")
+        os.system("git -C ~/Desktop/GitHub/spotify-mood push")
+    except Exception as e:
+        print(e)
 
     # rw_dir = '/Users/tpainter/Desktop/personal-projects/spotify-mood'
     # repo = Repo(rw_dir)
     # origin = repo.remote(name='origin')
     # origin.push()
 
-    dir_name = '~/Desktop/Github/spotify-mood/.git'
+    # dir_name = '~/Desktop/GitHub/spotify-mood/.git'
     # cd(dir_name)
     # git("add")
     # git("commit -m 'adding daily data'")
