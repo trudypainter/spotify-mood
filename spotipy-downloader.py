@@ -26,6 +26,7 @@ def push_to_github():
         os.system("git -C ~/Desktop/GitHub/spotify-mood commit -m 'updating daily data "+ str(datetime.now())+ "'")
         os.system("git -C ~/Desktop/GitHub/spotify-mood push")
     except Exception as e:
+        print("FAT FAILURE PUSHING")
         print(e)
 
     # rw_dir = '/Users/tpainter/Desktop/personal-projects/spotify-mood'
