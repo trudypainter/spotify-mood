@@ -1779,3 +1779,410 @@ Traceback (most recent call last):
   File "/Users/trudypainter/Library/Python/3.8/lib/python/site-packages/requests/adapters.py", line 516, in send
     raise ConnectionError(e, request=request)
 requests.exceptions.ConnectionError: HTTPSConnectionPool(host='accounts.spotify.com', port=443): Max retries exceeded with url: /api/token (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1173d6d60>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+warning: CRLF will be replaced by LF in daily-data/2021-08-03.csv.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in daily-data/2021-08-04.csv.
+The file will have its original line endings in your working directory
+warning: CRLF will be replaced by LF in daily-data/2021-08-05.csv.
+The file will have its original line endings in your working directory
+[master c97eebb5] updating daily data 2021-08-09 18:10:05.741638
+ 368 files changed, 1579 insertions(+), 1 deletion(-)
+ mode change 100644 => 100755 .DS_Store
+ rewrite .cache-trudypaintet (72%)
+ mode change 100644 => 100755
+ mode change 100644 => 100755 .gitattributes
+ mode change 100644 => 100755 .ipynb_checkpoints/jupyter-spotify-checkpoint.ipynb
+ create mode 100644 1
+ mode change 100644 => 100755 README.md
+ mode change 100644 => 100755 cron.log
+ mode change 100644 => 100755 daily-data/.DS_Store
+ mode change 100644 => 100755 daily-data/2020-08-13.csv
+ mode change 100644 => 100755 daily-data/2020-08-14.csv
+ mode change 100644 => 100755 daily-data/2020-08-15.csv
+ mode change 100644 => 100755 daily-data/2020-08-16.csv
+ mode change 100644 => 100755 daily-data/2020-08-17.csv
+ mode change 100644 => 100755 daily-data/2020-08-18.csv
+ mode change 100644 => 100755 daily-data/2020-08-19.csv
+ mode change 100644 => 100755 daily-data/2020-08-20.csv
+ mode change 100644 => 100755 daily-data/2020-08-21.csv
+ mode change 100644 => 100755 daily-data/2020-08-22.csv
+ mode change 100644 => 100755 daily-data/2020-08-23.csv
+ mode change 100644 => 100755 daily-data/2020-08-24.csv
+ mode change 100644 => 100755 daily-data/2020-08-25.csv
+ mode change 100644 => 100755 daily-data/2020-08-26.csv
+ mode change 100644 => 100755 daily-data/2020-08-27.csv
+ mode change 100644 => 100755 daily-data/2020-08-28.csv
+ mode change 100644 => 100755 daily-data/2020-08-29.csv
+ mode change 100644 => 100755 daily-data/2020-08-30.csv
+ mode change 100644 => 100755 daily-data/2020-08-31.csv
+ mode change 100644 => 100755 daily-data/2020-09-01.csv
+ mode change 100644 => 100755 daily-data/2020-09-02.csv
+ mode change 100644 => 100755 daily-data/2020-09-03.csv
+ mode change 100644 => 100755 daily-data/2020-09-04.csv
+ mode change 100644 => 100755 daily-data/2020-09-05.csv
+ mode change 100644 => 100755 daily-data/2020-09-06.csv
+ mode change 100644 => 100755 daily-data/2020-09-07.csv
+ mode change 100644 => 100755 daily-data/2020-09-08.csv
+ mode change 100644 => 100755 daily-data/2020-09-09.csv
+ mode change 100644 => 100755 daily-data/2020-09-10.csv
+ mode change 100644 => 100755 daily-data/2020-09-11.csv
+ mode change 100644 => 100755 daily-data/2020-09-12.csv
+ mode change 100644 => 100755 daily-data/2020-09-13.csv
+ mode change 100644 => 100755 daily-data/2020-09-14.csv
+ mode change 100644 => 100755 daily-data/2020-09-15.csv
+ mode change 100644 => 100755 daily-data/2020-09-16.csv
+ mode change 100644 => 100755 daily-data/2020-09-17.csv
+ mode change 100644 => 100755 daily-data/2020-09-18.csv
+ mode change 100644 => 100755 daily-data/2020-09-19.csv
+ mode change 100644 => 100755 daily-data/2020-09-20.csv
+ mode change 100644 => 100755 daily-data/2020-09-21.csv
+ mode change 100644 => 100755 daily-data/2020-09-22.csv
+ mode change 100644 => 100755 daily-data/2020-09-23.csv
+ mode change 100644 => 100755 daily-data/2020-09-24.csv
+ mode change 100644 => 100755 daily-data/2020-09-25.csv
+ mode change 100644 => 100755 daily-data/2020-09-26.csv
+ mode change 100644 => 100755 daily-data/2020-09-27.csv
+ mode change 100644 => 100755 daily-data/2020-09-28.csv
+ mode change 100644 => 100755 daily-data/2020-09-29.csv
+ mode change 100644 => 100755 daily-data/2020-09-30.csv
+ mode change 100644 => 100755 daily-data/2020-10-01.csv
+ mode change 100644 => 100755 daily-data/2020-10-02.csv
+ mode change 100644 => 100755 daily-data/2020-10-03.csv
+ mode change 100644 => 100755 daily-data/2020-10-04.csv
+ mode change 100644 => 100755 daily-data/2020-10-05.csv
+ mode change 100644 => 100755 daily-data/2020-10-06.csv
+ mode change 100644 => 100755 daily-data/2020-10-07.csv
+ mode change 100644 => 100755 daily-data/2020-10-08.csv
+ mode change 100644 => 100755 daily-data/2020-10-09.csv
+ mode change 100644 => 100755 daily-data/2020-10-10.csv
+ mode change 100644 => 100755 daily-data/2020-10-11.csv
+ mode change 100644 => 100755 daily-data/2020-10-12.csv
+ mode change 100644 => 100755 daily-data/2020-10-13.csv
+ mode change 100644 => 100755 daily-data/2020-10-14.csv
+ mode change 100644 => 100755 daily-data/2020-10-15.csv
+ mode change 100644 => 100755 daily-data/2020-10-16.csv
+ mode change 100644 => 100755 daily-data/2020-10-17.csv
+ mode change 100644 => 100755 daily-data/2020-10-18.csv
+ mode change 100644 => 100755 daily-data/2020-10-19.csv
+ mode change 100644 => 100755 daily-data/2020-10-20.csv
+ mode change 100644 => 100755 daily-data/2020-10-21.csv
+ mode change 100644 => 100755 daily-data/2020-10-22.csv
+ mode change 100644 => 100755 daily-data/2020-10-23.csv
+ mode change 100644 => 100755 daily-data/2020-10-24.csv
+ mode change 100644 => 100755 daily-data/2020-10-25.csv
+ mode change 100644 => 100755 daily-data/2020-10-26.csv
+ mode change 100644 => 100755 daily-data/2020-10-27.csv
+ mode change 100644 => 100755 daily-data/2020-10-28.csv
+ mode change 100644 => 100755 daily-data/2020-10-29.csv
+ mode change 100644 => 100755 daily-data/2020-10-30.csv
+ mode change 100644 => 100755 daily-data/2020-10-31.csv
+ mode change 100644 => 100755 daily-data/2020-11-01.csv
+ mode change 100644 => 100755 daily-data/2020-11-02.csv
+ mode change 100644 => 100755 daily-data/2020-11-03.csv
+ mode change 100644 => 100755 daily-data/2020-11-04.csv
+ mode change 100644 => 100755 daily-data/2020-11-05.csv
+ mode change 100644 => 100755 daily-data/2020-11-06.csv
+ mode change 100644 => 100755 daily-data/2020-11-07.csv
+ mode change 100644 => 100755 daily-data/2020-11-08.csv
+ mode change 100644 => 100755 daily-data/2020-11-09.csv
+ mode change 100644 => 100755 daily-data/2020-11-10.csv
+ mode change 100644 => 100755 daily-data/2020-11-11.csv
+ mode change 100644 => 100755 daily-data/2020-11-12.csv
+ mode change 100644 => 100755 daily-data/2020-11-13.csv
+ mode change 100644 => 100755 daily-data/2020-11-14.csv
+ mode change 100644 => 100755 daily-data/2020-11-15.csv
+ mode change 100644 => 100755 daily-data/2020-11-16.csv
+ mode change 100644 => 100755 daily-data/2020-11-17.csv
+ mode change 100644 => 100755 daily-data/2020-11-18.csv
+ mode change 100644 => 100755 daily-data/2020-11-19.csv
+ mode change 100644 => 100755 daily-data/2020-11-20.csv
+ mode change 100644 => 100755 daily-data/2020-11-21.csv
+ mode change 100644 => 100755 daily-data/2020-11-22.csv
+ mode change 100644 => 100755 daily-data/2020-11-23.csv
+ mode change 100644 => 100755 daily-data/2020-11-24.csv
+ mode change 100644 => 100755 daily-data/2020-11-25.csv
+ mode change 100644 => 100755 daily-data/2020-11-26.csv
+ mode change 100644 => 100755 daily-data/2020-11-27.csv
+ mode change 100644 => 100755 daily-data/2020-11-28.csv
+ mode change 100644 => 100755 daily-data/2020-11-29.csv
+ mode change 100644 => 100755 daily-data/2020-11-30.csv
+ mode change 100644 => 100755 daily-data/2020-12-01.csv
+ mode change 100644 => 100755 daily-data/2020-12-02.csv
+ mode change 100644 => 100755 daily-data/2020-12-03.csv
+ mode change 100644 => 100755 daily-data/2020-12-04.csv
+ mode change 100644 => 100755 daily-data/2020-12-05.csv
+ mode change 100644 => 100755 daily-data/2020-12-06.csv
+ mode change 100644 => 100755 daily-data/2020-12-07.csv
+ mode change 100644 => 100755 daily-data/2020-12-08.csv
+ mode change 100644 => 100755 daily-data/2020-12-09.csv
+ mode change 100644 => 100755 daily-data/2020-12-10.csv
+ mode change 100644 => 100755 daily-data/2020-12-11.csv
+ mode change 100644 => 100755 daily-data/2020-12-12.csv
+ mode change 100644 => 100755 daily-data/2020-12-13.csv
+ mode change 100644 => 100755 daily-data/2020-12-14.csv
+ mode change 100644 => 100755 daily-data/2020-12-15.csv
+ mode change 100644 => 100755 daily-data/2020-12-16.csv
+ mode change 100644 => 100755 daily-data/2020-12-17.csv
+ mode change 100644 => 100755 daily-data/2020-12-18.csv
+ mode change 100644 => 100755 daily-data/2020-12-19.csv
+ mode change 100644 => 100755 daily-data/2020-12-20.csv
+ mode change 100644 => 100755 daily-data/2020-12-22.csv
+ mode change 100644 => 100755 daily-data/2020-12-23.csv
+ mode change 100644 => 100755 daily-data/2020-12-24.csv
+ mode change 100644 => 100755 daily-data/2020-12-25.csv
+ mode change 100644 => 100755 daily-data/2020-12-26.csv
+ mode change 100644 => 100755 daily-data/2020-12-27.csv
+ mode change 100644 => 100755 daily-data/2020-12-28.csv
+ mode change 100644 => 100755 daily-data/2020-12-29.csv
+ mode change 100644 => 100755 daily-data/2020-12-30.csv
+ mode change 100644 => 100755 daily-data/2020-12-31.csv
+ mode change 100644 => 100755 daily-data/2021-01-01.csv
+ mode change 100644 => 100755 daily-data/2021-01-02.csv
+ mode change 100644 => 100755 daily-data/2021-01-03.csv
+ mode change 100644 => 100755 daily-data/2021-01-04.csv
+ mode change 100644 => 100755 daily-data/2021-01-05.csv
+ mode change 100644 => 100755 daily-data/2021-01-06.csv
+ mode change 100644 => 100755 daily-data/2021-01-07.csv
+ mode change 100644 => 100755 daily-data/2021-01-08.csv
+ mode change 100644 => 100755 daily-data/2021-01-09.csv
+ mode change 100644 => 100755 daily-data/2021-01-10.csv
+ mode change 100644 => 100755 daily-data/2021-01-11.csv
+ mode change 100644 => 100755 daily-data/2021-01-12.csv
+ mode change 100644 => 100755 daily-data/2021-01-13.csv
+ mode change 100644 => 100755 daily-data/2021-01-14.csv
+ mode change 100644 => 100755 daily-data/2021-01-15.csv
+ mode change 100644 => 100755 daily-data/2021-01-16.csv
+ mode change 100644 => 100755 daily-data/2021-01-17.csv
+ mode change 100644 => 100755 daily-data/2021-01-18.csv
+ mode change 100644 => 100755 daily-data/2021-01-19.csv
+ mode change 100644 => 100755 daily-data/2021-01-20.csv
+ mode change 100644 => 100755 daily-data/2021-01-21.csv
+ mode change 100644 => 100755 daily-data/2021-01-22.csv
+ mode change 100644 => 100755 daily-data/2021-01-23.csv
+ mode change 100644 => 100755 daily-data/2021-01-24.csv
+ mode change 100644 => 100755 daily-data/2021-01-25.csv
+ mode change 100644 => 100755 daily-data/2021-01-26.csv
+ mode change 100644 => 100755 daily-data/2021-01-27.csv
+ mode change 100644 => 100755 daily-data/2021-01-28.csv
+ mode change 100644 => 100755 daily-data/2021-01-30.csv
+ mode change 100644 => 100755 daily-data/2021-01-31.csv
+ mode change 100644 => 100755 daily-data/2021-02-01.csv
+ mode change 100644 => 100755 daily-data/2021-02-02.csv
+ mode change 100644 => 100755 daily-data/2021-02-03.csv
+ mode change 100644 => 100755 daily-data/2021-02-04.csv
+ mode change 100644 => 100755 daily-data/2021-02-05.csv
+ mode change 100644 => 100755 daily-data/2021-02-06.csv
+ mode change 100644 => 100755 daily-data/2021-02-07.csv
+ mode change 100644 => 100755 daily-data/2021-02-08.csv
+ mode change 100644 => 100755 daily-data/2021-02-09.csv
+ mode change 100644 => 100755 daily-data/2021-02-10.csv
+ mode change 100644 => 100755 daily-data/2021-02-11.csv
+ mode change 100644 => 100755 daily-data/2021-02-12.csv
+ mode change 100644 => 100755 daily-data/2021-02-13.csv
+ mode change 100644 => 100755 daily-data/2021-02-14.csv
+ mode change 100644 => 100755 daily-data/2021-02-15.csv
+ mode change 100644 => 100755 daily-data/2021-02-16.csv
+ mode change 100644 => 100755 daily-data/2021-02-17.csv
+ mode change 100644 => 100755 daily-data/2021-02-18.csv
+ mode change 100644 => 100755 daily-data/2021-02-19.csv
+ mode change 100644 => 100755 daily-data/2021-02-20.csv
+ mode change 100644 => 100755 daily-data/2021-02-21.csv
+ mode change 100644 => 100755 daily-data/2021-02-22.csv
+ mode change 100644 => 100755 daily-data/2021-02-23.csv
+ mode change 100644 => 100755 daily-data/2021-02-24.csv
+ mode change 100644 => 100755 daily-data/2021-02-25.csv
+ mode change 100644 => 100755 daily-data/2021-02-26.csv
+ mode change 100644 => 100755 daily-data/2021-02-27.csv
+ mode change 100644 => 100755 daily-data/2021-02-28.csv
+ mode change 100644 => 100755 daily-data/2021-03-01.csv
+ mode change 100644 => 100755 daily-data/2021-03-02.csv
+ mode change 100644 => 100755 daily-data/2021-03-03.csv
+ mode change 100644 => 100755 daily-data/2021-03-04.csv
+ mode change 100644 => 100755 daily-data/2021-03-05.csv
+ mode change 100644 => 100755 daily-data/2021-03-06.csv
+ mode change 100644 => 100755 daily-data/2021-03-08.csv
+ mode change 100644 => 100755 daily-data/2021-03-09.csv
+ mode change 100644 => 100755 daily-data/2021-03-10.csv
+ mode change 100644 => 100755 daily-data/2021-03-11.csv
+ mode change 100644 => 100755 daily-data/2021-03-12.csv
+ mode change 100644 => 100755 daily-data/2021-03-13.csv
+ mode change 100644 => 100755 daily-data/2021-03-14.csv
+ mode change 100644 => 100755 daily-data/2021-03-15.csv
+ mode change 100644 => 100755 daily-data/2021-03-16.csv
+ mode change 100644 => 100755 daily-data/2021-03-17.csv
+ mode change 100644 => 100755 daily-data/2021-03-18.csv
+ mode change 100644 => 100755 daily-data/2021-03-19.csv
+ mode change 100644 => 100755 daily-data/2021-03-20.csv
+ mode change 100644 => 100755 daily-data/2021-03-21.csv
+ mode change 100644 => 100755 daily-data/2021-03-22.csv
+ mode change 100644 => 100755 daily-data/2021-03-23.csv
+ mode change 100644 => 100755 daily-data/2021-03-24.csv
+ mode change 100644 => 100755 daily-data/2021-03-25.csv
+ mode change 100644 => 100755 daily-data/2021-03-26.csv
+ mode change 100644 => 100755 daily-data/2021-03-27.csv
+ mode change 100644 => 100755 daily-data/2021-03-28.csv
+ mode change 100644 => 100755 daily-data/2021-03-29.csv
+ mode change 100644 => 100755 daily-data/2021-03-30.csv
+ mode change 100644 => 100755 daily-data/2021-03-31.csv
+ mode change 100644 => 100755 daily-data/2021-04-01.csv
+ mode change 100644 => 100755 daily-data/2021-04-02.csv
+ mode change 100644 => 100755 daily-data/2021-04-03.csv
+ mode change 100644 => 100755 daily-data/2021-04-04.csv
+ mode change 100644 => 100755 daily-data/2021-04-05.csv
+ mode change 100644 => 100755 daily-data/2021-04-06.csv
+ mode change 100644 => 100755 daily-data/2021-04-07.csv
+ mode change 100644 => 100755 daily-data/2021-04-08.csv
+ mode change 100644 => 100755 daily-data/2021-04-09.csv
+ mode change 100644 => 100755 daily-data/2021-04-10.csv
+ mode change 100644 => 100755 daily-data/2021-04-11.csv
+ mode change 100644 => 100755 daily-data/2021-04-12.csv
+ mode change 100644 => 100755 daily-data/2021-04-13.csv
+ mode change 100644 => 100755 daily-data/2021-04-14.csv
+ mode change 100644 => 100755 daily-data/2021-04-15.csv
+ mode change 100644 => 100755 daily-data/2021-04-16.csv
+ mode change 100644 => 100755 daily-data/2021-04-17.csv
+ mode change 100644 => 100755 daily-data/2021-04-18.csv
+ mode change 100644 => 100755 daily-data/2021-04-19.csv
+ mode change 100644 => 100755 daily-data/2021-04-20.csv
+ mode change 100644 => 100755 daily-data/2021-04-21.csv
+ mode change 100644 => 100755 daily-data/2021-04-22.csv
+ mode change 100644 => 100755 daily-data/2021-04-23.csv
+ mode change 100644 => 100755 daily-data/2021-04-24.csv
+ mode change 100644 => 100755 daily-data/2021-04-25.csv
+ mode change 100644 => 100755 daily-data/2021-04-26.csv
+ mode change 100644 => 100755 daily-data/2021-04-27.csv
+ mode change 100644 => 100755 daily-data/2021-04-28.csv
+ mode change 100644 => 100755 daily-data/2021-04-29.csv
+ mode change 100644 => 100755 daily-data/2021-04-30.csv
+ mode change 100644 => 100755 daily-data/2021-05-01.csv
+ mode change 100644 => 100755 daily-data/2021-05-02.csv
+ mode change 100644 => 100755 daily-data/2021-05-03.csv
+ mode change 100644 => 100755 daily-data/2021-05-04.csv
+ mode change 100644 => 100755 daily-data/2021-05-05.csv
+ mode change 100644 => 100755 daily-data/2021-05-06.csv
+ mode change 100644 => 100755 daily-data/2021-05-07.csv
+ mode change 100644 => 100755 daily-data/2021-05-08.csv
+ mode change 100644 => 100755 daily-data/2021-05-09.csv
+ mode change 100644 => 100755 daily-data/2021-05-10.csv
+ mode change 100644 => 100755 daily-data/2021-05-11.csv
+ mode change 100644 => 100755 daily-data/2021-05-12.csv
+ mode change 100644 => 100755 daily-data/2021-05-13.csv
+ mode change 100644 => 100755 daily-data/2021-05-14.csv
+ mode change 100644 => 100755 daily-data/2021-05-15.csv
+ mode change 100644 => 100755 daily-data/2021-05-16.csv
+ mode change 100644 => 100755 daily-data/2021-05-17.csv
+ mode change 100644 => 100755 daily-data/2021-05-18.csv
+ mode change 100644 => 100755 daily-data/2021-05-19.csv
+ mode change 100644 => 100755 daily-data/2021-05-20.csv
+ mode change 100644 => 100755 daily-data/2021-05-21.csv
+ mode change 100644 => 100755 daily-data/2021-05-22.csv
+ mode change 100644 => 100755 daily-data/2021-05-23.csv
+ mode change 100644 => 100755 daily-data/2021-05-24.csv
+ mode change 100644 => 100755 daily-data/2021-05-25.csv
+ mode change 100644 => 100755 daily-data/2021-05-26.csv
+ mode change 100644 => 100755 daily-data/2021-05-27.csv
+ mode change 100644 => 100755 daily-data/2021-05-28.csv
+ mode change 100644 => 100755 daily-data/2021-05-29.csv
+ mode change 100644 => 100755 daily-data/2021-05-30.csv
+ mode change 100644 => 100755 daily-data/2021-05-31.csv
+ mode change 100644 => 100755 daily-data/2021-06-01.csv
+ mode change 100644 => 100755 daily-data/2021-06-02.csv
+ mode change 100644 => 100755 daily-data/2021-06-03.csv
+ mode change 100644 => 100755 daily-data/2021-06-04.csv
+ mode change 100644 => 100755 daily-data/2021-06-05.csv
+ mode change 100644 => 100755 daily-data/2021-06-06.csv
+ mode change 100644 => 100755 daily-data/2021-06-07.csv
+ mode change 100644 => 100755 daily-data/2021-06-08.csv
+ mode change 100644 => 100755 daily-data/2021-06-09.csv
+ mode change 100644 => 100755 daily-data/2021-06-10.csv
+ mode change 100644 => 100755 daily-data/2021-06-11.csv
+ mode change 100644 => 100755 daily-data/2021-06-12.csv
+ mode change 100644 => 100755 daily-data/2021-06-13.csv
+ mode change 100644 => 100755 daily-data/2021-06-14.csv
+ mode change 100644 => 100755 daily-data/2021-06-15.csv
+ mode change 100644 => 100755 daily-data/2021-06-16.csv
+ mode change 100644 => 100755 daily-data/2021-06-17.csv
+ mode change 100644 => 100755 daily-data/2021-06-18.csv
+ mode change 100644 => 100755 daily-data/2021-06-19.csv
+ mode change 100644 => 100755 daily-data/2021-06-20.csv
+ mode change 100644 => 100755 daily-data/2021-06-21.csv
+ mode change 100644 => 100755 daily-data/2021-06-22.csv
+ mode change 100644 => 100755 daily-data/2021-06-23.csv
+ mode change 100644 => 100755 daily-data/2021-06-24.csv
+ mode change 100644 => 100755 daily-data/2021-06-25.csv
+ mode change 100644 => 100755 daily-data/2021-06-26.csv
+ mode change 100644 => 100755 daily-data/2021-06-27.csv
+ mode change 100644 => 100755 daily-data/2021-06-28.csv
+ mode change 100644 => 100755 daily-data/2021-06-29.csv
+ mode change 100644 => 100755 daily-data/2021-06-30.csv
+ mode change 100644 => 100755 daily-data/2021-07-01.csv
+ mode change 100644 => 100755 daily-data/2021-07-02.csv
+ mode change 100644 => 100755 daily-data/2021-07-03.csv
+ mode change 100644 => 100755 daily-data/2021-07-04.csv
+ mode change 100644 => 100755 daily-data/2021-07-05.csv
+ mode change 100644 => 100755 daily-data/2021-07-06.csv
+ mode change 100644 => 100755 daily-data/2021-07-07.csv
+ mode change 100644 => 100755 daily-data/2021-07-08.csv
+ mode change 100644 => 100755 daily-data/2021-07-09.csv
+ mode change 100644 => 100755 daily-data/2021-07-10.csv
+ mode change 100644 => 100755 daily-data/2021-07-11.csv
+ mode change 100644 => 100755 daily-data/2021-07-12.csv
+ mode change 100644 => 100755 daily-data/2021-07-13.csv
+ mode change 100644 => 100755 daily-data/2021-07-14.csv
+ mode change 100644 => 100755 daily-data/2021-07-15.csv
+ mode change 100644 => 100755 daily-data/2021-07-16.csv
+ mode change 100644 => 100755 daily-data/2021-07-17.csv
+ mode change 100644 => 100755 daily-data/2021-07-18.csv
+ mode change 100644 => 100755 daily-data/2021-07-19.csv
+ mode change 100644 => 100755 daily-data/2021-07-20.csv
+ mode change 100644 => 100755 daily-data/2021-07-21.csv
+ mode change 100644 => 100755 daily-data/2021-07-22.csv
+ mode change 100644 => 100755 daily-data/2021-07-23.csv
+ mode change 100644 => 100755 daily-data/2021-07-24.csv
+ mode change 100644 => 100755 daily-data/2021-07-25.csv
+ mode change 100644 => 100755 daily-data/2021-07-26.csv
+ mode change 100644 => 100755 daily-data/2021-07-27.csv
+ mode change 100644 => 100755 daily-data/2021-07-28.csv
+ mode change 100644 => 100755 daily-data/2021-07-29.csv
+ mode change 100644 => 100755 daily-data/2021-07-30.csv
+ mode change 100644 => 100755 daily-data/2021-07-31.csv
+ mode change 100644 => 100755 daily-data/2021-08-01.csv
+ mode change 100644 => 100755 daily-data/2021-08-02.csv
+ mode change 100644 => 100755 daily-data/2021-08-03.csv
+ mode change 100644 => 100755 daily-data/2021-08-04.csv
+ mode change 100644 => 100755 daily-data/2021-08-05.csv
+ create mode 100644 daily-data/2021-08-09.csv
+ mode change 100644 => 100755 daily-data/test.csv
+ mode change 100644 => 100755 jupyter-spotify.ipynb
+ mode change 100644 => 100755 spotifymoodoverview.png
+ create mode 100755 test.txt
+fatal: could not read Username for 'https://github.com': Device not configured
+2021-08-09 18:10:02.380133
+Auth happening...
+Getting songs
+Creating dataframe...
+So Good At Being in Trouble
+Hocus Pocus
+Pull Up (feat. Key!)
+In The Flesh
+So Good At Being in Trouble
+Super Stars
+Expectation
+time elapsed incorrect!
+GOT THESE SONGS
+{'image': ['https://i.scdn.co/image/ab67616d0000b273d4c801e232fceb86e9dc539a', 'https://i.scdn.co/image/ab67616d0000b273eede620ac37065eaa0aec23a', 'https://i.scdn.co/image/ab67616d0000b273aaffc9ceb27af57af40da8e6', 'https://i.scdn.co/image/ab67616d0000b2731549f9e1d350c8169f92823c', 'https://i.scdn.co/image/ab67616d0000b273d4c801e232fceb86e9dc539a', 'https://i.scdn.co/image/ab67616d0000b273043864250fbec5f57c7076a7'], 'song_name': ['So Good At Being in Trouble', 'Hocus Pocus', 'Pull Up (feat. Key!)', 'In The Flesh', 'So Good At Being in Trouble', 'Super Stars'], 'album_name': ['II', 'Warlord (Deluxe)', 'OX', 'PXE', 'II', 'Heaven To A Tortured Mind'], 'artist_name': ['Unknown Mortal Orchestra', 'Yung Lean', 'Matt Ox', 'Ecco2k', 'Unknown Mortal Orchestra', 'Yves Tumor'], 'track_id': ['5VarZFY00sO54HErJ3TPCI', '108IEI9pc04fBMp5CQaUFo', '4JzRE2FdTcXTqEMMyRhYKg', '4u3RiSr71w3G6MwhZSBDdG', '5VarZFY00sO54HErJ3TPCI', '4chSRXrdadYm2ujaCyP3Cf'], 'played_at': ['20:05', '20:03', '19:59', '19:57', '19:24', '19:20'], 'valence': [0.594, 0.208, 0.445, 0.343, 0.594, 0.566], 'danceability': [0.829, 0.649, 0.777, 0.601, 0.829, 0.531], 'energy': [0.435, 0.818, 0.595, 0.855, 0.435, 0.619], 'mood_avg': [0.656, 0.506, 0.608, 0.549, 0.656, 0.563]}
+                                               image  ... energy
+5  https://i.scdn.co/image/ab67616d0000b273043864...  ...  0.619
+4  https://i.scdn.co/image/ab67616d0000b273d4c801...  ...  0.435
+3  https://i.scdn.co/image/ab67616d0000b2731549f9...  ...  0.855
+2  https://i.scdn.co/image/ab67616d0000b273aaffc9...  ...  0.595
+1  https://i.scdn.co/image/ab67616d0000b273eede62...  ...  0.818
+0  https://i.scdn.co/image/ab67616d0000b273d4c801...  ...  0.435
+
+[6 rows x 10 columns]
+checking /Users/trudypainter/Desktop/GitHub/spotify-mood/daily-data/2021-08-09.csv  for duplicates....
+There were no duplicates!
+
+Rows:  6
+Saved!
+
