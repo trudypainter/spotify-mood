@@ -4716,3 +4716,70 @@ Completed removal of 20 duplicates!
 Rows:  20
 Saved!
 
+warning: CRLF will be replaced by LF in daily-data/2021-08-09.csv.
+The file will have its original line endings in your working directory
+[master 1d1a289c] updating daily data 2021-08-09 19:04:12.513405
+ 2 files changed, 66 insertions(+)
+fatal: could not read Username for 'https://github.com': Device not configured
+2021-08-09 19:04:01.611107
+Auth happening...
+Getting songs
+Creating dataframe...
+Hunnybee
+Happiness
+Harmony
+Best to You
+Amoeba
+REALiTi - Demo
+Stockholm Syndrome
+Interstellar Love
+3 AM
+Running Up That Hill (A Deal With God) - 2018 Remaster
+Ryd
+LEMONHEAD (feat. 42 Dugg)
+Multi-Love
+Borderline - Blood Orange Remix
+Flim
+So Good At Being in Trouble
+Hocus Pocus
+Pull Up (feat. Key!)
+In The Flesh
+So Good At Being in Trouble
+Super Stars
+Expectation
+time elapsed incorrect!
+GOT THESE SONGS
+{'image': ['https://i.scdn.co/image/ab67616d0000b273aa839bb04931542d830c73b1', 'https://i.scdn.co/image/ab67616d0000b273c705e4061a1de1139ced6554', 'https://i.scdn.co/image/ab67616d0000b27383cd9f1352bc315536480be6', 'https://i.scdn.co/image/ab67616d0000b273706a733634175d413dedfe54', 'https://i.scdn.co/image/ab67616d0000b2732624442cf48e4962d1422da8', 'https://i.scdn.co/image/ab67616d0000b273cace7eec78082c8eeb02ecde', 'https://i.scdn.co/image/ab67616d0000b2734599fdba5f431f3b419349a0', 'https://i.scdn.co/image/ab67616d0000b273b0b3bd1a5f3967705579e6f1', 'https://i.scdn.co/image/ab67616d0000b2731bff3b5284c581b83e918d19', 'https://i.scdn.co/image/ab67616d0000b2735c390e413e27798edd4d18b4', 'https://i.scdn.co/image/ab67616d0000b273a31dd5d96b9df819e331fdcb', 'https://i.scdn.co/image/ab67616d0000b273696b4e67423edd64784bfbb4', 'https://i.scdn.co/image/ab67616d0000b273ee70875d2ac4c16bdeba0191', 'https://i.scdn.co/image/ab67616d0000b273eeb811f27fc8b8d6d6b845d7', 'https://i.scdn.co/image/ab67616d0000b273c4d5de8930bbc762a68c0bc7', 'https://i.scdn.co/image/ab67616d0000b273d4c801e232fceb86e9dc539a', 'https://i.scdn.co/image/ab67616d0000b273eede620ac37065eaa0aec23a', 'https://i.scdn.co/image/ab67616d0000b273aaffc9ceb27af57af40da8e6', 'https://i.scdn.co/image/ab67616d0000b2731549f9e1d350c8169f92823c', 'https://i.scdn.co/image/ab67616d0000b273d4c801e232fceb86e9dc539a', 'https://i.scdn.co/image/ab67616d0000b273043864250fbec5f57c7076a7'], 'song_name': ['Hunnybee', 'Happiness', 'Harmony', 'Best to You', 'Amoeba', 'REALiTi - Demo', 'Stockholm Syndrome', 'Interstellar Love', '3 AM', 'Running Up That Hill (A Deal With God) - 2018 Remaster', 'Ryd', 'LEMONHEAD (feat. 42 Dugg)', 'Multi-Love', 'Borderline - Blood Orange Remix', 'Flim', 'So Good At Being in Trouble', 'Hocus Pocus', 'Pull Up (feat. Key!)', 'In The Flesh', 'So Good At Being in Trouble', 'Super Stars'], 'album_name': ['Sex & Food', "Angel's Pulse", 'Wildflower', 'Freetown Sound', 'Sling', 'REALiTi (Demo)', 'I Can Hear The Heart Beating As One', 'We Will Always Love You', 'Women In Music Pt. III', 'Hounds of Love (2018 Remaster)', "Steve Lacy's Demo", 'CALL ME IF YOU GET LOST', 'Multi-Love', 'Borderline (Blood Orange Remix)', 'Come To Daddy', 'II', 'Warlord (Deluxe)', 'OX', 'PXE', 'II', 'Heaven To A Tortured Mind'], 'artist_name': ['Unknown Mortal Orchestra', 'Blood Orange', 'The Avalanches', 'Blood Orange', 'Clairo', 'Grimes', 'Yo La Tengo', 'The Avalanches', 'HAIM', 'Kate Bush', 'Steve Lacy', 'Tyler, The Creator', 'Unknown Mortal Orchestra', 'Tame Impala', 'Aphex Twin', 'Unknown Mortal Orchestra', 'Yung Lean', 'Matt Ox', 'Ecco2k', 'Unknown Mortal Orchestra', 'Yves Tumor'], 'track_id': ['3DPFmwFtV5ElQaTniLOdgk', '7lySROOQbljchRH3MC5aBP', '5v1YfIEGXWfNPTGhCCW80h', '1p2TWJxUlHE5JR0sE6E1d7', '0HAqq2GcQKyi3s87GuN7jU', '7sjPUfMPloQa1nyvjaQZun', '2VcCu6ZIMVDYjINcygEuW2', '4PUGAmAvt5VxbbefkhV0x5', '1zLH9CLHFlCQ22stPDOgei', '29d0nY7TzCoi22XBqDQkiP', '3I8yVFjvJoOBM9tX4ZpxEL', '5fbHRCsGpFIOLRtlhCRFDR', '0PEXp5yk0sx9dJ8JzwvjJb', '7IbGa7PhnXHvUOvhELtGgL', '4q650OiSDQIwccxDFpuuBm', '5VarZFY00sO54HErJ3TPCI', '108IEI9pc04fBMp5CQaUFo', '4JzRE2FdTcXTqEMMyRhYKg', '4u3RiSr71w3G6MwhZSBDdG', '5VarZFY00sO54HErJ3TPCI', '4chSRXrdadYm2ujaCyP3Cf'], 'played_at': ['21:03', '20:59', '20:57', '20:53', '20:49', '20:45', '20:41', '20:38', '20:34', '20:31', '20:26', '20:24', '20:22', '20:17', '20:10', '20:05', '20:03', '19:59', '19:57', '19:24', '19:20'], 'valence': [0.568, 0.56, 0.42, 0.345, 0.707, 0.725, 0.903, 0.27, 0.662, 0.139, 0.979, 0.487, 0.545, 0.315, 0.4, 0.594, 0.208, 0.445, 0.343, 0.594, 0.566], 'danceability': [0.956, 0.704, 0.502, 0.658, 0.739, 0.721, 0.584, 0.448, 0.714, 0.625, 0.784, 0.62, 0.784, 0.48, 0.71, 0.829, 0.649, 0.777, 0.601, 0.829, 0.531], 'energy': [0.373, 0.663, 0.76, 0.785, 0.491, 0.668, 0.684, 0.83, 0.69, 0.533, 0.94, 0.586, 0.506, 0.429, 0.734, 0.435, 0.818, 0.595, 0.855, 0.435, 0.619], 'mood_avg': [0.684, 0.638, 0.521, 0.558, 0.677, 0.712, 0.732, 0.453, 0.688, 0.412, 0.893, 0.56, 0.633, 0.404, 0.591, 0.656, 0.506, 0.608, 0.549, 0.656, 0.563]}
+                                                image  ... energy
+20  https://i.scdn.co/image/ab67616d0000b273043864...  ...  0.619
+19  https://i.scdn.co/image/ab67616d0000b273d4c801...  ...  0.435
+18  https://i.scdn.co/image/ab67616d0000b2731549f9...  ...  0.855
+17  https://i.scdn.co/image/ab67616d0000b273aaffc9...  ...  0.595
+16  https://i.scdn.co/image/ab67616d0000b273eede62...  ...  0.818
+15  https://i.scdn.co/image/ab67616d0000b273d4c801...  ...  0.435
+14  https://i.scdn.co/image/ab67616d0000b273c4d5de...  ...  0.734
+13  https://i.scdn.co/image/ab67616d0000b273eeb811...  ...  0.429
+12  https://i.scdn.co/image/ab67616d0000b273ee7087...  ...  0.506
+11  https://i.scdn.co/image/ab67616d0000b273696b4e...  ...  0.586
+10  https://i.scdn.co/image/ab67616d0000b273a31dd5...  ...   0.94
+9   https://i.scdn.co/image/ab67616d0000b2735c390e...  ...  0.533
+8   https://i.scdn.co/image/ab67616d0000b2731bff3b...  ...   0.69
+7   https://i.scdn.co/image/ab67616d0000b273b0b3bd...  ...   0.83
+6   https://i.scdn.co/image/ab67616d0000b2734599fd...  ...  0.684
+5   https://i.scdn.co/image/ab67616d0000b273cace7e...  ...  0.668
+4   https://i.scdn.co/image/ab67616d0000b273262444...  ...  0.491
+3   https://i.scdn.co/image/ab67616d0000b273706a73...  ...  0.785
+2   https://i.scdn.co/image/ab67616d0000b27383cd9f...  ...   0.76
+1   https://i.scdn.co/image/ab67616d0000b273c705e4...  ...  0.663
+0   https://i.scdn.co/image/ab67616d0000b273aa839b...  ...  0.373
+
+[21 rows x 10 columns]
+checking /Users/trudypainter/Desktop/GitHub/spotify-mood/daily-data/2021-08-09.csv  for duplicates....
+DUPLICATES FOR  /Users/trudypainter/Desktop/GitHub/spotify-mood/daily-data/2021-08-09.csv
+41
+21
+Completed removal of 20 duplicates!
+ 
+Rows:  21
+Saved!
+
